@@ -1,0 +1,21 @@
+.menu-img{
+    width:25px;
+}
+
+.enabled{
+    font-family: 'prelo-semiBold'!important;
+    font-size: 12px;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    padding-left: 2px;
+    margin:0.5rem!important;
+    color: #76777B;
+    font-family: 'prelo-semiBold'!important;
+    font-size: 12px;
+}
+p{
+    margin: 0rem;
+}

@@ -1,0 +1,60 @@
+<div class="card" [ngClass]="{'half-card' : !isFull,'': isFull}">
+    <div class="card-row"><!--(dblclick)="openModal()"-->
+        <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+            <div class="card-header" *ngIf="allHeadings != undefined" tooltip="{{allHeadings.tip_home_events_widget_title}}" placement="bottom">
+                {{allHeadings.customerEvents}}
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right" *ngIf="allHeadings != undefined">
+            <app-widget-menu [modalName]="modalName"></app-widget-menu>
+        </div>
+    </div>
+    <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,
+    'widger-scoller-half-data': !isFull}">
+        <div class="card-main">
+            <div class="row" *ngFor="let event of sortOnDate(); let index = i">
+            <div class="col-md-4 event-company pl-3">
+                <p *ngIf="event.event_dataType === 'CDW Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
+                <p *ngIf="event.event_dataType === 'Customer Event'" class="companyName customerEvent" tooltip="{{allHeadings.tip_home_events_widget_customerevent}}" placement="bottom">External Events</p>
+                <p *ngIf="event.event_dataType === 'My Event'" class="companyName myEvent" tooltip="{{allHeadings.tip_home_events_widget_myevent}}" placement="bottom">{{event.customerMeetings}}</p>
+                <p class="eventDate">{{event.event_date}}</p>
+                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'CDW Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
+                </div>
+                <div class="col-md-6 event-company pt-3">
+                    <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field">{{event.customer_name}}</a></p>
+                    <p class="companyTitle" tooltip="{{event.description}}" placement="bottom">{{event.title}}</p>
+                </div>
+                <div class="col-md-2 event-logo">
+                <a href="/" *ngIf="event.event_dataType === 'Customer Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/events_shortcut.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'My Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_yellow.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'CDW Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+        <jw-modal id={{modalName}} *ngIf="allHeadings != undefined">
+            <!--<div class="card-container">-->
+            <div class="card-navbar">
+                <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.customerEvents}}</span></h5>
+                <form class="form-inline mr-auto">
+                    <div class="input-group">
+                        <!--[placeholder]="allHeadings.placeholderInsideModal"-->
+                        <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal">
+                        <!--<div class="input-group-append">
+                            <button class="btn btn-search" type="button">
+                                Search
+                            </button>
+                        </div>-->
+                    </div>
+                </form>
+    
+                <div class="navbar-menu-wrapper m-0 p-0 link-point">
+                    <div class="m-0 p-0 dropdown d-flex float-right">
+                        <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+                    </div>
+                </div>
+    
+            </div>
+        </jw-modal>

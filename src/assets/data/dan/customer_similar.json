@@ -1,0 +1,122 @@
+[
+  {
+    "CustomerCode": 11460589,
+    "CustomerName": "Airbnb",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Mgm Yonkers, Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Dufresne Spencer Group",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Beau Rivage Resorts Inc"
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerName": "Chewy.com",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Mason Companies, Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Agilysys, Inc.",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Core-mark"
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerName": "Chewy.com",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Mason Companies, Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Agilysys, Inc.",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Core-mark"
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerName": "Alaska Airlines",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Infor Us Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Manheim New England",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Swm International / Conwed"
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerName": "Astellas Pharma Us Llc",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Zebra Technologies",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Moss Adams Llp",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Belmark"
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerName": "Big Fish Games",
+    "SimilarCompany1_Code": 10559774,
+    "SimilarCompany1_Name": "Zynga Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Renaissance Learning Inc",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "F5 Networks"
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerName": "Mohawk Industries",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Mccormick And Company Inc",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Kennametal Inc",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Kwik Trip Inc"
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerName": "Zynga Inc.",
+    "SimilarCompany1_Code": 9437517,
+    "SimilarCompany1_Name": "Big Fish Games",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Juniper Networks",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Citrix Systems Inc"
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerName": "Under Armour Inc.",
+    "SimilarCompany1_Code": 3937040,
+    "SimilarCompany1_Name": "Dicks Sporting Goods",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Dufresne Spencer Group",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Menard Inc."
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerName": "Dicks Sporting Goods",
+    "SimilarCompany1_Code": 4255742,
+    "SimilarCompany1_Name": "Under Armour Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Kehe Distributors Llc",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Advance Auto Parts"
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerName": "Ashley Furniture",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Funko",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Hyve Solutions",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Dufresne Spencer Group"
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerName": "Aflac",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Logistics Health Inc",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Covantage Credit Union",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Pemco Mutual Insurance"
+  }
+ ]

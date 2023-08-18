@@ -1,0 +1,72 @@
+.calendraClass {
+    margin-left: 5px;
+}
+.show-more-less {
+    margin: auto;
+    margin-top:0.25rem;
+    margin-bottom:-0.25rem;
+    color: grey;
+    cursor: pointer;
+}
+
+.card-container {
+    height: 22vh;
+    overflow: hidden;
+  }
+  
+  .show {
+    overflow: visible;
+    height: auto;
+  }
+
+  .custom-table-styles {
+    width: 100%;
+  }
+
+  .event-company {
+    padding-top: 4px;
+    margin: 3px 0px;
+    }
+  
+  .event-company p {
+    margin-bottom: 0rem !important;
+   }
+  .companyName {
+    color: #007199;
+    font-size: 12px;
+    font-family: 'Prelo-SemiBold', sans-serif;
+    font-weight: bold;
+  }
+  .eventDate {
+    font-size: 34px!important;
+    color: black;
+    font-family: 'ff-good-headline-web-pro-ext', sans-serif;
+    font-weight: bold;
+    line-height: 1!important;
+  }
+  .font-size {
+    font-size: 12px!important;
+  }
+ .companyTitle {
+    font-size: 14px;
+    font-family: 'Prelo-SemiBold', sans-serif;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .event-logo img {
+    width: 23px!important;
+    margin: 22px;
+   }
+   .cdwColor {
+     color: #009383!important;
+   }
+   .customerEvent {
+    color:#007199!important;
+  }
+  .myEvent {
+    color: #F5B428!important;
+  }

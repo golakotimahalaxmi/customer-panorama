@@ -1,0 +1,387 @@
+[
+  {
+    "CustomerCode": 11460589,
+    "CustomerShortDescription": "Airbnb",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 8311328.49,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11460589,
+    "CustomerShortDescription": "Airbnb",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 2370959.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11460589,
+    "CustomerShortDescription": "Airbnb",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 1375389.43,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11460589,
+    "CustomerShortDescription": "Airbnb",
+    "BrandDescription": "Crowdstrike",
+    "Gross_Sales": 740429.74,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11460589,
+    "CustomerShortDescription": "Airbnb",
+    "BrandDescription": "Google",
+    "Gross_Sales": 570288.53,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerShortDescription": "Aflac",
+    "BrandDescription": "HP Inc",
+    "Gross_Sales": 2050072.97,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerShortDescription": "Aflac",
+    "BrandDescription": "Nutanix",
+    "Gross_Sales": 1944275.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerShortDescription": "Aflac",
+    "BrandDescription": "Impact Business Group",
+    "Gross_Sales": 373152,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerShortDescription": "Aflac",
+    "BrandDescription": "Infoblox",
+    "Gross_Sales": 105220,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2496148,
+    "CustomerShortDescription": "Aflac",
+    "BrandDescription": "Datalocker",
+    "Gross_Sales": 46200,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerShortDescription": "Alaska Airlines",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 269428.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerShortDescription": "Alaska Airlines",
+    "BrandDescription": "HP Inc",
+    "Gross_Sales": 38620.73,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerShortDescription": "Alaska Airlines",
+    "BrandDescription": "Zebra Technologies",
+    "Gross_Sales": 15166,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerShortDescription": "Alaska Airlines",
+    "BrandDescription": "Tripp Lite",
+    "Gross_Sales": 13524.44,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3649060,
+    "CustomerShortDescription": "Alaska Airlines",
+    "BrandDescription": "Samsung",
+    "Gross_Sales": 13511.41,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerShortDescription": "Ashley Furniture",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 2309310.46,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerShortDescription": "Ashley Furniture",
+    "BrandDescription": "HP Inc",
+    "Gross_Sales": 1179584.9,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerShortDescription": "Ashley Furniture",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 893781.68,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerShortDescription": "Ashley Furniture",
+    "BrandDescription": "Palo Alto",
+    "Gross_Sales": 540534.6,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 222301,
+    "CustomerShortDescription": "Ashley Furniture",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 468867.99,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerShortDescription": "Astellas Pharma Us Llc",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 2931923.7,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerShortDescription": "Astellas Pharma Us Llc",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 1664519.67,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerShortDescription": "Astellas Pharma Us Llc",
+    "BrandDescription": "Hewlett Packard Enterprise",
+    "Gross_Sales": 917391.43,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerShortDescription": "Astellas Pharma Us Llc",
+    "BrandDescription": "Citrix",
+    "Gross_Sales": 621220,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 382001,
+    "CustomerShortDescription": "Astellas Pharma Us Llc",
+    "BrandDescription": "IBM",
+    "Gross_Sales": 191194.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerShortDescription": "Big Fish Games",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 1193284.23,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerShortDescription": "Big Fish Games",
+    "BrandDescription": "F5 Networks",
+    "Gross_Sales": 891864.59,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerShortDescription": "Big Fish Games",
+    "BrandDescription": "Hewlett Packard Enterprise",
+    "Gross_Sales": 727356.87,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerShortDescription": "Big Fish Games",
+    "BrandDescription": "Palo Alto",
+    "Gross_Sales": 428014.54,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9437517,
+    "CustomerShortDescription": "Big Fish Games",
+    "BrandDescription": "Rubrik",
+    "Gross_Sales": 392871.1,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerShortDescription": "Chewy.com",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 1767624.4,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerShortDescription": "Chewy.com",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 780916.18,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerShortDescription": "Chewy.com",
+    "BrandDescription": "Pure Storage",
+    "Gross_Sales": 443208.16,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerShortDescription": "Chewy.com",
+    "BrandDescription": "Splunk Software",
+    "Gross_Sales": 438503.1,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11986217,
+    "CustomerShortDescription": "Chewy.com",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 254403.26,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerShortDescription": "Dicks Sporting Goods",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 3003415.17,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerShortDescription": "Dicks Sporting Goods",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 740937.81,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerShortDescription": "Dicks Sporting Goods",
+    "BrandDescription": "Veritas",
+    "Gross_Sales": 583646.84,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerShortDescription": "Dicks Sporting Goods",
+    "BrandDescription": "HP Inc",
+    "Gross_Sales": 382522.46,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 3937040,
+    "CustomerShortDescription": "Dicks Sporting Goods",
+    "BrandDescription": "LG Electronics",
+    "Gross_Sales": 146350.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerShortDescription": "Mohawk Industries",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 166106.71,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerShortDescription": "Mohawk Industries",
+    "BrandDescription": "Autodesk",
+    "Gross_Sales": 90194.06,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerShortDescription": "Mohawk Industries",
+    "BrandDescription": "IBM",
+    "Gross_Sales": 35491.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerShortDescription": "Mohawk Industries",
+    "BrandDescription": "Logitech",
+    "Gross_Sales": 12366.72,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 1106180,
+    "CustomerShortDescription": "Mohawk Industries",
+    "BrandDescription": "Startech Com",
+    "Gross_Sales": 12304.84,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerShortDescription": "Under Armour Inc.",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 2673699.87,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerShortDescription": "Under Armour Inc.",
+    "BrandDescription": "Nasuni",
+    "Gross_Sales": 460018.85,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerShortDescription": "Under Armour Inc.",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 428752.72,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerShortDescription": "Under Armour Inc.",
+    "BrandDescription": "Infoblox",
+    "Gross_Sales": 423675.4,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4255742,
+    "CustomerShortDescription": "Under Armour Inc.",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 337663.98,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerShortDescription": "Zynga Inc.",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 737145.87,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerShortDescription": "Zynga Inc.",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 417188.42,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerShortDescription": "Zynga Inc.",
+    "BrandDescription": "Autodesk",
+    "Gross_Sales": 362075,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerShortDescription": "Zynga Inc.",
+    "BrandDescription": "Nutanix",
+    "Gross_Sales": 336816.78,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10559774,
+    "CustomerShortDescription": "Zynga Inc.",
+    "BrandDescription": "Pure Storage",
+    "Gross_Sales": 308021.4,
+    "logo_name": ""
+  }
+ ]

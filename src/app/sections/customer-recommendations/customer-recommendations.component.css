@@ -1,0 +1,53 @@
+.heading {
+    font-family: 'Prelo-SemiBold', sans-serif !important;
+    font-size: 12px!important;
+    text-align: center!important;
+    padding: 0.2rem;
+    background-color: #e3e3e3;
+}
+.probData {
+    display: flex;
+    margin: 0.5rem 0 0 0rem;
+}
+.probabiltyStyle span {
+    display: inline-block;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+
+.probabiltyImage img {
+    width: 25px;
+    height: 25px;
+    margin: 1.9rem 0;
+}
+.productName {
+    font-size: 8px;
+}
+.proName {
+    font-size: 6px;
+}
+.recommendation-row {
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0px 2px 3px 0px #00000033;
+}
+
+.productname{
+    display: inline-block;
+    font-size: 12px;
+    color: #cc0000;
+    width: 40%;
+    margin-top: 2px!important;
+    
+}
+.product_value {
+   font-size: 18px!important;
+   padding-left: 60px;
+}
+.fixed-height-recommendations{
+    max-height: 27vh;
+    height:27vh;
+    overflow-y:scroll;
+}
+

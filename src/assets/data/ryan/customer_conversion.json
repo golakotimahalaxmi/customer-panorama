@@ -1,0 +1,32 @@
+[
+    {
+        "conversion_probability":"High",
+        "shopping_carts":3,
+        "product_group":"KYB,ISL,CBX,GE,VCW",
+        "sc_total":31000
+    },
+    {
+        "conversion_probability":"High",
+        "shopping_carts":1,
+        "product_group":"KYB,ISL,CBX,GE,VCW",
+        "sc_total":9000
+    },
+    {
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"KYB,ISL,CBX,GE,VCW",
+        "sc_total":4000
+    },
+    {
+        "conversion_probability":"Low",
+        "shopping_carts":1,
+        "product_group":"KYB,ISL,CBX,GE,VCW",
+        "sc_total":2000
+    },
+    {
+        "conversion_probability":"Low",
+        "shopping_carts":1,
+        "product_group":"KYB,ISL,CBX,GE,VCW",
+        "sc_total":2000
+    }
+]

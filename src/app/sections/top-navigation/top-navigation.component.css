@@ -1,0 +1,128 @@
+.btn-search-data {
+  font-size: 12px;
+  color: #fff;
+  background-color: #cc0001;
+  border-color: #cc0001;
+  border-top-right-radius: 50px !important;
+  border-bottom-right-radius: 50px !important;
+}
+
+.btn-search-default {
+  font-size: 12px;
+  color: #000000;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  border-top-right-radius: 50px !important;
+  border-bottom-right-radius: 50px !important;
+}
+
+.img-icon {
+  width: 25px;
+  margin-top: 5px;
+}
+
+.search-main-top {
+  background: url(src/assets/images/search.png);
+  background-repeat: no-repeat;
+  background-size: 23px;
+  background-position: 5px;
+  padding-left: 40px;
+  /*font-weight: 600;*/
+  font-size: 12px;
+  font-family: "Prelo-SemiBold", sans-serif !important;
+  border-top-left-radius: 50px !important;
+  border-bottom-left-radius: 50px !important;
+}
+
+.search-main-top-text {
+  background: url(src/assets/images/search.png);
+  background-repeat: no-repeat;
+  background-size: 23px;
+  background-position: 5px;
+  padding-left: 40px;
+  /*font-weight: 600;*/
+  font-size: 12px;
+  font-family: "Prelo-SemiBold", sans-serif !important;
+  border-top-left-radius: 20px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.jw-modal-tabs .jw-modal-menu {
+  padding-left: 0px !important;
+}
+
+.jw-modal-tabs ul {
+  padding: 13px;
+}
+
+.jw-modal-tabs ul li :first-child {
+  padding: 10px;
+}
+.autoComplete-custom-styleing {
+  width: 850px !important;
+}
+.autocomplete-container .input-container input {
+  background-color: #f8f9fa !important;
+}
+
+.cdk-overlay-container {
+  position: fixed;
+  top: 40px !important;
+  right: 0;
+  bottom: 0;
+  left: 78px !important;
+  z-index: 2000;
+  background: #ffffff !important;
+  height: 30vh;
+  overflow: hidden;
+  width: 68%;
+}
+.cdk-overlay-connected-position-bounding-box {
+  top: 73px !important;
+  left: 83px !important;
+  height: 10vh !important;
+  width: 100% !important;
+}
+
+.hide-data {
+  display: none !important;
+}
+
+.show-data {
+  display: block !important;
+}
+
+.mat-optgroup-label {
+  height: 32px !important;
+  color: #cc0000;
+}
+
+.mat-option {
+  height: 30px !important;
+}
+
+.cdk-overlay-pane {
+  width: 100% !important;
+}
+
+@media only screen and (max-width: 1400px) {
+  .cdk-overlay-container {
+    position: fixed;
+    top: 40px !important;
+    right: 0;
+    bottom: 0;
+    left: 78px !important;
+    z-index: 2000;
+    background: #ffffff !important;
+    height: 41.5vh;
+    width: 68%;
+  }
+}
+
+.hide-autocomplete {
+  display: none;
+}
+
+.bg-light {
+  background-color: #d3d3d3 !important;
+}

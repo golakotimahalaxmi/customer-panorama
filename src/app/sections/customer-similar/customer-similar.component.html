@@ -1,0 +1,54 @@
+<div class="card half-card">
+    <div class="card-row" (dblclick)="openModal()">
+        <div class="col-lg-11 col-md-13 col-sm-13 col-11">
+            <div class="card-header" tooltip="{{getAllheadings.tip_cp_partnerproducts_widget_title}}" placement="bottom">
+                {{getAllheadings.preferredPartnerProducts}}
+            </div>
+        </div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-1 text-right">
+            <app-widget-menu [modalName]="modalName"></app-widget-menu>
+        </div>        
+    </div>
+    <div class="card-body p-0  widger-scoller-half pt-2">
+        <!--<div class="card-main">-->
+            <span class="pr-1"></span>
+            <img src="assets/images/ppp@2x.png" alt="Recommendations" style="height:85%">
+            <span class="pr-2"></span>
+            <img class="ml-2" src="assets/images/ppp-value@2x.png" style="width:44%">
+                <!--<app-bar-chart *ngIf="chartData" [data]="chartData"></app-bar-chart>-->
+        <!--</div>-->
+    </div>
+</div>
+
+<!-- expanded view modal for similar customer top spend-->
+<jw-modal id={{modalName}}>
+    <!--<div class="card-container">-->
+    <div class="card-navbar">
+        <h5 class="col-sm-4 col-md-4 card-title widget-navbar-heading"><span class="header-probold">{{getAllheadings.preferredPartnerProducts}}</span></h5>
+        <form class="form-inline mr-auto">
+        <div class="input-group">
+            <!-- <input type="text" class="form-control search-main bg-light border-0 small"
+            [placeholder]="getAllheadings.placeholderInsideModal"> -->
+            <!--<div class="input-group-append">
+                <button class="btn btn-search" type="button">
+                Search
+                </button>
+            </div>-->
+        </div>
+        </form>
+    
+        <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+            <div class="m-0 p-0 dropdown d-flex text-right">
+                <img class="up-coming-img" src="assets/images/coming.png">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close.png"></a>
+            </div>
+        </div>
+    <!-- content goes here-->
+    </div>
+    <div class="pt-2">
+        <span class="pr-2"></span>
+        <img src="assets/images/ppp-expand@2x.png" alt="Preffered Partners" style="width:44%">
+        <span class="pr-5"></span>
+        <img src="assets/images/ppp-expand-value@2x.png" style="width:50%">
+    </div>
+</jw-modal>

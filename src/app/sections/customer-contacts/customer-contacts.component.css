@@ -1,0 +1,234 @@
+ul {
+    list-style-type: none;
+  }
+  
+  .color-style-span {
+    display: inline-block;
+    color: black;
+    font-size: 14px!important;
+    line-height: 1!important;
+  }
+
+ .tbody-heading {
+   margin: 0.5% 1% 0.5% 1%;
+   font-weight: 600; 
+   color: #cc0001;
+ }
+
+ .font-14{
+   font-size: 14px !important;
+ }
+
+ .tbody-heading-bottom {
+  margin: 0% 1% 0.5% 1%;
+  font-weight: 600; 
+  color: #cc0001;
+}
+
+.overflow-stylings-thead, .overflow-stylings-tbody tr{
+  display: table;
+  table-layout:fixed;
+  width: 100%;
+}
+
+.overflow-stylings-tr1 {
+  display: table;
+  table-layout:fixed;
+  width: 100%;
+}
+
+.overflow-stylings-tr {
+  width: 100%;
+}
+
+.contactDetails p {
+  margin-bottom: 0.5rem!important;
+}
+
+.overflow-stylings-tbody {
+  max-height: 33vh;
+  height:33vh;
+  overflow-y:scroll;
+  display: block;
+}
+
+
+.overflow-stylings-tbody1 {
+  max-height: 70vh;
+  height:70vh;
+  overflow-y:scroll;
+  display: block;
+}
+
+
+
+.witdh-td {
+  width: 70%!important;
+}
+
+.heading-color {
+  color: #ffffff;
+  font-family: 'Prelo-Bold'!important;
+  background-color: #77767B;
+  margin: 0px;
+  padding-left: 0.7%;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.table tr, .table th, .table td {
+  border: 1px solid #c3dddd;
+}
+
+.img-14{
+width:14px;
+height:14px
+}
+
+.table td {
+  vertical-align: middle!important;
+  padding: 0.2rem!important;
+  line-height: 1;
+}
+
+.inner-table .img-remove-padding-top {
+  padding: 0px 0.2rem 0.2rem 0.2rem!important;
+}
+
+.openUrl {
+  cursor: pointer;
+}
+
+.fullName-styling {
+  display: inline-block;
+  margin: 10px 0px;
+}
+.image-width img {
+  width: 60px!important;
+}
+.card-small p {
+  margin-bottom: 0.5rem!important;
+}
+
+.contactName {
+  padding: 10px;
+}
+.contactName-margin-top{
+  margin-top: 0.4rem;
+}
+.linkedinSubscribers {
+  margin-bottom: 0.5rem!important;
+  font-family: 'ff-good-headline-web-pro-ext', sans-serif!important;
+  font-size: 22px;
+  font-weight: bold;
+  color: #76777B;
+
+}
+sup {
+  font-size: 12px;
+  top: -.8em;
+  padding-right:0.1rem;
+}
+.contact-margin {
+   margin-top: 5px;
+}
+.icon-descp {
+  font-size: 14px;
+  color: #76777B;
+  font-family: 'Prelo-Book'!important;
+  text-align: left!important;
+}
+
+.text-padding {
+  padding-top: -2px;
+}
+.invoice{
+  font-size: 14px!important;
+  font-family: 'Prelo-SemiBold'!important;
+}
+
+.inner-table-p-0{
+  padding: 0.25rem!important;
+}
+
+.trade-icons-image img{width: 25px;}
+
+.width-7{
+  width:7%!important;
+}
+
+.images img {
+  width: 25px;
+  margin: 0.2rem;
+}
+
+.invoiceDate {
+  margin-top: -5px;
+}
+
+.invoiceDate1 {
+  margin-top: -10px;
+}
+
+.invoiceDays {
+  margin-top: -8px;
+  margin-left: 3px;
+}
+
+.invoiceDays span {
+  margin-left: 3px;
+}
+.actualTitle {
+  font-size: 14px;
+  font-family: 'Prelo-SemiBold'!important;
+}
+
+.text-prelo-bold-12{
+  font-family: 'Prelo-Book'!important;
+  font-size:12px;
+}
+
+.text-contact{
+  font-family: 'Prelo-Book', sans-serif !important;
+  font-size: 12px;
+}
+.cursors a img {
+  cursor: pointer;
+}
+
+.text-black{
+  color:black;
+}
+
+.calls-emails-block table tr, .calls-emails-block table tr th, .calls-emails-block table tr td {
+  border: 0px solid #c3dddd!important;
+}
+
+.YTD-style {
+  margin-left: 0.2rem;
+}
+
+
+.width-36 {
+  width: 40%!important;
+}
+
+.width-63 {
+  width: 60%!important;
+}
+
+.change-percent {
+  width: 10px!important;
+}
+
+.vertical-align-middle {
+  vertical-align: middle;
+  text-align: center!important;
+}
+.width-25 {
+  width: 25%!important
+}
+
+
+
+

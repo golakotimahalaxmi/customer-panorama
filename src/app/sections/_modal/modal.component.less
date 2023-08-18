@@ -1,0 +1,98 @@
+/* MODAL STYLES
+-------------------------------*/
+jw-modal {
+    /* modals are hidden by default */
+  
+    display: none;
+    .jw-modal-background {
+          position: fixed;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+  
+          background-color: #000;
+          opacity: 0.75;
+          
+          z-index: 900;
+      }
+  
+  }
+  jw-modal .jw-modal {
+    /* modal container fixed across whole screen */
+  
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /* z-index must be higher than .jw-modal-background */
+  
+    z-index: 1000;
+  }
+  jw-modal .jw-modal .jw-modal-body {
+    padding: 0px 0px 0px 0px;
+    background: #ffffff;
+    margin: 8px 5px 5px 75px;
+    border-radius: 0px;
+    height: 98vh;
+    overflow: hidden;
+    overflow-x: hidden;
+  }
+  body.jw-modal-open {
+    /* body overflow is hidden to hide main scrollbar when modal window is open */
+    overflow: hidden;
+  }
+
+
+  jw-modal .jw-modal-menu {
+    /* modal container fixed across whole screen */
+  
+    position: fixed;
+    top: 8%;
+    right: 1.1%;
+    height: 41vh;
+    background: #ffffff;
+    bottom: 0;
+    overflow: auto;
+    border-radius: 0px;
+    padding-left: 15px;
+    padding-right: -10px;
+    /* z-index must be higher than .jw-modal-background */
+  
+    z-index: 1000;
+  }
+
+  jw-modal .jw-modal-menu .jw-modal-body {
+    padding: 10px 10px 10px 10px;
+    background: #fff;
+    //margin: 8px 8px 10px 65px;
+    border-radius: 10px;
+    height: auto;
+    overflow: auto;
+  }
+  
+/*
+css convertion of less
+.jw-modal {
+    display: none;
+}
+.jw-modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+}
+.jw-modal .jw-modal-body {
+    padding: 20px;
+    background: #fff;
+    margin: 8px 8px 10px 65px;
+    border-radius: 10px;
+    height: 97vh;
+}
+.jw-modal-open {
+    overflow: hidden;
+}
+*/

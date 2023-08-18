@@ -1,0 +1,490 @@
+[
+  {
+    "Customercode": 755244,
+    "CustomerDescription": "BERLINER COHEN (0755244)",
+    "CoworkerCode": "GV72",
+    "C12TM": 25983.85,
+    "P12Tm": 57892.26,
+    "PP12TM": 14080.12
+  },
+  {
+    "Customercode": 12420973,
+    "CustomerDescription": "CLEAR LABS (12420973)",
+    "CoworkerCode": "GV72",
+    "C12TM": 9220.34,
+    "P12Tm": 12496.48,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12676443,
+    "CustomerDescription": "ESPRESSIVE (12676443)",
+    "CoworkerCode": "GV72",
+    "C12TM": 7242.69,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12805792,
+    "CustomerDescription": "BEAR FLAG ROBOTICS (12805792)",
+    "CoworkerCode": "GV72",
+    "C12TM": 5503.65,
+    "P12Tm": 2233.98,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12874460,
+    "CustomerDescription": "FTPE (12874460)",
+    "CoworkerCode": "GV72",
+    "C12TM": 21690.92,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12883814,
+    "CustomerDescription": "INDUS AI INC (12883814)",
+    "CoworkerCode": "GV72",
+    "C12TM": 1631.97,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12900418,
+    "CustomerDescription": "YOUR FINANCE SOLUTION LLC (12900418)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2895.68,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12919914,
+    "CustomerDescription": "KERROW RESTAURANTS (12919914)",
+    "CoworkerCode": "GV72",
+    "C12TM": 50.61,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12920509,
+    "CustomerDescription": "THOMAS FOODS INTERNATIONAL (12920509)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2599,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 1970856,
+    "CustomerDescription": "CAGWIN & DORWARD (1970856)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2065.26,
+    "P12Tm": 13977.6,
+    "PP12TM": 10409.52
+  },
+  {
+    "Customercode": 3466638,
+    "CustomerDescription": "BUENA VISTA FUND MANAGEMENT",
+    "CoworkerCode": "LLC (3466638)",
+    "C12TM": "GV72",
+    "P12Tm": 658.33,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 6165917,
+    "CustomerDescription": "GUITTARD CHOCOLATE CO (6165917)",
+    "CoworkerCode": "GV72",
+    "C12TM": 28978.86,
+    "P12Tm": 12056.75,
+    "PP12TM": 8836.3
+  },
+  {
+    "Customercode": 11470598,
+    "CustomerDescription": "CODE ADVISORS (11470598)",
+    "CoworkerCode": "GV72",
+    "C12TM": 17388.59,
+    "P12Tm": 34910.3,
+    "PP12TM": 46677.83
+  },
+  {
+    "Customercode": 12018864,
+    "CustomerDescription": "DELIV (12018864)",
+    "CoworkerCode": "GV72",
+    "C12TM": 28717.6,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12103691,
+    "CustomerDescription": "GUIDEBOOK (12103691)",
+    "CoworkerCode": "GV72",
+    "C12TM": 21031.17,
+    "P12Tm": 18315.84,
+    "PP12TM": 20922.52
+  },
+  {
+    "Customercode": 12383161,
+    "CustomerDescription": "SUNVERGE ENERGY (12383161)",
+    "CoworkerCode": "GV72",
+    "C12TM": 4620.99,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12396483,
+    "CustomerDescription": "JUMPSHOT INC. (12396483)",
+    "CoworkerCode": "GV72",
+    "C12TM": 7979.95,
+    "P12Tm": "NULL",
+    "PP12TM": 2452.8
+  },
+  {
+    "Customercode": 12467329,
+    "CustomerDescription": "HAZELCAST (12467329)",
+    "CoworkerCode": "GV72",
+    "C12TM": "NULL",
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12662707,
+    "CustomerDescription": "SCENIC ADVISEMENT (12662707)",
+    "CoworkerCode": "GV72",
+    "C12TM": 6268.41,
+    "P12Tm": 899.99,
+    "PP12TM": 1798.93
+  },
+  {
+    "Customercode": 12733154,
+    "CustomerDescription": "PIONYR IMMUNOTHERAPEUTICS (12733154)",
+    "CoworkerCode": "GV72",
+    "C12TM": 18712.96,
+    "P12Tm": 1876.99,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12740574,
+    "CustomerDescription": "THOMAS FOODS (12740574)",
+    "CoworkerCode": "GV72",
+    "C12TM": 97483.7,
+    "P12Tm": 4906.65,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12781552,
+    "CustomerDescription": "PARTICLE (12781552)",
+    "CoworkerCode": "GV72",
+    "C12TM": "NULL",
+    "P12Tm": 267.84,
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12888610,
+    "CustomerDescription": "LONESTAR CAPITAL MANAGEMENT (12888610)",
+    "CoworkerCode": "GV72",
+    "C12TM": 8849.81,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12923996,
+    "CustomerDescription": "DAVID TUNNELL (12923996)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2061.57,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 4274741,
+    "CustomerDescription": "BENTEK (4274741)",
+    "CoworkerCode": "GV72",
+    "C12TM": 7085.25,
+    "P12Tm": 39228.28,
+    "PP12TM": 34297.7
+  },
+  {
+    "Customercode": 6294971,
+    "CustomerDescription": "JOHN BERGGRUEN GALLERY (6294971)",
+    "CoworkerCode": "GV72",
+    "C12TM": "NULL",
+    "P12Tm": "NULL",
+    "PP12TM": 1922.45
+  },
+  {
+    "Customercode": 7554310,
+    "CustomerDescription": "INTERNET ARCHIVE (7554310)",
+    "CoworkerCode": "GV72",
+    "C12TM": 59792.32,
+    "P12Tm": 18290.8,
+    "PP12TM": 4877.29
+  },
+  {
+    "Customercode": 7726184,
+    "CustomerDescription": "HOLZMUELLER CORPORATION (7726184)",
+    "CoworkerCode": "GV72",
+    "C12TM": 9870.82,
+    "P12Tm": 3907.65,
+    "PP12TM": 13856.78
+  },
+  {
+    "Customercode": 9613090,
+    "CustomerDescription": "BITTORRENT",
+    "CoworkerCode": "INC. (9613090)",
+    "C12TM": "GV72",
+    "P12Tm": 5446.48,
+    "PP12TM": 36717.57
+  },
+  {
+    "Customercode": 674982,
+    "CustomerDescription": "STANFORD RESEARCH SYSTEMS (0674982)",
+    "CoworkerCode": "GV72",
+    "C12TM": 6570.78,
+    "P12Tm": 13239.11,
+    "PP12TM": 1900.47
+  },
+  {
+    "Customercode": 10412111,
+    "CustomerDescription": "CLUSTRIX",
+    "CoworkerCode": "INC (10412111)",
+    "C12TM": "GV72",
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 10848538,
+    "CustomerDescription": "INFOSTRETCH (10848538)",
+    "CoworkerCode": "GV72",
+    "C12TM": 45482.18,
+    "P12Tm": 9655.29,
+    "PP12TM": 9820.71
+  },
+  {
+    "Customercode": 11374804,
+    "CustomerDescription": "QUORA (11374804)",
+    "CoworkerCode": "GV72",
+    "C12TM": 7464.1,
+    "P12Tm": 389.48,
+    "PP12TM": 49702.03
+  },
+  {
+    "Customercode": 11936896,
+    "CustomerDescription": "GENAPSYS (11936896)",
+    "CoworkerCode": "GV72",
+    "C12TM": 27873.82,
+    "P12Tm": 20360.72,
+    "PP12TM": 88192.9
+  },
+  {
+    "Customercode": 12066528,
+    "CustomerDescription": "COGHLAN LAW OFFICES (12066528)",
+    "CoworkerCode": "GV72",
+    "C12TM": 3287.26,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12070251,
+    "CustomerDescription": "JOOST ENTERPRISES (12070251)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2350.47,
+    "P12Tm": "NULL",
+    "PP12TM": 1398.95
+  },
+  {
+    "Customercode": 12296609,
+    "CustomerDescription": "KESPRY (12296609)",
+    "CoworkerCode": "GV72",
+    "C12TM": "NULL",
+    "P12Tm": "NULL",
+    "PP12TM": 29974.16
+  },
+  {
+    "Customercode": 12467853,
+    "CustomerDescription": "NEW CONTEXT (12467853)",
+    "CoworkerCode": "GV72",
+    "C12TM": "NULL",
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12509377,
+    "CustomerDescription": "BLUE CEDAR NETWORKS (12509377)",
+    "CoworkerCode": "GV72",
+    "C12TM": 3455.24,
+    "P12Tm": 1586.46,
+    "PP12TM": 95.99
+  },
+  {
+    "Customercode": 12547443,
+    "CustomerDescription": "ROTHY'S (12547443)",
+    "CoworkerCode": "GV72",
+    "C12TM": 10076.58,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12793088,
+    "CustomerDescription": "ETHOS (12793088)",
+    "CoworkerCode": "GV72",
+    "C12TM": 3173.06,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12863336,
+    "CustomerDescription": "UNCOUNTABLE (12863336)",
+    "CoworkerCode": "GV72",
+    "C12TM": 339.99,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12927904,
+    "CustomerDescription": "MIXHALO CORPORATION (12927904)",
+    "CoworkerCode": "GV72",
+    "C12TM": 837.87,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12952976,
+    "CustomerDescription": "AJAR CONSULTANTS (12952976)",
+    "CoworkerCode": "GV72",
+    "C12TM": 2908.67,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 6685809,
+    "CustomerDescription": "FORDE MAZZOLA ASSOC INC (6685809)",
+    "CoworkerCode": "GV72",
+    "C12TM": 15273.23,
+    "P12Tm": 24238.49,
+    "PP12TM": 11175.7
+  },
+  {
+    "Customercode": 8494644,
+    "CustomerDescription": "SYCAL ENGINEERING",
+    "CoworkerCode": "INC. (8494644)",
+    "C12TM": "GV72",
+    "P12Tm": 2981.3,
+    "PP12TM": 6165.52
+  },
+  {
+    "Customercode": 9406170,
+    "CustomerDescription": "HASSARD BONNINGTON",
+    "CoworkerCode": "LLP (9406170)",
+    "C12TM": "GV72",
+    "P12Tm": 13910.62,
+    "PP12TM": 12685.66
+  },
+  {
+    "Customercode": 10178010,
+    "CustomerDescription": "MORRIS MANAGEMENT CO. (10178010)",
+    "CoworkerCode": "GV72",
+    "C12TM": 1186.74,
+    "P12Tm": 5264.86,
+    "PP12TM": 6139.16
+  },
+  {
+    "Customercode": 10903960,
+    "CustomerDescription": "PANZURA",
+    "CoworkerCode": "INC. (10903960)",
+    "C12TM": "GV72",
+    "P12Tm": 12066.32,
+    "PP12TM": 11493.41
+  },
+  {
+    "Customercode": 11147852,
+    "CustomerDescription": "VERACYTE (11147852)",
+    "CoworkerCode": "GV72",
+    "C12TM": 48213.81,
+    "P12Tm": 7268.48,
+    "PP12TM": 34262.5
+  },
+  {
+    "Customercode": 11428733,
+    "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+    "CoworkerCode": "GV72",
+    "C12TM": 68998.83,
+    "P12Tm": 57925.96,
+    "PP12TM": 74952.82
+  },
+  {
+    "Customercode": 11812534,
+    "CustomerDescription": "TITHOF TILE & MARBLE (11812534)",
+    "CoworkerCode": "GV72",
+    "C12TM": 97188.61,
+    "P12Tm": 26662.67,
+    "PP12TM": 11537.25
+  },
+  {
+    "Customercode": 12087254,
+    "CustomerDescription": "GRAMMARLY (12087254)",
+    "CoworkerCode": "GV72",
+    "C12TM": 16716.39,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12113454,
+    "CustomerDescription": "BRIT & CO (12113454)",
+    "CoworkerCode": "GV72",
+    "C12TM": 26961.84,
+    "P12Tm": 43589.77,
+    "PP12TM": 59727.69
+  },
+  {
+    "Customercode": 12464007,
+    "CustomerDescription": "FOUR CORNERS PROPERTY TRUST (12464007)",
+    "CoworkerCode": "GV72",
+    "C12TM": 7039.92,
+    "P12Tm": 7104.06,
+    "PP12TM": 31470.57
+  },
+  {
+    "Customercode": 12844198,
+    "CustomerDescription": "5AM VENTURES (12844198)",
+    "CoworkerCode": "GV72",
+    "C12TM": 19302,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 12867941,
+    "CustomerDescription": "REPUTATION DEFENDER (12867941)",
+    "CoworkerCode": "GV72",
+    "C12TM": 5033.91,
+    "P12Tm": "NULL",
+    "PP12TM": "NULL"
+  },
+  {
+    "Customercode": 6710701,
+    "CustomerDescription": "AWESOMEJAR (6710701)",
+    "CoworkerCode": "GV72",
+    "C12TM": 1068.16,
+    "P12Tm": "NULL",
+    "PP12TM": 1606.79
+  },
+  {
+    "Customercode": 7887870,
+    "CustomerDescription": "INFO IMAGE (7887870)",
+    "CoworkerCode": "GV72",
+    "C12TM": 31614.31,
+    "P12Tm": 80133.59,
+    "PP12TM": 69602.51
+  },
+  {
+    "Customercode": 9742810,
+    "CustomerDescription": "CODAR OCEAN SENSORS (9742810)",
+    "CoworkerCode": "GV72",
+    "C12TM": 126226.5,
+    "P12Tm": 51447.49,
+    "PP12TM": 38178.59
+  },
+  {
+    "Customercode": 9879048,
+    "CustomerDescription": "BLURB INC (9879048)",
+    "CoworkerCode": "GV72",
+    "C12TM": 81206.3,
+    "P12Tm": 55762.52,
+    "PP12TM": 51232
+  }
+]

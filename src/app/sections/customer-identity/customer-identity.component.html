@@ -1,0 +1,1103 @@
+<div class="card">
+    <div class="card-row" (dblclick)="openModal()">
+        <div class="col-lg-6 col-md-8 col-sm-8 col-6" tooltip="{{getAllheadings.tip_cp_identity_widget_title}}" placement="bottom">
+            <div class="card-header">
+                {{getAllheadings.customerIdentity}}
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+            <!--<app-widget-menu [modalName]="modalName"></app-widget-menu>-->
+            <div class="btn-group card-dropdown" dropdown placement="bottom right">
+                <a dropdownToggle class="lines-dropdown" aria-controls="dropdown-alignment">
+                    <i class="fa fa-ellipsis-v"></i>
+                </a>
+                <ul *dropdownMenu class="dropdown-menu dropdown-menu-right custom-dropdown-styles" role="menu" aria-labelledby="button-alignment">
+                    <li role="menuitem">
+                        <a class="dropdown-item" (click)="openModal()">
+                            <img class="menu-img pr-1" src="assets/images/icons/expand-active.png"><span class="enabled">Expand Widget</span>
+                        </a>
+                    </li>
+                    <li role="menuitem">
+                        <p class="disabled"><img class="menu-img pr-1" src="assets/images/icons/close-inactive.png">Remove Widget</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-0 fixed-height">
+        <div class="card-main">
+            <div class="chats product-chart-wrapper ps p-0">
+                <div class="card-circle-progress">
+                    <ul class="m-0 p-0">
+                        <li class="chat-persons">
+                            <div class="identity-row">
+                                <div class="col-sm-8 col-md-8">
+                                    <div class="d-flex">
+                                        <p>
+                                            <span class="sm-text fb identity-companyName">{{customerIdentity.customer_name}}</span>
+                                            <span class="identityCity" *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].headquarters != ''">HQ:
+                                                <span>{{firmoGraphData[0].headquarters}}</span></span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 col-md-4" *ngIf="firmoGraphData.length != 0">
+                                    <div class="trade-icons-s d-flex float-right">
+                                        <a [href]="firmoGraphData[0].Domain" *ngIf="firmoGraphData[0].Domain != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_website}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/webiste@2x.png">
+                                            <!-- <p class="grey-text xs-text">4k</p> -->
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Linkedin_url" *ngIf="firmoGraphData[0].Linkedin_url != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_linkedin}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/linkedin@2x.png">
+                                            <!-- <p class="grey-text xs-text">4k</p> -->
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Twitter_url" target="_blank" *ngIf="firmoGraphData[0].Twitter_url != ''" tooltip="{{getAllheadings.tip_cp_icon_twitter}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/twitter@2x.png">
+                                            <!-- <p class="grey-text xs-text">134</p> -->
+                                        </a>
+
+                                        <a [href]="firmoGraphData[0].Facebook_url" *ngIf="firmoGraphData[0].Facebook_url != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_facebook}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/facebook@2x.png">
+
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Instagram_url" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_instagram}}" placement="bottom" *ngIf="firmoGraphData[0].Instagram_url != ''" class="text-center"><img src="assets/images/icons/instagram@2x.png">
+
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+                        </li>
+                    </ul>
+
+                    <ul class="m-0 p-0 widger-scoller-body">
+                        <li class="chat-persons">
+                            <div class="identity-row">
+                                <table>
+                                    <tr>
+                                        <td class="about">About</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span class="about-bottom" *ngIf="firmoGraphData.length != 0">
+                                                <span
+                                                    class="description">{{show ? firmoGraphData[0].Description : firmoGraphData[0].Description.slice(0,200)}}...</span>
+                                            <span *ngIf="firmoGraphData.length != 0" (click)="show = !show" class="description link-point">{{ show ? '(read less)': '(read more)' }}</span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </table>
+                                 <table class="width-100">
+                                    <tr *ngIf="customerIdentity.customer_employee_count != null && customerIdentity.customer_employee_count != 'NULL' && customerIdentity.customer_employee_count != ''">
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_empcount}}" placement="bottom"><img src="assets/images/icons/e-count.png"></span>
+                                        </td>
+                                        <td class="text-left description" colspan="2">
+                                            Employee Count: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_employee_count}}</span>
+                                        </td>
+                                    </tr>
+                                    <tr *ngIf="customerIdentity.customer_segment != '' && customerIdentity.customer_segment != null && customerIdentity.customer_segment != 'NULL'">
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_segment}}" placement="bottom"><img src="assets/images/icons/segment.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan='2'>
+                                            <span class="nor-text fb side-heading-text description">
+                                                Segment: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_segment}}</span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_cdwspend}}" placement="bottom" style="margin-top: 5px;"><img 
+                                                    src="assets/images/icons/financial.png"></span>
+                                        </td>
+                                        <td class="text-left width-14">
+                                            <span class="nor-text fb side-heading-text description">CDW Spend:</span>
+                                        </td>
+                                        <td class="text-left">
+                                            <table>
+                                                <tr>
+                                                    <td class="yearTd"><span>{{currentYear}}</span></td>
+                                                    <td>
+                                                        <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle">
+                                                            <div class="progress-bar bg-c12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.C12TM/highestValue)*100)+'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        </div>
+                                                    </td>
+                                                    <td class="fontTd">
+                                                        <span>${{convertNumber(customerIdentity.C12TM)}}</span>
+                                                    </td>
+
+                                                </tr>
+                                                <tr>
+                                                    <td class="yearTd">
+                                                        <span>{{PreviousYear}}</span>
+                                                    </td>
+                                                    <td>
+                                                        <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle1">
+                                                            <div class="progress-bar bg-p12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.P12Tm/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        </div>
+                                                    </td>
+                                                    <td class="fontTd">
+                                                        <span>${{convertNumber(customerIdentity.P12Tm)}}</span>
+                                                    </td>
+
+                                                </tr>
+                                                <tr>
+                                                    <td class="yearTd">
+                                                        <span>{{PerviousMinus2}}</span>
+                                                    </td>
+                                                    <td>
+                                                        <div style="margin-top: 6px;" class="progress progressStyles progressCustomstyle2">
+                                                            <div class="progress-bar bg-pp12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.PP12TM/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        </div>
+                                                    </td>
+                                                    <td class="fontTd">
+                                                        <span>${{convertNumber(customerIdentity.PP12TM)}}</span>
+                                                    </td>
+
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr *ngIf="customerIdentity.customer_industry != null && customerIdentity.customer_industry != 'NULL' && customerIdentity.customer_industry != ''">
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_industry}}" placement="bottom"><img src="assets/images/icons/industry.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan='2'>
+                                            <span class="nor-text fb description">Industry:
+                                                <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_industry}}</span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_IPO}}" placement="bottom"><img src="assets/images/icons/ipo@2x.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan='2'>
+                                            <span class="nor-text fb description">IPO Status <span
+                                                    *ngIf="customerIdentity.FortuneRank != 'NULL'">| Fortune 500
+                                                    Rank</span>:
+
+                                                    <span class="margin-left-binded-value grey-text font-family-group"> <span
+                                                        *ngIf="customerIdentity.customer_ispublic == 'Y'">Public</span>
+                                                <span *ngIf="customerIdentity.customer_ispublic == 'N'">Private</span>
+                                                <span *ngIf="customerIdentity.FortuneRank != 'NULL'"> |
+                                                        {{customerIdentity.FortuneRank}} / 500</span>
+                                                </span>
+                                                
+                                                </span>
+                                        </td>
+                                    </tr>
+                                    <tr *ngIf="customerIdentity.expenditurePotential != '' || customerIdentity.capturedPercentage != ''">
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_itp}}" placement="bottom"><img
+                                                    src="assets/images/icons/it-potential@2x.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan="2">
+                                            <span class="nor-text fb description">IT Potential / % Captured:
+
+                                                <span class="margin-left-binded-value grey-text font-family-group">
+                                                    {{customerIdentity.expenditurePotential}} /
+                                                    {{customerIdentity.capturedPercentage}}</span>
+                                            </span>
+                                        </td>
+                                        
+                                    </tr>
+                                    <tr *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].Total_Funding_Amount != ''">
+                                        <td class="text-center width-3 pb-1">
+                                            <span class="mr-1 customer-logo-icon"><img
+                                                    src="assets/images/icons/funding.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan="2">
+                                            <span class="nor-text fb description">Funding Rounds / Total Funding
+                                                Amount:
+                                                <span class="margin-left-binded-value grey-text font-family-group">
+                                                    {{firmoGraphData[0].Funding_Rounds}} |
+                                                    {{firmoGraphData[0].Total_Funding_Amount}}</span>
+                                            </span>
+                                        </td>
+                                      </tr>
+                                </table> 
+                                <table class="width-100 margin-table-left">
+                                    <tr *ngIf="singleCustomerpartnersList.length != 0">
+                                        <td class="text-center width-3">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_partners}}" placement="bottom"><img src="assets/images/icons/partner.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan="2">
+                                            <span class="nor-text fb description mt-1">Partner Preferences:</span>
+                                        </td>
+                                    </tr>
+                                    <tr *ngIf="singleCustomerpartnersList.length != 0">
+                                        <td class="text-center width-3"></td>
+                                        <td class="width-50">
+                                            <table class="width-100">
+                                                <tr *ngFor="let even of evenPartnerList; let i = index;">
+                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                        {{even.BrandDescription}}
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td class="text-left width-50">
+                                            <table  class="width-100">
+                                                <tr *ngFor="let odd of oddPartnerList; let i = index;">
+                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                        {{odd.BrandDescription}}
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                       </tr>
+                                    <tr *ngIf="topCompetatorsArray.length != 0 ||  topCompetatorsprospects.length != 0">
+                                        <td class="text-center width-3">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_competitors}}" placement="bottom"><img
+                                                    src="assets/images/icons/top-competitors@2x.png"></span>
+                                        </td>
+                                        <td class="text-left" colspan="2">
+                                            <span class="nor-text fb description">Top Competitors:</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center width-3"></td>
+                                        <td *ngIf="topCompetatorsArray.length != 0">
+                                            <span tooltip="{{getAllheadings.tip_top_competitors_existing}}" placement="bottom">Existing</span>
+                                        </td>
+                                        
+                                        <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
+                                            <span tooltip="{{getAllheadings.tip_top_competitors_prospects}}" placement="bottom">Prospects</span>
+                                        </td>
+                                     </tr>
+                                    <tr>
+                                        <td class="text-center width-3"></td>
+                                        <td *ngIf="topCompetatorsArray.length != 0">
+                                            <table class="width-100">
+                                                <tr *ngFor="let existedCompaines of topCompetatorsArray; let i = index;">
+                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                        {{existedCompaines}}
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
+                                            <table class="width-100">
+                                                <tr *ngFor="let topProscepts of topCompetatorsprospects; let i = index;">
+                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                        {{topProscepts}}
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center width-3">
+                                            <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_similarcompanies}}" placement="bottom"><img
+                                                    src="assets/images/icons/similar@2x.png"></span>
+                                        </td>
+                                        <td colspan="2">
+                                            <span class="nor-text fb description">Similar
+                                                Companies:</span>
+                                        </td>
+                                    </tr>
+                                    <tr *ngIf="similarCompanies.length != 0">
+                                        <td class="text-center width-3"></td>
+                                        <td colspan="2">
+                                            <table class="width-100">
+    
+                                                <tr class="grey-text font-family-group">
+                                                    <td>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany1_Code != 0">
+                                                            <a
+                                                                href="/customer/{{similarCompanies[0].SimilarCompany1_Code}}">{{similarCompanies[0].SimilarCompany1_Name}}</a>
+                                                        </span>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany1_Code == 0">
+                                                            {{similarCompanies[0].SimilarCompany1_Name}}
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="grey-text font-family-group">
+                                                    <td>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany2_Code != 0">
+                                                            <a
+                                                                href="/customer/{{similarCompanies[0].SimilarCompany2_Code}}">{{similarCompanies[0].SimilarCompany2_Name}}</a>
+                                                        </span>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany2_Code == 0">
+                                                            {{similarCompanies[0].SimilarCompany2_Name}}
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="grey-text font-family-group">
+                                                    <td>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany3_Code != 0">
+                                                            <a
+                                                                href="/customer/{{similarCompanies[0].SimilarCompany3_Code}}">{{similarCompanies[0].SimilarCompany3_Name}}</a>
+                                                        </span>
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany3_Code == 0">
+                                                            {{similarCompanies[0].SimilarCompany3_Name}}
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                      
+                                    </tr>
+                                </table>
+                                                
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- modal to expanded view customer Identity-->
+<jw-modal id={{modalName}}>
+
+    <div class="card-navbar">
+        <h5 class="col-sm-4 col-md-4 card-title widget-navbar-heading"><span
+                class="header-probold">{{getAllheadings.customerIdentity}}</span></h5>
+        <form class="form-inline mr-auto">
+            <div class="input-group">
+                <!-- <input type="text" class="form-control search-main bg-light border-0 small"
+                        placeholder="Search customer by Name, ID"> -->
+                <!--<div class="input-group-append">
+                            <button class="btn btn-search" type="button">
+                            Search
+                            </button>
+                        </div>-->
+            </div>
+        </form>
+
+        <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+            <div class="m-0 p-0 dropdown d-flex text-right">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close.png"></a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="chats product-chart-wrapper ps p-0">
+            <div class="identity-row">
+                <div class="col-sm-12 col-md-4">
+                    <ul class="m-0 p-0">
+                        <li class="chat-persons">
+                            <div class="identity-row">
+                                <div class="col-sm-8 col-md-8">
+                                    <div class="d-flex">
+                                        <p>
+                                            <span class="sm-text fb identity-companyName">{{customerIdentity.customer_name}}</span>
+                                            <span class="identityCity" *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].headquarters != undefined">HQ:
+                                                <span>{{firmoGraphData[0].headquarters}}</span></span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 col-md-4" *ngIf="firmoGraphData.length != 0">
+                                    <div class="trade-icons-s d-flex float-right">
+                                        <a [href]="firmoGraphData[0].Domain" *ngIf="firmoGraphData[0].Domain != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_website}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/webiste@2x.png">
+                                            <!-- <p class="grey-text xs-text">4k</p> -->
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Linkedin_url" *ngIf="firmoGraphData[0].Linkedin_url != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_linkedin}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/linkedin@2x.png">
+                                            <!-- <p class="grey-text xs-text">4k</p> -->
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Twitter_url" target="_blank" *ngIf="firmoGraphData[0].Twitter_url != ''" tooltip="{{getAllheadings.tip_cp_icon_twitter}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/twitter@2x.png">
+                                            <!-- <p class="grey-text xs-text">134</p> -->
+                                        </a>
+
+                                        <a [href]="firmoGraphData[0].Facebook_url" *ngIf="firmoGraphData[0].Facebook_url != ''" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_facebook}}" placement="bottom" class="text-center mr-2p"><img src="assets/images/icons/facebook@2x.png">
+
+                                        </a>
+                                        <a [href]="firmoGraphData[0].Instagram_url" target="_blank" tooltip="{{getAllheadings.tip_cp_icon_instagram}}" placement="bottom" *ngIf="firmoGraphData[0].Instagram_url != ''" class="text-center"><img src="assets/images/icons/instagram@2x.png">
+
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+                        </li>
+                    </ul>
+
+                    <ul class="m-0 p-0">
+                        <li class="chat-persons">
+                            <div class="identity-row widger-scoller-identity">
+                                <div class="pb-2">
+                                    <span class="about">About</span>
+                                    <br />
+                                    <span class="about-bottom" *ngIf="firmoGraphData.length != 0">
+                                        <span
+                                            class="description">{{expendedShow ? firmoGraphData[0].Description : firmoGraphData[0].Description.slice(0,200)}}...</span>
+                                    <span *ngIf="firmoGraphData.length != 0" (click)="expendedShow = !expendedShow" class="description link-point">{{ expendedShow ? '(read less)': '(read more)' }}</span>
+                                    </span>
+                                </div>
+                                <div class="col-sm-12 col-md-12 margin-p-10">
+                                    <table class="width-100">
+                                        <tr *ngIf="customerIdentity.customer_employee_count != null && customerIdentity.customer_employee_count != 'NULL' && customerIdentity.customer_employee_count != ''">
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_empcount}}" placement="bottom"><img src="assets/images/icons/e-count.png"></span>
+                                            </td>
+                                            <td class="text-left description" colspan="2">
+                                                Employee Count: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_employee_count}}</span>
+                                            </td>
+                                        </tr>
+                                        <tr *ngIf="customerIdentity.customer_segment != '' && customerIdentity.customer_segment != null && customerIdentity.customer_segment != 'NULL'">
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_segment}}" placement="bottom"><img src="assets/images/icons/segment.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan='2'>
+                                                <span class="nor-text fb side-heading-text description">
+                                                    Segment: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_segment}}</span>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_cdwspend}}" placement="bottom" style="margin-top: 5px;"><img 
+                                                        src="assets/images/icons/financial.png"></span>
+                                            </td>
+                                            <td class="text-left width-14">
+                                                <span class="nor-text fb side-heading-text description">CDW Spend:</span>
+                                            </td>
+                                            <td class="text-left">
+                                                <table>
+                                                    <tr>
+                                                        <td class="yearTd"><span>{{currentYear}}</span></td>
+                                                        <td>
+                                                            <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle">
+                                                                <div class="progress-bar bg-c12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.C12TM/highestValue)*100)+'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            </div>
+                                                        </td>
+                                                        <td class="fontTd">
+                                                            <span>${{convertNumber(customerIdentity.C12TM)}}</span>
+                                                        </td>
+    
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="yearTd">
+                                                            <span>{{PreviousYear}}</span>
+                                                        </td>
+                                                        <td>
+                                                            <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle1">
+                                                                <div class="progress-bar bg-p12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.P12Tm/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            </div>
+                                                        </td>
+                                                        <td class="fontTd">
+                                                            <span>${{convertNumber(customerIdentity.P12Tm)}}</span>
+                                                        </td>
+    
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="yearTd">
+                                                            <span>{{PerviousMinus2}}</span>
+                                                        </td>
+                                                        <td>
+                                                            <div style="margin-top: 6px;" class="progress progressStyles progressCustomstyle2">
+                                                                <div class="progress-bar bg-pp12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.PP12TM/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            </div>
+                                                        </td>
+                                                        <td class="fontTd">
+                                                            <span>${{convertNumber(customerIdentity.PP12TM)}}</span>
+                                                        </td>
+    
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr *ngIf="customerIdentity.customer_industry != null && customerIdentity.customer_industry != 'NULL' && customerIdentity.customer_industry != ''">
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_industry}}" placement="bottom"><img src="assets/images/icons/industry.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan='2'>
+                                                <span class="nor-text fb description">Industry:
+                                                    <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_industry}}</span>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_IPO}}" placement="bottom"><img src="assets/images/icons/ipo@2x.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan='2'>
+                                                <span class="nor-text fb description">IPO Status <span
+                                                        *ngIf="customerIdentity.FortuneRank != 'NULL' && customerIdentity.FortuneRank != null && customerIdentity.FortuneRank != ''">| Fortune 500
+                                                        Rank</span>:
+    
+                                                        <span class="margin-left-binded-value grey-text font-family-group"> <span
+                                                            *ngIf="customerIdentity.customer_ispublic == 'Y'">Public</span>
+                                                    <span *ngIf="customerIdentity.customer_ispublic == 'N'">Private</span>
+                                                    <span *ngIf="customerIdentity.FortuneRank != 'NULL' && customerIdentity.FortuneRank != null && customerIdentity.FortuneRank != ''"> |
+                                                            {{customerIdentity.FortuneRank}} / 500</span>
+                                                    </span>
+                                                    
+                                                    </span>
+                                            </td>
+                                        </tr>
+                                        <tr *ngIf="customerIdentity.expenditurePotential != '' || customerIdentity.capturedPercentage != ''">
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_itp}}" placement="bottom"><img
+                                                        src="assets/images/icons/it-potential@2x.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan="2">
+                                                <span class="nor-text fb description">IT Potential / % Captured:
+    
+                                                    <span class="margin-left-binded-value grey-text font-family-group">
+                                                        {{customerIdentity.expenditurePotential}} /
+                                                        {{customerIdentity.capturedPercentage}}</span>
+                                                </span>
+                                            </td>
+                                            
+                                        </tr>
+                                        <tr *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].Total_Funding_Amount != ''">
+                                            <td class="text-center width-3 pb-1">
+                                                <span class="mr-1 customer-logo-icon"><img
+                                                        src="assets/images/icons/funding.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan="2">
+                                                <span class="nor-text fb description">Funding Rounds / Total Funding
+                                                    Amount:
+                                                    <span class="margin-left-binded-value grey-text font-family-group">
+                                                        {{firmoGraphData[0].Funding_Rounds}} |
+                                                        {{firmoGraphData[0].Total_Funding_Amount}}</span>
+                                                </span>
+                                            </td>
+                                          </tr>
+                                    </table> 
+                                    <table class="width-100 margin-table-left">
+                                        <tr *ngIf="singleCustomerpartnersList.length != 0">
+                                            <td class="text-center width-3">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_partners}}" placement="bottom"><img src="assets/images/icons/partner.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan="2">
+                                                <span class="nor-text fb description mt-1">Partner Preferences:</span>
+                                            </td>
+                                        </tr>
+                                        <tr *ngIf="singleCustomerpartnersList.length != 0">
+                                            <td class="text-center width-3"></td>
+                                            <td class="width-50">
+                                                <table class="width-100 side-by-side-table">
+                                                    <tr *ngFor="let even of evenPartnerList; let i = index;">
+                                                        <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                            {{even.BrandDescription}}
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td class="text-left width-50">
+                                                <table  class="width-100 side-by-side-table">
+                                                    <tr *ngFor="let odd of oddPartnerList; let i = index;">
+                                                        <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                            {{odd.BrandDescription}}
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                           </tr>
+                                        <tr *ngIf="topCompetatorsArray.length != 0 ||  topCompetatorsprospects.length != 0">
+                                            <td class="text-center width-3">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_competitors}}" placement="bottom"><img
+                                                        src="assets/images/icons/top-competitors@2x.png"></span>
+                                            </td>
+                                            <td class="text-left" colspan="2">
+                                                <span class="nor-text fb description">Top Competitors:</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center width-3"></td>
+                                            <td *ngIf="topCompetatorsArray.length != 0">
+                                                <span tooltip="{{getAllheadings.tip_top_competitors_existing}}" placement="bottom">Existing</span>
+                                            </td>
+                                            
+                                            <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
+                                                <span tooltip="{{getAllheadings.tip_top_competitors_prospects}}" placement="bottom">Prospects</span>
+                                            </td>
+                                         </tr>
+                                        <tr>
+                                            <td class="text-center width-3"></td>
+                                            <td *ngIf="topCompetatorsArray.length != 0">
+                                                <table class="width-100 side-by-side-table">
+                                                    <tr *ngFor="let existedCompaines of topCompetatorsArray; let i = index;">
+                                                        <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                            {{existedCompaines}}
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            
+                                            <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
+                                                <table class="width-100 side-by-side-table">
+                                                    <tr *ngFor="let topProscepts of topCompetatorsprospects; let i = index;">
+                                                        <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                            {{topProscepts}}
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center width-3">
+                                                <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_similarcompanies}}" placement="bottom"><img
+                                                        src="assets/images/icons/similar@2x.png"></span>
+                                            </td>
+                                            <td colspan="2">
+                                                <span class="nor-text fb description">Similar
+                                                    Companies:</span>
+                                            </td>
+                                        </tr>
+                                        <tr *ngIf="similarCompanies.length != 0">
+                                            <td class="text-center width-3"></td>
+                                            <td colspan="2">
+                                                <table class="width-100">
+        
+                                                    <tr class="grey-text font-family-group">
+                                                        <td>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany1_Code != 0">
+                                                                <a
+                                                                    href="/customer/{{similarCompanies[0].SimilarCompany1_Code}}">{{similarCompanies[0].SimilarCompany1_Name}}</a>
+                                                            </span>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany1_Code == 0">
+                                                                {{similarCompanies[0].SimilarCompany1_Name}}
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="grey-text font-family-group">
+                                                        <td>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany2_Code != 0">
+                                                                <a
+                                                                    href="/customer/{{similarCompanies[0].SimilarCompany2_Code}}">{{similarCompanies[0].SimilarCompany2_Name}}</a>
+                                                            </span>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany2_Code == 0">
+                                                                {{similarCompanies[0].SimilarCompany2_Name}}
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="grey-text font-family-group">
+                                                        <td>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany3_Code != 0">
+                                                                <a
+                                                                    href="/customer/{{similarCompanies[0].SimilarCompany3_Code}}">{{similarCompanies[0].SimilarCompany3_Name}}</a>
+                                                            </span>
+                                                            <span *ngIf="similarCompanies[0].SimilarCompany3_Code == 0">
+                                                                {{similarCompanies[0].SimilarCompany3_Name}}
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                          
+                                        </tr>
+                                    </table>
+
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <!-- html code for CDW location -->
+
+                    <div class="identity-col-top-boxes">
+                        <div class="identity-row height-100">
+                            <p class="md-text fb mb-0 heading-bar  width-100" tooltip="{{getAllheadings.tip_Identity_section_locations_title}}" placement="bottom">
+                                Customer Location</p>
+                            <div class="col-sm-12 col-md-12 height-100">
+                                <div class="d-flex mb-4 height-100">
+                                    <!-- <div class="mr-3 customer-logo-icon"><img src="assets/images/icons/location.png"></div> -->
+                                    <div class="full-w height-100">
+                                        <div class="identity-row" style="height:7%">
+                                            <div class="col-sm-8 col-md-12 mb-1 mp-1 font-hq-size" *ngIf="firmoGraphData.length != 0">HQ: {{firmoGraphData[0].headquarters}}
+                                            </div>
+                                            <!-- <div class="col-sm-8 col-md-12 mb-1 mp-1 font-hq-size" *ngIf="firmoGraph= undefinedData.length != 0 && firmoGraphData[0].headquarters == undefined">HQ: India</div> -->
+                                        </div>
+                                        <div class="identity-row pt-2 height-75">
+                                            <div class="col-sm-8 col-md-11">
+                                                <iframe width="100%" height="100%" id="gmap_canvas" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                                                <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d201880.51115438552!2d-122.57768437848272!3d37.757617097271385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1574132741006!5m2!1sen!2sin" frameborder="0" style="border:0;" class="full-w" allowfullscreen=""></iframe>-->
+                                            </div>
+                                            <span class="mt-2 international-styling" *ngIf="countriesList.length != 0">
+                                                <div class="d-flex">
+                                                    <div class="font-hq-size top" style="margin-right: 0.5rem;">
+                                                        International Locations:</div>
+                                                    <div class="small-text">
+                                                        <span *ngFor="let count of countriesList; let i = index">
+                                                            <img class="internationalFlages"
+                                                                src="assets/images/International Flags/{{count}}">
+                                                            <span class="ml-1 mr-2">{{countriesNames[i]}}</span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- html code for CDW account ,managers -->
+
+                    <div class="identity-col-down-boxes">
+                        <ul class="m-0 p-0">
+                            <li>
+                                <div class="identity-row" style="height:100%">
+                                    <p class="md-text fb mb-0 heading-bar width-100" tooltip="{{getAllheadings.tip_Identity_section_cdwam_title}}" placement="bottom">CDW Account Managers</p>
+                                    <div class="col-sm-12 col-md-12 customers-removing-width">
+                                        <div class="d-flex mb-4">
+                                            <!-- <div class="mr-3 customer-logo-icon"><img src="assets/images/icons/account-manager.png"></div> -->
+                                            <div class="full-w height-identity-widget">
+                                                <!-- class="m-0 mt-2 p-0"   class="height-identity-widget" -->
+                                                <ul *ngIf="managers.length != 0">
+                                                    <li class="listyle">
+                                                        <table class="width-100">
+                                                            <tr class="shadow-style grid-identity" *ngIf="customerIdentity.CoworkerName != 'NULL' && customerIdentity.CoworkerName != ''">
+                                                                <td class="width-15 text-center">
+                                                                 <p class="img-width">
+                                                                     <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                </td>
+                                                                <td class="width-60">
+                                                                 <p>
+                                                                     <span class="name sm-text fb workerName">{{customerIdentity.CoworkerName}}</span>
+                                                                     <span class="d-flex trade-icons-s color-style-span">Primary
+                                                                         Account Manager</span>
+                                                                     <span *ngIf="customerIdentity.primary_am_state != ''">{{customerIdentity.primary_am_state}},</span>
+                                                                      <span *ngIf="customerIdentity.primary_am_country != ''"> {{customerIdentity.primary_am_country}}</span>
+                                                                 </p>
+                                                                </td>
+                                                                <td class="width-20">
+                                                                 <table class="width-100">
+                                                                     <tr>
+                                                                         <td class="text-left pr-2">
+                                                                             <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                         </td>
+                                                                         <td class="text-left pr-2">
+                                                                             <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                         </td>
+                                                                     </tr>
+                                                                 </table>
+                                                                </td>
+                                                                
+                                                            </tr>
+                                                            <tr class="shadow-style grid-identity" *ngIf="customerIdentity.Secondary_Account_Manager != 'NULL' && customerIdentity.Secondary_Account_Manager != ''">
+                                                             <td class="width-15 text-center">
+                                                              <p class="img-width">
+                                                                  <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                             </td>
+                                                             <td class="width-70">
+                                                              <p>
+                                                                  <span class="name sm-text fb workerName">{{customerIdentity.Secondary_Account_Manager}}</span>
+                                                                  <span class="d-flex trade-icons-s color-style-span">Secondary
+                                                                      Account Manager</span>
+                                                                  <span *ngIf="customerIdentity.secondary_am_state != ''">{{customerIdentity.secondary_am_state}},</span>
+                                                                     <span *ngIf="customerIdentity.secondary_am_country != ''"> {{customerIdentity.secondary_am_country}}</span>
+                                                              </p>
+                                                             </td>
+                                                             <td class="width-10">
+                                                              <table class="width-100">
+                                                                  <tr>
+                                                                      <td class="text-left pr-2">
+                                                                          <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                      </td>
+                                                                      <td class="text-left pr-2">
+                                                                          <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                      </td>
+                                                                  </tr>
+                                                              </table>
+                                                             </td>
+                                                         </tr>
+                                                         <tr class="shadow-style grid-identity" *ngIf="customerIdentity.Sales_Manager != 'NULL' && customerIdentity.Sales_Manager != ''">
+                                                             <td class="width-15 text-center">
+                                                              <p class="img-width">
+                                                                  <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                             </td>
+                                                             <td class="width-70">
+                                                              <p>
+                                                                  <span class="name sm-text fb workerName">{{customerIdentity.Sales_Manager}}</span>
+                                                                  <span class="d-flex trade-icons-s color-style-span">Sales_Manager
+                                                                      </span>
+                                                                <span>MI, USA</span>
+                                                              </p>
+                                                             </td>
+                                                             <td class="width-10">
+                                                              <table class="width-100">
+                                                                  <tr>
+                                                                      <td class="text-left pr-2">
+                                                                          <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                      </td>
+                                                                      <td class="text-left pr-2">
+                                                                          <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                      </td>
+                                                                  </tr>
+                                                              </table>
+                                                             </td>
+                                                         </tr>
+                                                         </table>
+                                                    </li>
+                                                   
+
+                                                  
+                                                        <li *ngFor="let manager of managers">
+                                                            <table class="width-100">
+                                                                <tr class="shadow-style grid-identity" *ngIf="manager.primary_account_manager != 'NULL' && manager.primary_account_manager != ''">
+                                                                    <td class="width-15 text-center">
+                                                                     <p class="img-width">
+                                                                         <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                    </td>
+                                                                    <td class="width-60">
+                                                                     <p>
+                                                                         <span class="name sm-text fb workerName">{{manager.primary_account_manager}}</span>
+                                                                         <span class="d-flex trade-icons-s color-style-span">Primary
+                                                                             Account Manager</span>
+                                                                        <span>{{manager.contact_location}}</span>
+                                                                     </p>
+                                                                    </td>
+                                                                    <td class="width-20">
+                                                                     <table class="width-100">
+                                                                         <tr>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                             </td>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                             </td>
+                                                                         </tr>
+                                                                     </table>
+                                                                    </td>
+                                                                    
+                                                                </tr>
+                                                                <tr class="shadow-style grid-identity" *ngIf="manager.secondary_account_manager != 'NULL' && manager.secondary_account_manager != ''">
+                                                                 <td class="width-15 text-center">
+                                                                  <p class="img-width">
+                                                                      <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                 </td>
+                                                                 <td class="width-70">
+                                                                  <p>
+                                                                      <span class="name sm-text fb workerName">{{manager.secondary_account_manager}}</span>
+                                                                      <span class="d-flex trade-icons-s color-style-span">Secondary
+                                                                          Account Manager</span>
+                                                                    <span>{{manager.contact_location}}</span>
+                                                                  </p>
+                                                                 </td>
+                                                                 <td class="width-10">
+                                                                  <table class="width-100">
+                                                                      <tr>
+                                                                          <td class="text-left  pr-2">
+                                                                              <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                          </td>
+                                                                          <td class="text-left  pr-2">
+                                                                              <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                          </td>
+                                                                      </tr>
+                                                                  </table>
+                                                                 </td>
+                                                             </tr>
+                                                             <tr class="shadow-style grid-identity" *ngIf="manager.sales_manager != 'NULL' && manager.sales_manager != ''">
+                                                                 <td class="width-15 text-center">
+                                                                  <p class="img-width">
+                                                                      <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                 </td>
+                                                                 <td class="width-70">
+                                                                  <p>
+                                                                      <span class="name sm-text fb workerName">{{manager.sales_manager}}</span>
+                                                                      <span class="d-flex trade-icons-s color-style-span">Sales_Manager
+                                                                          </span>
+                                                                     <span>{{manager.contact_location}}</span>
+                                                                  </p>
+                                                                 </td>
+                                                                 <td class="width-10">
+                                                                  <table class="width-100">
+                                                                      <tr>
+                                                                          <td class="text-left pr-2">
+                                                                              <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                          </td>
+                                                                          <td class="text-left pr-2">
+                                                                              <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                          </td>
+                                                                      </tr>
+                                                                  </table>
+                                                                 </td>
+                                                             </tr>
+                                                             </table>
+                                                          
+                                                        </li>
+                                                       
+                                                   
+
+                                                </ul>
+
+                                                <ul *ngIf="managers.length === 0">
+                                                    <li class="listyle">
+                                                      
+                                                            
+                                                                <!-- <div class="d-flex">
+                                                                    <p class="mr-2 pt-1 margin-workers img-width width-20">
+                                                                        <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                    <p class="width-col margin-workers width-60 padding-country-name">
+                                                                        <span class="name sm-text fb workerName">{{customerIdentity.CoworkerName}}</span>
+                                                                        <span class="d-flex trade-icons-s color-style-span">Primary
+                                                                            Account Manager</span>
+                                                                        <span>{{customerIdentity.primary_am_state}},
+                                                                            {{customerIdentity.primary_am_country}}</span>
+                                                                    </p>
+                                                                    <div class="padding-icons">
+                                                                        <div class="workers-image d-flex customer-logo-icon width-20">
+                                                                            <table class="width-100">
+                                                                                <tr>
+                                                                                    <td class="text-center">
+                                                                                        <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                                    </td>
+                                                                                    <td class="text-center">
+                                                                                        <img class="ml-2" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div> -->
+                                                                <table class="width-100">
+                                                                   <tr class="shadow-style grid-identity" *ngIf="customerIdentity.CoworkerName != 'NULL' && customerIdentity.CoworkerName != ''">
+                                                                       <td class="width-15 text-center">
+                                                                        <p class="img-width">
+                                                                            <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                       </td>
+                                                                       <td class="width-60">
+                                                                        <p>
+                                                                            <span class="name sm-text fb workerName">{{customerIdentity.CoworkerName}}</span>
+                                                                            <span class="d-flex trade-icons-s color-style-span">Primary
+                                                                                Account Manager</span>
+                                                                            <span *ngIf="customerIdentity.primary_am_state != ''">{{customerIdentity.primary_am_state}},</span>
+                                                                               <span *ngIf="customerIdentity.primary_am_country != ''"> {{customerIdentity.primary_am_country}}</span>
+                                                                        </p>
+                                                                       </td>
+                                                                       <td class="width-20">
+                                                                        <table class="width-100">
+                                                                            <tr>
+                                                                                <td class="text-left pr-2">
+                                                                                    <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                                </td>
+                                                                                <td class="text-left pr-2">
+                                                                                    <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                       </td>
+                                                                       
+                                                                   </tr>
+                                                                   <tr class="shadow-style grid-identity" *ngIf="customerIdentity.Secondary_Account_Manager != 'NULL' && customerIdentity.Secondary_Account_Manager != ''">
+                                                                    <td class="width-15 text-center">
+                                                                     <p class="img-width">
+                                                                         <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                    </td>
+                                                                    <td class="width-70">
+                                                                     <p>
+                                                                         <span class="name sm-text fb workerName">{{customerIdentity.Secondary_Account_Manager}}</span>
+                                                                         <span class="d-flex trade-icons-s color-style-span">Secondary
+                                                                             Account Manager</span>
+                                                                         <span *ngIf="customerIdentity.secondary_am_state != ''">{{customerIdentity.secondary_am_state}},</span>
+                                                                             <span *ngIf="customerIdentity.secondary_am_country != ''"> {{customerIdentity.secondary_am_country}}</span>
+                                                                     </p>
+                                                                    </td>
+                                                                    <td class="width-10">
+                                                                     <table class="width-100">
+                                                                         <tr>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                             </td>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                             </td>
+                                                                         </tr>
+                                                                     </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr class="shadow-style grid-identity" *ngIf="customerIdentity.Sales_Manager != 'NULL' && customerIdentity.Sales_Manager != ''">
+                                                                    <td class="width-15 text-center">
+                                                                     <p class="img-width">
+                                                                         <img class="padding-img" src="assets/images/icons/contact.png"></p>
+                                                                    </td>
+                                                                    <td class="width-70">
+                                                                     <p>
+                                                                         <span class="name sm-text fb workerName">{{customerIdentity.Sales_Manager}}</span>
+                                                                         <span class="d-flex trade-icons-s color-style-span">Sales Manager
+                                                                             </span>
+                                                                       <span>MI, USA</span>
+                                                                     </p>
+                                                                    </td>
+                                                                    <td class="width-10">
+                                                                     <table class="width-100">
+                                                                         <tr>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img tooltip="" placement="left" src="assets/images/icons/telephone.png">
+                                                                             </td>
+                                                                             <td class="text-left pr-2">
+                                                                                 <img class="ml-1" tooltip="" placement="left" src="assets/images/icons/envelope.png">
+                                                                             </td>
+                                                                         </tr>
+                                                                     </table>
+                                                                    </td>
+                                                                </tr>
+                                                                </table>
+                                                            
+                                                       
+                                                    </li>
+                                                   
+                                                </ul>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- html code for company-spend -->
+
+                <div class="col-sm-12 col-md-4">
+                    <div class="identity-col-top-boxes">
+                        <ul class="m-0 p-0">
+                            <li>
+                                <div class="identity-row" style="height:100%">
+                                    <p class="md-text fb mb-0  heading-bar width-100" tooltip="{{getAllheadings.tip_Identity_section_spend_title}}" placement="bottom">Customer Spend </p>
+                                    <div class="col-sm-12 col-md-12">
+                                        <div class="d-flex mb-4">
+                                            <!-- <div class="mr-3 customer-logo-icon"><img src="assets/images/icons/financial.png"></div> -->
+                                            <div class="full-w">
+                                                <div class="lg-graph">
+                                                    <span class="pl-1 grey-text font-family-group-dollar dollar-symbol-inside-graph">
+                                                        ${{rupeeValue}}</span>
+                                                    <canvas id="financials" class="margin-chart"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <!-- html code for similar companies -->
+
+                    <div class="identity-col-down-boxes">
+                        <ul>
+                            <li>
+                                <div class="identity-row" style="height:100%">
+                                    <p class="md-text fb mb-0   heading-bar width-100" tooltip="{{getAllheadings.tip_Identity_section_similarspend_title}}" placement="bottom">Similar Companies Spend: 2019</p>
+                                    <div class="col-sm-12 col-md-12">
+                                        <div class="d-flex mb-4">
+                                            <!-- <div class="mr-3 customer-logo-icon"><img src="assets/images/icons/financial.png"></div> -->
+                                            <div class="full-w">
+                                                <div class="lg-graph">
+                                                    <span class="pl-1 grey-text font-family-group-dollar dollar-symbol-inside-graph">
+                                                        $K</span>
+                                                    <canvas id="similarCompanies" class="margin-chart"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</jw-modal>

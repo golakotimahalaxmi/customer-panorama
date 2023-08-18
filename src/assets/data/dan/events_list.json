@@ -1,0 +1,101 @@
+[
+  {
+    "customer_name": "Chewy.com",
+    "dateTimePub": "",
+    "title": "Ruff Mudder by Chewy",
+    "url": "https://www.facebook.com/events/clear-springs-ranch-5020-cox-road/ruff-mudder-by-chewy-central-florida/2301348919924116/",
+    "source_uri": "",
+    "event_dataType": "Customer Event",
+    "event_date": 2,
+    "event_location": "Clear Springs Ranch, FL",
+    "description": "Ruff Mudder is an all-dog version of the popular Tough Mudder event."
+  },
+  {
+    "customer_name": "Astellas Pharma",
+    "dateTimePub": "",
+    "title": "SMIT CONGRESS 2020",
+    "url": "https://smit2020.com/",
+    "source_uri": "",
+    "event_dataType": "Customer Event",
+    "event_date": 10,
+    "event_location": "Chicago, IL",
+    "description": "The 32nd conference of the international Society for Medical Innovation and Technology (iSMIT)"
+  },
+  {
+    "customer_name": "Mohawk Industries",
+    "dateTimePub": "",
+    "title": "Mohawk Industries Safety Conference",
+    "url": "https://www.fallprotectionsystems.com/mohawk-industries-safety-conference.html",
+    "source_uri": "",
+    "event_dataType": "Customer Event",
+    "event_date": 13,
+    "event_location": "Calhoun, GA",
+    "description": "Mohawk Industries Safety Conference in Calhoun, GA."
+  },
+  {
+    "customer_name": "Zynga",
+    "dateTimePub": "",
+    "title": "WAZ + zPride Panel",
+    "url": "https://pt-br.facebook.com/events/449830925624776/",
+    "source_uri": "",
+    "event_dataType": "Customer Event",
+    "event_date": 6,
+    "event_location": "Chicago, IL",
+    "description": "Panel discussion with Women at Zynga, zPride, and The Voxel Collective"
+  },
+  {
+    "customer_name": "NRF 2020",
+    "dateTimePub": "",
+    "title": "NRF Vision 2020. Retail's Big Show",
+    "url": "https://nrfbigshow.nrf.com/",
+    "source_uri": "",
+    "event_dataType": "CDW Event",
+    "event_date": 8,
+    "event_location": "New York City",
+    "description": "NRF 2020: Retail’s Big Show is the centerpiece of NRF Retail Week, where the entire industry unites to get a whole new perspective."
+  },
+  {
+    "customer_name": "Executive SummIT Series",
+    "dateTimePub": "",
+    "title": "Exploring the PossibilITies of technology",
+    "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812462",
+    "source_uri": "",
+    "event_dataType": "CDW Event",
+    "event_date": 12,
+    "event_location": "Phoenix, AZ",
+    "description": "The world is changing fast, and CDW is here to help. Our Executive SummIT Series focuses on the technology trends and solutions that today's businesses are using to get ahead."
+  },
+  {
+    "customer_name": "Executive Dinner Series",
+    "dateTimePub": "",
+    "title": "Connecting you with people who Get IT",
+    "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812463",
+    "source_uri": "",
+    "event_dataType": "CDW Event",
+    "event_date": 15,
+    "event_location": "Costa Mesa, CA",
+    "description": "Engage with leaders who can give you advice you can’t find anywhere else."
+  },
+  {
+    "customer_name": "Under Armour",
+    "dateTimePub": "",
+    "title": "Earnings Conference Call",
+    "url": "https://about.underarmour.com/investor-relations/news-events-presentations/events",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 7,
+    "event_location": "Web Conference",
+    "description": ""
+  },
+  {
+    "customer_name": "Aflac",
+    "dateTimePub": "",
+    "title": "Year-end earnings release",
+    "url": "https://investors.aflac.com/events-and-presentations/events-calendar/event-details/2020/Year-end-earnings-release/default.aspx",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 30,
+    "event_location": "Web Conference",
+    "description": ""
+  }
+]

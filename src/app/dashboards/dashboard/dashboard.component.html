@@ -1,0 +1,91 @@
+<div class="main-body">
+    <app-side-navigation class="side-navbar-width"></app-side-navigation>
+    <div class="main_content-right">
+      <app-top-navigation></app-top-navigation>
+       <div class="content-outlet">
+            <div class="pb-1">
+                <span class="text-white text-small">Home</span>
+            </div>
+            <div class="row card-container" cdkDropList cdkDropListOrientation="horizontal" (cdkDropListDropped)="onDrop($event)">
+                <!--<div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
+                    <template app-news-alerts></template>
+                    <app-news-alerts [fundJsonfile]="fundJsonfile"></app-news-alerts>
+                    <app-fundings *ngIf="fundJsonfile === true"></app-fundings>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
+                    <app-my-customers></app-my-customers>
+                    <app-conversions></app-conversions>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
+                    <app-customer-events></app-customer-events>
+                </div>-->
+                <div *ngFor="let widget of widgetPositions" [ngClass]="{'col-md-4 col-lg-4 col-sm-12': widget.size === 1, 'col-md-8 col-lg-8 col-sm-16': widget.size === 2, 'col-md-12 col-lg-12 col-sm-20': widget.size === 3}" cdkDragBoundary=".row" cdkDrag>
+                    <span *ngIf="widget.name === 'newsalerts'">
+                        <app-news-alerts [isFull]="widget.isFull" [widget2]="widget.name"></app-news-alerts>
+                        <span *ngIf= !widget.isFull>
+                            <div class="margin-bottom-class"></div>
+                            <span *ngIf="widget.widget2 === 'customerMenu'">
+                                <app-my-customers [isFull]="widget.isFull" [widget2]="widget.name"></app-my-customers>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'customerEvents'">
+                                <app-customer-events [isFull]="widget.isFull" [widget2]="widget.name"></app-customer-events>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'funding'">
+                                <app-fundings [isFull]="widget.isFull" [widget2]="widget.name"></app-fundings>
+                            </span>
+                        </span>
+                    </span>
+                    <span *ngIf="widget.name === 'customerMenu'">
+                        <app-my-customers [isFull]="widget.isFull" [widget2]="widget.name"></app-my-customers>
+                        <span *ngIf= !widget.isFull>
+                            <div class="margin-bottom-class"></div>
+                            <span *ngIf="widget.widget2 === 'newsalerts'">
+                                <app-news-alerts [isFull]="widget.isFull" [widget2]="widget.name"></app-news-alerts>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'customerEvents'">
+                                <app-customer-events [isFull]="widget.isFull" [widget2]="widget.name"></app-customer-events>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'funding'">
+                                <app-fundings [isFull]="widget.isFull" [widget2]="widget.name"></app-fundings>
+                            </span>
+                        </span>
+                    </span>
+                    <span *ngIf="widget.name === 'customerEvents'">
+                        <app-customer-events [isFull]="widget.isFull" [widget2]="widget.name"></app-customer-events>
+                        <span *ngIf= !widget.isFull>
+                            <div class="margin-bottom-class"></div>
+                            <span *ngIf="widget.widget2 === 'newsalerts'">
+                                <app-news-alerts [isFull]="widget.isFull" [widget2]="widget.name"></app-news-alerts>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'customerMenu'">
+                                <app-my-customers [isFull]="widget.isFull" [widget2]="widget.name"></app-my-customers>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'funding'">
+                                <app-fundings [isFull]="widget.isFull" [widget2]="widget.name"></app-fundings>
+                            </span>
+                        </span>
+                    </span>
+                    <span *ngIf="widget.name === 'funding'">
+                        <app-fundings [isFull]="widget.isFull" [widget2]="widget.name"></app-fundings>
+                        <span *ngIf= !widget.isFull>
+                            <div class="margin-bottom-class"></div>
+                            <span *ngIf="widget.widget2 === 'newsalerts'">
+                                <app-news-alerts [isFull]="widget.isFull" [widget2]="widget.name"></app-news-alerts>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'customerMenu'">
+                                <app-my-customers [isFull]="widget.isFull" [widget2]="widget.name"></app-my-customers>
+                            </span>
+                            <span *ngIf="widget.widget2 === 'customerEvents'">
+                                <app-customer-events [isFull]="widget.isFull" [widget2]="widget.name"></app-customer-events>
+                            </span>
+                        </span>
+                    </span>
+                </div>
+                <!--<app-fundings *ngIf="stackHolderName === 'ryan'"></app-fundings>-->
+            </div>
+            <div>
+                <app-footer></app-footer>
+            </div>
+        </div>
+    </div>
+</div>

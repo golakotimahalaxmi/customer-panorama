@@ -1,0 +1,69 @@
+<div class="card half-card">
+    <div class="card-row" (dblclick)="openModal()">
+        <div class="col-lg-10 col-md-11 col-sm-10 col-8" *ngIf="allHeadings != undefined">
+            <div class="card-header">
+                {{allHeadings.conservationName}}
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-2 col-4 text-right" >
+            <app-widget-menu [modalName]="modalName"></app-widget-menu>
+        </div>
+    </div>
+    <div class="card-body p-0" *ngIf="allHeadings != undefined">
+       <div class="card-main-padding">
+          <table class="table custom-table-styles">
+              <thead class="table-header-class overflow-stylings-thead">
+                  <th class="tr-heading width-20">Conversion Probability</th>
+                  <th class="tr-heading width-20">Shopping Carts</th>
+                  <th class="tr-heading width-40"><span class="tooltip1">PGM<span class="tooltiptext1">{{allHeadings.tip_pgm}}</span></span></th>
+                  <th class="tr-heading width-20"><span class="tooltip1">SC Total Value<span class="tooltiptext1">{{allHeadings.tip_sctotal}}</span></span></th>
+              </thead>
+              <tbody class="overflow-stylings-tbody">
+                  <span *ngFor="let Conversion of listOfConversions">
+                    <tr class="converstion-row">
+                        <td class="text-center funding-round width-20 pt-1">
+                          {{Conversion.conversion_probability}}
+                        </td> 
+                        <td class="text-center funding-Moneyraised width-20">
+                            <span *ngIf="Conversion.shopping_carts < 10">0{{Conversion.shopping_carts}}</span>
+                            <span *ngIf="Conversion.shopping_carts > 10">{{Conversion.shopping_carts}}</span>
+                        </td>
+                        <td class="text-center product_group width-40 pt-1">{{Conversion.product_group}}</td>
+                        <td class="text-center sc_total width-20" >
+                            <sup class="dollarSymbol">$</sup>{{Conversion.sc_total/1000}}K
+                        </td>
+                    </tr>
+                  </span>
+              </tbody>
+          </table>          
+      </div>
+   </div>
+</div>
+
+<!-- expanded view modal for customer recommendations-->
+<jw-modal id={{modalName}} *ngIf="allHeadings != undefined">
+<!--<div class="card-container">-->
+<div class="card-navbar">
+    <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.conservationName}}</span></h5>
+    <form class="form-inline mr-auto">
+    <div class="input-group">
+        <input type="text" class="form-control search-main bg-light border-0 small"
+        [placeholder]="allHeadings.placeholderInsideModal">
+        <!--<div class="input-group-append">
+            <button class="btn btn-search" type="button">
+            Search
+            </button>
+        </div>-->
+    </div>
+    </form>
+
+    <div class="navbar-menu-wrapper m-0 p-0 link-point">
+    <div class="m-0 p-0 dropdown d-flex float-right">
+        <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+    </div>
+    </div>
+<!-- content goes here-->
+</div>
+</jw-modal>
+
+

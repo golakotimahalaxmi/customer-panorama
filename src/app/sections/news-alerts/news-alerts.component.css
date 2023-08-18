@@ -1,0 +1,49 @@
+.alertImage img {
+    width: 50px;
+    margin: 5px;
+}
+
+.companyName {
+    color: #00000077;
+    /*text-transform: capitalize;*/
+    font-size: 12px;
+    font-family: 'Prelo-Book', sans-serif;
+  }
+
+  .alertData p {
+    margin-bottom: 0rem !important;
+   }
+
+   .eventTime {
+    color: black;
+    text-transform: capitalize;
+    font-size: 10px!important;
+    font-family: 'Prelo-Bold', sans-serif;
+    font-weight: bold;
+    text-transform: lowercase;
+    line-height: 1!important;
+  }
+
+   .eventDate {
+    text-transform: capitalize;
+    font-size: 34px!important;
+    color: black;
+    font-family: 'ff-good-headline-web-pro-ext', sans-serif;
+    font-weight: bold;
+    line-height: 1!important;
+  }
+  .companyTitle {
+    /*text-transform: capitalize;*/
+    font-size: 14px;
+    font-family: 'Prelo-SemiBold', sans-serif;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }
+
+  .font-black{
+    color:black!important;
+  }

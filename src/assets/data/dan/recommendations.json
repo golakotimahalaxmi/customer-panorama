@@ -1,0 +1,53 @@
+[
+    {
+        "probability":90,
+        "total_value":14000,
+        "sale_type":"up",
+        "product":[
+            {
+                "product_name":"Trripp Lite PDUs 42U rack",
+                "product_value":13700,
+                "product_image":"pdu.png"
+            },
+            {
+                "product_name":"Addonics Multi Rack 32U",
+                "product_value":11000,
+                "product_image":"addonics.png"
+            }
+        ]
+    },
+    {
+        "probability":90,
+        "total_value":3000,
+        "sale_type":"cross",
+        "product":[
+            {
+                "product_name":"PNY GeForce RTX 2080 Di",
+                "product_value":2000,
+                "product_image":"pny.png"
+            },
+            {
+                "product_name":"EVGA GeForce RTX 2060 Ti",
+                "product_value":1000,
+                "product_image":"evga.png"
+            }
+        ]
+    },
+    {
+        "probability":80,
+        "total_value":7000,
+        "sale_type":"up",
+        "product":[
+            {
+                "product_name":"Adobe CC For Teams",
+                "product_value":6000,
+                "product_image":"adobecc.png"
+            },
+            {
+                "product_name":"Photography Plan Adobe",
+                "product_value":2000,
+                "product_image":"photo.png"
+            }
+        ]
+    }
+]

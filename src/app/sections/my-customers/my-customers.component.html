@@ -1,0 +1,402 @@
+<div class="card" [ngClass]="{'half-card' : !isFull,'': isFull}">
+    <div class="card-row row-header" (dblclick)="openModal()">
+        <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+            <div class="card-header" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
+                {{allHeadings.myAccount}}
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+            <app-widget-menu [modalName]="modalName" (exploreCustomersList)="exploreCustomersList($event)"></app-widget-menu>
+        </div>
+    </div>
+    <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,
+    'widger-scoller-half-data': !isFull}">
+        <div class="card-main-customer activeCustomer" *ngFor="let customer of viewCustomersList;" (click)="selectedCustomer(customer)">
+            <div class="customerCard-row">
+                <div class="companyDetails">
+                    <p class="companyName-field">{{customer.customer_name}}</p>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td class="ytd-styling tab-content-text width-55" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">YTD:</td>
+                                <td class="color-grey text-left numbers-text width-60 pr-3">${{customer.customerC12}}</td>
+                            </tr>
+                            <tr>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">YoY Change:</td>
+                                <td class="color-darkblue text-left numbers-text width-60 pr-3">{{customer.yoy != '' ? (customer.yoy) : 0}}%</td>
+                            </tr>
+                            <tr>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Margin(%):</td>
+                                <td class="color-yellow text-left numbers-text width-60 pr-3">{{customer.margin != '' ? (customer.margin) : 0}}%</td>
+                            </tr>
+                            <tr>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg. Monthly Spend:</td>
+                                <td class="color-Green text-left numbers-text width-60 pr-3">${{customer.avgspend}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="width-5">
+                    <p class="small-border"></p>
+                </div>
+                <div class="companyDetails">
+                    <table class="progress-top-mtd width-100">
+                        <tr>
+                            <td tooltip="{{allHeadings.tip_mtd}}" placement="bottom" class="text-left width-50">
+                                <span class="width-10">MTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.actuals_last)}}</span>
+                            </td>
+                            <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100">
+                                Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customer.goals_last)}}</span>
+                            </td>
+                        </tr>                        
+                    </table>
+                    <table style="width:100%">
+                        <tr >
+                            <td>
+                                <span class="progress custom-progress">
+                                    <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customer.actuals_last*100)/customer.goals_last+'%'}"></span>
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <table class="progress-top" style="width:100%">
+                        <tr>
+                            <td tooltip="{{allHeadings.tip_ytd}}" placement="bottom" class="text-left width-50">
+                                <span class="width-10">YTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.sales_actuals)}}</span>
+                            </td>
+                            <td tooltip="{{allHeadings.tip_goal_year}}" placement="bottom" class="text-right width-100">
+                                Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customer.sales_goals)}}</span>
+                            </td>
+                        </tr>
+                   </table>
+                  <table style="width:100%">
+                    <tr>
+                        <td>
+                            <span class="progress custom-progress">
+                              <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customer.sales_actuals*100)/customer.sales_goals+'%'}"></span>
+                            </span>
+                        </td>
+                    </tr>
+                   </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Expanded View of my customers -->
+<jw-modal id={{modalName}}>
+
+    <div class="card-navbar" (dblclick)="openModal()">
+
+        <h5 class="col-sm-4 col-md-4 card-title-accounts"><span class="header-probold"><!--{{allHeadings.myAccount}}--> My Accounts</span></h5>
+        <form class="form-inline mr-auto">
+            <div class="input-group">
+
+                <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
+            </div>
+        </form>
+
+        <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+            <div class="m-0 p-0 dropdown d-flex text-right">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close.png"></a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="table-center">
+        <table class="table customers-table">
+            <thead class="overflow-stylings-thead">
+                <tr>
+                    <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth" tooltip="{{allHeadings.tip_home_accounts_exp_col_customer}}" placement="bottom">Customer</th>
+                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">CDW Highlights</th>
+                    <th scope="col" sortable="customer_industry" (sort)="onSort($event)" class="width-35" tooltip="{{allHeadings.tip_home_accounts_exp_col_cdwspend}}" placement="bottom">CDW Spend</th>
+                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-10" tooltip="{{allHeadings.tip_home_accounts_exp_col_trends}}" placement="bottom">Trends</th>
+                    <th scope="col" sortable="invoiceDate" (sort)="onSort($event)" class="width-20" tooltip="{{allHeadings.tip_home_accounts_exp_col_salesgoals}}" placement="bottom">Sales Goals</th>
+                    <th scope="col" sortable="expenditurePotential" (sort)="onSort($event)" class="width-7" tooltip="{{allHeadings.tip_home_accounts_exp_col_itpsow}}" placement="bottom">ITP / SOW</th>
+                    <th scope="col" sortable="expenditurePotential" (sort)="onSort($event)" class="width-15" tooltip="{{allHeadings.tip_home_accounts_exp_col_invoice}}" placement="bottom">Invoice Details</th>
+
+                </tr>
+            </thead>
+            <tbody class="height-overflow activeCustomer overflow-stylings-tbody">
+                <tr class="row1" *ngFor="let customers of customersList$ | async" (click)="selectedCustomer(customers)">
+                    <td class="width-customers">
+                        <span class="workerName">{{customers.customer_name}}</span>
+                        <br/>
+                        <span *ngIf='customers.headquarters != ""'>
+                                <img class="riskImage" src="assets/images/icons/location.png" tooltip="{{allHeadings.tip_icon_customer_hq}}" placement="bottom">
+                            </span>
+                        <span *ngIf='customers.headquarters != ""' class="customerSubHead">HQ: {{customers.headquarters}}</span>
+                        <br *ngIf='customers.headquarters != ""' />
+                        <span tooltip="{{allHeadings.tip_icon_customer_ipstatus}}" placement="bottom">
+                                <img *ngIf="customers.customer_ispublic === 'Y'" class="riskImage" src="assets/images/icons/public.png"/>
+                                <img *ngIf="customers.customer_ispublic === 'N'" class="riskImage" src="assets/images/icons/private.png"/>
+                            </span>
+                        <span class="customerSubHead" *ngIf="customers.customer_ispublic === 'Y'">Public Company</span>
+                        <span class="customerSubHead" *ngIf="customers.customer_ispublic === 'N'">Private Company</span>
+                        <br *ngIf="customers.FortuneIndicator === 'Yes'" />
+                        <span *ngIf="customers.FortuneIndicator === 'Yes'" tooltip="{{allHeadings.tip_icon_customer_fortunerank}}" placement="bottom">
+                                <img class="customer-text" src="assets/images/icons/fortune.png"/>
+                            </span>
+                        <span class="customerSubHead" *ngIf="customers.FortuneIndicator === 'Yes'">Fortune 500: {{customers.FortuneRank}}</span>
+                        <br/>
+                        <span>
+                                <img *ngIf="customers.financial_status === 'high'" class="riskImage" src="assets/images/icons/financial-status-high.png" tooltip="{{allHeadings.tip_icon_customer_financialstatus}}" placement="bottom">
+                                <img *ngIf="customers.financial_status === 'low'" class="riskImage" src="assets/images/icons/financial-status-low.png" tooltip="{{allHeadings.tip_icon_customer_financialstatus}}" placement="bottom">
+                            </span>
+                        <span class="riskImage" *ngIf="customers.financial_status === 'high'">
+                            <span class="customerSubHead">Financial Status:</span>
+                            <img class='riskImage' *ngIf="customers.financial_status === 'high'" src="assets/images/icons/financial-status-high.png"/> 16%
+                            </span>
+                        <span class="riskImage" *ngIf="customers.financial_status === 'low'">
+                            <span class="customerSubHead">Financial Status:</span> 
+                            <img class='riskImage' *ngIf="customers.financial_status === 'low'" src="assets/images/icons/financial-status-low.png"/> 10%
+                            </span>
+                    </td>
+                    <td class="width-8">
+                        <img class='riskImage' src="assets/images/icons/cdw-tenure@2x.png" tooltip="{{allHeadings.tip_icon_customer_tenure}}" placement="bottom"/>
+                        <span class="customerSubHead">{{customers.tenure}} Years</span>
+                        <br/>
+                        
+                        <img class='riskImage' src="assets/images/icons/retained.png" tooltip="{{allHeadings.tip_icon_customer_retained}}" placement="bottom">                        
+                        <span class="customerSubHead">{{customers.LifeCycle_Stage}}</span>
+                        <br/>
+                        <span>
+                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'High Risk'" src="assets/images/icons/risk-high@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
+                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'Low Risk'" src="assets/images/icons/risk-low@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
+                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'Medium Risk'" src="assets/images/icons/risk-medium@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
+                        </span>
+                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'High Risk'">High Risk
+                       </span>
+                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'Low Risk'">Low Risk
+                       </span>
+                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'Medium Risk'">Medium Risk
+                    </span>
+                        <br/>
+                            <span class='riskImage'>
+                                <img class='riskImage' *ngIf="customers.conversion_rate === 'high'" src="assets/images/icons/conversion-high.png" tooltip="{{allHeadings.tip_icon_customer_conversionrate}}" placement="bottom"/>
+                                <img class='riskImage' *ngIf="customers.conversion_rate === 'low'" src="assets/images/icons/conversion-low.png" tooltip="{{allHeadings.tip_icon_customer_conversionrate}}" placement="bottom"/>
+                            </span>
+                        <span class="customerSubHead" *ngIf="customers.conversion_rate === 'high'">High Conversion
+                        </span>
+                        <span class="customerSubHead" *ngIf="customers.conversion_rate === 'low'">Low Conversion
+                        </span>
+                        <br/>
+                        <span>
+                     <img class='riskImage' *ngIf="customers.financial_status === 'high'" src="assets/images/icons/nps-high.png"/>
+                     <img class='riskImage' *ngIf="customers.financial_status === 'low'" src="assets/images/icons/nps-low.png"/>
+                     <img class='riskImage' *ngIf="customers.financial_status === ''" src="assets/images/icons/nps-medium.png"/>
+                </span>
+                        <span class="customerSubHead" *ngIf="customers.financial_status === 'high'">NPS 8/10
+                </span>
+                        <span class="customerSubHead" *ngIf="customers.financial_status === 'low'">NPS 3/10
+                </span>
+                        <span class="customerSubHead" *ngIf="customers.financial_status === ''">NPS 5/10
+                </span>
+                    </td>
+                    <td class="width-35">
+                        <div class="flex-row">
+                            <div style="width:42%">
+                                <table class="table-bordered">
+                                    <tbody>
+                                        <tr class="pr-2">
+                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">YTD:</td>
+                                            <td class="color-grey text-left numbers-text width-50">${{customers.customerC12}}</td>
+                                        </tr>
+                                        <tr class="pr-3">
+                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">YoY Change:</td>
+                                            <td class="color-darkblue text-left numbers-text width-50">{{customers.yoy != '' ? (customers.yoy) : 0}}%</td>
+                                        </tr>
+                                        <tr class="pr-3">
+                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Margin(%):</td>
+                                            <td class="color-yellow text-left numbers-text width-50">{{customers.margin != '' ? (customers.margin) : 0}}%</td>
+                                        </tr>
+                                        <tr class="pr-3">
+                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg. Monthly Spend:</td>
+                                            <td class="color-Green text-left numbers-text width-50">${{customers.avgspend}}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div style="width:58%">
+                                <table class="width-100 table-bordered">
+                                    <tr>
+                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_online}}" placement="bottom" class="text-left width-100">
+                                            <span class="width-10 tab-content-text color-grey">Online:</span><span class="YTD-style color-yellow number-graph text-right"> ${{convertNumber(customers.Online_c12)}}</span>
+                                        </td>
+                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_offline}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
+                                            Offline:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.C12TM - customers.Online_c12)}}</span>
+                                        </td>
+                                    </tr>                        
+                                </table>
+                                <table style="width:100%" class="table-bordered">
+                                    <tr >
+                                        <td>
+                                            <span class="progress custom-progress">
+                                                <span class="progress-bar custom-progressBar1" [ngStyle]="{'width': (customers.Online_c12*100)/customers.C12TM+'%'}"></span>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </table>
+            
+                                <table class="mt-1 table-bordered" style="width:100%">
+                                    <tr>
+                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_core}}" placement="bottom" class="text-left width-100">
+                                            <span class="width-10 tab-content-text color-grey">Core:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.Core_c12tm)}}</span>
+                                        </td>
+                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_its}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
+                                            ITS:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.vv2_c12tm)}}</span>
+                                        </td>
+                                    </tr>
+                               </table>
+                              <table style="width:100%" class="table-bordered">
+                                <tr>
+                                    <td>
+                                        <span class="progress custom-progress">
+                                          <span class="progress-bar custom-progressBar2" [ngStyle]="{'width': (customers.Core_c12tm*100)/customers.C12TM+'%'}"></span>
+                                        </span>
+                                    </td>
+                                </tr>
+                               </table>
+            
+                            </div>
+                        </div>
+                    </td>
+
+                    <td class="width-10">
+                       <table class="custom-table-styles">
+                            <tr>
+                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_online}}" placement="bottom">Online:</td>
+                                <td class="width-55 text-left grey-numbers1">
+                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.Online_c12 > customers.Online_p12">
+                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
+                                    </span>
+                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.Online_c12 <= customers.Online_p12">
+                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
+                                    </span>
+                                    <span>{{convertNumbertoInteger(((customers.Online_c12-customers.Online_p12)*100)/customers.Online_p12)}}</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_offline}}" placement="bottom">Offline:</td>
+                                <td class="width-55 text-left grey-numbers1">
+                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="(customers.C12TM - customers.Online_c12) > (customers.P12Tm - customers.Online_p12)">
+                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
+                                    </span>
+                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="(customers.C12TM - customers.Online_c12) <= (customers.P12Tm - customers.Online_p12)">
+                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
+                                    </span>
+                                    {{convertNumbertoInteger((((customers.C12TM - customers.Online_c12) - (customers.P12Tm - customers.Online_p12))*100)/(customers.P12Tm - customers.Online_p12))}}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_core}}" placement="bottom">Core:</td>
+                                <td class="width-55 text-left grey-numbers1">
+                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.Core_c12tm > customers.Core_P12TM">
+                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
+                                    </span>
+                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.Core_c12tm <= customers.Core_P12TM">
+                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
+                                    </span>
+                                    {{convertNumbertoInteger(((customers.Core_c12tm-customers.Core_P12TM)*100)/customers.Core_P12TM)}}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_its}}" placement="bottom">ITS:</td>
+                                <td class="width-55 text-left grey-numbers1">
+                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.vv2_c12tm > customers.VV2_P12TM">
+                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
+                                    </span>
+                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.vv2_c12tm <= customers.VV2_P12TM">
+                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
+                                    </span>
+                                    {{convertNumbertoInteger(((customers.vv2_c12tm-customers.VV2_P12TM)*100)/customers.VV2_P12TM)}}
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+
+                    <td class="width-20" style="vertical-align: top!important;">
+                        <div class="flex-row">
+                        <table class="width-100 table-bordered">
+                            <tr>
+                                <td tooltip="{{allHeadings.tip_mtd}}" placement="bottom" class="text-left width-100">
+                                    <span class="width-10 tab-content-text color-grey">MTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.actuals_last)}}</span>
+                                </td>
+                                <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
+                                    Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.goals_last)}}</span>
+                                </td>
+                            </tr>                        
+                        </table>
+                        <table class="table-bordered" style="width:100%">
+                            <tr >
+                                <td>
+                                    <span class="progress custom-progress">
+                                        <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customers.actuals_last*100)/customers.goals_last+'%'}"></span>
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+    
+                        <table class="table-bordered mt-1">
+                            <tr>
+                                <td tooltip="{{allHeadings.tip_ytd}}" placement="bottom" class="text-left width-100">
+                                    <span class="width-10 tab-content-text color-grey">YTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.sales_actuals)}}</span>
+                                </td>
+                                <td tooltip="{{allHeadings.tip_goal_year}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
+                                    Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.sales_goals)}}</span>
+                                </td>
+                            </tr>
+                        </table>
+                        <table class="table-bordered" style="width:100%">
+                        <tr>
+                            <td>
+                                <span class="progress custom-progress">
+                                    <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customers.sales_actuals*100)/customers.sales_goals+'%'}"></span>
+                                </span>
+                            </td>
+                        </tr>
+                        </table>
+                    </div>
+                    </td>
+                    <td class="color-grey text-center numbers-text width-7">
+                        <span class="text-center">${{customers.expenditurePotential}} /<br>{{customers.capturedPercentage}}%</span>
+                    </td>
+                    <td class="width-15">
+                        <div class="d-flex">
+                            <div class=" invoice contactDetails">
+                                <table class="table-bordered">
+                                    <tr>
+                                        <td class="width-52 tab-content-text color-grey">Last Invoice Date:</td>
+                                        <td class="blue-numbers invoiceDate width-50">{{customers.customer_last_invoice_date}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="width-52 tab-content-text color-grey">Avg. Order Value:</td>
+                                        <td class="green-numbers invoiceDate amount width-50">${{convertNumber(customers.avg_sales)}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="width-52 tab-content-text color-grey">Avg. Order Frequency:</td>
+                                        <td class="grey-numbers invoiceDays days width-50">{{customers.Order_Frequency_In_Days}} <span *ngIf="customers.Order_Frequency_In_Days === 1">Day</span><span *ngIf="customers.Order_Frequency_In_Days != 1">Days</span></td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!--<div class="d-flex justify-content-between p-1">
+            <ngb-pagination [collectionSize]="total$ | async" [(page)]="service.page" [pageSize]="service.pageSize">
+            </ngb-pagination>
+
+            <select class="custom-select" style="width: auto" name="pageSize" [(ngModel)]="service.pageSize">
+                <option [ngValue]="20">20 items per page</option>
+                <option [ngValue]="25">25 items per page</option>
+                <option [ngValue]="30">30 items per page</option>
+            </select>
+        </div>-->
+    </div>
+
+</jw-modal>

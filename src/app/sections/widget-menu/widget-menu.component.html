@@ -1,0 +1,30 @@
+<div class="btn-group card-dropdown" dropdown placement="bottom right">
+    <a dropdownToggle class="lines-dropdown" aria-controls="dropdown-alignment">
+        <i class="fa fa-ellipsis-v"></i>
+    </a>
+    <ul *dropdownMenu class="dropdown-menu dropdown-menu-right custom-dropdown-styles" role="menu" aria-labelledby="button-alignment">
+        <li role="menuitem">
+            <a class="dropdown-item" *ngIf="isExpandable(modalName);" (click)="openModal()">
+                <img class="menu-img pr-1" src="assets/images/icons/expand-active.png"><span class="enabled">Expand Widget</span>
+            </a>
+            <p class="disabled" *ngIf="!isExpandable(modalName)"><img class="menu-img pr-1" src="assets/images/icons/expand-inactive.png">Expand Widget</p>
+        </li>
+        <!-- <li role="menuitem">
+            <a class="dropdown-item">
+                <i class="fa fa-search"></i>
+                <input type="text" class="pl-1" placeholder="Search Customer">
+            </a>
+        </li>
+        <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-filter"></i>Filter
+                Customers</a></li> 
+        <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-clipboard"></i>Change
+                widget's data</a>
+        </li>-->
+        <li role="menuitem">
+            <a *ngIf="isRemovable(modalName)" class="dropdown-item" (click)="removeWidget()">
+                <img class="menu-img pr-1" src="assets/images/icons/close-active.png"><span class="enabled">Remove Widget</span>
+            </a>
+            <p class="disabled" *ngIf="!isRemovable(modalName)"><img class="menu-img pr-1" src="assets/images/icons/close-inactive.png">Remove Widget</p>
+        </li>
+    </ul>
+</div>

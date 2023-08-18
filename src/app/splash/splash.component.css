@@ -1,0 +1,35 @@
+.splash-body{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    left: 0; 
+    top: 0;
+}
+
+.splash-img{
+    height:100vh;
+    width: 100%;
+}
+.corporate {
+    position: absolute;
+    top: 52.1%;
+    left: 74%;
+    width: 18%
+  }
+
+.smb{
+    position: absolute;
+    top: 59%;
+    left: 74%;
+    width: 18%;
+}
+
+.splash-text {
+    position: absolute;
+    font-family: 'Prelo-SemiBold'!important;
+    font-size:14px;
+    top: 30%;
+    right: 8%;
+    text-align: text;
+    width: 18%;
+  }

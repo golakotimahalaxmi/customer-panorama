@@ -1,0 +1,47 @@
+<div class="main-body">
+    <app-side-navigation class="side-navbar-width"></app-side-navigation>
+    <div class="main_content-right">
+        <app-top-navigation></app-top-navigation>
+        <div class="content-outlet">
+            <div class="pb-1">
+                <span class="text-white text-small"><a href="/" class="text-white text-small">Home </a></span><span class="text-white text-small">> </span><span class="text-white text-small">Feedback</span>
+            </div>
+            <div class="row card-container height">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                    <div class="card">
+                       <p class="md-text heading-bar width-100">Help Us Improve</p>  
+                         <form [formGroup]="commentingForm">   
+                        <div class="border-row width-98 margin-auto">
+                             <input class="feedback-field p-1" formControlName="Title" type="text" placeholder="Title">
+                             <p class="border-line m-0"></p>
+                             <textarea id="text-area-resize" class="feedback-field p-1 mb-2" formControlName="Content" name="comment" form="usrform" (input)="resizeText()" placeholder="Start Typing Here..."></textarea>
+                          </div>
+                          <div class="width-98 margin-auto mt-2">
+                             <button class="custom-button" [disabled]="commentingForm.valid === false" [ngClass]="{'disbledColor': commentingForm.valid === false, 'enbaledColor': commentingForm.valid === true}" (click)="submitComment()">Submit</button>
+                         </div>
+                         </form>  
+                         <div class="width-98 margin-auto mt-2">
+                            <span>Conversations</span><br/>
+                            <span class="workerName1 color-black font-family-Italic">Conversations are comments posted by others users,if you're facing a similar issue as the comment here,upvote it to bring it to our attention! Gracias :)</span>
+                            <p class="border-line-message mt-2"></p>
+                            <div class="view-comment-box">
+                                <div *ngFor="let comment of commentsList; let i = index;">
+                                    <span>{{comment.Title}}</span><br/>
+                                    <span class="workerName1 color-black font-family-Italic">{{comment.Content}}</span>
+                                    <p class="border-line-message mt-2"></p>
+                                </div>   
+                            </div>
+                                              
+                    </div>                    
+                </div>
+
+               
+             </div>
+
+
+        </div>
+        <div>
+            <app-footer></app-footer>
+        </div>
+    </div>
+</div>

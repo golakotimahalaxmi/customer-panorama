@@ -1,0 +1,43 @@
+.center {
+  width: 90%;
+  margin: auto;
+}
+.cdw-logo {
+  width: 50px !important;
+}
+.nav-logo {
+  height: 30px;
+}
+.nav-list-items {
+  height: 85px;
+}
+.nav-list-items img {
+  margin: 1rem 0rem;
+}
+.item-styles {
+  padding-top: 0.25rem;
+  color: #fff;
+  margin-top: -0.8rem;
+  font-size: 10px;
+  font-family: "Prelo-SemiBold", sans-serif !important;
+}
+
+.item-styles-inactive {
+  padding-top: 0.25rem;
+  color: #b8b9bb;
+  margin-top: -0.8rem;
+  font-size: 10px;
+  font-family: "Prelo-SemiBold", sans-serif !important;
+}
+.smallBorder {
+  border-top: 0.08rem solid #fff;
+  width: 40%;
+  margin: auto;
+}
+
+.fullBorder {
+  width: 100%;
+  background-color: #777;
+  border-bottom: 0.09rem solid #fff;
+  border-top: 0.09rem solid #fff;
+}

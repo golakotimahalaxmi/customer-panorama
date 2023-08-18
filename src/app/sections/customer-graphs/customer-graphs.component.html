@@ -1,0 +1,44 @@
+<div class="card half-card mb-2">
+    <div class="card-row"><!--(dblclick)="openModal()"-->
+        <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+            <div class="card-header" tooltip="{{getAllheadings.tip_cp_salesactivity_widget_title}}" placement="bottom">
+                {{getAllheadings.customerTopspend}}
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-2 col-sm-2 col-4 text-right">
+            <!--<app-widget-menu [modalName]="modalName"></app-widget-menu>-->
+        </div>        
+    </div>
+    <div class="card-body p-0 pt-2 widger-scoller-half">
+        <span class="text-center ml-6 pl-4 font-14">(%)</span>
+        <div class="card-main pt-1">
+               <app-bar-chart></app-bar-chart><!--*ngIf="chartData" [data]="chartData"-->
+        </div>
+    </div>
+</div>
+
+<!-- expanded view modal for customer top spend-->
+<jw-modal id={{modalName}}>
+    <!--<div class="card-container">-->
+    <div class="card-navbar">
+        <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{getAllheadings.customerTopspend}}</span></h5>
+        <form class="form-inline mr-auto">
+        <div class="input-group">
+            <input type="text" class="form-control search-main bg-light border-0 small"
+            [placeholder]="getAllheadings.placeholderInsideModal">
+            <!--<div class="input-group-append">
+                <button class="btn btn-search" type="button">
+                Search
+                </button>
+            </div>-->
+        </div>
+        </form>
+    
+        <div class="navbar-menu-wrapper m-0 p-0  link-point">
+            <div class="m-0 p-0 dropdown d-flex float-right">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+            </div>
+        </div>
+    <!-- content goes here-->
+    </div>
+</jw-modal>

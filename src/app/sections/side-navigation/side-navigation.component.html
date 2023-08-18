@@ -1,0 +1,58 @@
+<div class="side-navigation showSidebar">
+  <div class="center">
+    <div class="main-logo">
+      <a href="/"
+        ><img
+          src="assets/images/logos/AD-Favicon.png"
+          tooltip="{{ cdwTooltipName }}"
+          placement="bottom"
+          class="img-fluid cdw-logo"
+          alt="logo"
+          widht="50"
+        />
+      </a>
+    </div>
+
+    <div class="side-menu">
+      <div
+        class="nav-list-items borderClass"
+        [ngClass]="{ fullBorder: navItem.border === 'yes' }"
+        *ngFor="let navItem of sideNavitems; let i = index"
+        (click)="openCustomersExpanded(navItem)"
+      >
+        <a href="{{ navItem.href }}" *ngIf="navItem.link === 'yes'">
+          <img
+            [src]="navItem.itemIcon"
+            tooltip="{{ navItem.toolTip }}"
+            placement="bottom"
+            class="img-fluid nav-logo"
+            alt="logo"
+          />
+          <p class="item-styles">{{ navItem.itemName }}</p>
+        </a>
+        <span *ngIf="navItem.link === 'no'">
+          <span *ngIf="navItem.last === 'yes'"
+            ><p style="margin-top: 125px"></p>
+          </span>
+          <img
+            [src]="navItem.itemIcon"
+            tooltip="{{ navItem.toolTip }}"
+            placement="bottom"
+            class="img-fluid nav-logo"
+            alt="logo"
+          />
+          <p class="item-styles-inactive">{{ navItem.itemName }}</p>
+        </span>
+        <p [ngClass]="{ smallBorder: navItem.bottom === 'yes' }"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="side-menu">
+        <ul>
+            <li><a href="#"><i class="fa fa-repeat"></i><span>Renewals</span> </a></li>
+            <li><a href="#"><i class="fa fa-volume-control-phone"></i><span>Contacts</span> </a></li>
+            <li><a href="#"><i class="fa fa-list"></i><span>Tasks</span> </a></li>
+        </ul>
+    </div> -->
+</div>
