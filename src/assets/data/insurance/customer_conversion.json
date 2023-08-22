@@ -1,0 +1,63 @@
+[
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Personal Accident & Health Insurance,Private Client Group",
+        "sc_total":11000
+    },
+
+
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"Life Insurance,Accident Insurance,Cancer Insurance",
+        "sc_total":14000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"Supplemental Insurance,LIFE INSURANCE",
+        "sc_total":10000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"PProperty insurance,Accident Insurance",
+        "sc_total":12000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"Business Insurance,Long-Term Care Rider Insurance,Condo Insurance",
+        "sc_total":15000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Homeowners Insurance,ATV Insurance,General Liability Insurance",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Commercial Truck Insurance,General Liability Insurance,Dump Truck Insurance",
+        "sc_total":12000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"retirement annuities,Rollover,IRA",
+        "sc_total":14000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"Life Insurance,Annuities",
+        "sc_total":14000
+    },
+{
+        "conversion_probability":"HIGH",
+        "shopping_carts":40,
+        "product_group":"Life Insurance,Health Reinsurance,Global Financial Solutions",
+        "sc_total":19000
+    }]

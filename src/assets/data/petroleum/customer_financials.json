@@ -1,0 +1,265 @@
+[
+  {
+    "CustomerCode": 2021058,
+    "CustomerDescription": "ExxonMobil(2021058)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Mobil Delvac 1™ LE 5W-30 synthetic diesel(synthetic diesel)",
+    "BrandDescription": "Intel",
+    "GrossSales": 13132812.01,
+    "CoworkerCode": "BS49"},
+
+{
+    "CustomerCode": 2021058,
+    "CustomerDescription": "ExxonMobil(2021058)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Mobil Delvac 1™ LE 5W-30 synthetic diesel(synthetic diesel)",
+    "BrandDescription": "Intel",
+    "GrossSales": 14131859.12,
+    "CoworkerCode": "BS49"},
+
+
+{
+    "CustomerCode": 2021058,
+    "CustomerDescription": "ExxonMobil(2021058)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Mobil Delvac 1™ LE 5W-30 synthetic diesel(synthetic diesel)",
+    "BrandDescription": "Intel",
+    "GrossSales": 13011851.13,
+    "CoworkerCode": "BS49"},
+
+{
+    "CustomerCode": 2021059,
+    "CustomerDescription": "Chevron(2021059)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Havoline® ATF III-H(Auxiliary Products)",
+    "BrandDescription": "Chevron",
+    "GrossSales": 14032145.01,
+    "CoworkerCode": "BL19"},
+
+{
+    "CustomerCode": 2021059,
+    "CustomerDescription": "Chevron(2021059)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Havoline® ATF III-H(Auxiliary Products)",
+    "BrandDescription": "Chevron",
+    "GrossSales": 15012549.11,
+    "CoworkerCode": "BL19"},
+
+{
+    "CustomerCode": 2021059,
+    "CustomerDescription": "Chevron(2021059)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Havoline® ATF III-H(Auxiliary Products)",
+    "BrandDescription": "Chevron",
+    "GrossSales": 14012859.21,
+    "CoworkerCode": "BL19"},
+
+{
+    "CustomerCode": 2021060,
+    "CustomerDescription": "Phillips 66(2021060)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "FLEX(AUTOMATIC LUBRICATORS)",
+    "BrandDescription": "Phillips 66",
+    "GrossSales": 15030847.01,
+    "CoworkerCode": "BK20"},
+
+{
+    "CustomerCode": 2021060,
+    "CustomerDescription": "Phillips 66(2021060)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "FLEX(AUTOMATIC LUBRICATORS)",
+    "BrandDescription": "Phillips 66",
+    "GrossSales": 16010809.08,
+    "CoworkerCode": "BK20"},
+{
+    "CustomerCode": 2021060,
+    "CustomerDescription": "Phillips 66(2021060)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "FLEX(AUTOMATIC LUBRICATORS)",
+    "BrandDescription": "Phillips 66",
+    "GrossSales": 14010879.08,
+    "CoworkerCode": "BK20"},
+
+{
+    "CustomerCode": 2021061,
+    "CustomerDescription": "Valero Energy(2021061)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Diesel(fuel)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 12010149.09,
+    "CoworkerCode": "BP10"},
+
+{
+    "CustomerCode": 2021061,
+    "CustomerDescription": "Valero Energy(2021061)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Diesel(fuel)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 13010849.03,
+    "CoworkerCode": "BP10"},
+{
+    "CustomerCode": 2021061,
+    "CustomerDescription": "Valero Energy(2021061)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Diesel(fuel)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 12040849.04,
+    "CoworkerCode": "BP10"},
+{
+    "CustomerCode": 2021062,
+    "CustomerDescription": "Energy Transfer(2021062)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 15020104.08,
+    "CoworkerCode": "BS11"},
+
+{
+    "CustomerCode": 2021062,
+    "CustomerDescription": "Energy Transfer(2021062)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 14010103.02,
+    "CoworkerCode": "BS11"},
+
+{
+    "CustomerCode": 2021062,
+    "CustomerDescription": "Energy Transfer(2021062)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Valero Energy",
+    "GrossSales": 16010109.08,
+    "CoworkerCode": "BS11"},
+
+{
+    "CustomerCode": 2021063,
+    "CustomerDescription": "Plains All American Pipeline(2021063)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "crude oil(fuel)",
+    "BrandDescription": "Plains All American Pipeline",
+    "GrossSales": 14010109.02,
+    "CoworkerCode": "Bk11"},
+
+{
+    "CustomerCode": 2021063,
+    "CustomerDescription": "Plains All American Pipeline(2021063)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "crude oil(fuel)",
+    "BrandDescription": "Plains All American Pipeline",
+    "GrossSales": 15050101.51,
+    "CoworkerCode": "Bk11"},
+
+{
+    "CustomerCode": 2021063,
+    "CustomerDescription": "Plains All American Pipeline(2021063)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "crude oil(fuel)",
+    "BrandDescription": "Plains All American Pipeline",
+    "GrossSales": 15050102.21,
+    "CoworkerCode": "Bk11"},
+{
+    "CustomerCode": 2021064,
+    "CustomerDescription": "Enterprise Products(2021064)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Enterprise Products",
+    "GrossSales": 15050170.07,
+    "CoworkerCode": "ld12"},
+{
+    "CustomerCode": 2021064,
+    "CustomerDescription": "Enterprise Products(2021064)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Enterprise Products",
+    "GrossSales": 16060109.04,
+    "CoworkerCode": "ld12"},
+{
+    "CustomerCode": 2021064,
+    "CustomerDescription": "Enterprise Products(2021064)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NATURAL GAS LIQUIDS(LIQUIDS)",
+    "BrandDescription": "Enterprise Products",
+    "GrossSales": 14020109.01,
+    "CoworkerCode": "ld12"},
+
+{
+    "CustomerCode": 2021065,
+    "CustomerDescription": "PBF Energy(2021065)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Clean Fuel(Fuel)",
+    "BrandDescription": "PBF Energy",
+    "GrossSales": 15020109.04,
+    "CoworkerCode": "kF13"},
+
+{
+    "CustomerCode": 2021065,
+    "CustomerDescription": "PBF Energy(2021065)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Clean Fuel(Fuel)",
+    "BrandDescription": "PBF Energy",
+    "GrossSales": 16060101.02,
+    "CoworkerCode": "kF13"},
+
+{
+    "CustomerCode": 2021065,
+    "CustomerDescription": "PBF Energy(2021065)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Clean Fuel(Fuel)",
+    "BrandDescription": "PBF Energy",
+    "GrossSales": 14080102.09,
+    "CoworkerCode": "kF13"},
+
+{
+    "CustomerCode": 2021066,
+    "CustomerDescription": "Baker Hughes(2021066)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Gas Turbines(Turbines)",
+    "BrandDescription": "Baker Hughes",
+    "GrossSales": 17080102.09,
+    "CoworkerCode": "MK15"},
+
+{
+    "CustomerCode": 2021066,
+    "CustomerDescription": "Baker Hughes(2021066)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Gas Turbines(Turbines)",
+    "BrandDescription": "Baker Hughes",
+    "GrossSales": 16080102.05,
+    "CoworkerCode": "MK15"},
+
+{
+    "CustomerCode": 2021066,
+    "CustomerDescription": "Baker Hughes(2021066)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Gas Turbines(Turbines)",
+    "BrandDescription": "Baker Hughes",
+    "GrossSales": 15080102.04,
+    "CoworkerCode": "MK15"},
+
+{
+    "CustomerCode": 2021067,
+    "CustomerDescription": "Halliburton(2021067)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Horizontal Pumping Systems(Pumping Systems)",
+    "BrandDescription": "Halliburton",
+    "GrossSales": 16080102.09,
+    "CoworkerCode": "SK18"},
+{
+    "CustomerCode": 2021067,
+    "CustomerDescription": "Halliburton(2021067)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Horizontal Pumping Systems(Pumping Systems)",
+    "BrandDescription": "Halliburton",
+    "GrossSales": 15080102.01,
+    "CoworkerCode": "SK18"},
+{
+    "CustomerCode": 2021067,
+    "CustomerDescription": "Halliburton(2021067)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Horizontal Pumping Systems(Pumping Systems)",
+    "BrandDescription": "Halliburton",
+    "GrossSales": 14080103.02,
+    "CoworkerCode": "SK18"}
+
+]

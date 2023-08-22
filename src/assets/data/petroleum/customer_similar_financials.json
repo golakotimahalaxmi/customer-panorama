@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Lukoil",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 1501880.03
+    },
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Total SE",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 1402042.06
+    },
+    {   
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Chevron Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 1551981.17
+    },
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Lukoil",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyethylene products",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Total SE",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyethylene products",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Chevron Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyethylene products",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Lukoil",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 85880.05
+    },
+    {
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Total SE",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021058,
+        "SimilarCustomerDescription": "Chevron Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Polyolefin plastomers and elastomers",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "chevron fuels ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Devon Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "chevron fuels ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021059,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "chevron fuels ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "caltex fuels & lubricants",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Devon Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "caltex fuels & lubricants",
+        "GrossSales": 70042.01
+    },
+    {   
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "caltex fuels & lubricants",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "texaco fuels & lubricants",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Devon Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "texaco fuels & lubricants",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021059,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "texaco fuels & lubricants",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "ExxonMobil",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "Equinor",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021060,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 1051980.10
+    },
+    {
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "ExxonMobil",
+        "PeriodType": "C12TM",
+        "ItemType": "Lubricants",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "Equinor",
+        "PeriodType": "C12TM",
+        "ItemType": "Lubricants",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Lubricants",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "ExxonMobil",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil",
+        "GrossSales": 71850.07
+    },
+    {
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "Equinor",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021060,
+        "SimilarCustomerDescription": "Hess Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Marathon Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Renewables",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Renewables",
+        "GrossSales": 1092002.01
+    },
+    {   
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Citgo",
+        "PeriodType": "C12TM",
+        "ItemType": "Renewables",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Marathon Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation & Logistics",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation & Logistics",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Citgo",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation & Logistics",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Marathon Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Occidental Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 2021061,
+        "SimilarCustomerDescription": "Citgo",
+        "PeriodType": "C12TM",
+        "ItemType": "Fuels",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Transpetro",
+        "PeriodType": "C12TM",
+        "ItemType": "MAJOR PROJECTS",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Newfield Exploration",
+        "PeriodType": "C12TM",
+        "ItemType": "MAJOR PROJECTS",
+        "GrossSales": 1492042.01
+    },
+    {   
+        "CustomerCode":2021062,
+        "SimilarCustomerDescription": "Cimarex Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "MAJOR PROJECTS",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Transpetro",
+        "PeriodType": "C12TM",
+        "ItemType": " REFINED PRODUCTS",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Newfield Exploration",
+        "PeriodType": "C12TM",
+        "ItemType": "REFINED PRODUCTS",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Cimarex Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "REFINED PRODUCTS",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Transpetro",
+        "PeriodType": "C12TM",
+        "ItemType": "NATURAL GAS LIQUIDS",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Newfield Exploration",
+        "PeriodType": "C12TM",
+        "ItemType": "NATURAL GAS LIQUIDS",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021062,
+        "SimilarCustomerDescription": "Cimarex Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "NATURAL GAS LIQUIDS",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "SemGroup",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLY AND LOGISTICS",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "Inter Pipeline",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLY AND LOGISTICS",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "CenterPoint Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLY AND LOGISTICS",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "SemGroup",
+        "PeriodType": "C12TM",
+        "ItemType": "FACILITIES",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "Inter Pipeline",
+        "PeriodType": "C12TM",
+        "ItemType": "FACILITIES",
+        "GrossSales": 98042.01
+    },
+    {   
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "CenterPoint Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "FACILITIES",
+        "GrossSales": 107080.45
+    },
+    {
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "SemGroup",
+        "PeriodType": "C12TM",
+        "ItemType": "TRANSPORTATION",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "Inter Pipeline",
+        "PeriodType": "C12TM",
+        "ItemType": "TRANSPORTATION",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021063,
+        "SimilarCustomerDescription": "CenterPoint Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "TRANSPORTATION",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Kinder Morgan",
+        "PeriodType": "C12TM",
+        "ItemType": "NGL Pipelines & Services",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Targa Resources",
+        "PeriodType": "C12TM",
+        "ItemType": "NGL Pipelines & Services",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Antero Midstream",
+        "PeriodType": "C12TM",
+        "ItemType": "NGL Pipelines & Services",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Kinder Morgan",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil Pipelines & Services",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":2021064,
+        "SimilarCustomerDescription": "Targa Resources",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil Pipelines & Services",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Antero Midstream",
+        "PeriodType": "C12TM",
+        "ItemType": "Crude Oil Pipelines & Services",
+        "GrossSales": 141080.45
+    },
+    {
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Kinder Morgan",
+        "PeriodType": "C12TM",
+        "ItemType": "Petrochemical & Refined Products Services",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Targa Resources",
+        "PeriodType": "C12TM",
+        "ItemType": "Petrochemical & Refined Products Services",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021064,
+        "SimilarCustomerDescription": "Antero Midstream",
+        "PeriodType": "C12TM",
+        "ItemType": "Petrochemical & Refined Products Services",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Imperial Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Gasoline Products",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Murco Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Gasoline Products",
+        "GrossSales": 1192042.01
+    },
+    {   
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Marathon Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Gasoline Products",
+        "GrossSales": 1051980.15
+    },
+    {
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Imperial Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Diesel Products",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Murco Petroleum",
+        "PeriodType": "C12TM",
+        "ItemType": "Diesel Products",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Marathon Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Diesel Products",
+        "GrossSales": 121080.45
+    },
+    {
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Imperial Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Jet Fuel Products",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Murco Petroleumn",
+        "PeriodType": "C12TM",
+        "ItemType": "Jet Fuel Products",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021065,
+        "SimilarCustomerDescription": "Marathon Oil",
+        "PeriodType": "C12TM",
+        "ItemType": "Jet Fuel Products",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Gibson Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "Integrated Well Services",
+        "GrossSales": 1301080.01
+    },
+    {
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Schlumberger",
+        "PeriodType": "C12TM",
+        "ItemType": "Integrated Well Services",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Flowserve",
+        "PeriodType": "C12TM",
+        "ItemType": "Integrated Well Services",
+        "GrossSales": 1201989.15
+    },
+    {
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Gibson Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "Pre-commissioning and maintenance",
+        "GrossSales": 51008.01
+    },
+    {
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Schlumberger",
+        "PeriodType": "C12TM",
+        "ItemType": "Pre-commissioning and maintenance",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Flowserve",
+        "PeriodType": "C12TM",
+        "ItemType": "Pre-commissioning and maintenance",
+        "GrossSales": 150000.45
+    },
+    {
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Gibson Energy",
+        "PeriodType": "C12TM",
+        "ItemType": "turbo machinery services",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 2021066,
+        "SimilarCustomerDescription": "Schlumberger",
+        "PeriodType": "C12TM",
+        "ItemType": "turbo machinery services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021066,
+        "SimilarCustomerDescription": "Flowserve",
+        "PeriodType": "C12TM",
+        "ItemType": "turbo machinery services",
+        "GrossSales": 91090.45
+    },
+{
+        "CustomerCode":2021067,
+        "SimilarCustomerDescription": "Air Liquide",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021067,
+        "SimilarCustomerDescription": "ENBRIDGE INC",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021067,
+        "SimilarCustomerDescription": "AkzoNobel",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1051080.15
+    },
+    {
+        "CustomerCode": 2021067,
+        "SimilarCustomerDescription": "Air Liquide",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 58080.08
+    },
+    {
+        "CustomerCode": 2021067,
+        "SimilarCustomerDescription": "ENBRIDGE INC",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 70002.01
+    },
+    {   
+        "CustomerCode": 2021067,
+        "SimilarCustomerDescription": "AkzoNobel",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 101055.15
+    },
+    {
+        "CustomerCode": 2021067,
+        "SimilarCustomerDescription": "Air Liquide",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 79000.01
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "ENBRIDGE INC",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 105002.00
+    },
+    {   
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "AkzoNobel",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 90080.10
+    }
+]

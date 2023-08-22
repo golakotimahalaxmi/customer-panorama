@@ -1,0 +1,93 @@
+[
+  {
+    "Customercode": 2021058,
+    "CustomerDescription": "ExxonMobil(2021058)",
+    "CoworkerCode": "FS22",
+    "C12TM": 132983.51,
+    "P12Tm": 123892.16,
+    "PP12TM": 114080.17
+  },
+
+{
+    "Customercode": 2021059,
+    "CustomerDescription": "Chevron(2021059)",
+    "CoworkerCode": "FS22",
+    "C12TM": 152983.12,
+    "P12Tm": 143892.52,
+    "PP12TM": 134080.22
+  },
+{
+    "Customercode": 2021060,
+    "CustomerDescription": "Phillips 66(2021060)",
+    "CoworkerCode": "FL12",
+    "C12TM": 142983.02,
+    "P12Tm": 123892.10,
+    "PP12TM": 154080.23
+  },
+
+{
+    "Customercode": 2021061,
+    "CustomerDescription": "Valero Energy(2021061)",
+    "CoworkerCode": "FM14",
+    "C12TM": 142983.13,
+    "P12Tm": 133892.15,
+    "PP12TM": 154080.27
+  },
+
+{
+    "Customercode": 2021062,
+    "CustomerDescription": "Energy Transfer(2021062)",
+    "CoworkerCode": "TM14",
+    "C12TM": 152983.03,
+    "P12Tm": 143892.25,
+    "PP12TM": 124080.50
+  },
+
+{
+    "Customercode": 2021063,
+    "CustomerDescription": "Plains All American Pipeline(2021063)",
+    "CoworkerCode": "TK04",
+    "C12TM": 162983.01,
+    "P12Tm": 153892.12,
+    "PP12TM": 144080.13
+  },
+
+{
+    "Customercode": 2021064,
+    "CustomerDescription": "Enterprise Products(2021064)",
+    "CoworkerCode": "kl04",
+    "C12TM": 152983.01,
+    "P12Tm": 133892.02,
+    "PP12TM": 144080.05
+  },
+
+{
+    "Customercode": 2021065,
+    "CustomerDescription": "PBF Energy(2021065)",
+    "CoworkerCode": "LS04",
+    "C12TM": 142983.01,
+    "P12Tm": 163892.06,
+    "PP12TM": 154080.07
+  },
+
+{
+    "Customercode": 2021066,
+    "CustomerDescription": "Baker Hughes(2021066)",
+    "CoworkerCode": "kL01",
+    "C12TM": 152983.02,
+    "P12Tm": 163892.03,
+    "PP12TM": 174080.04
+  },
+
+{
+    "Customercode": 2021067,
+    "CustomerDescription": "Halliburton(2021067)",
+    "CoworkerCode": "TM14",
+    "C12TM": 132980.03,
+    "P12Tm": 143890.20,
+    "PP12TM": 124080.40
+  }
+]
+
+  
+ 

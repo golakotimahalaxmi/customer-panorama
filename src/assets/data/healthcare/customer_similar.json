@@ -1,0 +1,105 @@
+[
+  {
+    "CustomerCode":2021004,
+    "CustomerName": "CVS Health Corporation",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Express Scripts",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Medco Health Solutions",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Navarro Discount Pharmacies"
+  },
+{
+    "CustomerCode":2021005,
+    "CustomerName": "Walgreens Boots Alliance",
+    "SimilarCompany1_Code": ,
+    "SimilarCompany1_Name": "Alliance Boots",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Baxter International",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Alliance Healthcare"
+  },
+{
+    "CustomerCode":2021006,
+    "CustomerName": "Health Mart Systems",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Good Neighbor Pharmacy",
+    "SimilarCompany2_Code": 2021005,
+    "SimilarCompany2_Name": "WALGREENS BOOTS ALLIANCE, INC",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "CENTENE CORPORATION"
+  },
+{
+    "CustomerCode":2021011,
+    "CustomerName": "UnitedHealth Group",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": " Humana",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Cargill",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Spectrum Health"
+  },
+{
+    "CustomerCode":2021012,
+    "CustomerName": "MCKESSON ",
+    "SimilarCompany1_Code": 2021011,
+    "SimilarCompany1_Name": "UnitedHealth Group",
+    "SimilarCompany2_Code": 2021030,
+    "SimilarCompany2_Name": "Cardinal Health",
+    "SimilarCompany3_Code": 2021005,
+    "SimilarCompany3_Name": "Walgreens Boots Alliance"
+  },
+
+{
+    "CustomerCode":2021013,
+    "CustomerName": "AMERISOURCEBERGEN ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Owens & Minor",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Henry Schein",
+    "SimilarCompany3_Code": 2021030,
+    "SimilarCompany3_Name": "Cardinal Health"
+  },
+{
+    "CustomerCode":2021030,
+    "CustomerName": "Cardinal Health ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Abbott Laboratories",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Revlon",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Halliburton"
+  },
+{
+    "CustomerCode":2021031,
+    "CustomerName": "Cigna ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": " Aetna",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "WellCare",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Health Net"
+  },
+{
+    "CustomerCode":2021032,
+    "CustomerName": "JOHNSON & JOHNSON  ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": " Pfizer",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Janssen Pharmaceuticals",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Merck & Co."
+  },
+{
+    "CustomerCode":2021033,
+    "CustomerName": "Anthem  ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": " Pfizer",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "WellCare",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Health Net"
+  }]
+
+
+ 

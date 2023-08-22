@@ -1,0 +1,888 @@
+[
+    {
+        "CustomerCode": 2021038,
+        "CustomerDescription": "AIG (2021038)",
+        "probability": 80,
+        "total_value": 20000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "servers",
+        "pgm":"Rack Servers",
+        "product_name": "HPE ProLiant DL325 Gen10 Plus V2",
+        "product_value": "4000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(18)",
+            "product special offer views(12)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Michael Price",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021038,
+        "CustomerDescription": "AIG (2021038)",
+        "probability": 85,
+        "total_value": 83000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Desktops",
+        "product_name": "New OptiPlex 3090 Micro Desktop",
+        "product_value": "3000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(16)"
+        ],
+        "contacts":[
+            {
+                "name": "Patrick Mailloux",
+                "designation": "Global Product Leader"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021038,
+        "CustomerDescription": "AIG (2021038)",
+        "probability": 84,
+        "total_value": 200000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "   Business Applications  ",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": "  Power BI Premium  ",
+        "product_value": "20000",
+        "product_image": "Powerbi.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Jason James",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021038,
+        "CustomerDescription": "AIG (2021038)",
+        "probability": 86,
+        "total_value": 16000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Business Applications",
+        "pgm":"Document Management",
+        "product_name": "  HPE OpenView GlancePlus - media",
+        "product_value": "6000",
+        "product_image": "commerce.png",
+        "reasons":[
+            "of product views(13)",
+            "product special offer views(13)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Peter Zaffino",
+                "designation": "President & Chief Executive Officer"
+            }]},
+{
+        "CustomerCode": 2021039,
+        "CustomerDescription": "Allstate (2021039)",
+        "probability": 89,
+        "total_value": 79000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computer Components",
+        "pgm":"Motherboards",
+        "product_name": "SATA 6Gb/s ATX Intel Motherboard",
+        "product_value": "412",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Tom Wilson",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021039,
+        "CustomerDescription": "Allstate (2021039)",
+        "probability": 89,
+        "total_value": 37000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computers ",
+        "pgm":"Monitors",
+        "product_name": "Acer KG281K bmiipx 28 4K UHD (3840 x 2160) TN Monitor ",
+        "product_value": "346",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Matthew Miller",
+                "designation": "Director of Finance"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021039,
+        "CustomerDescription": "Allstate (2021039)",
+        "probability": 80,
+        "total_value": 17000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": "  Business Applications ",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": " Qlik Sense Enterprise ",
+        "product_value": "438",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Jordan Holzmiller",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021039,
+        "CustomerDescription": "Allstate (2021039)",
+        "probability": 90,
+        "total_value": 74000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Utilities  ",
+        "pgm":"Cloning",
+        "product_name": "Symantec Ghost Solution Suite ",
+        "product_value": "3000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(16)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Sandi Stewart",
+                "designation": "Manager"
+            }]},
+
+{
+        "CustomerCode": 2021040,
+        "CustomerDescription": "New York Life (2021040)",
+        "probability": 90,
+        "total_value": 75000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Blade Servers",
+        "product_name": "Cisco UCS SmartPlay Select B200 M5 Advanced 2",
+        "product_value": "7919",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(17)",
+            "product special offer views(13)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Sy Sternberg",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021040,
+        "CustomerDescription": "New York Life (2021040)",
+        "probability": 80,
+        "total_value": 10000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Plotter Printers",
+        "product_name": "Canon imagePROGRAF TM-200",
+        "product_value": "2315",
+        "product_image": "prograf.png",
+        "reasons":[
+            "of product emails opened(15)"
+        ],
+        "contacts":[
+            {
+                "name": "Rory Knapp",
+                "designation": "Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021040,
+        "CustomerDescription": "New York Life (2021040)",
+        "probability": 80,
+        "total_value": 77000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Business Applications ",
+        "pgm":"Application Suites",
+        "product_name": "  APPLE IPADPRO 11 WIFI 128 SG 3RD BUN ",
+        "product_value": "897",
+        "product_image": "ipadpro.png",
+        "reasons":[
+            "of product views(12)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Darryl Ogle",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021040,
+        "CustomerDescription": "New York Life (2021040)",
+        "probability": 87,
+        "total_value": 16000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Programming & Web Development ",
+        "pgm":"Databases",
+        "product_name": " ALTAIR UNITS MLT PHYSICS MECH ENGR ",
+        "product_value": "7000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Rachel Carr",
+                "designation": "Senior Development Manager"
+            }]},
+{
+        "CustomerCode": 2021041,
+        "CustomerDescription": "Liberty Mutual (2021041)",
+        "probability": 80,
+        "total_value": 18000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":" Rack Servers",
+        "product_name": "IBM X220 7/1260 256MB HS SRVR-DUP",
+        "product_value": "4000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(12)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "gregory jolin",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021041,
+        "CustomerDescription": "Liberty Mutual (2021041)",
+        "probability": 88,
+        "total_value": 16000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Laptops",
+        "product_name": "Acer TravelMate Spin P4 TMP414RN-51-76AV - 14",
+        "product_value": "1159",
+        "product_image": "travelMate.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Alex Bradford",
+                "designation": "Assistant Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021041,
+        "CustomerDescription": "Liberty Mutual (2021041)",
+        "probability": 80,
+        "total_value": 19000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": "Business Applications",
+        "pgm":"Document Management",
+        "product_name": "  BLACKBERRY CAPTOR F/BB DYN LIC ",
+        "product_value": "16",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(15)",
+            "product special offer views(14)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Cailyn Martuni",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021041,
+        "CustomerDescription": "Liberty Mutual (2021041)",
+        "probability": 82,
+        "total_value": 15000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Virtualization",
+        "pgm":"Client Virtualization",
+        "product_name": "Citrix XenDesktop Enterprise Edition - On-Premise",
+        "product_value": "65",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(18)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Jim Goldberg",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021042,
+        "CustomerDescription": "Erie (2021042)",
+        "probability": 90,
+        "total_value": 17000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers ",
+        "pgm":"Desktops",
+        "product_name": "Tangent M24T All-in-One 24 Core i5-7300U 16GB RAM 256GB ",
+        "product_value": "2346",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(12)",
+            "product special offer views(16)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Tim NeCastro",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021042,
+        "CustomerDescription": "Erie (2021042)",
+        "probability": 86,
+        "total_value": 12000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Plotter Printers",
+        "product_name": "Epson SureColor SC-P8000 Standard",
+        "product_value": "4630",
+        "product_image": "epsonsureColor.png",
+        "reasons":[
+            "of product emails opened(12)"
+        ],
+        "contacts":[
+            {
+                "name": "Jessika Cartwright",
+                "designation": "Creative Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021042,
+        "CustomerDescription": "Erie (2021042)",
+        "probability": 80,
+        "total_value": 17000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Operating Systems",
+        "pgm":"Windows",
+        "product_name": "  Windows 10 IoT Enterprise 2019 LTSC High End",
+        "product_value": "182",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Gennifer Biggs",
+                "designation": "Director of Marketing"
+            }]},
+{
+        "CustomerCode": 2021042,
+        "CustomerDescription": "Erie (2021042)",
+        "probability": 89,
+        "total_value": 14000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "    Operating Systems ",
+        "pgm":" Windows",
+        "product_name": " Windows 10 IoT Enterprise 2019 LTSC High End ",
+        "product_value": "182",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Angela Dorton",
+                "designation": "Sr. District Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021043,
+        "CustomerDescription": "GEICO (2021043)",
+        "probability": 90,
+        "total_value": 32000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Scanners",
+        "pgm":"Document Scanners",
+        "product_name": "Panasonic KV-S2087 ",
+        "product_value": "2158",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Jeremy Anders",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021043,
+        "CustomerDescription": "GEICO (2021043)",
+        "probability": 80,
+        "total_value": 20000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Rack Servers ",
+        "product_name": "Dell EMC PowerEdge R240",
+        "product_value": "1368",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Daniel Watkins",
+                "designation": "Assistant Vice President, Sales Technology"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021043,
+        "CustomerDescription": "GEICO (2021043)",
+        "probability": 80,
+        "total_value": 17000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "   Business Applications ",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": "  Bretford Connect Admin",
+        "product_value": "6230",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(18)",
+            "product special offer views(16)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Sydnae Bender",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021043,
+        "CustomerDescription": "GEICO (2021043)",
+        "probability": 88,
+        "total_value": 15000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Business Applications",
+        "pgm":" Application Suites",
+        "product_name": " APPLE IPADPRO 11 WIFI 128 SL 3RD BND",
+        "product_value": "897",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Bryan Rogers",
+                "designation": "Sr. Marketing Manager"
+            }]},
+{
+        "CustomerCode": 2021044,
+        "CustomerDescription": "Progressive (2021044)",
+        "probability": 90,
+        "total_value": 35000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":" Laptops",
+        "product_name": "Dell Latitude 5420 - 14",
+        "product_value": "1607",
+        "product_image": "delllatitude.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Kent A",
+                "designation": " CEO"
+            }]
+    },{
+        "CustomerCode": 2021044,
+        "CustomerDescription": "Progressive (2021044)",
+        "probability": 80,
+        "total_value": 40000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Servers ",
+        "pgm":"Blade Servers",
+        "product_name": "NVIDIA DGX A100 2x AMD Rome 7742 1TB Server ",
+        "product_value": "3000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(18)"
+        ],
+        "contacts":[
+            {
+                "name": "Terry Campbell",
+                "designation": "IT Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021044,
+        "CustomerDescription": "Progressive (2021044)",
+        "probability": 80,
+        "total_value": 7000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "    Business Applications  ",
+        "pgm":" Application Suites",
+        "product_name": "   AVEPOINT CLD BU O365 UNLTD ",
+        "product_value": "6",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Melissa Bove",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode":2021044,
+        "CustomerDescription": "Progressive (2021044)",
+        "probability": 81,
+        "total_value": 65000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "   Security ",
+        "pgm":"Endpoint Security",
+        "product_name": " Barracuda CloudGen Firewall for Microsoft Azure Level 2 ",
+        "product_value": "4000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Patrick Harvey ",
+                "designation": "Regional Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021045,
+        "CustomerDescription": "TIAA (2021045)",
+        "probability": 90,
+        "total_value": 60000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Desktops",
+        "product_name": "CYBERNET 22 FANLESS MED GRADE PC",
+        "product_value": "2660",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Thasunda Brown Duckett",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021045,
+        "CustomerDescription": "TIAA (2021045)",
+        "probability": 88,
+        "total_value": 18000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": " Servers",
+        "pgm":"Rack Servers",
+        "product_name": " Gigabyte R181-T90 (rev. 100)",
+        "product_value": "9226",
+        "product_image": "gigabyte.png",
+        "reasons":[
+            "of product emails opened(18)"
+        ],
+        "contacts":[
+            {
+                "name": "Beth Gibson",
+                "designation": "Managing Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021045,
+        "CustomerDescription": "TIAA (2021045)",
+        "probability": 80,
+        "total_value": 3000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Utilities ",
+        "pgm":"Backup",
+        "product_name": " Carbonite Server ",
+        "product_value": "28",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Phil Howell",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021045,
+        "CustomerDescription": "TIAA (2021045)",
+        "probability": 89,
+        "total_value": 15000,
+        "sale_type": "cross",
+        "item_type": "  Software",
+        "item_class": "  Business Applications ",
+        "pgm":" Reporting & Data Analytics",
+        "product_name": "   Alteryx Server ",
+        "product_value": "3000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Robert Murray",
+                "designation": "Managing Director"
+            }]},
+{
+        "CustomerCode": 2021046,
+        "CustomerDescription": "Lincoln National (2021046)",
+        "probability": 90,
+        "total_value": 120000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Laptops",
+        "product_name": "LG gram 16T90P-K.APB7U1",
+        "product_value": "1600",
+        "product_image": "lggram.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Dennis Glass",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021046,
+        "CustomerDescription": "Lincoln National (2021046)",
+        "probability": 85,
+        "total_value": 17000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Blade Servers",
+        "product_name": "Cisco UCS SmartPlay Select B200 M5",
+        "product_value": "7900",
+        "product_image": "ciscoucs.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Timothy Harrington",
+                "designation": "National Sales Manager"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021046,
+        "CustomerDescription": "Lincoln National (2021046)",
+        "probability": 80,
+        "total_value": 7000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "    Security ",
+        "pgm":"Authentication  ",
+        "product_name": "    Microsoft Azure Information Protection Premium P1",
+        "product_value": "27",
+        "product_image": "azure.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Deborah Graeber",
+                "designation": "Vice President Information Technology"
+            }]},
+{
+        "CustomerCode": 2021046,
+        "CustomerDescription": "Lincoln National (2021046)",
+        "probability": 80,
+        "total_value": 16000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "     Programming & Web Development",
+        "pgm":"Databases",
+        "product_name": "   Microsoft SQL Server Standard Edition",
+        "product_value": "890",
+        "product_image": "sql.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Pat Horden",
+                "designation": "Manager"
+            }]},
+{
+        "CustomerCode": 2021047,
+        "CustomerDescription": "Reinsurance Group of America (2021047)",
+        "probability": 89,
+        "total_value": 15000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Thermal Printers",
+        "product_name": "Entrust Sigma DS2",
+        "product_value": "170",
+        "product_image": "entrustsigma.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Tim Rozar",
+                "designation": "Chief of Staff to the CEO"
+            }]
+    },{
+        "CustomerCode": 2021047,
+        "CustomerDescription": "Reinsurance Group of America (2021047)",
+        "probability": 82,
+        "total_value": 12000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "scanners",
+        "pgm":"Document scanners",
+        "product_name": "Kodak i3450",
+        "product_value": "5000",
+        "product_image": "kodaki3450.png",
+        "reasons":[
+            "of product emails opened(16)"
+        ],
+        "contacts":[
+            {
+                "name": "Scott Brammell",
+                "designation": "Executive Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021047,
+        "CustomerDescription": "Reinsurance Group of America (2021047)",
+        "probability": 83,
+        "total_value": 39000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "   Utilities ",
+        "pgm":"Antivirus",
+        "product_name": "  Arcserve Backup Enterprise Module Windows v.11.5 ",
+        "product_value": "900",
+        "product_image": "arcserve.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Dan Tilley",
+                "designation": "Project Manager"
+            }]},
+{
+        "CustomerCode":2021047,
+        "CustomerDescription": "Reinsurance Group of America (2021047)",
+        "probability": 90,
+        "total_value": 38000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Virtualization",
+        "pgm":"Application Virtualization",
+        "product_name": " VMware Support and Subscription",
+        "product_value": "1635",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(16)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Bob Borgstede",
+                "designation": "Sr. Project Manager"
+            }]}
+
+
+    
+]
+            
+        

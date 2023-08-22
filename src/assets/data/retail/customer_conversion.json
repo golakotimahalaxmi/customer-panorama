@@ -1,0 +1,67 @@
+[
+    {
+        "conversion_probability":"High",
+        "shopping_carts":30,
+        "product_group":"BLACK MAGIC,Brown Aluminum Oxide",
+        "sc_total":30000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":25,
+        "product_group":"Poulan,Kobalt,CRAFTSMAN ",
+        "sc_total":20000
+    },
+{
+        "conversion_probability":"HIGH",
+        "shopping_carts":28,
+        "product_group":"Open Nature,Munchkin, ",
+        "sc_total":30000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Clover Valley Hazelnut Single Serve Cups,Good & Smart Freeze-Dried Strawberry Crisps",
+        "sc_total":40000
+    },
+
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":25,
+        "product_group":"Insignia™ - 32” Class LED HD Smart Fire TV Edition TV,Insignia™ - 5.0 Cu. Ft. Chest Freezer - White",
+        "sc_total":"30000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":28,
+        "product_group":"Boys Zip-Up Fleece Hoodie & Toddler Boys Pull-On Fleece Pants",
+        "sc_total":30000
+    },{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":"30",
+        "product_group":"Clear Oliver Glass Water Goblets &Thick-Bottom Smoked Glass Goblets",
+        "sc_total":"20000"
+    },
+
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":"40",
+        "product_group":"Under Armour Charged Vantage Men's Running Shoes,Men's Levi's® 541™ Athletic Taper Stretch Jeans",
+        "sc_total":"20000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":24,
+        "product_group":"Venus Wafers,Hofmann Franks & Sausages",
+        "sc_total":"30000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":28,
+        "product_group":"Conair Turbo Dryer,DermaGEEK Smoothing Facial Serum,Jack Spider Man Body Kit ",
+        "sc_total":25000
+    }
+
+]
+
+
+    

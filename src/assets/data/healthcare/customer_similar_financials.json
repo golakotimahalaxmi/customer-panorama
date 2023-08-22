@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Express Scripts",
+        "PeriodType": "C12TM",
+        "ItemType": "Health & wellness services",
+        "GrossSales": 1151880.03
+    },
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Health & wellness services",
+        "GrossSales": 1492042.06
+    },
+    {   
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Navarro Discount Pharmacies",
+        "PeriodType": "C12TM",
+        "ItemType": "Health & wellness services",
+        "GrossSales": 1551981.17
+    },
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Express Scripts",
+        "PeriodType": "C12TM",
+        "ItemType": "Health plans",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Health plans",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Navarro Discount Pharmacies",
+        "PeriodType": "C12TM",
+        "ItemType": "Health plans",
+        "GrossSales": 161080.45
+    },
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Express Scripts",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmacy services",
+        "GrossSales": 85880.05
+    },
+    {
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmacy services",
+        "GrossSales": 105042.08
+    },
+    {   
+        "CustomerCode": 2021004,
+        "SimilarCustomerDescription": "Navarro Discount Pharmacies",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmacy services",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Skin Ailments",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Baxter International",
+        "PeriodType": "C12TM",
+        "ItemType": "Skin Ailments",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021005,
+        "SimilarCustomerDescription": "Alliance Healthcare",
+        "PeriodType": "C12TM",
+        "ItemType": "Skin Ailments",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Supports and Braces",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Baxter International",
+        "PeriodType": "C12TM",
+        "ItemType": "Supports and Braces",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Alliance Healthcare",
+        "PeriodType": "C12TM",
+        "ItemType": "Supports and Braces",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Medco Health Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Eye Care's",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Baxter International",
+        "PeriodType": "C12TM",
+        "ItemType": "Eye Care's",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021005,
+        "SimilarCustomerDescription": "Alliance Healthcare",
+        "PeriodType": "C12TM",
+        "ItemType": "Eye Care's",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "WALGREENS BOOTS ALLIANCE, INC",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 1592042.01
+    },
+    {   
+        "CustomerCode":2021006,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "VACCINES",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "WALGREENS BOOTS ALLIANCE, INC",
+        "PeriodType": "C12TM",
+        "ItemType": "VACCINES",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "VACCINES",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "MEDICATION THERAPY AND CONSULTATIONS",
+        "GrossSales": 71850.07
+    },
+    {
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "WALGREENS BOOTS ALLIANCE, INC",
+        "PeriodType": "C12TM",
+        "ItemType": "MEDICATION THERAPY AND CONSULTATIONS",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021006,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "MEDICATION THERAPY AND CONSULTATIONS",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Humana",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Services",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Services",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Spectrum Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Services",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Humana",
+        "PeriodType": "C12TM",
+        "ItemType": "Assistance and Security Services",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "Assistance and Security Services",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Spectrum Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Assistance and Security Services",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Humana",
+        "PeriodType": "C12TM",
+        "ItemType": "Long-Term Assignments",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Good Neighbor Pharmacy",
+        "PeriodType": "C12TM",
+        "ItemType": "Long-Term Assignments",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021011,
+        "SimilarCustomerDescription": "Spectrum Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Long-Term Assignments",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "UnitedHealth Group",
+        "PeriodType": "C12TM",
+        "ItemType": "medical supplies",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "medical supplies",
+        "GrossSales": 1492042.01
+    },
+    {   
+        "CustomerCode":2021012,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": "medical supplies",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "UnitedHealth Group",
+        "PeriodType": "C12TM",
+        "ItemType": " pharmaceuticals",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "pharmaceuticals",
+        "GrossSales": 92092.01
+    },
+    {   
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": "pharmaceuticals",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "UnitedHealth Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021012,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Abbott Laboratories",
+        "PeriodType": "C12TM",
+        "ItemType": "Anesthesia Supplies",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Anesthesia Supplies",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "Anesthesia Supplies",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Abbott Laboratories",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 98042.01
+    },
+    {   
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 101080.45
+    },
+    {
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Abbott Laboratories",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby cares",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "Cardinal Health",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby cares",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021030,
+        "SimilarCustomerDescription": "CENTENE CORPORATION",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby cares",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Aetna",
+        "PeriodType": "C12TM",
+        "ItemType": "Laboratories",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Laboratories",
+        "GrossSales": 1102042.01
+    },
+    {   
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Laboratories",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Aetna",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical consultings",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical consultings",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical consultings",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Aetna",
+        "PeriodType": "C12TM",
+        "ItemType": "Claims processings",
+        "GrossSales": 81080.01
+    },
+    {
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Claims processings",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021031,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Claims processings",
+        "GrossSales": 91080.45
+    },
+{
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1251880.01
+    },
+    {
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Janssen Pharmaceuticals",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Merck & Co.",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmaceutical Products",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Janssen Pharmaceuticals",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmaceutical Products",
+        "GrossSales": 97042.01
+    },
+    {   
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Merck & Co.",
+        "PeriodType": "C12TM",
+        "ItemType": "Pharmaceutical Products",
+        "GrossSales": 121980.45
+    },
+    {
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Health Products",
+        "GrossSales": 81080.01
+    },
+    {
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Janssen Pharmaceuticals",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Health Products",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021032,
+        "SimilarCustomerDescription": "Merck & Co.",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Health Products",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1351080.01
+    },
+    {
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Surgicals",
+        "GrossSales": 151900.45
+    },
+    {
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81080.01
+    },
+    {
+        "CustomerCode": 2021033,
+        "SimilarCustomerDescription": "WellCare",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021033,
+        "SimilarCustomerDescription": "Health Net",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode":2021013,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1251880.01
+    },
+    {
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021013,
+        "SimilarCustomerDescription": "Health Mart Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1351000.15
+    },
+    {
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 51080.08
+    },
+    {
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 70042.01
+    },
+    {   
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Health Mart Systems",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 121050.15
+    },
+    {
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Pfizer",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Walgreens Boots Alliance",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 105012.00
+    },
+    {   
+        "CustomerCode": 2021013,
+        "SimilarCustomerDescription": "Health Mart Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 90280.10
+    }
+]

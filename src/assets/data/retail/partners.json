@@ -1,0 +1,216 @@
+
+  [{
+    "CustomerCode": 2021020,
+    "CustomerShortDescription": "Target",
+    "BrandDescription": "Levis",
+    "Gross_Sales": 8211328.49,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021020,
+    "CustomerShortDescription": "Target",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 8011328.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021020,
+    "CustomerShortDescription": "Target",
+    "BrandDescription": "LG",
+    "Gross_Sales": 8311328.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021021,
+    "CustomerShortDescription": "Lowe's  ",
+    "BrandDescription": "Haier",
+    "Gross_Sales": 7211328.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021021,
+    "CustomerShortDescription": "Lowe's  ",
+    "BrandDescription": "Samsung",
+    "Gross_Sales": 7011328.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021021,
+    "CustomerShortDescription": "Lowe's  ",
+    "BrandDescription": "VIGO",
+    "Gross_Sales": 7311328.29,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerShortDescription": "Albertsons ",
+    "BrandDescription": "Pavilions",
+    "Gross_Sales": 8011328.39,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerShortDescription": "Albertsons ",
+    "BrandDescription": "Acme Markets",
+    "Gross_Sales": 8010328.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerShortDescription": "Albertsons ",
+    "BrandDescription": "Open Nature",
+    "Gross_Sales": 8311328.09,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021023,
+    "CustomerShortDescription": "Dollar General",
+    "BrandDescription": "Clorox",
+    "Gross_Sales": 8311328.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021023,
+    "CustomerShortDescription": "Dollar General",
+    "BrandDescription": "Energizer",
+    "Gross_Sales": 8110328.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021023,
+    "CustomerShortDescription": "Dollar General",
+    "BrandDescription": "Kimberly-Clark",
+    "Gross_Sales": 8010328.07,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerShortDescription": "Best Buy",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 8010328.13,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerShortDescription": "Best Buy",
+    "BrandDescription": "Samsung",
+    "Gross_Sales": 8011328.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerShortDescription": "Best Buy",
+    "BrandDescription": "Sony",
+    "Gross_Sales": 8011328.11,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerShortDescription": "Macy's",
+    "BrandDescription": "Puma",
+    "Gross_Sales": 8000320.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerShortDescription": "Macy's",
+    "BrandDescription": "Calvin Klein",
+    "Gross_Sales": 8000320.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerShortDescription": "Macy's",
+    "BrandDescription": "Alfani",
+    "Gross_Sales": 8000020.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021026,
+    "CustomerShortDescription": "Dollar Tree",
+    "BrandDescription": "Levis",
+    "Gross_Sales": 8111328.29,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021026,
+    "CustomerShortDescription": "Dollar Tree",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 8111328.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode":  2021026,
+    "CustomerShortDescription": "Dollar Tree",
+    "BrandDescription": "LG",
+    "Gross_Sales": 8011328.29,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerShortDescription": "Kohl's",
+    "BrandDescription": "Clorox",
+    "Gross_Sales": 8311328.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerShortDescription": "Kohl's",
+    "BrandDescription": "Energizer",
+    "Gross_Sales": 8010328.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerShortDescription": "Kohl's",
+    "BrandDescription": "Kimberly-Clark",
+    "Gross_Sales": 8020328.07,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerShortDescription": "Publix",
+    "BrandDescription": "creamy peanut butter",
+    "Gross_Sales": 8311328.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerShortDescription": "Publix",
+    "BrandDescription": "Dr. Publix",
+    "Gross_Sales": 8111328.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerShortDescription": "Publix",
+    "BrandDescription": "moose tracks",
+    "Gross_Sales": 8211328.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerShortDescription": "Rite Aid",
+    "BrandDescription": "Chunky",
+    "Gross_Sales": 8004320.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerShortDescription": "Rite Aid",
+    "BrandDescription": "Chex",
+    "Gross_Sales": 8100320.29,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerShortDescription": "Rite Aid",
+    "BrandDescription": "BelVita",
+    "Gross_Sales": 8300020.09,
+    "logo_name": ""
+  }
+
+]
+
+

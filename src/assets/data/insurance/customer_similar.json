@@ -1,0 +1,102 @@
+[
+  {
+    "CustomerCode": 2021038,
+    "CustomerName": "AIG ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "American Family Insurance",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Unum",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Assurant"
+  },
+{
+    "CustomerCode": 2021039,
+    "CustomerName": "Allstate ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Allianz",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Generali",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "MetLife"
+  },
+{
+    "CustomerCode": 2021040,
+    "CustomerName": "New York Life ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "MetLife",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "pacific life",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Prudential"
+  },
+{
+    "CustomerCode": 2021041,
+    "CustomerName": "Liberty Mutual ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Berkshire",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Progressive",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Nationwide"
+  },
+{
+    "CustomerCode": 2021042,
+    "CustomerName": "Erie ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Penn National Insurance",
+    "SimilarCompany2_Code": 2021043,
+    "SimilarCompany2_Name": "GEICO",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Root"
+  },
+{
+    "CustomerCode": 2021043,
+    "CustomerName": "GEICO ",
+    "SimilarCompany1_Code":2021039 ,
+    "SimilarCompany1_Name": "Allstate",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Zurich Insurance Group",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Safeco"
+  },
+{
+    "CustomerCode": 2021044,
+    "CustomerName": "Progressive ",
+    "SimilarCompany1_Code":"" ,
+    "SimilarCompany1_Name": "Penn National Insurance",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Zurich Insurance Group",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Root"
+  },
+{
+    "CustomerCode": 2021045,
+    "CustomerName": "TIAA ",
+    "SimilarCompany1_Code":"" ,
+    "SimilarCompany1_Name": "PNC Financial Services",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Tompkins Financial Corporation",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Wachovia"
+  },
+{
+    "CustomerCode": 2021046,
+    "CustomerName": "Lincoln National  ",
+    "SimilarCompany1_Code":"" ,
+    "SimilarCompany1_Name": "Fairfax Financial",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Transamerica Corporation",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Markel Corporation"
+  },
+{
+    "CustomerCode": 2021047,
+    "CustomerName": "Reinsurance Group of America  ",
+    "SimilarCompany1_Code":"" ,
+    "SimilarCompany1_Name": "Grinnell Mutual",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Markel Corporation",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Gen Re"
+  }]
+

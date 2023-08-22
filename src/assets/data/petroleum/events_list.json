@@ -1,0 +1,118 @@
+[
+  {
+    "customer_name": "ExxonMobil",
+    "dateTimePub": "",
+    "title": "The science of helping you succeed",
+    "url": "https://www.exxonmobilchemical.com/en/products/branched-alcohols/surfactant-formulation-alcohols?_ga=2.176748076.845254625.1637062943-1565831595.1637062943",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 27,
+    "event_location": "Quebec, Canada",
+    "description": "rovide surfactant manufacturers with Exxal branched alcohols to synthesize derivatives used in many applications. Known for their high purity, Exxal alcohols exhibit reactivity typical of higher primary alcohols. "
+  },
+{
+    "customer_name": "Chevron",
+    "dateTimePub": "",
+    "title": "ExtraMile Convenience Stores Opens 1,000th Site",
+    "url": "https://www.chevron.com/stories/extramile-convenience-stores-opens-1000th-site",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 2,
+    "event_location": "PLEASANTON",
+    "description": "ExtraMile Convenience Stores LLC (EMCS), a joint venture between Chevron U.S.A. Inc. and Jacksons Food Stores, today celebrated the opening of its 1,000th store at the Texaco station in Vernon, Alabama – the first ExtraMile location in the Southeastern United States. "
+  },
+
+{
+    "customer_name": "Phillips 66",
+    "dateTimePub": "",
+    "title": "Phillips 66 sets reduction targets for greenhouse gas emissions",
+    "url": "https://www.phillips66.com/newsroom/emissions-reduction-targets",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 30,
+    "event_location": " Westchase, TX",
+    "description": "Phillips 66 announced today that it intends to reduce greenhouse gas emissions intensity from its operations and energy products by 2030, setting impactful, attainable and measurable targets for the company.  "
+  },
+{
+    "customer_name": "Valero Energy",
+    "dateTimePub": "",
+    "title": "Valero and BlackRock Partner with Navigator to Announce Large-Scale Carbon Capture and Storage Project",
+    "url": "https://static1.squarespace.com/static/6037ccf97a5a7822414fbce3/t/6050ff25e032a677ff2bb4f0/1615920933287/CCS+Press+Release_Final.pdf",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 16,
+    "event_location": "San Antonio",
+    "description": "NAVIGATOR LAUNCHES A NON-BINDING OPEN SEASON TO SOLICIT INTEREST IN FIRM CAPACITY.  "
+  },
+
+{
+    "customer_name": "Energy Transfer",
+    "dateTimePub": "",
+    "title": "ASTROS PARTNER ENERGY TRANSFER MAKES$25,000 DONATION TO ASTROS FOUNDATION",
+    "url": "https://ir.energytransfer.com/static-files/0462df3d-8b1d-4de6-872e-78ef982e13ba",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 9,
+    "event_location": "HOUSTON, TX",
+    "description": "Astros partner Energy Transfer has donated $25,000 to the Astros Foundation as part of their season-long initiative that pledged $25 for every strikeout recorded by an Astros pitcher at home in 2021.  "
+  },
+
+{
+    "customer_name": "Plains All American Pipeline",
+    "dateTimePub": "",
+    "title": "Plains All American Reports Third-Quarter 2021 Results",
+    "url": "https://ir.paalp.com/Plains-All-American-Reports-Third-Quarter-2021-Results-11-2-2021",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 2,
+    "event_location": "HOUSTON",
+    "description": "Plains All American Pipeline, L.P. (Nasdaq: PAA) and Plains GP Holdings (Nasdaq: PAGP) today reported third-quarter 2021 results.  "
+  },
+{
+    "customer_name": "Enterprise Products",
+    "dateTimePub": "",
+    "title": "ENTERPRISE TO PARTICIPATE IN RBC CONFERENCE",
+    "url": "https://www.enterpriseproducts.com/investors/news-releases",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 16,
+    "event_location": "HOUSTON",
+    "description": "Enterprise Products Partners L.P. (NYSE: EPD) announced today it will host investor meetings at the RBC Capital Markets Midstream and Energy Infrastructure Conference on Wednesday, November 17, 2021 in Dallas, Texas.  "
+  },
+
+{
+    "customer_name": "PBF Energy",
+    "dateTimePub": "",
+    "title": "PBF Energy Announces Third Quarter 2021 Results",
+    "url": "https://investors.pbfenergy.com/news/2021/10-28-2021-113119324",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 28,
+    "event_location": "PARSIPPANY",
+    "description": "PBF Energy Inc. (NYSE:PBF) today reported third quarter 2021 income from operations of $100.9 million as compared to loss from operations of $342.7 million for the third quarter of 2020. "
+  },
+
+{
+    "customer_name": "Baker Hughes",
+    "dateTimePub": "",
+    "title": "Baker Hughes at Bank of America Digital Energy Conference",
+    "url": "https://investors.bakerhughes.com/static-files/8fa35485-dda2-428c-8fcb-773aa0134ad6",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 30,
+    "event_location": "Houston, TX",
+    "description": "Baker Hughes at Bank of America Digital Energy Conference. "
+  },
+
+{
+    "customer_name": "Halliburton",
+    "dateTimePub": "",
+    "title": "Innovative technology. Digital initiatives. Halliburton leads a more sustainable energy future.",
+    "url": "https://www.halliburton.com/en/events/adipec-2021",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 15,
+    "event_location": "Houston, TX",
+    "description": "Hosted by the Abu Dhabi National Oil Company (ADNOC), ADIPEC brings together oil, gas, and energy professionals to discuss ideas in an evolving energy landscape. "
+  }
+]

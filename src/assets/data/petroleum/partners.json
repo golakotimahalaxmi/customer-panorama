@@ -1,0 +1,215 @@
+[
+  {
+    "CustomerCode": 2021058,
+    "CustomerShortDescription": "ExxonMobil",
+    "BrandDescription": "Electric vehicle (EV) fluids",
+    "Gross_Sales": 7311328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021058,
+    "CustomerShortDescription": "ExxonMobil",
+    "BrandDescription": "Tires",
+    "Gross_Sales": 7170959.07,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021058,
+    "CustomerShortDescription": "ExxonMobil",
+    "BrandDescription": "Wires and cables",
+    "Gross_Sales": 7170959.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021059,
+    "CustomerShortDescription": "Chevron",
+    "BrandDescription": "Chevron",
+    "Gross_Sales": 7311328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021059,
+    "CustomerShortDescription": "Chevron",
+    "BrandDescription": "Texaco",
+    "Gross_Sales": 7170959.07,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021059,
+    "CustomerShortDescription": "Chevron",
+    "BrandDescription": "Caltex",
+    "Gross_Sales": 7170959.01,
+    "logo_name": ""
+  },
+
+
+    {"CustomerCode": 2021060,
+    "CustomerShortDescription": "Phillips 66",
+    "BrandDescription": "TRUCKING",
+    "Gross_Sales": 5311328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021060,
+    "CustomerShortDescription": "Phillips 66",
+    "BrandDescription": "ENERGY",
+    "Gross_Sales": 5170959.32,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021060,
+    "CustomerShortDescription": "Phillips 66",
+    "BrandDescription": "INDUSTRIAL",
+    "Gross_Sales": 5170959.12,
+    "logo_name": ""
+  },
+{"CustomerCode": 2021061,
+    "CustomerShortDescription": "Valero Energy",
+    "BrandDescription": "Gasoline",
+    "Gross_Sales": 6311328.04,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021061,
+    "CustomerShortDescription": "Valero Energy",
+    "BrandDescription": "Jet Fuel",
+    "Gross_Sales": 6170959.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021061,
+    "CustomerShortDescription": "Valero Energy",
+    "BrandDescription": "Ethanol",
+    "Gross_Sales": 6170959.10,
+    "logo_name": ""
+  },
+
+{"CustomerCode": 2021062,
+    "CustomerShortDescription": "Energy Transfer",
+    "BrandDescription": "NATURAL GAS LIQUIDS",
+    "Gross_Sales": 5311328.24,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021062,
+    "CustomerShortDescription": "Energy Transfer",
+    "BrandDescription": "REFINED PRODUCTS",
+    "Gross_Sales": 5170959.32,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021062,
+    "CustomerShortDescription": "Energy Transfer",
+    "BrandDescription": "CRUDE OIL",
+    "Gross_Sales": 5170959.20,
+    "logo_name": ""
+  },
+
+{"CustomerCode": 2021063,
+    "CustomerShortDescription": "Plains All American Pipeline",
+    "BrandDescription": "TRANSPORTATION",
+    "Gross_Sales": 4311328.11,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021063,
+    "CustomerShortDescription": "Plains All American Pipeline",
+    "BrandDescription": "SUPPLY AND LOGISTICS",
+    "Gross_Sales": 4170959.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021063,
+    "CustomerShortDescription": "Plains All American Pipeline",
+    "BrandDescription": "FACILITIES",
+    "Gross_Sales": 4170159.05,
+    "logo_name": ""
+  },
+{"CustomerCode": 2021064,
+    "CustomerShortDescription": "Enterprise Products",
+    "BrandDescription": "CRUDE OIL",
+    "Gross_Sales": 5311328.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021064,
+    "CustomerShortDescription": "Enterprise Products",
+    "BrandDescription": "Natural Gas",
+    "Gross_Sales": 5170959.21,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021064,
+    "CustomerShortDescription": "Enterprise Products",
+    "BrandDescription": "PETROCHEMICAL",
+    "Gross_Sales": 5160159.04,
+    "logo_name": ""
+  },
+
+{"CustomerCode": 2021065,
+    "CustomerShortDescription": "PBF Energy",
+    "BrandDescription": "Clean Fuel",
+    "Gross_Sales": 6311328.02,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021065,
+    "CustomerShortDescription": "PBF Energy",
+    "BrandDescription": "Lubes",
+    "Gross_Sales": 6170959.23,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021065,
+    "CustomerShortDescription": "PBF Energy",
+    "BrandDescription": "LPG",
+    "Gross_Sales": 6160159.06,
+    "logo_name": ""
+  },
+
+{"CustomerCode": 2021066,
+    "CustomerShortDescription": "Baker Hughes",
+    "BrandDescription": "Gas Turbines",
+    "Gross_Sales": 7311328.02,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021066,
+    "CustomerShortDescription": "Baker Hughes",
+    "BrandDescription": "Centrifugal & Axial Compressors",
+    "Gross_Sales": 5170959.23,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021066,
+    "CustomerShortDescription": "Baker Hughes",
+    "BrandDescription": "Turbomachinery Services",
+    "Gross_Sales": 6160159.06,
+    "logo_name": ""
+  },
+
+{"CustomerCode": 2021067,
+    "CustomerShortDescription": "Halliburton",
+    "BrandDescription": "Horizontal Pumping Systems",
+    "Gross_Sales": 7311328.06,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021067,
+    "CustomerShortDescription": "Halliburton",
+    "BrandDescription": "Mining Submersible Borehole and Surface Pumps Systems",
+    "Gross_Sales": 6170959.25,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021067,
+    "CustomerShortDescription": "Halliburton",
+    "BrandDescription": "Cerebro Force - In-Bit Sensing System",
+    "Gross_Sales": 5160159.03,
+    "logo_name": ""
+  }
+
+
+  
+]
+  

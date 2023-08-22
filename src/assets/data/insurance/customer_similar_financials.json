@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "American Family Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 1101880.03
+    },
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Unum",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 1402042.06
+    },
+    {   
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Assurant",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 1551981.17
+    },
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "American Family Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Accident & Health Insurance",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Unum",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Accident & Health Insurance",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Assurant",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Accident & Health Insurance",
+        "GrossSales": 161080.45
+    },
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "American Family Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Travel Insurance",
+        "GrossSales": 85880.05
+    },
+    {
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Unum",
+        "PeriodType": "C12TM",
+        "ItemType": "Travel Insurance",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021038,
+        "SimilarCustomerDescription": "Assurant",
+        "PeriodType": "C12TM",
+        "ItemType": "Travel Insurance",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Allianz",
+        "PeriodType": "C12TM",
+        "ItemType": "Accounting Services",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Generali",
+        "PeriodType": "C12TM",
+        "ItemType": "Accounting Services",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021039,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Accounting Services",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Allianz",
+        "PeriodType": "C12TM",
+        "ItemType": "Auditing Services",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Generali",
+        "PeriodType": "C12TM",
+        "ItemType": "Auditing Services",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Auditing Services",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Allianz",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Analysis Services",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "Generali",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Analysis Services",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021039,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Analysis Services",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Whole life insurance",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "pacific life",
+        "PeriodType": "C12TM",
+        "ItemType": "Whole life insurance",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021040,
+        "SimilarCustomerDescription": "Prudential",
+        "PeriodType": "C12TM",
+        "ItemType": "Whole life insurance",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Universal life insurance",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "pacific life",
+        "PeriodType": "C12TM",
+        "ItemType": "Universal life insurance",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "Prudential",
+        "PeriodType": "C12TM",
+        "ItemType": "Universal life insurance",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "MetLife",
+        "PeriodType": "C12TM",
+        "ItemType": "Term life insurance",
+        "GrossSales": 71850.07
+    },
+    {
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "pacific life",
+        "PeriodType": "C12TM",
+        "ItemType": "Term life insurance",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021040,
+        "SimilarCustomerDescription": "Prudential",
+        "PeriodType": "C12TM",
+        "ItemType": "Term life insurance",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Berkshire",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto and vehicle insurance",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Progressive",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto and vehicle insurance",
+        "GrossSales": 1292002.01
+    },
+    {   
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Nationwide",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto and vehicle insurance",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Berkshire",
+        "PeriodType": "C12TM",
+        "ItemType": "Property insurance",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Progressive",
+        "PeriodType": "C12TM",
+        "ItemType": "Property insurance",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Nationwide",
+        "PeriodType": "C12TM",
+        "ItemType": "Property insurance",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Berkshire",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Vehicle insurance",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Progressive",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Vehicle insurance",
+        "GrossSales": 102000.01
+    },
+    {   
+        "CustomerCode": 2021041,
+        "SimilarCustomerDescription": "Nationwide",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Vehicle insurance",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "AUTO & LEISURE",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "GEICO",
+        "PeriodType": "C12TM",
+        "ItemType": "AUTO & LEISURE",
+        "GrossSales": 1492042.01
+    },
+    {   
+        "CustomerCode":2021042,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "AUTO & LEISURE",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": " HOME & PROPERTY",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "GEICO",
+        "PeriodType": "C12TM",
+        "ItemType": "HOME & PROPERTY",
+        "GrossSales": 92002.01
+    },
+    {   
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "HOME & PROPERTY",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "LIFE & MORE",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "GEICO",
+        "PeriodType": "C12TM",
+        "ItemType": "LIFE & MORE",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021042,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "LIFE & MORE",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Allstate",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicle Insurance",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicle Insurance",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Safeco",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicle Insurance",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Allstate",
+        "PeriodType": "C12TM",
+        "ItemType": "Property Insurance",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Property Insurance",
+        "GrossSales": 98042.01
+    },
+    {   
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Safeco",
+        "PeriodType": "C12TM",
+        "ItemType": "Property Insurance",
+        "GrossSales": 100080.45
+    },
+    {
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Allstate",
+        "PeriodType": "C12TM",
+        "ItemType": "Business Insurance",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Business Insurance",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021043,
+        "SimilarCustomerDescription": "Safeco",
+        "PeriodType": "C12TM",
+        "ItemType": "Business Insurance",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1102042.01
+    },
+    {   
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Propertys",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode":2021044,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Propertys",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "Propertys",
+        "GrossSales": 141080.45
+    },
+    {
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Penn National Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Bundlings",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Zurich Insurance Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Bundlings",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021044,
+        "SimilarCustomerDescription": "Root",
+        "PeriodType": "C12TM",
+        "ItemType": "Bundlings",
+        "GrossSales": 91080.45
+    },
+{
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "PNC Financial Services",
+        "PeriodType": "C12TM",
+        "ItemType": "IRAs",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Tompkins Financial Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "IRAs",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Wachovia",
+        "PeriodType": "C12TM",
+        "ItemType": "IRAs",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "PNC Financial Services",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Annuities",
+        "GrossSales": 51800.01
+    },
+    {
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Tompkins Financial Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Annuities",
+        "GrossSales": 97042.01
+    },
+    {   
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Wachovia",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Annuities",
+        "GrossSales": 121080.45
+    },
+    {
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "PNC Financial Services",
+        "PeriodType": "C12TM",
+        "ItemType": "Target Date Funds",
+        "GrossSales": 81080.01
+    },
+    {
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Tompkins Financial Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Target Date Funds",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021045,
+        "SimilarCustomerDescription": "Wachovia",
+        "PeriodType": "C12TM",
+        "ItemType": "Target Date Funds",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Fairfax Financial",
+        "PeriodType": "C12TM",
+        "ItemType": "Life insurance",
+        "GrossSales": 1301080.01
+    },
+    {
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Transamerica Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Life insurance",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Life insurance",
+        "GrossSales": 1201980.15
+    },
+    {
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Fairfax Financial",
+        "PeriodType": "C12TM",
+        "ItemType": "Annuities & protected income",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Transamerica Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Annuities & protected income",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Annuities & protected income",
+        "GrossSales": 150900.45
+    },
+    {
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Fairfax Financial",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021046,
+        "SimilarCustomerDescription": "Transamerica Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021046,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91080.45
+    },
+{
+        "CustomerCode":2021047,
+        "SimilarCustomerDescription": "Grinnell Mutual",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021047,
+        "SimilarCustomerDescription": "Gen Re",
+        "PeriodType": "C12TM",
+        "ItemType": "Manufacturer solutions",
+        "GrossSales": 1051000.15
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Grinnell Mutual",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 58080.08
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 70042.01
+    },
+    {   
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Gen Re",
+        "PeriodType": "C12TM",
+        "ItemType": " Animal Health Solutions",
+        "GrossSales": 101050.15
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Grinnell Mutual",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 71000.01
+    },
+    {
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Markel Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 105012.00
+    },
+    {   
+        "CustomerCode": 2021047,
+        "SimilarCustomerDescription": "Gen Re",
+        "PeriodType": "C12TM",
+        "ItemType": "Provider solutions",
+        "GrossSales": 90280.10
+    }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "CustomerCode": 2021004,
+    "CustomerShortDescription": "CVS Health ",
+    "BrandDescription": "Mark Steven, Inc.",
+    "Gross_Sales": 1011328.49,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021004,
+    "CustomerShortDescription": "CVS Health ",
+    "BrandDescription": "CVS Pharmacy",
+    "Gross_Sales": 1012328.49,
+    "logo_name": ""
+  },{
+    "CustomerCode":2021005,
+    "CustomerShortDescription": "Walgreens Boots Alliance",
+    "BrandDescription": "Hanimex Pharmacy storage solutions",
+    "Gross_Sales": "1311328.57",
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":2021005,
+    "CustomerShortDescription": "Walgreens Boots Alliance",
+    "BrandDescription": "Egypt-Tech Hardware supplies",
+    "Gross_Sales": "1211328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021006,
+    "CustomerShortDescription": "Health Mart Systems",
+    "BrandDescription": "ottobock",
+    "Gross_Sales": "1111328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021006,
+    "CustomerShortDescription": "Health Mart Systems",
+    "BrandDescription": "posey",
+    "Gross_Sales": "1011328.36",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021011,
+    "CustomerShortDescription": "UnitedHealth Group",
+    "BrandDescription": "PPO",
+    "Gross_Sales": "1211328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021011,
+    "CustomerShortDescription": "UnitedHealth Group",
+    "BrandDescription": "HRA",
+    "Gross_Sales": "1012328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021012,
+    "CustomerShortDescription": "MCKESSON ",
+    "BrandDescription": "Med Stream",
+    "Gross_Sales": "1011328.46",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021012,
+    "CustomerShortDescription": "MCKESSON ",
+    "BrandDescription": "McKesson",
+    "Gross_Sales": "1112328.36",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021013,
+    "CustomerShortDescription": "AMERISOURCEBERGEN ",
+    "BrandDescription": "AHS",
+    "Gross_Sales": "1111328.36",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021013,
+    "CustomerShortDescription": "AMERISOURCEBERGEN ",
+    "BrandDescription": "PDS",
+    "Gross_Sales": "1032328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021030,
+    "CustomerShortDescription": "Cardinal Health",
+    "BrandDescription": "Span",
+    "Gross_Sales": "1191328.16",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021030,
+    "CustomerShortDescription": "Cardinal Health",
+    "BrandDescription": "coloplast",
+    "Gross_Sales": "1013328.26",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021031,
+    "CustomerShortDescription": "Cigna",
+    "BrandDescription": "Cigna Dental 1500",
+    "Gross_Sales": "1311328.57",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021031,
+    "CustomerShortDescription": "Cigna",
+    "BrandDescription": "Cigna Dental Preventive",
+    "Gross_Sales": "1211328.57",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021032,
+    "CustomerShortDescription": "JOHNSON & JOHNSON ",
+    "BrandDescription": "BENYLIN",
+    "Gross_Sales": "1011328.36",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021032,
+    "CustomerShortDescription": "JOHNSON & JOHNSON ",
+    "BrandDescription": "NICODERM",
+    "Gross_Sales": "1012328.16",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021033,
+    "CustomerShortDescription": "Anthem ",
+    "BrandDescription": "Anthem Life Insurance",
+    "Gross_Sales": "1011328.36",
+    "logo_name": ""
+  },
+{
+    "CustomerCode":2021033,
+    "CustomerShortDescription": "Anthem ",
+    "BrandDescription": "Anthem Blue Cross",
+    "Gross_Sales": "1012328.26",
+    "logo_name": ""
+  }]
+  
