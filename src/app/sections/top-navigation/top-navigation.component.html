@@ -1,15 +1,15 @@
-<div class="top-navigation">
-    <nav class="navbar navbar-expand navbar-light navbar-fixed">
+<div class="top-navigation d-flex justify-content-end">
+    <nav class="navbar navbar-expand navbar-light navbar-fixed ">
 
         <form [formGroup]="customerForm"
-            class="d-none d-sm-inline-block form-inline mr-auto my-2 my-md-0 w-75 navbar-search">
+            class="d-none d-sm-inline-block form-inline mr-auto my-2 my-md-0 w-75 navbar-search ">
             <div class="input-group">
                 <input type="text" matInput formControlName="customerInformation"
                     [placeholder]="headingsObject.searchPlaceholder" class="form-control  bg-light border-0 small"
                     #input (input)="checkInputvaluelength(input.value)" (keyup.escape)="onKeyEscape($event)"
                     [matAutocomplete]="autoGroup"
                     [ngClass]="{'search-main-top': !changeLayoutofAutocomplete, 'search-main-top-text': changeLayoutofAutocomplete }"
-                    style="border-radius: 50px;">
+                    style="border-radius: 04px;  ">
                 <mat-autocomplete #autoGroup="matAutocomplete" class="autocompleteData">
 
                     <mat-optgroup *ngFor="let group of customerGroupOptions | async" [label]="group.letter">
@@ -47,17 +47,17 @@
         <!-- (click)="openModal('viewCustomerTabs')" -->
 
         <ul class="navbar-nav ml-auto custom-nav">
-            <li class="nav-item btn-group" dropdown placement="bottom right">
+            <!-- <li class="nav-item btn-group" dropdown placement="bottom right">
                 <a class="nav-link position-relative" tooltip="{{headingsObject.tip_home_topnav_menu}}"
-                    placement="bottom" aria-controls="dropdown-alignment">
+                    placement="bottom" aria-controls="dropdown-alignment"> -->
                     <!--<i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>
                     <i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>
                     <i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>-->
-                    <img class="img-icon" src="assets/images/icons/feature-menu.png">
+                    <!-- <img class="img-icon" src="assets/images/icons/feature-menu.png">
                 </a>
-                <jw-modal id="viewCustomerTabs" class="jw-modal-tabs">
+                <jw-modal id="viewCustomerTabs" class="jw-modal-tabs"> -->
                     <!-- tabs-dropdown-notification -->
-                    <tabset type="pills" [justified]="false" class="tabs-dropdown-notification custom-tab-styles">
+                    <!-- <tabset type="pills" [justified]="false" class="tabs-dropdown-notification custom-tab-styles">
                         <tab heading="Contact Management" custom-tab-styles="custom-tab-styles">
                             <div class="inside-tabs mt-3">
                                 <a><img src="assets/images/customer-4.png"> <span>Customer Contacts</span></a>
@@ -87,26 +87,26 @@
                         </tab>
                     </tabset>
                 </jw-modal>
-            </li>
-            <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_help}}" placement="bottom">
-                <a class="nav-link">
+            </li> -->
+            <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_help}}" placement="bottom">
+                <a class="nav-link"> -->
                     <!--<i class="fa fa-question-circle-o fa-fw nitification-icon"></i>-->
-                    <img class="img-icon" src="assets/images/icons/help.png">
+                    <!-- <img class="img-icon" src="assets/images/icons/help.png">
                 </a>
-            </li>
-            <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_calendar}}" placement="bottom">
-                <a class="nav-link">
+            </li> -->
+            <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_calendar}}" placement="bottom">
+                <a class="nav-link"> -->
                     <!--<i class="fa fa-calendar fa-fw nitification-icon"></i>-->
-                    <img class="img-icon" src="assets/images/icons/calendar-top.png">
+                    <!-- <img class="img-icon" src="assets/images/icons/calendar-top.png">
                 </a>
-            </li>
-            <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
+            </li> -->
+            <!-- <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
                 <a class="nav-link position-relative" tooltip="{{headingsObject.tip_home_topnav_notifications}}"
                     placement="bottom" aria-controls="dropdown-alignment">
-                    <img class="img-icon" src="assets/images/icons/notification.png">
+                    <img class="img-icon" src="assets/images/icons/notification.png"> -->
                     <!--<i class="fa fa-bell-o fa-fw nitification-icon"></i>-->
                     <!--<span class="badge badge-counter">3</span>-->
-                </a>
+                <!-- </a> -->
                 <!-- <div id="dropdown-alignment" *dropdownMenu class="dropdown-menu pt-0 notifications custom-dropdown-styles dropdown-menu-right" style="width: 250px;;" role="menu" aria-labelledby="button-alignment">
                     <h3 class="pl-2 pr-2"><span class="line-divider">Updates</span></h3>
                     <p role="menuitem" class="mb-0">
@@ -116,7 +116,7 @@
                         <a href="#" class="dropdown-item">New Contacts added for 5AM ventures.<span class="d-block">16:30</span></a>
                     </p>
                 </div> -->
-            </li>
+            <!-- </li> -->
             <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
                 <a class="nav-link pr-0" tooltip="{{headingsObject.tip_home_topnav_profile}}" placement="bottom"
                     aria-controls="dropdown-alignment">
