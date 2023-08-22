@@ -1,36 +1,46 @@
 <div class="top-navigation d-flex justify-content-end">
-    <nav class="navbar navbar-expand navbar-light navbar-fixed ">
+  <nav class="navbar navbar-expand navbar-light navbar-fixed">
+    <form
+      [formGroup]="customerForm"
+      class="d-none d-sm-inline-block form-inline mr-auto my-2 my-md-0 w-75 navbar-search"
+    >
+      <div class="input-group">
+        <input
+          type="text"
+          matInput
+          formControlName="customerInformation"
+          [placeholder]="headingsObject.searchPlaceholder"
+          class="form-control bg-light border-0 small"
+          #input
+          (input)="checkInputvaluelength(input.value)"
+          (keyup.escape)="onKeyEscape($event)"
+          [matAutocomplete]="autoGroup"
+          [ngClass]="{
+            'search-main-top': !changeLayoutofAutocomplete,
+            'search-main-top-text': changeLayoutofAutocomplete
+          }"
+          style="border-radius: 04px"
+        />
+        <mat-autocomplete #autoGroup="matAutocomplete" class="autocompleteData">
+          <mat-optgroup
+            *ngFor="let group of customerGroupOptions | async"
+            [label]="group.letter"
+          >
+            <mat-option
+              *ngFor="let name of group.names"
+              [value]="name"
+              (click)="selectedOne(group, name)"
+            >
+              {{ name }}
+            </mat-option>
+          </mat-optgroup>
 
-        <form [formGroup]="customerForm"
-            class="d-none d-sm-inline-block form-inline mr-auto my-2 my-md-0 w-75 navbar-search ">
-            <div class="input-group">
-                <input type="text" matInput formControlName="customerInformation"
-                    [placeholder]="headingsObject.searchPlaceholder" class="form-control  bg-light border-0 small"
-                    #input (input)="checkInputvaluelength(input.value)" (keyup.escape)="onKeyEscape($event)"
-                    [matAutocomplete]="autoGroup"
-                    [ngClass]="{'search-main-top': !changeLayoutofAutocomplete, 'search-main-top-text': changeLayoutofAutocomplete }"
-                    style="border-radius: 04px;  ">
-                <mat-autocomplete #autoGroup="matAutocomplete" class="autocompleteData">
+          <span *ngIf="(customerGroupOptions | async)?.length === 0">
+            <mat-option> No Data Found </mat-option>
+          </span>
+        </mat-autocomplete>
 
-                    <mat-optgroup *ngFor="let group of customerGroupOptions | async" [label]="group.letter">
-                        <mat-option *ngFor="let name of group.names" [value]="name" (click)="selectedOne(group, name)">
-                            {{name}}
-                        </mat-option>
-                    </mat-optgroup>
-
-
-                    <span *ngIf="(customerGroupOptions | async)?.length === 0">
-                        <mat-option>
-                            No Data Found
-                        </mat-option>
-                    </span>
-                </mat-autocomplete>
-
-
-
-
-
-                <!--<div class="input-group-append" (click)="moveTocustomerPage()">
+        <!--<div class="input-group-append" (click)="moveTocustomerPage()">
 
                     <button class="btn btn-search-default" *ngIf="!emptyInputvalue" style="background-color: white;">
                         Search
@@ -45,22 +55,18 @@
     </form>
     <!-- (click)="openModal('viewCustomerTabs')" -->
 
-            </div>
-        </form>
-        <!-- (click)="openModal('viewCustomerTabs')" -->
-
-        <ul class="navbar-nav ml-auto custom-nav">
-            <!-- <li class="nav-item btn-group" dropdown placement="bottom right">
+    <ul class="navbar-nav ml-auto custom-nav">
+      <!-- <li class="nav-item btn-group" dropdown placement="bottom right">
                 <a class="nav-link position-relative" tooltip="{{headingsObject.tip_home_topnav_menu}}"
                     placement="bottom" aria-controls="dropdown-alignment"> -->
-                    <!--<i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>
+      <!--<i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>
                     <i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>
                     <i class="fa fa-ellipsis-v nitification-icon" style="width: 8px;"></i>-->
-                    <!-- <img class="img-icon" src="assets/images/icons/feature-menu.png">
+      <!-- <img class="img-icon" src="assets/images/icons/feature-menu.png">
                 </a>
                 <jw-modal id="viewCustomerTabs" class="jw-modal-tabs"> -->
-                    <!-- tabs-dropdown-notification -->
-                    <!-- <tabset type="pills" [justified]="false" class="tabs-dropdown-notification custom-tab-styles">
+      <!-- tabs-dropdown-notification -->
+      <!-- <tabset type="pills" [justified]="false" class="tabs-dropdown-notification custom-tab-styles">
                         <tab heading="Contact Management" custom-tab-styles="custom-tab-styles">
                             <div class="inside-tabs mt-3">
                                 <a><img src="assets/images/customer-4.png"> <span>Customer Contacts</span></a>
@@ -91,26 +97,26 @@
                     </tabset>
                 </jw-modal>
             </li> -->
-            <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_help}}" placement="bottom">
+      <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_help}}" placement="bottom">
                 <a class="nav-link"> -->
-                    <!--<i class="fa fa-question-circle-o fa-fw nitification-icon"></i>-->
-                    <!-- <img class="img-icon" src="assets/images/icons/help.png">
+      <!--<i class="fa fa-question-circle-o fa-fw nitification-icon"></i>-->
+      <!-- <img class="img-icon" src="assets/images/icons/help.png">
                 </a>
             </li> -->
-            <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_calendar}}" placement="bottom">
+      <!-- <li class="nav-item" tooltip="{{headingsObject.tip_home_topnav_calendar}}" placement="bottom">
                 <a class="nav-link"> -->
-                    <!--<i class="fa fa-calendar fa-fw nitification-icon"></i>-->
-                    <!-- <img class="img-icon" src="assets/images/icons/calendar-top.png">
+      <!--<i class="fa fa-calendar fa-fw nitification-icon"></i>-->
+      <!-- <img class="img-icon" src="assets/images/icons/calendar-top.png">
                 </a>
             </li> -->
-            <!-- <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
+      <!-- <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
                 <a class="nav-link position-relative" tooltip="{{headingsObject.tip_home_topnav_notifications}}"
                     placement="bottom" aria-controls="dropdown-alignment">
                     <img class="img-icon" src="assets/images/icons/notification.png"> -->
-                    <!--<i class="fa fa-bell-o fa-fw nitification-icon"></i>-->
-                    <!--<span class="badge badge-counter">3</span>-->
-                <!-- </a> -->
-                <!-- <div id="dropdown-alignment" *dropdownMenu class="dropdown-menu pt-0 notifications custom-dropdown-styles dropdown-menu-right" style="width: 250px;;" role="menu" aria-labelledby="button-alignment">
+      <!--<i class="fa fa-bell-o fa-fw nitification-icon"></i>-->
+      <!--<span class="badge badge-counter">3</span>-->
+      <!-- </a> -->
+      <!-- <div id="dropdown-alignment" *dropdownMenu class="dropdown-menu pt-0 notifications custom-dropdown-styles dropdown-menu-right" style="width: 250px;;" role="menu" aria-labelledby="button-alignment">
                     <h3 class="pl-2 pr-2"><span class="line-divider">Updates</span></h3>
                     <p role="menuitem" class="mb-0">
                         <a href="#" class="dropdown-item">New Account's added into my Account.<span class="d-block">09:54</span> </a>
@@ -119,29 +125,57 @@
                         <a href="#" class="dropdown-item">New Contacts added for 5AM ventures.<span class="d-block">16:30</span></a>
                     </p>
                 </div> -->
-            <!-- </li> -->
-            <li class="nav-item btn-group main-top-dropdown" dropdown placement="bottom right">
-                <a class="nav-link pr-0" tooltip="{{headingsObject.tip_home_topnav_profile}}" placement="bottom"
-                    aria-controls="dropdown-alignment">
-                    <img class="img-icon" src="assets/images/icons/profile.png">
-                </a>
-                <ul id="dropdown-alignment" toggledropdown *dropdownMenu
-                    class="dropdown-menu dropdown-menu-right custom-dropdown-styles" role="menu"
-                    aria-labelledby="button-alignment">
-                    <li role="menuitem">
-                        <a class="dropdown-item" href="#"><img class="img-profile rounded-circle" width="18px"
-                                src="assets/images/register_user.jpg">James Park</a>
-                    </li>
-                    <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-cog"></i>Manage your
-                            account</a></li>
-                    <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-search"></i>Search
-                            History</a></li>
-                    <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-bookmark"></i>Bookmark
-                            Settings</a></li>
-                    <li role="menuitem"><a class="dropdown-item" href="#"><i class="fa fa-calendar"></i>Calendar
-                            Settings</a></li>
-                </ul>
-            </li>
+      <!-- </li> -->
+      <li
+        class="nav-item btn-group main-top-dropdown"
+        dropdown
+        placement="bottom right"
+      >
+        <a
+          class="nav-link pr-0"
+          tooltip="{{ headingsObject.tip_home_topnav_profile }}"
+          placement="bottom"
+          aria-controls="dropdown-alignment"
+        >
+          <img class="img-icon" src="assets/images/icons/profile.png" />
+        </a>
+        <ul
+          id="dropdown-alignment"
+          toggledropdown
+          *dropdownMenu
+          class="dropdown-menu dropdown-menu-right custom-dropdown-styles"
+          role="menu"
+          aria-labelledby="button-alignment"
+        >
+          <li role="menuitem">
+            <a class="dropdown-item" href="#"
+              ><img
+                class="img-profile rounded-circle"
+                width="18px"
+                src="assets/images/register_user.jpg"
+              />James Park</a
+            >
+          </li>
+          <li role="menuitem">
+            <a class="dropdown-item" href="#"
+              ><i class="fa fa-cog"></i>Manage your account</a
+            >
+          </li>
+          <li role="menuitem">
+            <a class="dropdown-item" href="#"
+              ><i class="fa fa-search"></i>Search History</a
+            >
+          </li>
+          <li role="menuitem">
+            <a class="dropdown-item" href="#"
+              ><i class="fa fa-bookmark"></i>Bookmark Settings</a
+            >
+          </li>
+          <li role="menuitem">
+            <a class="dropdown-item" href="#"
+              ><i class="fa fa-calendar"></i>Calendar Settings</a
+            >
+          </li>
         </ul>
       </li>
     </ul>
