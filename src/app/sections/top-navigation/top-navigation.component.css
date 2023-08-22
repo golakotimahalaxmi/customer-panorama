@@ -3,8 +3,8 @@
   color: #fff;
   background-color: #cc0001;
   border-color: #cc0001;
-  border-top-right-radius: 50px !important;
-  border-bottom-right-radius: 50px !important;
+  border-top-right-radius: 04px !important;
+  border-bottom-right-radius: 04px !important;
 }
 
 .btn-search-default {
@@ -12,13 +12,13 @@
   color: #000000;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
-  border-top-right-radius: 50px !important;
-  border-bottom-right-radius: 50px !important;
+  border-top-right-radius: 04px !important;
+  border-bottom-right-radius: 04px !important;
 }
 
 .img-icon {
-  width: 25px;
-  margin-top: 5px;
+  width: 32px;
+  margin-top: 1px;
 }
 
 .search-main-top {
@@ -27,11 +27,13 @@
   background-size: 23px;
   background-position: 5px;
   padding-left: 40px;
+  padding-top: 10px;
   /*font-weight: 600;*/
-  font-size: 12px;
-  font-family: "Prelo-SemiBold", sans-serif !important;
-  border-top-left-radius: 50px !important;
-  border-bottom-left-radius: 50px !important;
+  font-size: 16px;
+  font-family: "Poppins, !important";
+  border:1px solid #E9E9E9;
+  border-top-left-radius: 04px !important;
+  border-bottom-left-radius: 04px !important;
 }
 
 .search-main-top-text {
@@ -75,7 +77,7 @@
   background: #ffffff !important;
   height: 30vh;
   overflow: hidden;
-  width: 68%;
+  width: 25rem;
 }
 .cdk-overlay-connected-position-bounding-box {
   top: 73px !important;
@@ -115,7 +117,7 @@
     z-index: 2000;
     background: #ffffff !important;
     height: 41.5vh;
-    width: 68%;
+    width: 25rem;
   }
 }
 
@@ -124,5 +126,25 @@
 }
 
 .bg-light {
-  background-color: #d3d3d3 !important;
+  background-color: #F2F2F2 !important;
+}
+
+/* .search-bar{
+  width:380px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid #E9E9E9;
+
+}
+.form-control{
+  background-color: #F2F2F2;
+  color: #8C8C8C;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+} */
+
+.input-group{
+  width: 25rem !important; 
 }
