@@ -33,3 +33,87 @@
     text-align: text;
     width: 18%;
   }
+  .font-poppin{
+    font-family: Poppins;
+  }
+  .font-Rosario{
+    font-family: Rosario;
+  }
+  .font_black{
+    color: #000000;
+  }
+  .font_green{
+    color:#1DAD8F;
+  }
+  .w-100{
+    width: 100%;
+
+  }
+  .w-50{
+    width: 50%;
+  }
+  .w-70{
+    width: 70%;
+  }
+  .holistic_container{
+    background-color: #0D081A;
+  }
+  .img-styling{
+    width: 20px;
+    height: 20px;
+
+  }
+  .img-icon{
+    height: 10px;;
+    width: 10px;
+  }
+  .btn-bg{
+    background-color: #1DAD8F;
+  }
+  .login-font{
+    font-size: 36px;
+  }
+  .container-relative{
+    position: relative;
+    padding: 20px;
+  }
+  .container-absolute{
+    position: absolute;
+
+
+  }
+  .footer{
+   
+   
+  }
+  .login-font{
+    font-size: 36px;
+    font-weight: 600;
+  }
+
+  .customer{
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .customer360{
+    font-size: 24px;
+    font-weight: 275;
+
+  }
+  .img-360{
+    width: 25px;
+    height: 25px;
+  }
+  .welcome-style{
+    font-size: 14px;
+    font-weight: 700;
+
+  }
+  .log-style{
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .spacing{
+    align-items: center;
+    margin-left: 60px;
+  }
