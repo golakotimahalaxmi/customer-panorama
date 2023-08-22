@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1501800.03
+    },
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Costco",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1402042.06
+    },
+    {   
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1551981.17
+    },
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & outdoors",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Costco",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & outdoors",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & outdoors",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 85890.05
+    },
+    {
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Costco",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021020,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Appliance Installation Services ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": "Appliance Installation Services ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021021,
+        "SimilarCustomerDescription": "Sears",
+        "PeriodType": "C12TM",
+        "ItemType": "Appliance Installation Services ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Sears",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Heating & Cooling",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": "Heating & Cooling",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021021,
+        "SimilarCustomerDescription": "Sears",
+        "PeriodType": "C12TM",
+        "ItemType": "Heating & Cooling",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "Safeway Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronincs",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "SuperValu",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronincs",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021022,
+        "SimilarCustomerDescription": "Lucky Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronincs",
+        "GrossSales": 1051980.10
+    },
+    {
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "Safeway Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobiles",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "SuperValu",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobiles",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "Lucky Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobiles",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "Safeway Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby Accessories",
+        "GrossSales": 71850.07
+    },
+    {
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "SuperValu",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby Accessories",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021022,
+        "SimilarCustomerDescription": "Lucky Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby Accessories",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Albertsons",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Hardware",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Hardware",
+        "GrossSales": 1092802.01
+    },
+    {   
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Ross Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Auto & Hardware",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Albertsons",
+        "PeriodType": "C12TM",
+        "ItemType": "Party & Occasions",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Party & Occasions",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Ross Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Party & Occasions",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Albertsons",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Care",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Care",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 2021023,
+        "SimilarCustomerDescription": "Ross Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Care",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Fry’s Electronics",
+        "PeriodType": "C12TM",
+        "ItemType": "Laptops & Computers",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Newegg",
+        "PeriodType": "C12TM",
+        "ItemType": "Laptops & Computers",
+        "GrossSales": 1492002.01
+    },
+    {   
+        "CustomerCode":2021024,
+        "SimilarCustomerDescription": "Staples",
+        "PeriodType": "C12TM",
+        "ItemType": "Laptops & Computers",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Fry’s Electronics",
+        "PeriodType": "C12TM",
+        "ItemType": " TVs & Projectors",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Newegg",
+        "PeriodType": "C12TM",
+        "ItemType": "TVs & Projectors",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Staples",
+        "PeriodType": "C12TM",
+        "ItemType": "TVs & Projectors",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Fry’s Electronics",
+        "PeriodType": "C12TM",
+        "ItemType": "Major Appliances",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Newegg",
+        "PeriodType": "C12TM",
+        "ItemType": "Major Appliances",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021024,
+        "SimilarCustomerDescription": "Staples",
+        "PeriodType": "C12TM",
+        "ItemType": "Major Appliances",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Lord & Taylor",
+        "PeriodType": "C12TM",
+        "ItemType": "Handbags & Accessories",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Jordan Marsh",
+        "PeriodType": "C12TM",
+        "ItemType": "Handbags & Accessories",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Abraham & Straus",
+        "PeriodType": "C12TM",
+        "ItemType": "Handbags & Accessories",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Lord & Taylor",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Jordan Marsh",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 98042.01
+    },
+    {   
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Abraham & Straus",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Lord & Taylor",
+        "PeriodType": "C12TM",
+        "ItemType": "Blazers & Sport Coats",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Jordan Marsh",
+        "PeriodType": "C12TM",
+        "ItemType": "Blazers & Sport Coats",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021025,
+        "SimilarCustomerDescription": "Abraham & Straus",
+        "PeriodType": "C12TM",
+        "ItemType": "Blazers & Sport Coats",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Dollar General",
+        "PeriodType": "C12TM",
+        "ItemType": "Toys",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Deals",
+        "PeriodType": "C12TM",
+        "ItemType": "Toys",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Toys",
+        "GrossSales": 1251900.10
+    },
+    {
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Dollar General",
+        "PeriodType": "C12TM",
+        "ItemType": "Vases & Containers",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":2021026,
+        "SimilarCustomerDescription": "Deals",
+        "PeriodType": "C12TM",
+        "ItemType": "Vases & Containers",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Vases & Containers",
+        "GrossSales": 141080.45
+    },
+    {
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Dollar General",
+        "PeriodType": "C12TM",
+        "ItemType": "Stocking Stuffers",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Deals",
+        "PeriodType": "C12TM",
+        "ItemType": "Stocking Stuffers",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021026,
+        "SimilarCustomerDescription": "Family Dollar",
+        "PeriodType": "C12TM",
+        "ItemType": "Stocking Stuffers",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Nordstrom",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1192042.01
+    },
+    {   
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "The Bon-Ton",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 1051900.15
+    },
+    {
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Drones",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Nordstrom",
+        "PeriodType": "C12TM",
+        "ItemType": "Drones",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "The Bon-Ton",
+        "PeriodType": "C12TM",
+        "ItemType": "Drones",
+        "GrossSales": 121000.45
+    },
+    {
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Wifi & Networking",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "Nordstrom",
+        "PeriodType": "C12TM",
+        "ItemType": "Wifi & Networking",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021027,
+        "SimilarCustomerDescription": "The Bon-Ton",
+        "PeriodType": "C12TM",
+        "ItemType": "Wifi & Networking",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Winn-Dixie",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 1301090.01
+    },
+    {
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Sprouts Farmers Market",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Harris Teeter",
+        "PeriodType": "C12TM",
+        "ItemType": "School & office supplies",
+        "GrossSales": 1201089.15
+    },
+    {
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Winn-Dixie",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 51008.01
+    },
+    {
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Sprouts Farmers Market",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Harris Teeter",
+        "PeriodType": "C12TM",
+        "ItemType": "Holiday Decorations",
+        "GrossSales": 150030.45
+    },
+    {
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Winn-Dixie",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 2021028,
+        "SimilarCustomerDescription": "Sprouts Farmers Market",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021028,
+        "SimilarCustomerDescription": "Harris Teeter",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics",
+        "GrossSales": 91090.45
+    },
+{
+        "CustomerCode":2021029,
+        "SimilarCustomerDescription": "American Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "Lane Drug",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021029,
+        "SimilarCustomerDescription": "Alex Grass",
+        "PeriodType": "C12TM",
+        "ItemType": "Well Control & Prevention Services",
+        "GrossSales": 1051080.15
+    },
+    {
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "American Stores",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 58010.08
+    },
+    {
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "Lane Drug",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 70402.01
+    },
+    {   
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "Alex Grass",
+        "PeriodType": "C12TM",
+        "ItemType": " Advancing clean energy solutions",
+        "GrossSales": 101655.15
+    },
+    {
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "American Stores",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 79500.01
+    },
+    {
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "Lane Drug",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 105102.00
+    },
+    {   
+        "CustomerCode": 2021029,
+        "SimilarCustomerDescription": "Alex Grass",
+        "PeriodType": "C12TM",
+        "ItemType": "ENERGY SOLUTIONS",
+        "GrossSales": 90070.10
+    }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "CustomerCode": 12805792,
+    "CustomerShortDescription": "Bear Flag Robotics",
+    "BrandDescription": "Cradlepoint",
+    "Gross_Sales": 8917.89,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerShortDescription": "Bear Flag Robotics",
+    "BrandDescription": "Panorama Antennas",
+    "Gross_Sales": 1159.9,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerShortDescription": "Bentek",
+    "BrandDescription": "Transcend",
+    "Gross_Sales": 6110.3,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerShortDescription": "Bentek",
+    "BrandDescription": "Symantec",
+    "Gross_Sales": 3670,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerShortDescription": "Bentek",
+    "BrandDescription": "Startech Com",
+    "Gross_Sales": 481.95,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerShortDescription": "Bentek",
+    "BrandDescription": "Black Box",
+    "Gross_Sales": 98.13,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerShortDescription": "Bittorrent, Inc.",
+    "BrandDescription": "Adobe",
+    "Gross_Sales": 6307.13,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerShortDescription": "Blurb Inc",
+    "BrandDescription": "Adobe",
+    "Gross_Sales": 35235.26,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerShortDescription": "Blurb Inc",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 30300,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerShortDescription": "Blurb Inc",
+    "BrandDescription": "Microsoft",
+    "Gross_Sales": 12746.3,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerShortDescription": "Blurb Inc",
+    "BrandDescription": "Seagate Technology",
+    "Gross_Sales": 1962.9,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerShortDescription": "Blurb Inc",
+    "BrandDescription": "Asus",
+    "Gross_Sales": 961.84,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerShortDescription": "Brit & Co",
+    "BrandDescription": "Adobe",
+    "Gross_Sales": 26961.84,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 15275.54,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Microsoft",
+    "Gross_Sales": 12933.59,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Adobe",
+    "Gross_Sales": 6980.85,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 5974.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 3520.43,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Varidesk",
+    "Gross_Sales": 3270.83,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Hp Inc",
+    "Gross_Sales": 3026.78,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 2451.62,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Yamaha",
+    "Gross_Sales": 2214.47,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Poly",
+    "Gross_Sales": 1893.36,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "3m",
+    "Gross_Sales": 1838.22,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Verkada",
+    "Gross_Sales": 1469.54,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Axis Communications",
+    "Gross_Sales": 1443.35,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Tripp Lite",
+    "Gross_Sales": 1183.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Logitech",
+    "Gross_Sales": 1086.73,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Vmware",
+    "Gross_Sales": 954.66,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Samsung",
+    "Gross_Sales": 834.18,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Kensington",
+    "Gross_Sales": 831.39,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Ergotron",
+    "Gross_Sales": 817.66,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Asus",
+    "Gross_Sales": 599.44,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Viewsonic",
+    "Gross_Sales": 581.98,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Startech Com",
+    "Gross_Sales": 398.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Ruckus Wireless",
+    "Gross_Sales": 267.39,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Kingston",
+    "Gross_Sales": 221.62,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Netgear",
+    "Gross_Sales": 220.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Total Micro Technologies",
+    "Gross_Sales": 209.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Belkin",
+    "Gross_Sales": 201.58,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Kanguru",
+    "Gross_Sales": 114.44,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Otterbox",
+    "Gross_Sales": 69.8,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Black Box",
+    "Gross_Sales": 42.94,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Fellowes",
+    "Gross_Sales": 14.54,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerShortDescription": "Calithera Biosciences",
+    "BrandDescription": "Legrand",
+    "Gross_Sales": 5.8,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 27140,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Lenovo",
+    "Gross_Sales": 10630.96,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Yealink",
+    "Gross_Sales": 8400,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Poly",
+    "Gross_Sales": 5880,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Hewlett Packard Enterprise",
+    "Gross_Sales": 5620,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Startech Com",
+    "Gross_Sales": 3194.86,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Samsung",
+    "Gross_Sales": 2959.92,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Tripp Lite",
+    "Gross_Sales": 1997.91,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Actiontec Electronics",
+    "Gross_Sales": 1945.74,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "APC",
+    "Gross_Sales": 1750,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerShortDescription": "Code Advisors",
+    "BrandDescription": "Logitech",
+    "Gross_Sales": 189.75,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 18304.08,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Palo Alto",
+    "Gross_Sales": 8185.65,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Vertiv",
+    "Gross_Sales": 2000,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Asus",
+    "Gross_Sales": 1850,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Symantec",
+    "Gross_Sales": 1799.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Tripp Lite",
+    "Gross_Sales": 1458.59,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Microsoft",
+    "Gross_Sales": 890,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerShortDescription": "Genapsys",
+    "BrandDescription": "Google",
+    "Gross_Sales": 275,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Red Hat",
+    "Gross_Sales": 4944.35,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Microsoft",
+    "Gross_Sales": 4388.97,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Google",
+    "Gross_Sales": 3239.28,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Tenable",
+    "Gross_Sales": 3171.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Asus",
+    "Gross_Sales": 3038.94,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerShortDescription": "Guidebook",
+    "BrandDescription": "Webroot Software",
+    "Gross_Sales": 1853,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 37187.51,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Sophos",
+    "Gross_Sales": 4273.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Sonicwall",
+    "Gross_Sales": 2659.5,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 1055.38,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Micron",
+    "Gross_Sales": 306.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerShortDescription": "Infostretch",
+    "BrandDescription": "Veeam",
+    "Gross_Sales": 199.1,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerShortDescription": "Panzura, Inc.",
+    "BrandDescription": "Fortinet",
+    "Gross_Sales": 11988.05,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerShortDescription": "Panzura, Inc.",
+    "BrandDescription": "Vmware",
+    "Gross_Sales": 148.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerShortDescription": "Panzura, Inc.",
+    "BrandDescription": "Symantec",
+    "Gross_Sales": 78.27,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Crowdstrike",
+    "Gross_Sales": 32333.51,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Apc",
+    "Gross_Sales": 6688.25,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Zebra Technologies",
+    "Gross_Sales": 5829.36,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Tenable",
+    "Gross_Sales": 2126.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Pos-X",
+    "Gross_Sales": 1812.51,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Dell",
+    "Gross_Sales": 1775.6,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Micron",
+    "Gross_Sales": 1598.68,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Juniper Networks",
+    "Gross_Sales": 703.13,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Viewsonic",
+    "Gross_Sales": 531.98,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Adesso",
+    "Gross_Sales": 512.88,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Microsoft",
+    "Gross_Sales": 489.97,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Rain Design",
+    "Gross_Sales": 359.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Kodak Scanners",
+    "Gross_Sales": 332.45,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Asus",
+    "Gross_Sales": 246.99,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Kensington",
+    "Gross_Sales": 227.98,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "3M",
+    "Gross_Sales": 216.54,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Apple",
+    "Gross_Sales": 197.6,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Kingston",
+    "Gross_Sales": 182.34,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Western Digital",
+    "Gross_Sales": 131.1,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Brother",
+    "Gross_Sales": 118.7,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Tripp Lite",
+    "Gross_Sales": 112.02,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Cherry Americas",
+    "Gross_Sales": 56.98,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerShortDescription": "Veracyte",
+    "BrandDescription": "Black Box",
+    "Gross_Sales": 14.63,
+    "logo_name": ""
+  }
+]

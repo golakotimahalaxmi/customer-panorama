@@ -1,0 +1,148 @@
+[
+  {
+    "customer_name": "ExxonMobil",
+    "customer_code": 2021058,
+    "customer_id": 3010503,
+    "title": "Why we're investing $15 billion in a lower-carbon future",
+    "author": "",
+    "posted_on":"-1" ,
+    "posted_on_trust_code": "",
+    "url": "https://corporate.exxonmobil.com/News/Newsroom/News-releases/2021/1109_Why-we-are-investing-15-billion-in-a-lower-carbon-future",
+    "created_at": "",
+    "Logo_Name": "exxonmobil_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "07:00"
+  },
+
+{
+    "customer_name": "Chevron",
+    "customer_code": 2021059,
+    "customer_id": 3012503,
+    "title": "Chevron Announces Third Quarter 2021 Results",
+    "author": "",
+    "posted_on":"-3" ,
+    "posted_on_trust_code": "",
+    "url": "https://www.chevron.com/stories/chevron-announces-third-quarter-2021-results",
+    "created_at": "",
+    "Logo_Name": "chevron_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "06:00"
+  },
+{
+    "customer_name": "Phillips 66",
+    "customer_code": 2021060,
+    "customer_id": 3010501,
+    "title": "Tulsa employee reflects on Greenwood’s history, future",
+    "author": "",
+    "posted_on":"-7" ,
+    "posted_on_trust_code": "",
+    "url": "https://www.phillips66.com/newsroom/tulsa-employee-reflects-on-greenwoods-history-future",
+    "created_at": "",
+    "Logo_Name": "phillips66_news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "05:00"
+  },
+{
+    "customer_name": "Valero Energy",
+    "customer_code": 2021061,
+    "customer_id": 3053501,
+    "title": "12th Man Centennial Coming to Aggieland",
+    "author": "",
+    "posted_on":"-6" ,
+    "posted_on_trust_code": "",
+    "url": "https://12thman.com/news/2021/8/17/12th-man-centennial-coming-to-aggieland.aspx",
+    "created_at": "",
+    "Logo_Name": "valeroenergy_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "06:00"
+  },
+
+{
+    "customer_name": "Energy Transfer",
+    "customer_code": 2021062,
+    "customer_id": 3053509,
+    "title": "ENERGY TRANSFER ANNOUNCES QUARTERLY CASH DISTRIBUTION",
+    "author": "",
+    "posted_on":"-8" ,
+    "posted_on_trust_code": "",
+    "url": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-announces-quarterly-cash-distribution-4",
+    "created_at": "",
+    "Logo_Name": "energytransfer_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "07:00"
+  },
+
+{
+    "customer_name": "Plains All American Pipeline",
+    "customer_code": 2021063,
+    "customer_id": 3053502,
+    "title": "Plains' Cushing Terminal to Become Delivery Point for the Benchmark WTI Crude Oil Futures Contract",
+    "author": "",
+    "posted_on":"-2" ,
+    "posted_on_trust_code": "",
+    "url": "https://ir.paalp.com/Plains---Cushing-Terminal-to-Become-Delivery-Point-for-the-Benchmark-WTI-Crude-Oil-Futures-Contract-10-18-2021",
+    "created_at": "",
+    "Logo_Name": "plainsallamericanpipeline_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"
+  },
+{
+    "customer_name": "Enterprise Products",
+    "customer_code": 2021064,
+    "customer_id": 3053512,
+    "title": "Enterprise Products Partners Non-GAAP EPS of $0.52 misses by $0.02, revenue of $11.37B beats by $1.7B",
+    "author": "",
+    "posted_on":"-3" ,
+    "posted_on_trust_code": "",
+    "url": "https://seekingalpha.com/news/3793885-enterprise-products-partners-non-gaap-eps-of-0_52-misses-0_02-revenue-of-11_37b-beats-1_7b?utm_source=markets.businessinsider.com&utm_medium=referral",
+    "created_at": "",
+    "Logo_Name": "enterpriseproducts_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "06:00"
+  },
+
+{
+    "customer_name": "PBF Energy",
+    "customer_code": 2021065,
+    "customer_id": 3053502,
+    "title": "PBF Energy to Participate in Barclays CEO Energy-Power Conference",
+    "author": "",
+    "posted_on":"-6" ,
+    "posted_on_trust_code": "",
+    "url": "https://investors.pbfenergy.com/news/2021/09-03-2021-220033608",
+    "created_at": "",
+    "Logo_Name": "pbfenergy_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
+  },
+
+{
+    "customer_name": "Baker Hughes",
+    "customer_code": 2021066,
+    "customer_id": 3053102,
+    "title": "AIQ and Baker Hughes Partner to Develop Advanced Analytics Solutions for the Oil and Gas Industry",
+    "author": "",
+    "posted_on":"-8" ,
+    "posted_on_trust_code": "",
+    "url": "https://www.bakerhughes.com/company/news/aiq-and-baker-hughes-partner-develop-advanced-analytics-solutions-oil-and-gas-industry",
+    "created_at": "",
+    "Logo_Name": "bakerhughes_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "07:00"
+  },
+
+{
+    "customer_name": "Halliburton",
+    "customer_code": 2021067,
+    "customer_id": 3053182,
+    "title": "Four Companies Join Halliburton Labs Clean Energy Accelerator",
+    "author": "",
+    "posted_on":"-6" ,
+    "posted_on_trust_code": "",
+    "url": "https://www.halliburton.com/en/about-us/press-release/four-companies-join-halliburton-labs-clean-energy-accelerator",
+    "created_at": "",
+    "Logo_Name": "halliburton_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"
+  }
+]

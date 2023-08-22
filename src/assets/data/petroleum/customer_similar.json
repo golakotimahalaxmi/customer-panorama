@@ -1,0 +1,110 @@
+[
+  {
+    "CustomerCode": 2021058,
+    "CustomerName": "ExxonMobil ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Lukoil",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Total SE",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Chevron Corporation"
+  },
+{
+    "CustomerCode": 2021059,
+    "CustomerName": "Chevron",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Occidental Petroleum",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Devon Energy",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Hess Corporation"
+  },
+
+{
+    "CustomerCode": 2021060,
+    "CustomerName": "Phillips 66",
+    "SimilarCompany1_Code":2021058 ,
+    "SimilarCompany1_Name": "ExxonMobil",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Equinor",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Hess Corporation"
+  },
+{
+    "CustomerCode": 2021061,
+    "CustomerName": "Valero Energy",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Marathon Petroleum",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Occidental Petroleum",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Citgo"
+  },
+
+{
+    "CustomerCode": 2021062,
+    "CustomerName": "Energy Transfer",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Transpetro",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Newfield Exploration",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Cimarex Energy"
+  },
+
+{
+    "CustomerCode": 2021063,
+    "CustomerName": "Plains All American Pipeline",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "SemGroup",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Inter Pipeline",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "CenterPoint Energy"
+  },
+
+{
+    "CustomerCode": 2021064,
+    "CustomerName": "Enterprise Products",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Kinder Morgan",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Targa Resources",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Antero Midstream"
+  },
+
+{
+    "CustomerCode": 2021065,
+    "CustomerName": "PBF Energy",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Imperial Oil",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Murco Petroleum",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Marathon Oil"
+  },
+
+{
+    "CustomerCode": 2021066,
+    "CustomerName": "Baker Hughes",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Gibson Energy",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Schlumberger",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Flowserve"
+  },
+
+{
+    "CustomerCode": 2021067,
+    "CustomerName": "Halliburton",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Air Liquide",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "ENBRIDGE INC",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "AkzoNobel"
+  }
+]
+

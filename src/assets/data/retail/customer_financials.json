@@ -1,0 +1,280 @@
+[
+ {
+    "CustomerCode": 2021020,
+    "CustomerDescription": "Target (2021020)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "LG K31 (mobiles)",
+    "BrandDescription": "LG",
+    "GrossSales": 1392849.81,
+    "CoworkerCode": "BM49"
+  },
+{
+    "CustomerCode": 2021020,
+    "CustomerDescription": "Target (2021020)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "LG K31 (mobiles)",
+    "BrandDescription": "LG",
+    "GrossSales": 1202809.86,
+    "CoworkerCode": "BM49"
+  },
+{
+    "CustomerCode": 2021020,
+    "CustomerDescription": "Target (2021020)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "LG K31 (mobiles)",
+    "BrandDescription": "LG",
+    "GrossSales": 1132809.21,
+    "CoworkerCode": "BM49"
+  },
+{
+    "CustomerCode": 2021021,
+    "CustomerDescription": "Lowe's  (2021021)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Gas Chainsaw (Chainsaw)",
+    "BrandDescription": "Kobalt",
+    "GrossSales": 1692809.81,
+    "CoworkerCode": "BP39"
+  },
+{
+    "CustomerCode": 2021021,
+    "CustomerDescription": "Lowe's  (2021021)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Gas Chainsaw (Chainsaw)",
+    "BrandDescription": "Kobalt",
+    "GrossSales": 1592549.11,
+    "CoworkerCode": "BP39"
+  },{
+    "CustomerCode": 2021021,
+    "CustomerDescription": "Lowe's  (2021021)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Gas Chainsaw (Chainsaw)",
+    "BrandDescription": "Kobalt",
+    "GrossSales": 1462879.21,
+    "CoworkerCode": "BP39"
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerDescription": "Albertsons (2021022)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Herbal Supplement Milk Thistle(Milk)",
+    "BrandDescription": "Open Nature",
+    "GrossSales": 1292245.61,
+    "CoworkerCode": "Bl30"
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerDescription": "Albertsons  (2021022)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Herbal Supplement Milk Thistle(Milk)",
+    "BrandDescription": "Open Nature",
+    "GrossSales": 1122329.65,
+    "CoworkerCode": "Bl30"
+  },
+{
+    "CustomerCode": 2021022,
+    "CustomerDescription": "Albertsons (2021022)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Herbal Supplement Milk Thistle(Milk)",
+    "BrandDescription": "Open Nature",
+    "GrossSales": 1032849.61,
+    "CoworkerCode": "Bl30"
+  },
+{
+    "CustomerCode": 2021023,
+    "CustomerDescription": "Dollar General (2021023)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "VERIZON MOTO E6(Mobiles)",
+    "BrandDescription": "VERIZON ",
+    "GrossSales": 1832839.11,
+    "CoworkerCode": "BM30"
+  },
+{
+    "CustomerCode": 2021023,
+    "CustomerDescription": "Dollar General (2021023)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "VERIZON MOTO E6(Mobiles)",
+    "BrandDescription": "VERIZON ",
+    "GrossSales": 1712809.21,
+    "CoworkerCode": "BM30"
+  },
+{
+    "CustomerCode": 2021023,
+    "CustomerDescription": "Dollar General (2021023)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "VERIZON MOTO E6(Mobiles)",
+    "BrandDescription": "VERIZON ",
+    "GrossSales": 1632812.61,
+    "CoworkerCode": "BM30"
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerDescription": "Best Buy (2021024)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Inspiron 7000 2-in-1 - 13.3 FHD Touchscreen Laptop (Laptops)",
+    "BrandDescription": "Dell",
+    "GrossSales": 1580706.5,
+    "CoworkerCode": 8401
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerDescription": "Best Buy (2021024)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Inspiron 7000 2-in-1 - 13.3 FHD Touchscreen Laptop (Laptops)",
+    "BrandDescription": "Dell",
+    "GrossSales": 1480704.4,
+    "CoworkerCode": 8401
+  },
+{
+    "CustomerCode": 2021024,
+    "CustomerDescription": "Best Buy (2021024)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Inspiron 7000 2-in-1 - 13.3 FHD Touchscreen Laptop (Laptops)",
+    "BrandDescription": "Dell",
+    "GrossSales": 1480708.2,
+    "CoworkerCode": 8401
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerDescription": "Macy's (2021025)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Men's Ultraboost 21 Running Sneakers (Sneakers)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1280706.3,
+    "CoworkerCode": 8401
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerDescription": "Macy's (2021025)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Men's Ultraboost 21 Running Sneakers (Sneakers)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1230406.6,
+    "CoworkerCode": 8201
+  },
+{
+    "CustomerCode": 2021025,
+    "CustomerDescription": "Macy's (2021025)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Men's Ultraboost 21 Running Sneakers (Sneakers)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1030206.3,
+    "CoworkerCode": 8201
+  },
+{
+    "CustomerCode": 2021026,
+    "CustomerDescription": "Dollar Tree (2021026)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Panasonic Super Heavy Duty AAA(Batteries)",
+    "BrandDescription": "Panasonic",
+    "GrossSales": 1691849.21,
+    "CoworkerCode": "Bk30"
+  },
+{
+    "CustomerCode": 2021026,
+    "CustomerDescription": "Dollar Tree (2021026)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Panasonic Super Heavy Duty AAA(Batteries)",
+    "BrandDescription": "Panasonic",
+    "GrossSales": 1591809.61,
+    "CoworkerCode": "Bk30"
+  },
+{
+    "CustomerCode": 2021026,
+    "CustomerDescription": "Dollar Tree (2021026)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Panasonic Super Heavy Duty AAA(Batteries)",
+    "BrandDescription": "Panasonic",
+    "GrossSales": 1591249.31,
+    "CoworkerCode": "Bk30"
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerDescription": "Kohl's (2021027)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Men's adidas Black Minnesota (Jacket)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1392849.81,
+    "CoworkerCode": "BR39"
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerDescription": "Kohl's (2021027)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Men's adidas Black Minnesota (Jacket)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1292849.41,
+    "CoworkerCode": "BR39"
+  },
+{
+    "CustomerCode": 2021027,
+    "CustomerDescription": "Kohl's (2021027)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Men's adidas Black Minnesota (Jacket)",
+    "BrandDescription": "adidas",
+    "GrossSales": 1142849.01,
+    "CoworkerCode": "BR39"
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerDescription": "Publix (2021028)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "moose tracks(ice cream)",
+    "BrandDescription": "Publix",
+    "GrossSales": 1771849.01,
+    "CoworkerCode": "BL30"
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerDescription": "Publix (2021028)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "moose tracks(ice cream)",
+    "BrandDescription": "Publix",
+    "GrossSales": 1631419.11,
+    "CoworkerCode": "BL30"
+  },
+{
+    "CustomerCode": 2021028,
+    "CustomerDescription": "Publix (2021028)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "moose tracks(ice cream)",
+    "BrandDescription": "Publix",
+    "GrossSales": 1531829.01,
+    "CoworkerCode": "BL30"
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerDescription": "Rite Aid (2021029)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Men's Daily Enzyme + Probiotic Support Capsules(Capsules )",
+    "BrandDescription": "FRISKA",
+    "GrossSales": 1231249.03,
+    "CoworkerCode": "BR30"
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerDescription": "Rite Aid (2021029)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Men's Daily Enzyme + Probiotic Support Capsules(Capsules )",
+    "BrandDescription": "FRISKA",
+    "GrossSales": 1131819.04,
+    "CoworkerCode": "BR30"
+  },
+{
+    "CustomerCode": 2021029,
+    "CustomerDescription": "Rite Aid (2021029)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Men's Daily Enzyme + Probiotic Support Capsules(Capsules )",
+    "BrandDescription": "FRISKA",
+    "GrossSales": 1121249.01,
+    "CoworkerCode": "BR30"
+  }
+
+]
+
+
+
+
+
+
+  
+  

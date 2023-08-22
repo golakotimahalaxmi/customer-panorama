@@ -1,0 +1,105 @@
+[
+  {
+    "CustomerCode":2021020,
+    "CustomerName": "Target",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Walmart",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Costco",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Home Depot"
+  },
+{
+    "CustomerCode":2021021,
+    "CustomerName": "Lowe's ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Home Depot",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Menards",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Sears"
+  },
+{
+    "CustomerCode":2021022,
+    "CustomerName": "Albertsons",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Safeway Inc",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " SuperValu",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Lucky Stores"
+  },
+{
+    "CustomerCode":2021023,
+    "CustomerName": "Dollar General",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Albertsons",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Family Dollar",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Ross Stores "
+  },
+{
+    "CustomerCode":2021024,
+    "CustomerName": "Best Buy",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Fry’s Electronics",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Newegg",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Staples "
+  },
+{
+    "CustomerCode":2021025,
+    "CustomerName": "Macy's",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Lord & Taylor",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Jordan Marsh",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Abraham & Straus "
+  },
+{
+    "CustomerCode":2021026,
+    "CustomerName": "Dollar Tree",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Dollar General",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Deals",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Family Dollar "
+  },
+{
+    "CustomerCode":2021027,
+    "CustomerName": "Kohl's",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Walmart",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Nordstrom",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "The Bon-Ton "
+  },
+{
+    "CustomerCode":2021028,
+    "CustomerName": "Publix ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Winn-Dixie",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Sprouts Farmers Market",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Harris Teeter "
+  },
+{
+    "CustomerCode":2021029,
+    "CustomerName": "Rite Aid ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "American Stores",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Lane Drug",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Alex Grass "
+  }
+]
+
+
+ 

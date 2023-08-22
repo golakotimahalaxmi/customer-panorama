@@ -1,0 +1,85 @@
+[
+  {
+    "Customercode": 2021038,
+    "CustomerDescription": "AIG (2021038)",
+    "CoworkerCode": "FL72",
+    "C12TM": 52983.85,
+    "P12Tm": 53892.26,
+    "PP12TM": 54080.12
+  },
+
+  {
+    "Customercode": 2021039,
+    "CustomerDescription": "Allstate (2021039)",
+    "CoworkerCode": "FR72",
+    "C12TM": 62983.15,
+    "P12Tm": 63892.16,
+    "PP12TM": 64080.11
+  },
+
+{
+    "Customercode": 2021040,
+    "CustomerDescription": "New York Life (2021040)",
+    "CoworkerCode": "FW72",
+    "C12TM": 51983.05,
+    "P12Tm": 53892.21,
+    "PP12TM": 51080.02
+  },
+{
+    "Customercode":2021041,
+    "CustomerDescription": "Liberty Mutual (2021041)",
+    "CoworkerCode": "FS72",
+    "C12TM": 42983.05,
+    "P12Tm": 43892.16,
+    "PP12TM": 44080.10
+  },
+{
+    "Customercode": 2021042,
+    "CustomerDescription": "Erie (2021042)",
+    "CoworkerCode": "FL78",
+    "C12TM": 32983.12,
+    "P12Tm": 33892.13,
+    "PP12TM": 34080.10
+  },
+{
+    "Customercode": 2021043,
+    "CustomerDescription": "GEICO(2021043)",
+    "CoworkerCode": "FM12",
+    "C12TM": 42983.05,
+    "P12Tm": 43892.27,
+    "PP12TM": 44080.13
+  },
+{
+    "Customercode": 2021044,
+    "CustomerDescription": "Progressive (2021044)",
+    "CoworkerCode": "FR72",
+    "C12TM": 52983.12,
+    "P12Tm": 53892.14,
+    "PP12TM": 54080.11
+  },
+{
+    "Customercode": 2021045,
+    "CustomerDescription": "TIAA (2021045)",
+    "CoworkerCode": "FL72",
+    "C12TM": 51983.05,
+    "P12Tm": 53892.11,
+    "PP12TM": 50080.12
+  },
+{
+    "Customercode": 2021046,
+    "CustomerDescription": "Lincoln National (2021046)",
+    "CoworkerCode": "FS68",
+    "C12TM": 32980.12,
+    "P12Tm": 33893.13,
+    "PP12TM": 34070.10
+  },
+{
+    "Customercode":2021047,
+    "CustomerDescription": "Reinsurance Group of America (2021047)",
+    "CoworkerCode": "RL72",
+    "C12TM": 41983.06,
+    "P12Tm": 43892.07,
+    "PP12TM": 44080.20
+  }
+]
+ 

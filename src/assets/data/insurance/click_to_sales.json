@@ -1,0 +1,816 @@
+[
+    
+ {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 129984,
+      "sales": 78122
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 110234,
+      "sales": 66143
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 109384,
+      "sales": 50168
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 150037,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 120650,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 203333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021038,
+      "CustomerDescription": "AIG (2021038)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 85321
+    },
+ {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 130984,
+      "sales": 73122
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 119234,
+      "sales": 66143
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 109304,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 150437,
+      "sales": 78075
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 120657,
+      "sales": 62086
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021039,
+      "CustomerDescription": "Allstate (2021039)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 283333,
+      "sales": 58571
+    },
+    {
+      "CustomerCode":2021039,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 99321
+    },
+ {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 139984,
+      "sales": 60122
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 119234,
+      "sales": 86143
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 109384,
+      "sales": 92168
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 200004,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 67075
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 120650,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 263333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021040,
+      "CustomerDescription": "New York Life (2021040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 210030,
+      "sales": 95321
+    },
+ {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 60122
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 66143
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150437,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120607,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 28571
+    },
+    {
+      "CustomerCode":2021041,
+      "CustomerDescription": "Liberty Mutual (2021041)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 35321
+    },
+ {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 50122
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 66143
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200004,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 41075
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021042,
+      "CustomerDescription": "Erie (2021042)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 65321
+    },
+ {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 93122
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110234,
+      "sales": 56143
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 100384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 200034,
+      "sales": 95026
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 150437,
+      "sales": 31075
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 120057,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021043,
+      "CustomerDescription": "GEICO (2021043)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 260034,
+      "sales": 75321
+    },
+ {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 83122
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 119234,
+      "sales": 62143
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 109384,
+      "sales": 42168
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 200034,
+      "sales": 55020
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 150437,
+      "sales": 31075
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 120657,
+      "sales": 82086
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021044,
+      "CustomerDescription": "Progressive (2021044)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210030,
+      "sales": 95321
+    },
+ {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 119234,
+      "sales": 36143
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 109380,
+      "sales": 52168
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 150437,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 120657,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 200030,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 213333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021045,
+      "CustomerDescription": "TIAA (2021045)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210034,
+      "sales": 75321
+    },
+ {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 139984,
+      "sales": 43122
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 119234,
+      "sales": 56143
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109384,
+      "sales": 52168
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 200030,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 150437,
+      "sales": 41075
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 120657,
+      "sales": 52086
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213333,
+      "sales": 78571
+    },
+    {
+      "CustomerCode":2021046,
+      "CustomerDescription": "Lincoln National (2021046)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 65321
+    },
+{
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 139980,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 119234,
+      "sales": 46143
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 109384,
+      "sales": 32168
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 150437,
+      "sales": 51075
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 120657,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213330,
+      "sales": 88571
+    },
+    {
+      "CustomerCode":2021047,
+      "CustomerDescription": "Reinsurance Group of America (2021047)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 65321
+    }
+
+
+]
+

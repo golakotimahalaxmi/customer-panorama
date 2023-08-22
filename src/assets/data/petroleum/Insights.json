@@ -1,0 +1,125 @@
+[
+    {
+      "customer_name": "ExxonMobil",
+      "customer_code": 2021058,
+      "title": "ExxonMobil is Interested to Purchase HCL DRYiCE iControl.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems ExxonMobil is running and its propensity to invest more and deepen its relationship with HCL Technologies."},
+    
+    { "customer_name": "ExxonMobil",
+        "customer_code": 2021058,
+        "title": "ExxonMobil interested to purchase CyberPower UPS's.",
+        "posted_on": -9,
+        "description": "Aflac Incorporated is running and its propensity to invest more and deepen its relationship with CyberPower identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."},
+    {
+        "customer_name": "ExxonMobil",
+        "customer_code": 2021058,
+        "title": "McAfee Meta licence is going to be expired 0n 04-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."},
+    
+    { "customer_name": "Chevron",
+      "customer_code": 2021059,
+      "title": "Chevron is Interested to Purchase Okta Identity Cloud.",
+      "posted_on": -2,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Chevron is running and its propensity to invest more and deepen its relationship with Okta."
+    },
+    {
+        "customer_name": "Chevron",
+        "customer_code": 2021059,
+        "title": "Chevron is Interested to Purchase BenQ LED monitors.",
+        "posted_on": -3,
+        "description": "Chevron is running and its propensity to invest more and deepen its relationship with BenQ identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Chevron",
+        "customer_code": 2021059,
+        "title": "TeamViewer licence is going to be expired on 06-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+   
+{     "customer_name": "Phillips 66",
+      "customer_code": 2021060,
+      "title": "Phillips 66 is Interested to Purchase SAP S/4 HANA Cloud.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Phillips 66 is running and its propensity to invest more and deepen its relationship with SAP"
+    },
+    {
+        "customer_name": "Phillips 66",
+        "customer_code": 2021060,
+        "title": "Phillips 66 is Interested to Purchase Hitachi Server Components.",
+        "posted_on": -4,
+        "description": "Phillips 66 is running and its propensity to invest more and deepen its relationship with Hitachi identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Phillips 66",
+        "customer_code": 2021060,
+        "title": "Rocket.chat licence is going to be expired on 08-02-22.",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Valero Energy",
+      "customer_code": 2021061,
+      "title": "Valero Energy is Interested to Purchase Lexmark Laser Printers.",
+      "posted_on": -7,
+      "description": "Valero Energy is running and its propensity to invest more and deepen its relationship with Lexmark identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Valero Energy",
+        "customer_code": 2021061,
+        "title": "Valero Energy is Interested to Purchase Microsoft Dynamics 365 Customer Engagement for CRM.",
+        "posted_on": -4,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Valero Energy is running and its propensity to invest more and deepen its relationship with Microsoft."
+    },
+    {
+        "customer_name": "Valero Energy",
+        "customer_code": 2021061,
+        "title": "Cisco Webex Meetings licence is going to be expired on 13-02-22. ",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the service."
+    },
+{
+      "customer_name": "Energy Transfer",
+      "customer_code": 2021062,
+      "title": "Energy Transfer is Interested to Purchase Cisco IronPort Cloud Email Security.",
+      "posted_on": -7,
+      "description": " Database provides customer insight and contextual information on which enterprise applications and software systems Energy Transfer is running and its propensity to invest more and deepen its relationship with Cisco."
+    },
+    {
+        "customer_name": "Energy Transfer",
+        "customer_code": 2021062,
+        "title": "  SAP licence is going to be expired on 11-02-22.",
+        "posted_on": -4,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Energy Transfer",
+        "customer_code": 2021062,
+        "title": "Energy Transfer is Interested to Purchase Synchrotech USB Hubs.",
+        "posted_on": -8,
+        "description": "Energy Transfer is running and its propensity to invest more and deepen its relationship with Synchrotech identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+{
+      "customer_name": "Baker Hughes",
+      "customer_code": 2021066,
+      "title": "Baker Hughes is Interested to Purchase Atlassian software.",
+      "posted_on": -2,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Baker Hughes is running and its propensity to invest more and deepen its relationship with Atlassian."
+    },
+    {
+        "customer_name": "Baker Hughes",
+        "customer_code": 2021066,
+        "title": "Jira Service Desk licence is going to be expired on 10-02-22.",
+        "posted_on": -3,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Baker Hughes",
+        "customer_code": 2021066,
+        "title": "Baker Hughes is Interested to Purchase Lenovo ThinkStations.",
+        "posted_on": -5,
+        "description": "Baker Hughes is running and its propensity to invest more and deepen its relationship with Lenovo identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."}
+
+]

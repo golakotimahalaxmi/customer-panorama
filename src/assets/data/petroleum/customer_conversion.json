@@ -1,0 +1,74 @@
+[
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Marine Fuels , Greases",
+        "sc_total":11000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"base oils & lubricants , chemicals",
+        "sc_total":13000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"AUTOMATIC LUBRICATORS , HYDRAULIC FLUIDS",
+        "sc_total":12000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"asphalt,propane,sulfur",
+        "sc_total":15000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"CRUDE OIL,NATURAL GAS LIQUIDS",
+        "sc_total":16000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"TRANSPORTATION,SUPPLY AND LOGISTICS",
+        "sc_total":17000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"NATURAL GAS,PETROCHEMICAL",
+        "sc_total":15000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Lubes,LPG,Clean Fuel",
+        "sc_total":18000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Gas Turbines,Centrifugal Pumps,Reciprocating Compressors",
+        "sc_total":18000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"Baroid,landmark,multi-chem",
+        "sc_total":16000
+    }
+]
+
+
+    

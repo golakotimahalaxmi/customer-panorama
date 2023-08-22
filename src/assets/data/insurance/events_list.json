@@ -1,0 +1,111 @@
+[
+  {
+    "customer_name": "AIG",
+    "dateTimePub": "",
+    "title": "AIG restructures senior leadership team",
+    "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/aig-restructures-senior-leadership-team-314357.aspx",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 26,
+    "event_location": "Newyork",
+    "description": "American International Group (AIG) has revealed changes to its senior leadership team – changes it says will help position the organization for “strong” long term performance and enhance its leadership as part of the separation of its life & retirement (L&R) business."
+  },
+{
+    "customer_name": "Allstate",
+    "dateTimePub": "",
+    "title": "Allstate Completes Sale of Life and Annuity Businesses",
+    "url": "https://www.allstatenewsroom.com/news/allstate-completes-sale-of-life-and-annuity-businesses/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 26,
+    "event_location": "NORTHBROOK",
+    "description": "he Allstate Corporation (NYSE: ALL) today announced that it has closed the sale of Allstate Life Insurance Company (ALIC) and certain subsidiaries to entities managed by Blackstone for total proceeds of $4 billion, which is inclusive of Blackstone’s approximately $2.8 billion purchase price, as well as increases in statutory surplus since March 31, 2020."
+  },
+{
+    "customer_name": "New York Life",
+    "dateTimePub": "",
+    "title": "Nearly one in three millennials build $4,200 nest eggs during pandemic",
+    "url": "https://www.newyorklife.com/newsroom/wealth-watch-millenials-savings",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 26,
+    "event_location": "New York",
+    "description": "New York Life’s latest Wealth Watch survey has found that during the pandemic, paused expenses including commuting, rent, and student loan repayments, have allowed some younger Americans to build up increased savings."
+  },
+{
+    "customer_name": "Liberty Mutual",
+    "dateTimePub": "",
+    "title": "Liberty Mutual Insurance President Tim Sweeney Participates in 2021 United Nations World Investment Forum",
+    "url": "https://www.libertymutualgroup.com/about-lm/news/articles/liberty-mutual-insurance-president-tim-sweeney-participates-2021-united-nations-world-investment-forum",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 25,
+    "event_location": "BOSTON",
+    "description": "Liberty Mutual Insurance President Tim Sweeney participated in this year’s World Investment Forum hosted by the United Nations Conference on Trade and Development"
+  },
+{
+    "customer_name": "Erie",
+    "dateTimePub": "",
+    "title": "Erie Indemnity Reports Third Quarter 2021 Results",
+    "url": "https://www.erieinsurance.com/news-room/press-releases/2021/2021-q3-earnings-release",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 28,
+    "event_location": "Pa",
+    "description": "Erie Indemnity Company (NASDAQ: ERIE) today announced financial results for the quarter and nine months ending September 30, 2021."
+  },
+{
+    "customer_name": "GEICO",
+    "dateTimePub": "",
+    "title": "GEICO's Iowa Regional Office Increases Starting Salaries Significantly for Many Positions",
+    "url": "https://www.geico.com/about/pressreleases/2021/20211105/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 5,
+    "event_location": "NORTH LIBERTY",
+    "description": "GEICO significantly increased starting salaries for service and sales positions in North Liberty, Iowa."
+  },
+{
+    "customer_name": "Progressive",
+    "dateTimePub": "",
+    "title": "Progressive provides $1 billion to customers",
+    "url": "https://progressive.mediaroom.com/2020-04-08-Progressive-provides-1-billion-to-customers",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 8,
+    "event_location": "MAYFIELD VILLAGE, OH",
+    "description": "As a result of the pandemic, insurer finds ways to help customers, employees, agents and communities through its comprehensive “Apron Relief Program"
+  },
+{
+    "customer_name": "TIAA",
+    "dateTimePub": "",
+    "title": "Borrowers face difficulty and confusion when student debt payments resume",
+    "url": "https://progressive.mediaroom.com/2020-04-08-Progressive-provides-1-billion-to-customers",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 9,
+    "event_location": "NEW YORK,",
+    "description": "Student loan borrowers working in the nonprofit and public sectors are emotionally distressed and uncertain about their ability to repay student loans once relief under the CARES Act ends, according to TIAA’s 2021 Nonprofit Student Debt Survey."
+  },
+{
+    "customer_name": "Lincoln National",
+    "dateTimePub": "",
+    "title": "Lincoln Financial Network Announces New Head of Marketing",
+    "url": "https://www.marketscreener.com/quote/stock/LINCOLN-NATIONAL-CORPORAT-13407/news/Lincoln-Financial-Network-Announces-New-Head-of-Marketing-36971866/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 11,
+    "event_location": "Philadelphia",
+    "description": "Lincoln Financial Network (LFN), the retail wealth management affiliate of Lincoln Financial Group (NYSE:LNC), today announced the appointment of Jerry Lezynski as Vice President, LFN Marketing."
+  },
+{
+    "customer_name": "Reinsurance Group of America ",
+    "dateTimePub": "",
+    "title": "Reinsurance Group of America Reports Third Quarter Results",
+    "url": "https://www.rgare.com/media/press-releases/2021/11/04/reinsurance-group-of-america-reports-third-quarter-results",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 4,
+    "event_location": "ST. LOUIS",
+    "description": "Reinsurance Group of America, Incorporated (NYSE: RGA), a leading global provider of life reinsurance, reported a third quarter net loss of $22 million, or $0.32 per diluted share, compared with net income of $213 million, or $3.12 per diluted share, in the prior-year quarter. Adjusted operating loss* totaled $75 million, or $1.11 per diluted share, compared with adjusted operating income of $239 million, or $3.51 per diluted share, the year before."
+  }]

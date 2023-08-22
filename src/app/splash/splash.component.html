@@ -9,84 +9,123 @@
     <button (click)="changeCustomer('business')"><img src="assets/images/smb.png" class="smb" tooltip="{{small_Biz_Tooltip}}" placement="bottom"></button>
 </div> -->
 
-<div class="container-fluid ">
-  <div class="row ">
-    <div class="col-lg-7 col-md-7 col-sm-12  holistic_container">
-      <img src="./assets/images/brit.png" alt="image alt">
-      
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-7 col-md-7 col-sm-12 holistic_container">
+      <img src="assets/images/login-lhs-image.png" alt="image alt" />
     </div>
     <div class="col-lg-5 col-md-5 col-sm-12">
-    <div class="row">
+      <div class="row">
         <div class="col-2"></div>
         <div class="col-8">
-      <div class="d-flex flex-column justify-content-center vh-100 margin-auto">
-        <div class="spacing">
-        <div class="customer360 mb-4 ">
-            <span class="ml-2"><img src="./assets/images/c360-logo-favicon.png" class="img-styling"/></span>
-            <span class="font_black font-poppin customer"> Customer </span>
-            <span class="font_green font-Rosario customer360">360</span>
-        </div>
-        <div class="font_black font-poppin login-font">Log in</div>
-        <div class="mb-5"><span class="welcome-style font-poppin">Welcome back!</span><span class="log-style font-poppin"> Log in to access smart insights!</span></div>
-        </div>
-        <div class="d-flex justify-content-center">
-        <form class=" w-70 d-flex flex-column justify-content-center align-items-center">
+          <div
+            class="d-flex flex-column justify-content-center vh-100 margin-auto"
+          >
+            <div class="spacing">
+              <div class="customer360 mb-4">
+                <span class="ml-2"
+                  ><img
+                    src="./assets/images/c360-logo-favicon.png"
+                    class="img-styling"
+                /></span>
+                <span class="font_black font-poppin customer"> Customer </span>
+                <span class="font_green font-Rosario customer360">360</span>
+              </div>
+              <div class="font_black font-poppin login-font">Log in</div>
+              <div class="mb-5">
+                <span class="welcome-style font-poppin">Welcome back!</span
+                ><span class="log-style font-poppin">
+                  Log in to access smart insights!</span
+                >
+              </div>
+            </div>
+            <div class="d-flex justify-content-center">
+              <form
+                class="w-70 d-flex flex-column justify-content-center align-items-center"
+              >
+                <div class="input-group mb-3 w-100">
+                  <span class="input-group-text"
+                    ><div class="img-360">
+                      <img
+                        src="./assets/images/login-email.png"
+                        class="img-styling"
+                      /></div
+                  ></span>
+                  <input
+                    type="text"
+                    class="form-control"
+                    placeholder="Username"
+                    aria-label="Username"
+                    aria-describedby="basic-addon1"
+                  />
+                </div>
+                <div class="input-group mb-3 w-100">
+                  <span class="input-group-text"
+                    ><div class="image-styling">
+                      <img
+                        src="./assets/images/login-password.png"
+                        class="img-styling"
+                      /></div
+                  ></span>
+                  <input
+                    type="text"
+                    class="form-control"
+                    placeholder="Password"
+                    aria-label="Password"
+                    aria-describedby="basic-addon1"
+                  />
+                </div>
 
-            <div class="input-group mb-3 w-100">
-                <span class="input-group-text " ><div class="img-360 "><img src="./assets/images/login-email.png" class="img-styling "></div></span>
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Username"
-                  aria-label="Username"
-                  aria-describedby="basic-addon1"
-                />
+                <div class="input-group mb-3 w-100">
+                  <span class="input-group-text"
+                    ><div class="image-styling">
+                      <img
+                        src="./assets/images/login-segment.png"
+                        class="img-styling"
+                      /></div
+                  ></span>
+
+                  <select
+                    class="form-select form-control w-100 me-2 shadow-sm"
+                    aria-label="Select Industry"
+                  >
+                    <option selected>Select Industry</option>
+                    <option value="corporate">Corporate</option>
+                    <option value="small-business">Small Business</option>
+                    <option value="healthcare">Health Care</option>
+                    <option value="food-beverages">Food & Beverages</option>
+                    <option value="retail">Retail</option>
+                    <option value="insurance">Insurance</option>
+                    <option value="technology">Technology</option>
+                    <option value="petroleum">Petroleum</option>
+                    <option value="transportation">Transportation</option>
+                    <option value="automotive">Automotive</option>
+                  </select>
+                </div>
+                <div class="input-group mb-3 w-100">
+                  <button
+                    type="submit"
+                    (click)="changeCustomer('healthcare')"
+                    class="btn btn-bg btn-sm w-100 mt-4"
+                  >
+                    Login
+                  </button>
+                </div>
+              </form>
             </div>
-            <div class="input-group mb-3 w-100">
-                <span class="input-group-text " ><div class="image-styling"><img src="./assets/images/login-password.png" class="img-styling "></div></span>
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Password"
-                  aria-label="Password"
-                  aria-describedby="basic-addon1"
-                />
-            </div>
-            
-            <div class="input-group mb-3 w-100">
-                <span class="input-group-text " ><div class="image-styling"><img src="./assets/images/login-segment.png" class="img-styling "></div></span>
-                
-              <select class="form-select form-control w-100 me-2 shadow-sm " aria-label="Select Industry">
-                <option selected>Select Industry</option>
-                <option value="corporate">Corporate</option>
-                <option value="small-business">Small Business</option>
-                <option value="health-care">Health Care</option>
-                <option value="food-beverages">Food & Beverages</option>
-                <option value="retail">Retail</option>
-                <option value="insurance">Insurance</option>
-                <option value="technology">Technology</option>
-                <option value="petroleum">Petroleum</option>
-                <option value="transportation">Transportation</option>
-                <option value="automotive">Automotive</option>
-              </select>
-            </div>
-            <div class="input-group mb-3 w-100">
-              <button type="submit" class="btn btn-bg btn-sm w-100 mt-4">Login</button>
-            </div>
-          </form>
-        </div>
-         </div>
-        
-         <div class="footer d-flex flex-row justify-content-center">
-            <span><img src="./assets/images/ad-logo-favicon.png" class="img-styling"/></span>
+          </div>
+
+          <div class="footer d-flex flex-row justify-content-center">
+            <span
+              ><img
+                src="./assets/images/ad-logo-favicon.png"
+                class="img-styling"
+            /></span>
             <span>Amnet Digital</span>
-         </div>
+          </div>
         </div>
         <div class="col-2"></div>
-
- 
-
-</div>
-</div>
-</div>
+      </div>
+    </div>
+  </div>
 </div>

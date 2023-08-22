@@ -1,0 +1,69 @@
+[
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":10,
+        "product_group":"ZCVNAV014,ZCVNAV001",
+        "sc_total":"5000"
+    },
+{
+        "conversion_probability":"High",
+        "shopping_carts":5,
+        "product_group":"MSM,Bone and joint health supplements",
+        "sc_total":"10000"
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"Acid Reducer,Allergy Antihistamine Capsules,Antacid Anti-gas Original Liquid",
+        "sc_total":"8000"
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":4,
+        "product_group":"PPO,HRA,HSA",
+        "sc_total":"10000"
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"Afluria,Td Vaccine,Pneumovax",
+        "sc_total":"11000"
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":7,
+        "product_group":"AHS,PDS",
+        "sc_total":"10000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"Mvasi,Fulphila,Riabni",
+        "sc_total":"12000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"Cigna Dental 1500,Plan G,Plan F",
+        "sc_total":"12000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"Tylenol,Stelara",
+        "sc_total":"11000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":5,
+        "product_group":"PPO,HMO",
+        "sc_total":"12000"
+    }
+]
+
+
+    

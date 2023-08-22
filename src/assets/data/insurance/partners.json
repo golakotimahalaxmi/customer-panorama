@@ -1,0 +1,213 @@
+[
+  {
+    "CustomerCode": 2021038,
+    "CustomerShortDescription": "AIG",
+    "BrandDescription": "AIG American General Life Insurance Company",
+    "Gross_Sales": 3311328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021038,
+    "CustomerShortDescription": "AIG",
+    "BrandDescription": "The Variable Annuity Life Insurance Company",
+    "Gross_Sales": 2170959.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021038,
+    "CustomerShortDescription": "AIG",
+    "BrandDescription": "AIG Life and Retirement Company",
+    "Gross_Sales": 1145389.23,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021039,
+    "CustomerShortDescription": "Allstate",
+    "BrandDescription": "Business Insurance",
+    "Gross_Sales": 3311328.59,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021039,
+    "CustomerShortDescription": "Allstate",
+    "BrandDescription": "Home Insurance",
+    "Gross_Sales": 2170959.21,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021039,
+    "CustomerShortDescription": "Allstate",
+    "BrandDescription": "Auto Insurance",
+    "Gross_Sales": 1145389.13,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021040,
+    "CustomerShortDescription": "New York Life",
+    "BrandDescription": "Supplemental Insurance",
+    "Gross_Sales": 3211328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021040,
+    "CustomerShortDescription": "New York Life",
+    "BrandDescription": "Life Insurance",
+    "Gross_Sales": 2160959.07,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021040,
+    "CustomerShortDescription": "New York Life",
+    "BrandDescription": "Long-Term Care Insurance",
+    "Gross_Sales": 1245389.21,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021041,
+    "CustomerShortDescription": "Liberty Mutual",
+    "BrandDescription": "Supplemental Insurance",
+    "Gross_Sales": 3211028.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021041,
+    "CustomerShortDescription": "Liberty Mutual",
+    "BrandDescription": "Life Insurance",
+    "Gross_Sales": 2160949.07,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021041,
+    "CustomerShortDescription": "Liberty Mutual",
+    "BrandDescription": "Long-Term Care Insurance",
+    "Gross_Sales": 1205389.11,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021042,
+    "CustomerShortDescription": "Erie",
+    "BrandDescription": "Auto Insurance",
+    "Gross_Sales": 2311328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021042,
+    "CustomerShortDescription": "Erie",
+    "BrandDescription": "Homeowners Insurance",
+    "Gross_Sales": 2170959.06,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021042,
+    "CustomerShortDescription": "Erie",
+    "BrandDescription": "Life Insurance",
+    "Gross_Sales": 2145389.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021043,
+    "CustomerShortDescription": "GEICO",
+    "BrandDescription": "Mobile Home Insurance",
+    "Gross_Sales": 2311328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021043,
+    "CustomerShortDescription": "GEICO",
+    "BrandDescription": "Motorcycle Insurance",
+    "Gross_Sales": 2170959.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021043,
+    "CustomerShortDescription": "GEICO",
+    "BrandDescription": "Professional Liability Insurance",
+    "Gross_Sales": 1145089.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021044,
+    "CustomerShortDescription": "Progressive",
+    "BrandDescription": "Auto Insurance",
+    "Gross_Sales": 3201328.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021044,
+    "CustomerShortDescription": "Progressive",
+    "BrandDescription": "Condo Insurance",
+    "Gross_Sales": 2160959.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021044,
+    "CustomerShortDescription": "Progressive",
+    "BrandDescription": "General Liability Insurance",
+    "Gross_Sales": 1245389.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021045,
+    "CustomerShortDescription": "TIAA",
+    "BrandDescription": "Retirement plans",
+    "Gross_Sales": 2211328.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021045,
+    "CustomerShortDescription": "TIAA",
+    "BrandDescription": "Rollover",
+    "Gross_Sales": 2172959.02,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021045,
+    "CustomerShortDescription": "TIAA",
+    "BrandDescription": "Personal annuities",
+    "Gross_Sales": 2145389.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021046,
+    "CustomerShortDescription": "Lincoln National",
+    "BrandDescription": "Life insurance",
+    "Gross_Sales": 2310328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021046,
+    "CustomerShortDescription": "Lincoln National",
+    "BrandDescription": "Annuities",
+    "Gross_Sales": 2170959.05,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021046,
+    "CustomerShortDescription": "Lincoln National",
+    "BrandDescription": "Retirement plans",
+    "Gross_Sales": 2145049.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021047,
+    "CustomerShortDescription": "Reinsurance Group of America",
+    "BrandDescription": "Health Reinsurance",
+    "Gross_Sales": 2211328.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021047,
+    "CustomerShortDescription": "Reinsurance Group of America",
+    "BrandDescription": "Global Financial Solutions",
+    "Gross_Sales": 2172959.02,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021047,
+    "CustomerShortDescription": "Reinsurance Group of America",
+    "BrandDescription": "Life Reinsurance",
+    "Gross_Sales": 2145389.01,
+    "logo_name": ""
+  }]
+

@@ -1,0 +1,113 @@
+[
+  {
+    "customer_name": "Target",
+    "dateTimePub": "",
+    "title": "Peek Behind the Scenes at How Target’s Prepping Our Supply Chain to Deliver Holiday Joy All Season Long",
+    "url": "https://corporate.target.com/article/2021/09/supply-chain-prep",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "1",
+    "event_location": " Minneapolis, MN",
+    "description": "From back-to-school essentials to holiday gifting, you rely on Target to get what you need for all your special moments. "
+  },
+{
+    "customer_name": "Lowe's ",
+    "dateTimePub": "",
+    "title": "LOWE'S UNVEILS 2021 NFL HOME TEAM ROSTER AND NEW WAYS FOR FANS TO JOIN THE FUN",
+    "url": "https://corporate.lowes.com/newsroom/stories/inside-lowes/lowes-unveils-2021-nfl-home-team-roster-and-new-ways-fans-join-fun",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "15",
+    "event_location": " Mooresville, NC",
+    "description": "The Lowe’s Home Team has been finalized for the 2021 campaign! Together with NFL stars and more than 300,000 Lowe’s associate “coaches,” the company is honoring Pro customers and challenging fans to complete DIY projects and compete to become one of the 10,000 members of the team, helping everyone win the home game." },
+
+  {
+    "customer_name": "Albertsons ",
+    "dateTimePub": "",
+    "title": "Albertsons launches AI-powered grocery cart in local store, aims to merge ‘online and offline’ shopping",
+    "url": "https://www.idahopress.com/community/money/albertsons-launches-ai-powered-grocery-cart-in-local-store-aims-to-merge-online-and-offline/article_878e6aa2-8519-56b8-be2c-48251e3c6e96.html",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "15",
+    "event_location": "Boise, ID",
+    "description": "Albertsons store in Eagle, shoppers are trying out a new technology that could mark a significant change to the in-store shopping experience: a high-tech cart " },
+{
+    "customer_name": "Dollar General",
+    "dateTimePub": "",
+    "title": "Dollar General Announces Planned Expansion to 47th State",
+    "url": "https://newscenter.dollargeneral.com/news/dg-announces-planned-expansion-to-47th-state.htm",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 27,
+    "event_location": "Athol",
+    "description": "Dollar General today announced its planned expansion into Idaho, increasing the retailer’s presence into its 47th state. Construction is underway on N. Old Highway 95 in Athol (Kootenai County) for the store, which is currently scheduled to open by spring 2022."},
+{
+    "customer_name": "Best Buy",
+    "dateTimePub": "",
+    "title": "Best Buy’s Day of Unity is about service, solidarity and social justice",
+    "url": "https://corporate.bestbuy.com/best-buys-day-of-unity-is-about-service-solidarity-and-social-justice/",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 27,
+    "event_location": "Minneapolis",
+    "description": "We are stronger together, so we’re dedicating a day to celebrating that simple fact."},
+{
+    "customer_name": "Macy's",
+    "dateTimePub": "",
+    "title": "Macy's and Toys R Us Kick Off Holiday Play with Geoffrey's Hot Toy List",
+    "url": "https://www.macysinc.com/investors/news-events/press-releases/detail/1706/macys-and-toysrus-kick-off-holiday-play-with-geoffreys",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "27",
+    "event_location": "NEW YORK",
+    "description": "NEW YORK--(BUSINESS WIRE)-- Good news for Toys“R”Us kids of all ages – Geoffrey’s Hot Toy List has arrived! "},
+{
+    "customer_name": "Dollar Tree",
+    "dateTimePub": "",
+    "title": "Time to Decorate: Giant Balloon-Filled Numbers",
+    "url": "https://www.dollartree.com/time-to-decorate-giant-balloon-filled-numbers/idea-20210610-1",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 22,
+    "event_location": " Chesapeake, VA",
+    "description": "Celebrations are back and they are BIGGER and better than ever! After a year of not being able to celebrate with friends and loved ones, it’s time to make up for it. "},
+{
+    "customer_name": "Kohl's",
+    "dateTimePub": "",
+    "title": "Kohl’s Encourages Milwaukee Nonprofits to Apply for Its 2021 Hometown Giving Program",
+    "url": "https://investors.kohls.com/news-releases/news-details/2021/Kohls-Encourages-Milwaukee-Nonprofits-to-Apply-for-Its-2021-Hometown-Giving-Program/default.aspx",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "02",
+    "event_location": "Menomonee Falls",
+    "description": "MENOMONEE FALLS, Wis.--(BUSINESS WIRE)-- Starting September 6, eligible nonprofit organizations serving the Milwaukee community can apply to receive a grant through Kohl’s Hometown Giving Program. "},
+{
+    "customer_name": "Publix ",
+    "dateTimePub": "",
+    "title": "Publix boycotted over heiress’s funding of events leading up to the Capitol riot",
+    "url": "https://crowsneststpete.com/2021/02/07/publix-boycotted-over-heiresss-funding-of-events-leading-up-to-the-capitol-riot/",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "2",
+    "event_location": "ST.PETERSBURG",
+    "description": "Julie Jenkins Fancellie, daughter of Publix founder George Jenkins and heiress to Publix Super Markets Inc., donated roughly $300,000 to help fund the “Save America Rally” that took place shortly before the riot at the Capitol. "},
+{
+    "customer_name": "Rite Aid ",
+    "dateTimePub": "",
+    "title": "Rite Aid Statement on CDC Recommendation Regarding COVID-19 Vaccine Boosters",
+    "url": "https://investors.riteaid.com/news/news-details/2021/Rite-Aid-Statement-on-CDC-Recommendation-Regarding-COVID-19-Vaccine-Boosters/default.aspx",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": "24",
+    "event_location": "PHILADELPHIA",
+    "description": "Today the Centers for Disease Control and Prevention (CDC) concurred with previous recommendations made by the Food and Drug Administration (FDA) and the Advisory Committee on Immunization Practices (ACIP), officially recommending “booster” doses of the Pfizer-BioNTech COVID-19 vaccine for certain eligible populations at least 6 months after the second dose of the Pfizer-BioNTech COVID-19 vaccine. "}]
+
+
+
+
+
+
+
+
+
+

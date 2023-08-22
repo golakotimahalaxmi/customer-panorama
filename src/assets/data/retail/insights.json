@@ -1,0 +1,124 @@
+[
+    {
+      "customer_name": "Target",
+      "customer_code": 2021020,
+      "title": "Target is Interested to Purchase  Oracle Autonomous Database software.",
+      "posted_on": -5,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Target Incorporated is running and its propensity to invest more and deepen its relationship with Oracle."},
+    { "customer_name": "Target",
+        "customer_code": 2021020,
+        "title": "Target is Interested to Purchase Apple Mini PCs.",
+        "posted_on": -7,
+        "description": "Aflac Incorporated is running and its propensity to invest more and deepen its relationship with Apple  identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."},
+    {
+        "customer_name": "Target",
+        "customer_code": 2021020,
+        "title": "Neustar Localeze licence is going to be expired on 13-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."},
+{
+      "customer_name": "Lowe's",
+      "customer_code": 2021021,
+      "title": "Lowe's is Interested to Purchase IBM touchscreen monitors.",
+      "posted_on": -2,
+      "description": "Lowe's is running and its propensity to invest more and deepen its relationship with IBM identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Lowe's",
+        "customer_code": 2021021,
+        "title": "Lowe's is Interested to Purchase Adobe Experience Manager Forms software.",
+        "posted_on": -3,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Lowe's is running and its propensity to invest more and deepen its relationship with Adobe."
+    },
+    {
+        "customer_name": "Lowe's",
+        "customer_code": 2021021,
+        "title": "Amazon Elastic Load Balancing licence is going to be expired on 09-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Best Buy",
+      "customer_code": 2021024,
+      "title": "Best Buy is Interested to Purchase Lexmark Toner Cartridges.",
+      "posted_on": -7,
+      "description": "Best Buy is running and its propensity to invest more and deepen its relationship with Lexmark identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Best Buy",
+        "customer_code": 2021024,
+        "title": "Best Buy is interested to purchase Salesforce Field Service for Field Service Management ",
+        "posted_on": -4,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Best Buy is running and its propensity to invest more and deepen its relationship with Salesforce."
+    },
+    {
+        "customer_name": "Best Buy",
+        "customer_code": 2021024,
+        "title": "HRsoft licence is going to be expired on 13-02-22.",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Macy's",
+      "customer_code": 2021025,
+      "title": "Macy's is Interested to Purchase Okta Identity Cloud.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Macy's Inc. is running and its propensity to invest more and deepen its relationship with Okta."
+    },
+    {
+        "customer_name": "Macy's",
+        "customer_code": 2021025,
+        "title": "Macy's is Interested to Purchase NEC widescreen Monitors.",
+        "posted_on": -4,
+        "description": "Macy's is running and its propensity to invest more and deepen its relationship with NEC identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Macy's",
+        "customer_code": 2021025,
+        "title": " OneTrust Cookie Consent licence is going to be expired on 05-02-22.",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Kohl's",
+      "customer_code": 2021027,
+      "title": "Kohl's is Interested to Purchase SuperMicro Motherboards.",
+      "posted_on": -7,
+      "description": " Kohl's is running and its propensity to invest more and deepen its relationship with SuperMicro identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Kohl's",
+        "customer_code": 2021027,
+        "title": "  DocuSign eSignature licence is going to be expired on 05-02-22.",
+        "posted_on": -4,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Kohl's",
+        "customer_code": 2021027,
+        "title": " Kohl's is Interested to Purchase Zoom for Audio Video and Web Conferencing.",
+        "posted_on": -8,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Kohl's Corporation is running and its propensity to invest more and deepen its relationship with Zoom."
+    },
+{
+      "customer_name": "Dollar Tree",
+      "customer_code": 2021026,
+      "title": "Dollar Tree is Interested to Purchase Google Optimize 360 for Marketing Analytics.",
+      "posted_on": -2,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Dollar Tree is running and its propensity to invest more and deepen its relationship with Google."
+    },
+    {
+        "customer_name": "Dollar Tree",
+        "customer_code": 2021026,
+        "title": "Okta Identity Cloud licence is going to be expired on 07-02-22.",
+        "posted_on": -3,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Dollar Tree",
+        "customer_code": 2021026,
+        "title": "Dollar Tree is Interested to Purchase Toshiba Toner Cartridges.",
+        "posted_on": -5,
+        "description": "Dollar Tree is running and its propensity to invest more and deepen its relationship with Toshiba identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."}
+
+]

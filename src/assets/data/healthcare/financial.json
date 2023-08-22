@@ -1,0 +1,80 @@
+[
+  {
+    "Customercode": 2021004,
+    "CustomerDescription": "CVS Health Corporation(2021004)",
+    "CoworkerCode": "bC37",
+    "C12TM": 80206.3,
+    "P12Tm": 50762.52,
+    "PP12TM": 50232},
+{
+    "Customercode": 2021005,
+    "CustomerDescription": "Walgreens Boots Alliance(2021005)",
+    "CoworkerCode": "cd67",
+    "C12TM": 70606.3,
+    "P12Tm": 50562.52,
+    "PP12TM": 57232},
+{
+    "Customercode": 2021006,
+    "CustomerDescription": "Health Mart Systems(2021006)",
+    "CoworkerCode": "cf63",
+    "C12TM": 50606.3,
+    "P12Tm": 49562.23,
+    "PP12TM": 53232},
+
+    {"Customercode": 2021011,
+    "CustomerDescription": "UnitedHealth Group(2021011)",
+    "CoworkerCode": "be67",
+    "C12TM": 75606.3,
+    "P12Tm": 70562.52,
+    "PP12TM": 77232},
+
+{"Customercode": 2021012,
+    "CustomerDescription": "MCKESSON CORPORATION(2021012)",
+    "CoworkerCode": "be67",
+    "C12TM": 65606.4,
+    "P12Tm": 60562.42,
+    "PP12TM": 63232},
+
+{"Customercode": 2021013,
+    "CustomerDescription": "AMERISOURCEBERGEN CORPORATION(2021013)",
+    "CoworkerCode": "ae65",
+    "C12TM": 60606.4,
+    "P12Tm": 60062.42,
+    "PP12TM": 62232},
+{"Customercode": 2021030,
+    "CustomerDescription": "Cardinal Health(2021030)",
+    "CoworkerCode": "bK67",
+    "C12TM": 75636.3,
+    "P12Tm": 70262.52,
+    "PP12TM": 77732},
+
+{"Customercode": 2021031,
+    "CustomerDescription": "Cigna(2021031)",
+    "CoworkerCode": "bl57",
+    "C12TM": 55636.3,
+    "P12Tm": 50262.52,
+    "PP12TM": 53732},
+
+{"Customercode": 2021032,
+    "CustomerDescription": "JOHNSON & JOHNSON(2021032)",
+    "CoworkerCode": "bK57",
+    "C12TM": 52636.3,
+    "P12Tm": 53262.52,
+    "PP12TM": 53732},
+
+{"Customercode":2021033,
+    "CustomerDescription": "Anthem(2021033)",
+    "CoworkerCode": "bO67",
+    "C12TM": 52636.3,
+    "P12Tm": 50262.52,
+    "PP12TM": 51732}
+
+]
+
+
+
+
+
+
+  
+  

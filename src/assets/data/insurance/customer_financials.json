@@ -1,0 +1,261 @@
+[
+  {
+    "CustomerCode": 2021038,
+    "CustomerDescription": "AIG (2021038)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "AIG",
+    "GrossSales": 1592549.81,
+    "CoworkerCode": "BA49"},
+{
+    "CustomerCode": 2021038,
+    "CustomerDescription": "AIG (2021038)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "AIG",
+    "GrossSales": 1482749.11,
+    "CoworkerCode": "BA49"},
+
+{
+    "CustomerCode": 2021038,
+    "CustomerDescription": "AIG (2021038)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "AIG",
+    "GrossSales": 1262349.31,
+    "CoworkerCode": "BA49"},
+
+{
+    "CustomerCode": 2021039,
+    "CustomerDescription": "Allstate (2021039)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Car Insurance(Insurance)",
+    "BrandDescription": "Allstate",
+    "GrossSales": 1492649.11,
+    "CoworkerCode": "KA49"},
+
+
+    {"CustomerCode": 2021039,
+    "CustomerDescription": "Allstate (2021039)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Car Insurance(Insurance)",
+    "BrandDescription": "Allstate",
+    "GrossSales": 1342649.12,
+    "CoworkerCode": "KA49"},
+
+ {"CustomerCode": 2021039,
+    "CustomerDescription": "Allstate (2021039)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Car Insurance(Insurance)",
+    "BrandDescription": "Allstate",
+    "GrossSales": 1452349.01,
+    "CoworkerCode": "KA49"},
+{
+    "CustomerCode": 2021040,
+    "CustomerDescription": "New York Life (2021040)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Supplemental Insurance(Insurance)",
+    "BrandDescription": "New York Life",
+    "GrossSales": 1222849.41,
+    "CoworkerCode": "BS49"},
+{
+    "CustomerCode": 2021040,
+    "CustomerDescription": "New York Life (2021040)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Supplemental Insurance(Insurance)",
+    "BrandDescription": "New York Life",
+    "GrossSales": 1592849.71,
+    "CoworkerCode": "BS49"},
+{
+    "CustomerCode": 2021040,
+    "CustomerDescription": "New York Life (2021040)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Supplemental Insurance(Insurance)",
+    "BrandDescription": "New York Life",
+    "GrossSales": 1322349.41,
+    "CoworkerCode": "BS49"},
+
+{
+    "CustomerCode": 2021041,
+    "CustomerDescription": "Liberty Mutual (2021041)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Auto and vehicle insurance(Insurance)",
+    "BrandDescription": "Liberty Mutual",
+    "GrossSales": 1332149.81,
+    "CoworkerCode": "BL49"},
+{
+    "CustomerCode": 2021041,
+    "CustomerDescription": "Liberty Mutual (2021041)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Auto and vehicle insurance(Insurance)",
+    "BrandDescription": "Liberty Mutual",
+    "GrossSales": 1202449.11,
+    "CoworkerCode": "BL49"},
+{
+    "CustomerCode": 2021041,
+    "CustomerDescription": "Liberty Mutual (2021041)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Auto and vehicle insurance(Insurance)",
+    "BrandDescription": "Liberty Mutual",
+    "GrossSales": 1202049.12,
+    "CoworkerCode": "BL49"},
+{
+    "CustomerCode": 2021042,
+    "CustomerDescription": "Erie (2021042)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Auto Insurance(Insurance)",
+    "BrandDescription": "Erie",
+    "GrossSales": 1402249.11,
+    "CoworkerCode": "BL29"},
+{
+    "CustomerCode": 2021042,
+    "CustomerDescription": "Erie (2021042)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Homeowners Insurance(Insurance)",
+    "BrandDescription": "Erie",
+    "GrossSales": 1380529.31,
+    "CoworkerCode": "BL29"},
+
+{
+    "CustomerCode": 2021042,
+    "CustomerDescription": "Erie (2021042)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Homeowners Insurance(Insurance)",
+    "BrandDescription": "Erie",
+    "GrossSales": 1322019.21,
+    "CoworkerCode": "BL29"},
+
+
+    {"CustomerCode": 2021043,
+    "CustomerDescription": "GEICO(2021043)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Homeowners Insurance(Insurance)",
+    "BrandDescription": "GEICO",
+    "GrossSales": 1272849.31,
+    "CoworkerCode": "TA39"},
+ 
+{"CustomerCode": 2021043,
+    "CustomerDescription": "GEICO(2021043)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Homeowners Insurance(Insurance)",
+    "BrandDescription": "GEICO",
+    "GrossSales": 1172049.11,
+    "CoworkerCode": "TA39"},
+
+ {"CustomerCode": 2021043,
+    "CustomerDescription": "GEICO(2021043)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Homeowners Insurance(Insurance)",
+    "BrandDescription": "GEICO",
+    "GrossSales": 1062249.01,
+    "CoworkerCode": "TA39"},
+{
+    "CustomerCode": 2021044,
+    "CustomerDescription": "Progressive (2021044)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "Progressive",
+    "GrossSales": 1120849.41,
+    "CoworkerCode": "BM49"},
+
+{
+    "CustomerCode": 2021044,
+    "CustomerDescription": "Progressive (2021044)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "Progressive",
+    "GrossSales": 1220349.11,
+    "CoworkerCode": "BM49"},
+
+{
+    "CustomerCode": 2021044,
+    "CustomerDescription": "Progressive (2021044)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Life Insurance(Insurance)",
+    "BrandDescription": "Progressive",
+    "GrossSales": 1320279.31,
+    "CoworkerCode": "BM49"},
+{
+    "CustomerCode": 2021045,
+    "CustomerDescription": "TIAA (2021045)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "retirement annuities(annuities)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1742049.02,
+    "CoworkerCode": "MA29"},
+{
+    "CustomerCode": 2021045,
+    "CustomerDescription": "TIAA (2021045)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "retirement annuities(annuities)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1422249.02,
+    "CoworkerCode": "MA29"},
+{
+    "CustomerCode": 2021045,
+    "CustomerDescription": "TIAA (2021045)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "retirement annuities(annuities)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1672949.01,
+    "CoworkerCode": "MA29"},
+{
+    "CustomerCode": 2021046,
+    "CustomerDescription": "Lincoln National (2021046)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Life insurance(Insurance)",
+    "BrandDescription": "Lincoln National",
+    "GrossSales": 1522349.11,
+    "CoworkerCode": "FS19"},
+
+{
+    "CustomerCode": 2021046,
+    "CustomerDescription": "Lincoln National (2021046)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Life insurance(Insurance)",
+    "BrandDescription": "Lincoln National",
+    "GrossSales": 1412449.01,
+    "CoworkerCode": "FS19"},
+
+{
+    "CustomerCode": 2021046,
+    "CustomerDescription": "Lincoln National (2021046)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Life insurance(Insurance)",
+    "BrandDescription": "Lincoln National",
+    "GrossSales": 1392649.21,
+    "CoworkerCode": "FS19"},
+{
+    "CustomerCode": 2021047,
+    "CustomerDescription": "Reinsurance Group of America (2021047)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Health Reinsurance(Insurance)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1822249.02,
+    "CoworkerCode": "MS19"},
+{
+    "CustomerCode": 2021047,
+    "CustomerDescription": "Reinsurance Group of America (2021047)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Health Reinsurance(Insurance)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1702549.12,
+    "CoworkerCode": "MS19"},
+
+{
+    "CustomerCode": 2021047,
+    "CustomerDescription": "Reinsurance Group of America (2021047)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Health Reinsurance(Insurance)",
+    "BrandDescription": "TIAA",
+    "GrossSales": 1602049.02,
+    "CoworkerCode": "MS19"}
+
+
+]
+
+
+
+
+
+  

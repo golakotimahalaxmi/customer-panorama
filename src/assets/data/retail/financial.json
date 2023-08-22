@@ -1,0 +1,76 @@
+[
+  {
+    "Customercode": 2021020,
+    "CustomerDescription": "Target(2021020)",
+    "CoworkerCode": "TV72",
+    "C12TM": 81206.3,
+    "P12Tm": 83208.4,
+    "PP12TM": 84208.5},
+{
+    "Customercode": 2021021,
+    "CustomerDescription": "Lowe's (2021021)",
+    "CoworkerCode": "TM72",
+    "C12TM": 71206.7,
+    "P12Tm": 73208.4,
+    "PP12TM": 74208.1},
+{
+    "Customercode": 2021022,
+    "CustomerDescription": "Albertsons (2021022)",
+    "CoworkerCode": "SM42",
+    "C12TM": 61206.4,
+    "P12Tm": 63208.5,
+    "PP12TM": 64208.2},
+{
+    "Customercode": 2021023,
+    "CustomerDescription": "Dollar General(2021023)",
+    "CoworkerCode": "GK72",
+    "C12TM": 14065.16,
+    "P12Tm": 17977.62,
+    "PP12TM": 14409.42
+  },
+{
+    "Customercode": 2021024,
+    "CustomerDescription": "Best Buy(2021024)",
+    "CoworkerCode": "GL72",
+    "C12TM": 54065.16,
+    "P12Tm": 57977.02,
+    "PP12TM": 54409.12
+  },
+{
+    "Customercode":  2021025,
+    "CustomerDescription": "Macy's (2021025)",
+    "CoworkerCode": "TS72",
+    "C12TM": 70206.7,
+    "P12Tm": 73008.4,
+    "PP12TM": 71208.1},
+{
+    "Customercode": 2021026,
+    "CustomerDescription": "Dollar Tree (2021026)",
+    "CoworkerCode": "SL42",
+    "C12TM": 61106.2,
+    "P12Tm": 63108.3,
+    "PP12TM": 64108.1},
+{
+    "Customercode": 2021027,
+    "CustomerDescription": "Kohl's (2021027)",
+    "CoworkerCode": "SM42",
+    "C12TM": 71106.2,
+    "P12Tm": 73108.3,
+    "PP12TM": 74108.1},
+{
+    "Customercode": 2021028,
+    "CustomerDescription": "Publix (2021028)",
+    "CoworkerCode": "SM42",
+    "C12TM": 3324712.54,
+    "P12Tm": 3443128.66,
+    "PP12TM": 3126513.02},
+{
+    "Customercode": 2021029,
+    "CustomerDescription": "Rite Aid (2021029)",
+    "CoworkerCode": "GM52",
+    "C12TM": 53065.16,
+    "P12Tm": 54977.02,
+    "PP12TM": 55409.12
+  }]
+
+
