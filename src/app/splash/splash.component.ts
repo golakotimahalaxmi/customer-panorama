@@ -11,9 +11,6 @@ import { FormBuilder, FormGroup, Validators } from "@angular/forms";
 })
 export class SplashComponent implements OnInit {
   allHeadings: any = {};
-  public validPassword = "";
-  public validUsername = "";
-  public selectedValue: string = "";
   splashTooltip: string =
     "Click here to launch the Customer Mosaic experience for customers in CDW’s Corporate segment";
   small_Biz_Tooltip: string =
@@ -58,50 +55,49 @@ export class SplashComponent implements OnInit {
     this.router.navigate(["/dashboard"]);
   }
   //validation
-  submit(): void {
-    console.log(this.selectedValue);
+  submit(user:string,pass:string,option:string){
+   
+   console.log(user)
+   console.log(pass)
+    console.log(option);
+   
     if (
-      this.validUsername == "" &&
-      this.validPassword == "" &&
-      this.selectedValue === "Select Industry"
+      user.length == 0 &&
+      pass.length == 0 &&
+      option === "Select Industry"
     ) {
-      this.displayMessage("Email is Required", "error");
+     
+      this.displayMessage("username is Required", "error");
       this.displayMessages("Password is Required", "error");
-      this.displayMessages("Option is Required", "error");
-    } else if (this.isUserNameInvalid()) {
-      this.displayMessage("Invalid Username", "error");
-    } else if (this.isPasswordInvalid()) {
+      this.displayOptionMessages("Option is Required", "error");
+    }
+     else if (user.length === 0 && pass.length==0) {
+      this.displayMessage(" Username Required", "error");
+      this.displayMessages("Password is Required", "error");
+    }
+    else if (pass.length === 0 && option==="Select Industry") {
       this.displayMessages("Invalid Password", "error");
-    } else if (this.isOptionSelected()) {
-      this.displayMessage("Invalid Option", "error");
-    } else {
-      this.getDashboard(this.selectedValue);
+      this.displayOptionMessages("Option is Required", "error");
+    } 
+    else if(user.length === 0 && option==="Select Industry"){
+      this.displayMessage("username is Required", "error");
+      this.displayOptionMessages("Option is Required", "error");
     }
-  }
+    else if (option === "Select Industry" ) {
+      this.displayOptionMessages("Invalid Option", "error");
 
-  isUserNameInvalid() {
-    const UsernameRegex = /^[a-zA-Z0-9]+([._]?[a-zA-Z0-9]+)*$/;
-    return !UsernameRegex.test(this.validUsername);
-  }
-  isPasswordInvalid() {
-    console.log(this.validPassword);
-    if (this.validPassword.length>8)
+    }
+    else if (user.length===0)
     {
-      return true;
+      this.displayMessage("username is Required", "error");
     }
-    else{
-      return false;
+    else if (pass.length===0)
+    {
+      this.displayMessages("Password is Required", "error");
     }
-  }
-
-  isOptionSelected() {
-    if (this.selectedValue === "Select Industry") {
-      return false;
-    } else {
-      return true;
-      console.log("false");
+    else {
+      this.getDashboard(option);
     }
-    console.log("false");
   }
 
   //username Validation
@@ -130,6 +126,21 @@ export class SplashComponent implements OnInit {
       this.renderer.removeChild(pwdmessagesContainer, passwordmessageElement);
     }, 3000);
   }
+  displayOptionMessages(message: string, type: "error" | "success") {
+    //Password Validation
+    const OptionmessageElement = this.renderer.createElement("div");
+    OptionmessageElement.textContent = message;
+    this.renderer.addClass(OptionmessageElement, type);
+
+    const pwdmessagesContainer = document.getElementById("optionValidCheck");
+    this.renderer.appendChild(pwdmessagesContainer, OptionmessageElement);
+
+    setTimeout(() => {
+      this.renderer.removeChild(pwdmessagesContainer, OptionmessageElement);
+    }, 3000);
+  }
+ 
+
 }
 // function displayMessage(message: any, string: any, type: any, arg3: number) {
 //   throw new Error("Function not implemented.");

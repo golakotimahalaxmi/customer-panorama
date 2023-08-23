@@ -40,9 +40,11 @@
               </div>
             </div>
             <div class="d-flex justify-content-center">
-              <form class="w-70 d-flex flex-column justify-content-center align-items-center"
+              <form  class="w-70 d-flex flex-column justify-content-center align-items-center"
+              
+              (ngSubmit)="submit(uservalue.value,passvalue.value,selectedValue.value)"
               >
-                <!-- (ngSubmit)="loginFormSubmit(selectedValue.value)" -->
+                
                 <!-- [formGroup]="loginForm" -->
                
                 <div class="input-group mb-3 w-100">
@@ -54,6 +56,8 @@
                       /></div
                   ></span>
                   <input
+                      [style]="username_style? borderRed:borderBlue"
+                      #uservalue
                     formControlName="username"
                     type="text"
                     class="form-control"
@@ -62,10 +66,10 @@
                     aria-describedby="basic-addon1"
                     required
                     id="Username"
-                    [(ngModel)]="validEmail"
+                    [(ngModel)]="validUsername"
                   />
                 </div>
-                <div id="EmailValidCheck" class="text-danger"></div>
+                <div id="usernameValidCheck" class="text-danger"></div>
                 <div class="input-group mb-3 w-100">
                   <span class="input-group-text"
                     ><div class="image-styling">
@@ -75,6 +79,8 @@
                       /></div
                   ></span>
                   <input
+                  [style]="password_style? borderRed:borderBlue"
+                      #passvalue
                     formControlName="password"
                     type="text"
                     class="form-control"
@@ -118,7 +124,7 @@
                     <option value="automotive">Automotive</option>
                   </select>
                 </div>
-                <div id="usernameValidCheck" class="text-danger"></div>
+                <div id="optionValidCheck" class="text-danger"></div>
                 <div class="input-group mb-3 w-100">
                   <button
                     type="submit"
