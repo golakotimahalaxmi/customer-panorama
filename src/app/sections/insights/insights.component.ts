@@ -67,9 +67,9 @@ export class InsightsComponent implements OnInit {
   // method for all calling the funds data for all customer
   getfirmographicsData() {
     let insightsData = [];
-    this.service.getInsights().subscribe((firmo) => {
-      firmo.forEach((firmoGraphicData) => {
-        console.log(firmoGraphicData);
+    this.service.getInsights().subscribe((insightsResponse) => {
+      insightsResponse.forEach((insightsData) => {
+        console.log(insightsData);
       });
     });
   }

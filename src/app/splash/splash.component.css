@@ -114,8 +114,9 @@
   }
   
   .holistic_container{
-    background-image: url("/assets/images/login-lhs-image.png");
-    background-size: cover;
+    width: -webkit-fill-available;
+    height: 100vh;
+   
   }
   .img-360styling
   {
