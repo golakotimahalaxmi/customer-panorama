@@ -256,6 +256,13 @@ export class CustomerService {
     );
   }
 
+  // method for getting all firmagraphics
+  getInsights(): Observable<any> {
+    return this.http.get<any>(
+      "assets/data/" + this.customerType + "/insights.json"
+    );
+  }
+
   // method for getting all contant influences
   contactInfluence(): Observable<Contactinfluence[]> {
     return this.http.get<Contactinfluence[]>(

@@ -41,12 +41,12 @@
             ></app-news-alerts>
             <span *ngIf="!widget.isFull">
               <div class="margin-bottom-class"></div>
-              <!-- <span *ngIf="widget.widget2 === 'insights'">
+              <span *ngIf="widget.widget2 === 'insights'">
                 <app-insights
                   [isFull]="widget.isFull"
                   [widget2]="widget.name"
-                ></app-insights> 
-              </span> -->
+                ></app-insights>
+              </span>
               <span *ngIf="widget.widget2 === 'customerMenu'">
                 <app-my-customers
                   [isFull]="widget.isFull"
@@ -100,6 +100,13 @@
               [widget2]="widget.name"
             ></app-customer-events>
             <span *ngIf="!widget.isFull">
+              <div class="margin-bottom-class"></div>
+              <span *ngIf="widget.widget2 === 'insights'">
+                <app-insights
+                  [isFull]="widget.isFull"
+                  [widget2]="widget.name"
+                ></app-insights>
+              </span>
               <div class="margin-bottom-class"></div>
               <span *ngIf="widget.widget2 === 'newsalerts'">
                 <app-news-alerts

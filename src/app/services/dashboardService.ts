@@ -15,14 +15,21 @@ export class DashboardService {
   ];
 
   small_biz_Widget: widget[] = [
-    { name: "newsalerts", isFull: false, size: 1, widget2: "funding" },
-    { name: "customerMenu", isFull: true, size: 1, widget2: "insights" },
+    { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
+    { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
+  ];
+
+  small_business_Widget: widget[] = [
+    { name: "newsalerts", isFull: false, size: 1, widget2: "funding" },
+    { name: "customerMenu", isFull: true, size: 1, widget2: "" },
+    { name: "customerEvents", isFull: false, size: 1, widget2: "insights" },
   ];
 
   constructor(private http: HttpClient) {}
 
   getAllheadings() {
+    console.log(this.widgetPositions);
     return this.http.get("assets/data/data_en.json");
   }
   subscribeAllheadings(heading: any) {

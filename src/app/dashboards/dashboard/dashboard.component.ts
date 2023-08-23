@@ -4,7 +4,6 @@ import { CdkDragDrop, moveItemInArray } from "@angular/cdk/drag-drop";
 import { DashboardService } from "src/app/services/dashboardService";
 import { widget } from "src/app/classesList/customer";
 
-
 @Component({
   selector: "app-dashboard",
   templateUrl: "./dashboard.component.html",
@@ -27,61 +26,52 @@ export class DashboardComponent implements OnInit {
     if (this.service.customerType === "healthcare") {
       this.stackHolderName = "healthcare";
       this.dashboardService.widgetPositions =
-        this.dashboardService.corporate_Widget;
+        this.dashboardService.small_biz_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "smallbusiness") {
+    } else if (this.service.customerType === "smallbusiness") {
       this.stackHolderName = "smallbusiness";
       this.dashboardService.widgetPositions =
-      this.dashboardService.small_biz_Widget;
+        this.dashboardService.small_business_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "insurace") {
+    } else if (this.service.customerType === "insurace") {
       this.stackHolderName = "insurance";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "petroleum") {
+    } else if (this.service.customerType === "petroleum") {
       this.stackHolderName = "petroleum";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "retail") {
+    } else if (this.service.customerType === "retail") {
       this.stackHolderName = "retail";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "automotive") {
+    } else if (this.service.customerType === "automotive") {
       this.stackHolderName = "automotive";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "food") {
+    } else if (this.service.customerType === "food") {
       this.stackHolderName = "food";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "transportation") {
+    } else if (this.service.customerType === "transportation") {
       this.stackHolderName = "transportation";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    else if (this.service.customerType === "petroleum") {
+    } else if (this.service.customerType === "petroleum") {
       this.stackHolderName = "petroleum";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-     else {
+    } else {
       this.stackHolderName = "corporate";
       this.dashboardService.widgetPositions =
-      this.dashboardService.corporate_Widget;
+        this.dashboardService.small_biz_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
     }
   }

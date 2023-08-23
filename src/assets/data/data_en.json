@@ -1,8 +1,9 @@
 {
-    "myAccount":"My Accounts",
+    "myAccount":"Companies",
     "newsAlerts":"News Alerts",
     "funding": "Funding",
-    "customerEvents": "Upcoming Events",
+    "customerEvents": "Events",
+    "insights": "Insights",
     "customerIdentity": "Customer Identity",
     "customerContacts": "Entity Contacts",
     "recommendations": "Recommendations",
