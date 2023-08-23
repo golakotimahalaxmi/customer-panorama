@@ -1,14 +1,14 @@
-import { DatePipe } from '@angular/common';
-import { Component, Input, OnInit } from '@angular/core';
-import { Firmographics } from 'src/app/classesList/customer';
-import { CustomerService } from 'src/app/services/customerService';
-import { DashboardService } from 'src/app/services/dashboardService';
-import { ModalService } from '../_modal';
+import { DatePipe } from "@angular/common";
+import { Component, Input, OnInit } from "@angular/core";
+import { Firmographics } from "src/app/classesList/customer";
+import { CustomerService } from "src/app/services/customerService";
+import { DashboardService } from "src/app/services/dashboardService";
+import { ModalService } from "../_modal";
 
 @Component({
-  selector: 'app-insights',
-  templateUrl: './insights.component.html',
-  styleUrls: ['./insights.component.css']
+  selector: "app-insights",
+  templateUrl: "./insights.component.html",
+  styleUrls: ["./insights.component.css"],
 })
 export class InsightsComponent implements OnInit {
   @Input() isFull: boolean;
@@ -66,29 +66,11 @@ export class InsightsComponent implements OnInit {
 
   // method for all calling the funds data for all customer
   getfirmographicsData() {
-    let fundingData = [];
-    this.service.getAllfirmographics().subscribe((firmo) => {
+    let insightsData = [];
+    this.service.getInsights().subscribe((firmo) => {
       firmo.forEach((firmoGraphicData) => {
-        let changeMoney = firmoGraphicData.Total_Funding_Amount;
-      });
-
-      firmo.sort((a, b) => {
-        if (a.customer_name < b.customer_name) return -1;
-        else if (a.customer_name > b.customer_name) return 1;
-        else return 0;
-      });
-      fundingData = firmo;
-
-      fundingData.forEach((fund) => {
-        if (fund.Money_Raised != "") {
-          this.customersFundedData.push(fund);
-        }
+        console.log(firmoGraphicData);
       });
     });
   }
 }
-
-
- 
-
-
