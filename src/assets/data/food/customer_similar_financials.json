@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "PepsiCo",
+        "PeriodType": "C12TM",
+        "ItemType": "Drinks",
+        "GrossSales": 1251880.03
+    },
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Drinks",
+        "GrossSales": 1292042.06
+    },
+    {   
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Drinks",
+        "GrossSales": 1651981.17
+    },
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "PepsiCo",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby foods",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby foods",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Baby foods",
+        "GrossSales": 161080.45
+    },
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "PepsiCo",
+        "PeriodType": "C12TM",
+        "ItemType": "Ice cream's",
+        "GrossSales": 85880.05
+    },
+    {
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Ice cream's",
+        "GrossSales": 105042.08
+    },
+    {   
+        "CustomerCode": 2021014,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Ice cream's",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "J & J Snack Foods Corp",
+        "PeriodType": "C12TM",
+        "ItemType": "Beverages",
+        "GrossSales": 1551800.09
+    },
+    {
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "Monster Beverage Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Beverages",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021015,
+        "SimilarCustomerDescription": "Mondelez International, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Beverages",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "J & J Snack Foods Corp",
+        "PeriodType": "C12TM",
+        "ItemType": "Food's",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "Monster Beverage Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Food's",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "Mondelez International, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Food's",
+        "GrossSales": 121980.15
+    },
+    {
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "J & J Snack Foods Corp",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "Monster Beverage Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021015,
+        "SimilarCustomerDescription": "Mondelez International, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Etco",
+        "PeriodType": "C12TM",
+        "ItemType": "Grains & oilseeds",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Grains & oilseeds",
+        "GrossSales": 1592042.01
+    },
+    {   
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Grains & oilseeds",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Etco",
+        "PeriodType": "C12TM",
+        "ItemType": "Foodservice",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Foodservice",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Foodservice",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Etco",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 81850.07
+    },
+    {
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Tyson Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021016,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "SUPPLEMENTS",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "KFC",
+        "PeriodType": "C12TM",
+        "ItemType": "Burgers",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Burgers",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Domino’s",
+        "PeriodType": "C12TM",
+        "ItemType": "Burgers",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "KFC",
+        "PeriodType": "C12TM",
+        "ItemType": "Snacks & Sides",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Snacks & Sides",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Domino’s",
+        "PeriodType": "C12TM",
+        "ItemType": "Snacks & Sides",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "KFC",
+        "PeriodType": "C12TM",
+        "ItemType": "Desserts & Shakes",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Starbucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Desserts & Shakes",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021017,
+        "SimilarCustomerDescription": "Domino’s",
+        "PeriodType": "C12TM",
+        "ItemType": "Desserts & Shakes",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "Kraft Foods Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Savory Snacks",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "ADM",
+        "PeriodType": "C12TM",
+        "ItemType": "Savory Snacks",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode":2021018,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Savory Snacks",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "Kraft Foods Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Snack Bars & Bites",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "ADM",
+        "PeriodType": "C12TM",
+        "ItemType": "Snack Bars & Bites",
+        "GrossSales": 92092.01
+    },
+    {   
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Snack Bars & Bites",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "Kraft Foods Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Frozen Foods",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "ADM",
+        "PeriodType": "C12TM",
+        "ItemType": "Frozen Foods",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021018,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Frozen Foods",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Breaded Chicken's",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Breaded Chicken's",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Breaded Chicken's",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Any'tizers Snacks",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Any'tizers Snacks",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Any'tizers Snacks",
+        "GrossSales": 101080.45
+    },
+    {
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Meal kits",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Meal kits",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021019,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Meal kits",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "COFFEE & TEA'S",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "COFFEE & TEA'S",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "COFFEE & TEA'S",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Juices",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Juices",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Juices",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Soft drinks",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Soft drinks",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021034,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Soft drinks",
+        "GrossSales": 91080.45
+    },
+{
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Marfrig",
+        "PeriodType": "C12TM",
+        "ItemType": "Sea food's",
+        "GrossSales": 1251880.01
+    },
+    {
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Smithfield Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Sea food's",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Dean Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Sea food's",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Marfrig",
+        "PeriodType": "C12TM",
+        "ItemType": "Food service's",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Smithfield Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Food service's",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Dean Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Food service's",
+        "GrossSales": 121980.45
+    },
+    {
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Marfrig",
+        "PeriodType": "C12TM",
+        "ItemType": "Sausage's",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Smithfield Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Sausage's",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021035,
+        "SimilarCustomerDescription": "Dean Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Sausage's",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Rice Products",
+        "GrossSales": 1351080.01
+    },
+    {
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Rice Products",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Rice Products",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Nutritious Recipes",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Nutritious Recipes",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Nutritious Recipes",
+        "GrossSales": 151900.45
+    },
+    {
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "Conagra Brands",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021036,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021036,
+        "SimilarCustomerDescription": "Cargill",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode":2021037,
+        "SimilarCustomerDescription": "Bunge Limited",
+        "PeriodType": "C12TM",
+        "ItemType": "Popcorn Snacks",
+        "GrossSales": 1451880.01
+    },
+    {
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Popcorn Snacks",
+        "GrossSales": 1292010.01
+    },
+    {   
+        "CustomerCode":2021037,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Popcorn Snacks",
+        "GrossSales": 1351000.15
+    },
+    {
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "Bunge Limited",
+        "PeriodType": "C12TM",
+        "ItemType": "Tortilla Chips",
+        "GrossSales": 61080.08
+    },
+    {
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "Tortilla Chips",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Tortilla Chips",
+        "GrossSales": 121950.15
+    },
+    {
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "Bunge Limited",
+        "PeriodType": "C12TM",
+        "ItemType": "SEASONAL SWEETS",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "General Mills",
+        "PeriodType": "C12TM",
+        "ItemType": "SEASONAL SWEETS",
+        "GrossSales": 105012.01
+    },
+    {   
+        "CustomerCode": 2021037,
+        "SimilarCustomerDescription": "PepsiCo.,Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "SEASONAL SWEETS",
+        "GrossSales": 96280.10
+    }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "CustomerCode": 2021048,
+    "CustomerName": "Intel ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "ARM Holdings",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "ATMEL CORP",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Micron Technology"
+  },
+{
+    "CustomerCode": 2021049,
+    "CustomerName": "Dell Technologies ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Electronic Data Systems",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Avaya",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Huawei"
+  },
+{
+    "CustomerCode": 2021050,
+    "CustomerName": "Hewlett-Packard ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Apple Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Opsware",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Tech Data"
+  },
+{
+    "CustomerCode": 2021051,
+    "CustomerName": "Xerox ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Executive Technologies",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Anacomp",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "DocuTech"
+  },
+{
+    "CustomerCode": 2021052,
+    "CustomerName": "IBM ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Qualcomm",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "ThreatMetrix",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "LexisNexis"
+  },
+{
+    "CustomerCode": 2021053,
+    "CustomerName": "Adobe ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "NeXT",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Atlassian",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "MartianCraft"
+  },
+
+{
+    "CustomerCode": 2021054,
+    "CustomerName": "Netflix ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Amazon Prime Video",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "HBO Now",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Hulu"
+  },
+
+{
+    "CustomerCode": 2021055,
+    "CustomerName": "Salesforce ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Pivotal Software",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Anaplan",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Abacus Data Systems"
+  },
+{
+    "CustomerCode": 2021056,
+    "CustomerName": "Panasonic ",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Toshiba",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Hitachi",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Nissan"
+  },
+{
+    "CustomerCode": 2021057,
+    "CustomerName": "Sony",
+    "SimilarCompany1_Code":0 ,
+    "SimilarCompany1_Name": "Honda",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Hitachi",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Toyota"
+  }]
+

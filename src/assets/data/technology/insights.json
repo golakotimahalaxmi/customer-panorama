@@ -1,0 +1,106 @@
+[
+    {
+      "customer_name": "Intel",
+      "customer_code": 2021048,
+      "title": "Intel is Interested to Purchase LG UltraGear 32 monitors.",
+      "posted_on": -2,
+      "description": "Intel is running and its propensity to invest more and deepen its relationship with LG  identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Intel",
+        "customer_code": 2021048,
+        "title": "Intel is Interested to Purchase AI Chip Firm.",
+        "posted_on": -3,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Intel is running and its propensity to invest more and deepen its relationship with AI."
+    },
+    {
+        "customer_name": "Intel",
+        "customer_code": 2021048,
+        "title": "Sales force sales cloud licence is going to be expired on 04-06-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Dell Technologies",
+      "customer_code": 2021049,
+      "title": "Dell Technologies is Interested to Purchase Xerox DocuMate 6440 USB Document Scanners.",
+      "posted_on": -2,
+      "description": "Dell Technologies is running and its propensity to invest more and deepen its relationship with Xerox identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Dell Technologies",
+        "customer_code": 2021049,
+        "title": "Dell Technologies is Interested to Purchase DocuSign eSignature for Digital Signing.",
+        "posted_on": -3,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Dell Technologies is running and its propensity to invest more and deepen its relationship with DocuSign."
+    },
+    {
+        "customer_name": "Dell Technologies",
+        "customer_code": 2021049,
+        "title": "SAP licence is going to be expired on 09-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Hewlett-Packard",
+      "customer_code": 2021050,
+      "title": "Hewlett-Packard is Interested to Purchase Workday Performance Management.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Hewlett-Packard is running and its propensity to invest more and deepen its relationship with Workday."
+    },
+    {
+        "customer_name": "Hewlett-Packard",
+        "customer_code": 2021050,
+        "title": "Hewlett-Packard interested to purchase NetApp flash arrays.",
+        "posted_on": -4,
+        "description": "Hewlett-Packard is running and its propensity to invest more and deepen its relationship with NetApp  identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Hewlett-Packard",
+        "customer_code": 2021050,
+        "title": "TeamViewer license is going to be expired on 05-02-22.",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Xerox",
+      "customer_code": 2021051,
+      "title": "Hubsport CRM software is going to be expired on 09-02-22.",
+      "posted_on": -7,
+      "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Xerox",
+        "customer_code": 2021051,
+        "title": "Xerox is Interested to Purchase HPE Modular Hybrid Arrays.",
+        "posted_on": -4,
+        "description": "Xerox is running and its propensity to invest more and deepen its relationship with HP identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Xerox",
+        "customer_code": 2021051,
+        "title": "Xerox is interested to purchase Salesforce Sales Cloud.",
+        "posted_on": -8,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Xerox is running and its propensity to invest more and deepen its relationship with Salesforce."
+    },
+{
+      "customer_name": "IBM",
+      "customer_code": 2021052,
+      "title": "IBM is Interested to Purchase Oracle OBIEE.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems IBM is running and its propensity to invest more and deepen its relationship with Oracle."
+    },
+    {
+        "customer_name": "IBM",
+        "customer_code": 2021052,
+        "title": " ELB licence is going to be expired on 07-02-22.",
+        "posted_on": -4,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "IBM",
+        "customer_code": 2021052,
+        "title": "IBM is Interested to Purchase Tripp Lite USB Adapters.",
+        "posted_on": -8,
+        "description": "IBM is running and its propensity to invest more and deepen its relationship with Tripp Lite identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    }]

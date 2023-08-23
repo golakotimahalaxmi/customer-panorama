@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Volkswagen",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Renault",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1651981.10
+    },
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Volkswagen",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Renault",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 161980.45
+    },
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 85880.05
+    },
+    {
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Volkswagen",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 105042.01
+    },
+    {   
+        "CustomerCode": 2021078,
+        "SimilarCustomerDescription": "Renault",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1551800.01
+    },
+    {
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Via Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021079,
+        "SimilarCustomerDescription": "OnStar",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1251980.05
+    },
+    {
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Via Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "OnStar",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 121980.15
+    },
+    {
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Daimler",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "Via Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021079,
+        "SimilarCustomerDescription": "OnStar",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Audi",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1151880.01
+    },
+    {
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1592042.01
+    },
+    {   
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Porsche",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Audi",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Porsche",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Audi",
+        "PeriodType": "C12TM",
+        "ItemType": "SUV'S",
+        "GrossSales": 81850.01
+    },
+    {
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "SUV'S",
+        "GrossSales": 102072.01
+    },
+    {   
+        "CustomerCode": 2021080,
+        "SimilarCustomerDescription": "Porsche",
+        "PeriodType": "C12TM",
+        "ItemType": "SUV'S",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Foden Trucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "Crossovers",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Foden Trucks",
+        "PeriodType": "C12TM",
+        "ItemType": "Crossovers",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Crossovers",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "SUVs",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Foden Trucks",
+        "PeriodType": "C12TM",
+        "ItemType": "SUVs",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021081,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "SUVs",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Komatsu",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "John Deere",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Yanmar",
+        "PeriodType": "C12TM",
+        "ItemType": "Desktops",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Komatsu",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "John Deere",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Yanmar",
+        "PeriodType": "C12TM",
+        "ItemType": "Cables",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Komatsu",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "John Deere",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021082,
+        "SimilarCustomerDescription": "Yanmar",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "General Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "General Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "Parts",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "General Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021083,
+        "SimilarCustomerDescription": "Peterbilt",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Gottfried Schultz",
+        "PeriodType": "C12TM",
+        "ItemType": "Electric vehicles",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "Electric vehicles",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Electric vehicles",
+        "GrossSales": 1251980.10
+    },
+    {
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Gottfried Schultz",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Gottfried Schultz",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021084,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Passenger cars",
+        "GrossSales": 1251880.01
+    },
+    {
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Suzuki",
+        "PeriodType": "C12TM",
+        "ItemType": "Passenger cars",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "Passenger cars",
+        "GrossSales": 1151980.15
+    },
+    {
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Van's",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Suzuki",
+        "PeriodType": "C12TM",
+        "ItemType": "Van's",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "Van's",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Hino Motors",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Suzuki",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021085,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "Car's",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "Yamaha Motor Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1292042.01
+    },
+    {   
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "PSA Group",
+        "PeriodType": "C12TM",
+        "ItemType": "MINIVAN'S",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "Yamaha Motor Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 92042.01
+    },
+    {   
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "PSA Group",
+        "PeriodType": "C12TM",
+        "ItemType": "CARS",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "SAIC Motor",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "Yamaha Motor Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021086,
+        "SimilarCustomerDescription": "PSA Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1451880.01
+    },
+    {
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Volvo",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1292012.01
+    },
+    {   
+        "CustomerCode":2021087,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "Vehicles",
+        "GrossSales": 1351080.15
+    },
+    {
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Volvo",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 72042.01
+    },
+    {   
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "car's",
+        "GrossSales": 121980.15
+    },
+    {
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Jaguar",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Volvo",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 102012.01
+    },
+    {   
+        "CustomerCode": 2021087,
+        "SimilarCustomerDescription": "Lexus",
+        "PeriodType": "C12TM",
+        "ItemType": "Products",
+        "GrossSales": 91280.10
+    }
+]

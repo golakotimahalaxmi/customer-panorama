@@ -1,0 +1,83 @@
+[
+  {
+    "Customercode": 2021014,
+    "CustomerDescription": "Nestlé (2021014)",
+    "CoworkerCode": "FV72",
+    "C12TM": 55983.85,
+    "P12Tm": 56892.26,
+    "PP12TM": 51080.12
+  },
+{
+    "Customercode": 2021015,
+    "CustomerDescription": "PepsiCo.,Inc. (2021015)",
+    "CoworkerCode": "RV52",
+    "C12TM": 60983.15,
+    "P12Tm": 66892.16,
+    "PP12TM": 67080.42
+  },
+
+{
+    "Customercode": 2021016,
+    "CustomerDescription": "Cargill (2021016)",
+    "CoworkerCode": "RV52",
+    "C12TM": 50983.05,
+    "P12Tm": 56892.06,
+    "PP12TM": 53080.42
+  },
+{
+    "Customercode": 2021017,
+    "CustomerDescription": "McDonald's (2021017)",
+    "CoworkerCode": "SV56",
+    "C12TM": 70983.04,
+    "P12Tm": 76892.09,
+    "PP12TM": 73080.02
+  },
+{
+    "Customercode": 2021018,
+    "CustomerDescription": "Kellogg's (2021018)",
+    "CoworkerCode": "SV56",
+    "C12TM": 60983.03,
+    "P12Tm": 66892.05,
+    "PP12TM": 63080.01
+  },
+{
+    "Customercode": 2021019,
+    "CustomerDescription": "Tyson Foods (2021019)",
+    "CoworkerCode": "RV56",
+    "C12TM": 63983.04,
+    "P12Tm": 62892.03,
+    "PP12TM": 62080.02
+  },
+{
+    "Customercode": 2021034,
+    "CustomerDescription": "Coca-Cola (2021034)",
+    "CoworkerCode": "RV56",
+    "C12TM": 53983.04,
+    "P12Tm": 52892.03,
+    "PP12TM": 52080.02
+  },
+{
+    "Customercode":2021035,
+    "CustomerDescription": "JBS (2021035)",
+    "CoworkerCode": "Sk56",
+    "C12TM": 70083.04,
+    "P12Tm": 74892.09,
+    "PP12TM": 72080.02
+  },
+{
+    "Customercode":2021036,
+    "CustomerDescription": "Mars (2021036)",
+    "CoworkerCode": "SL56",
+    "C12TM": 72083.04,
+    "P12Tm": 72892.09,
+    "PP12TM": 71080.02
+  },
+{
+    "Customercode":2021037,
+    "CustomerDescription": "Hershey (2021037)",
+    "CoworkerCode": "SL56",
+    "C12TM": 50083.04,
+    "P12Tm": 54892.09,
+    "PP12TM": 52080.02
+  }]
+ 

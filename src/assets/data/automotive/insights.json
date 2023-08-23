@@ -1,0 +1,124 @@
+[
+    {
+      "customer_name": "Ford",
+      "customer_code": 2021078,
+      "title": "Ford is Interested to Purchase Hubspot CRM.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Ford is running and its propensity to invest more and deepen its relationship with Hubspot."},
+    
+    { "customer_name": "Ford",
+        "customer_code": 2021078,
+        "title": "Ford is interested to Purchase HP ProLiant ML30 Gen10 Tower Servers.",
+        "posted_on": -9,
+        "description": "Ford is running and its propensity to invest more and deepen its relationship with HP  identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."},
+    {
+        "customer_name": "Ford",
+        "customer_code": 2021078,
+        "title": "McAfee Meta licence is going to be expired on 05-02-22.",
+        "posted_on": -5,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."},
+    
+    { "customer_name": "General Motors",
+      "customer_code": 2021079,
+      "title": "General Motors is Interested to Purchase Salesforce Sales Cloud.",
+      "posted_on": -2,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems General Motors Company is running and its propensity to invest more and deepen its relationship with Salesforce."
+    },
+    {
+        "customer_name": "General Motors",
+        "customer_code": 2021079,
+        "title": "Adobe licence is going to be expired on 07-02-22.",
+        "posted_on": -3,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "General Motors",
+        "customer_code": 2021079,
+        "title": "General Motors is Interested to Purchase Buffalo TeraStation 5410RN Rackmount 16TB NAS Hard Drives.",
+        "posted_on": -5,
+        "description": "General Motors is running and its propensity to invest more and deepen its relationship with Buffalo  identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+   
+{     "customer_name": "Tesla",
+      "customer_code": 2021080,
+      "title": "Tesla is Interested to Purchase Adobe ColdFusion for Apps Development.",
+      "posted_on": -7,
+      "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Tesla Company is running and its propensity to invest more and deepen its relationship with Adobe Systems."
+    },
+    {
+        "customer_name": "Tesla",
+        "customer_code": 2021080,
+        "title": "Tesla is Interested to Purchase Intel Motherboards.",
+        "posted_on": -4,
+        "description": "Tesla is running and its propensity to invest more and deepen its relationship with Intel identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Tesla",
+        "customer_code": 2021080,
+        "title": "Oracle NetSuite licence is going to be expired on 13-02-22.",
+        "posted_on": -8,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Paccar",
+      "customer_code": 2021081,
+      "title": "Paccar is Interested to Purchase Seagate HARD DRIVES.",
+      "posted_on": -7,
+      "description": "Paccar is running and its propensity to invest more and deepen its relationship with Seagate identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."},
+    {
+        "customer_name": "Paccar",
+        "customer_code": 2021081,
+        "title": "TeamViewer licence is going to be expired on 10-02-22.",
+        "posted_on": -4,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Paccar",
+        "customer_code": 2021081,
+        "title": "Paccar is Interested to Purchase Blue Yonder Demand Planning for Demand Forecasting and Planning",
+        "posted_on": -8,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Paccar Parts is running and its propensity to invest more and deepen its relationship with Blue Yonder."
+    },
+{
+      "customer_name": "Cummins",
+      "customer_code": 2021082,
+      "title": "Cummins is Interested to Purchase Lenovo ThinkPads.",
+      "posted_on": -7,
+      "description": " Cummins is running and its propensity to invest more and deepen its relationship with Lenovo identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Cummins",
+        "customer_code": 2021082,
+        "title": "  ADP Smart Compliance licence is going to be expired on 14-02-22.",
+        "posted_on": -4,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Cummins",
+        "customer_code": 2021082,
+        "title": "Cummins is Interested to Purchase Cloudflare CDN for Content Delivery Network.",
+        "posted_on": -8,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Cummins is running and its propensity to invest more and deepen its relationship with Cloudflare."
+    },
+{
+      "customer_name": "Toyota",
+      "customer_code": 2021085,
+      "title": "Toyota is Interested to Purchase Dell OptiPlex 7010 TOWER DESKTOPS.",
+      "posted_on": -2,
+      "description": "Toyota is running and its propensity to invest more and deepen its relationship with Dell identify new suppliers as part of  IT transformation projects to stay competitive comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Toyota",
+        "customer_code": 2021085,
+        "title": "Adobe licence is going to be expired.",
+        "posted_on": -3,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Toyota",
+        "customer_code": 2021085,
+        "title": "Toyota is Interested to Purchase Adobe Marketing Cloud for Marketing Automation.",
+        "posted_on": -5,
+        "description": " Database provides customer insight and contextual information on which enterprise applications and software systems Toyota Motor Corporation is running and its propensity to invest more and deepen its relationship with Adobe Systems."}
+
+]

@@ -1,0 +1,814 @@
+[
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 119981,
+      "sales": 29122
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 130234,
+      "sales": 70143
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 104084,
+      "sales": 62168
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 200044,
+      "sales": 55006
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 190437,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 190607,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 200034,
+      "sales": 62026
+    },
+    {
+      "CustomerCode": 2021048,
+      "CustomerDescription": "Intel(2021048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 213033,
+      "sales": 34571
+    },
+    {
+      "CustomerCode":2021048,
+      "CustomerDescription": "Intel(2021048))",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 210030,
+      "sales": 93321
+    },
+ {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 129981,
+      "sales": 61122
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 110234,
+      "sales": 33143
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 220034,
+      "sales": 67026
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 160037,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 160607,
+      "sales": 91086
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 240004,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021049,
+      "CustomerDescription": "Dell Technologies(2021049)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 213333,
+      "sales": 72571
+    },
+    {
+      "CustomerCode":2021049,
+      "CustomerDescription": "Dell Technologies(2021049",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 240034,
+      "sales": 82321
+    },
+ {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 139984,
+      "sales": 60122
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 110234,
+      "sales": 56143
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 109384,
+      "sales": 80168
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 200034,
+      "sales": 95026
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 150037,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 120650,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 95026
+    },
+    {
+      "CustomerCode": 2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 203333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021050,
+      "CustomerDescription": "Hewlett-Packard(2021050)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 95321
+    },
+ {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 180984,
+      "sales": 73122
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 109234,
+      "sales": 96143
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 109304,
+      "sales": 62168
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 190437,
+      "sales": 68075
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 120657,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 250034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 283333,
+      "sales": 44571
+    },
+    {
+      "CustomerCode":2021051,
+      "CustomerDescription": "Xerox(2021051)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 99321
+    },
+ {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 60122
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 76143
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 109384,
+      "sales": 62168
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 200004,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 37075
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 120650,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 260034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 263333,
+      "sales": 48571
+    },
+    {
+      "CustomerCode":2021052,
+      "CustomerDescription": "IBM(2021052)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 240030,
+      "sales": 85321
+    },
+ {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 130984,
+      "sales": 70122
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 96143
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 82168
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 270034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150437,
+      "sales": 51075
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120607,
+      "sales": 62086
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 240034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 88571
+    },
+    {
+      "CustomerCode":2021053,
+      "CustomerDescription": "Adobe(2021053)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 85321
+    },
+ {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 70122
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 96143
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 139384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200004,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 124607,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021054,
+      "CustomerDescription": "Netflix(2021054)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 95321
+    },
+ {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 73122
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110234,
+      "sales": 96143
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 107384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 153437,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 120057,
+      "sales": 82086
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253333,
+      "sales": 78571
+    },
+    {
+      "CustomerCode":2021055,
+      "CustomerDescription": "Salesforce(2021055)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 260034,
+      "sales": 65321
+    },
+ {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 93122
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 112234,
+      "sales": 72143
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 109384,
+      "sales": 62168
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 200034,
+      "sales": 45020
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 150437,
+      "sales": 51075
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 127657,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 95026
+    },
+    {
+      "CustomerCode": 2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213333,
+      "sales": 78571
+    },
+    {
+      "CustomerCode":2021056,
+      "CustomerDescription": "Panasonic(2021056)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 219030,
+      "sales": 95321
+    },
+ {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 139984,
+      "sales": 73122
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 119234,
+      "sales": 46143
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 109380,
+      "sales": 52168
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 150437,
+      "sales": 71075
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 128657,
+      "sales": 62086
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 200030,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 213333,
+      "sales": 98571
+    },
+    {
+      "CustomerCode":2021057,
+      "CustomerDescription": "Sony(2021057)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210034,
+      "sales": 75321
+    }
+
+]
+

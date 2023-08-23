@@ -1,0 +1,80 @@
+[{
+    "Customercode": 2021068,
+    "CustomerDescription": "FedEx (2021068)",
+    "CoworkerCode": "TV42",
+    "C12TM": 181206.3,
+    "P12Tm": 155762.52,
+    "PP12TM": 151232.7
+  },
+{
+    "Customercode": 2021069,
+    "CustomerDescription": "United Parcel Service (2021069)",
+    "CoworkerCode": "TM32",
+    "C12TM": 131206.9,
+    "P12Tm": 125702.53,
+    "PP12TM": 111252.2
+  },
+{
+    "Customercode": 2021070,
+    "CustomerDescription": "Penske (2021070)",
+    "CoworkerCode": "SV52",
+    "C12TM": 141006.3,
+    "P12Tm": 135062.52,
+    "PP12TM": 121032.1
+  },
+{
+    "Customercode": 2021071,
+    "CustomerDescription": "Ryder(2021071)",
+    "CoworkerCode": "DM12",
+    "C12TM": 151206.1,
+    "P12Tm": 145702.03,
+    "PP12TM": 141252.5
+  },
+{
+    "Customercode": 2021072,
+    "CustomerDescription": "J.B. Hunt(2021072)",
+    "CoworkerCode": "TK15",
+    "C12TM": 131106.54,
+    "P12Tm": 121103.14,
+    "PP12TM": 111103.13
+  },
+{
+    "Customercode": 2021073,
+    "CustomerDescription": "Expeditors International(2021073)",
+    "CoworkerCode": "MF13",
+    "C12TM": 135206.91,
+    "P12Tm": 128702.54,
+    "PP12TM": 116252.23
+  },
+{
+    "Customercode": 2021074,
+    "CustomerDescription": "Union Pacific(2021074)",
+    "CoworkerCode": "RV12",
+    "C12TM": 141206.4,
+    "P12Tm": 155702.12,
+    "PP12TM": 131232.3
+  },
+{
+    "Customercode": 2021075,
+    "CustomerDescription": "Knight-Swift(2021075)",
+    "CoworkerCode": "KS15",
+    "C12TM": 141206.10,
+    "P12Tm": 135702.04,
+    "PP12TM": 121250.8
+  },
+{
+    "Customercode": 2021076,
+    "CustomerDescription": "XPO(2021076)",
+    "CoworkerCode": "LA10",
+    "C12TM": 131206.11,
+    "P12Tm": 125702.04,
+    "PP12TM": 111250.4
+  },
+{
+    "Customercode": 2021077,
+    "CustomerDescription": "C.H. Robinson (2021077)",
+    "CoworkerCode": "KV12",
+    "C12TM": 141506.20,
+    "P12Tm": 135062.12,
+    "PP12TM": 121532.2
+  }]

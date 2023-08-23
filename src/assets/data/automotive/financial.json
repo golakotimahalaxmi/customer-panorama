@@ -1,0 +1,80 @@
+[{
+    "Customercode":2021078,
+    "CustomerDescription": "Ford (2021078)",
+    "CoworkerCode": "KV42",
+    "C12TM": 161206.36,
+    "P12Tm": 155762.12,
+    "PP12TM": 141232.71
+  },
+{
+    "Customercode":2021078,
+    "CustomerDescription": "General Motors(2021079)",
+    "CoworkerCode": "FV12",
+    "C12TM": 151206.16,
+    "P12Tm": 141206.10,
+    "PP12TM": 131232.70
+  },
+{
+    "Customercode":2021080,
+    "CustomerDescription": "Tesla(2021080)",
+    "CoworkerCode": "KS02",
+    "C12TM": 181206.06,
+    "P12Tm": 175760.02,
+    "PP12TM": 161232.21
+  },
+{
+    "Customercode":2021081,
+    "CustomerDescription": "Paccar(2021081)",
+    "CoworkerCode": "KM02",
+    "C12TM": 131206.12,
+    "P12Tm": 121406.11,
+    "PP12TM": 111202.50
+  },
+{
+    "Customercode":2021082,
+    "CustomerDescription": "Cummins(2021082)",
+    "CoworkerCode": "SV13",
+    "C12TM": 121206.35,
+    "P12Tm": 115762.14,
+    "PP12TM": 101232.01
+  },
+{
+    "Customercode":2021083,
+    "CustomerDescription": "Navistar(2021083)",
+    "CoworkerCode": "KS01",
+    "C12TM": 141206.02,
+    "P12Tm": 135760.01,
+    "PP12TM": 121232.20
+  },
+{
+    "Customercode":2021084,
+    "CustomerDescription": "Volkswagen Group(2021084)",
+    "CoworkerCode": "KS01",
+    "C12TM": 181206.00,
+    "P12Tm": 175760.01,
+    "PP12TM": 161232.10
+  },
+{
+    "Customercode":2021085,
+    "CustomerDescription": "Toyota(2021085)",
+    "CoworkerCode": "KS10",
+    "C12TM": 171206.05,
+    "P12Tm": 165762.11,
+    "PP12TM": 151232.02
+  },
+{
+    "Customercode":2021086,
+    "CustomerDescription": "Nissan(2021086)",
+    "CoworkerCode": "KL16",
+    "C12TM": 131206.35,
+    "P12Tm": 125762.14,
+    "PP12TM": 111232.01
+  },
+{
+    "Customercode":2021087,
+    "CustomerDescription": "BMW(2021087)",
+    "CoworkerCode": "MS12",
+    "C12TM": 171206.30,
+    "P12Tm": 165762.12,
+    "PP12TM": 151232.76
+  }]

@@ -1,0 +1,111 @@
+[
+  {
+    "customer_name": "Intel",
+    "dateTimePub": "",
+    "title": "Intel Unveils 12th Gen Intel Core, Launches World’s Best Gaming Processor, i9-12900K",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1506/intel-unveils-12th-gen-intel-core-launches-worlds-best",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 27,
+    "event_location": "SAN FRANCISCO",
+    "description": "Today at Intel Innovation, Intel unveiled the 12th Gen Intel® Core™ processor family with the launch of six new unlocked desktop processors, including the world’s best gaming processor, the 12th Gen Intel Core i9-12900K."
+  },
+{
+    "customer_name": "Dell Technologies",
+    "dateTimePub": "",
+    "title": "Leverage PowerEdge to Support Your IT Sustainability Goals",
+    "url": "https://www.delltechnologies.com/en-us/blog/leverage-poweredge-to-support-your-it-sustainability-goals/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 9,
+    "event_location": "Texas",
+    "description": "As risks to the environment grow, organizations around the globe have rapidly embraced sustainability goals and programs."
+  },
+{
+    "customer_name": "Hewlett-Packard",
+    "dateTimePub": "",
+    "title": "HP Inc. to Announce Fourth Quarter Fiscal 2021 Earnings on November 23, 2021",
+    "url": "https://investor.hp.com/news/press-release-details/2021/HP-Inc.-to-Announce-Fourth-Quarter-Fiscal-2021-Earnings-on-November-23-2021/default.aspx",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 2,
+    "event_location": "PALO ALTO",
+    "description": "HP Inc. (NYSE: HPQ) will present a live audio webcast of a conference call to review financial results for the fourth fiscal quarter ended October 31, 2021 on Tuesday, November 23, 2021 at 4:30 p.m. ET / 1:30 p.m. PT."
+  },
+{
+    "customer_name": "Xerox",
+    "dateTimePub": "",
+    "title": "Productivity without borders possible with Xerox® Workflow Central",
+    "url": "https://www.news.xerox.com/news/productivity-without-borders-possible-with-xeroxR-workflow-central",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 2,
+    "event_location": "NORWALK",
+    "description": "Today Xerox announced the new Xerox® Workflow Central, a secure, cloud-based software platform providing access to workflow automation and digitization tools, helping today’s teams overcome everyday workflow challenges for unstoppable productivity, from any location, at any time.  "
+  },
+{
+    "customer_name": "IBM",
+    "dateTimePub": "",
+    "title": "Think Summit Netherlands",
+    "url": "https://www.ibm.com/nl-en/events/think-summit/#intro",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 3,
+    "event_location": "Netherlands",
+    "description": "At Think Summit Netherlands we continue to explore how to re-emerge with purpose and put technology into action while focusing on collaboration."
+  },
+{
+    "customer_name": "Adobe",
+    "dateTimePub": "",
+    "title": "Adobe Summit 2021: Driving Business Growth in the Digital Economy",
+    "url": "https://www.adobe.com/content/dam/cc/in/about-adobe/newsroom/pdfs/2021/Adobe_Summit_2021_Driving_Business_Growth_in_the_Digital_Economy_IN_20210428.pdf",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 28,
+    "event_location": "SAN JOSE",
+    "description": "Adobe (Nasdaq:ADBE) kicked off Adobe Summit 2021 today, the world’s largestdigital experience conference."
+  },
+{
+    "customer_name": "Netflix",
+    "dateTimePub": "",
+    "title": "Netflix Movie ‘A Tourist’s Guide to Love’: What We Know So Far",
+    "url": "https://www.whats-on-netflix.com/news/netflix-movie-a-tourists-guide-to-love-what-we-know-so-far/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 14,
+    "event_location": "CA",
+    "description": "Netflix is always looking for ways to expand its library and one of its many areas are romantic films. Netflix has recently commissioned a new title in the genre called A Tourist’s Guide to Love, which will star Rachael Leigh Cook of She’s All That fame. "
+  },
+{
+    "customer_name": "Salesforce",
+    "dateTimePub": "",
+    "title": "Getting Started with License Administration",
+    "url": "https://www.tableau.com/learn/webinars/getting-started-license-administration-2021-11-15",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 15,
+    "event_location": "CA",
+    "description": "Tableau Success Connector session covers everything you need to know about navigating the Customer Portal and managing Desktop and Prep licenses. "
+  },
+{
+    "customer_name": "Panasonic",
+    "dateTimePub": "",
+    "title": "Panasonic Creative Museum for Children AkeruE to Exhibit Artwork from 2020 Japan-US Creative Artists Program from October 19",
+    "url": "https://news.panasonic.com/global/topics/2021/93763.html",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 19,
+    "event_location": "Tokyo, Japan ",
+    "description": "Located on the 2nd and 3rd floors of the Panasonic Center Tokyo (3-5-1 Ariake, Koto-ku, Tokyo) Panasonic's Corporate Global Communications Hub, Panasonic creative museum AkeruE is proud to introduce the artwork project from the 2020 Japan-US Artist Exchange Program United by Emotions for a limited time from October 19, 2021 to March 27, 2022. "
+  },
+{
+    "customer_name": "Sony",
+    "dateTimePub": "",
+    "title": "TSMC to Build Specialty Technology Fab in Japan with Sony Semiconductor Solutions as Minority Shareholder",
+    "url": "https://www.sony.com/en/SonyInfo/News/Press/",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 9,
+    "event_location": "Tokyo, Japan ",
+    "description": "Sony Semiconductor Solutions Corporation (“SSS”) today jointly announced that TSMC will establish a subsidiary, Japan Advanced Semiconductor Manufacturing, Inc. (“JASM”), in Kumamoto, Japan to provide foundry service with initial technology of 22/28-nanometer processes to address strong global market demand for specialty technologies, with SSS participating as a minority shareholder. "
+  }]

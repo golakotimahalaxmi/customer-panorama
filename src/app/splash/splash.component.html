@@ -12,7 +12,9 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-7 col-md-7 col-sm-12 holistic_container">
-      <img src="assets/images/login-lhs-image.png" alt="image alt" />
+      <div class="bg-login-img">
+        <!-- <img src="assets/images/login-lhs-image.png" alt="image alt"> -->
+      </div>
     </div>
     <div class="col-lg-5 col-md-5 col-sm-12">
       <div class="row">
@@ -25,14 +27,12 @@
               <div class="customer360 mb-4">
                 <span class="ml-2"
                   ><img
-                    src="./assets/images/c360-logo-favicon.png"
-                    class="img-styling"
+                    src="./assets/images/logos/c360-full-logo.png"
+                    class="img-360styling"
                 /></span>
-                <span class="font_black font-poppin customer"> Customer </span>
-                <span class="font_green font-Rosario customer360">360</span>
               </div>
               <div class="font_black font-poppin login-font">Log in</div>
-              <div class="mb-5">
+              <div class="mb-5 mt-2">
                 <span class="welcome-style font-poppin">Welcome back!</span
                 ><span class="log-style font-poppin">
                   Log in to access smart insights!</span
@@ -40,9 +40,11 @@
               </div>
             </div>
             <div class="d-flex justify-content-center">
-              <form
-                class="w-70 d-flex flex-column justify-content-center align-items-center"
+              <form class="w-70 d-flex flex-column justify-content-center align-items-center"
               >
+                <!-- (ngSubmit)="loginFormSubmit(selectedValue.value)" -->
+                <!-- [formGroup]="loginForm" -->
+               
                 <div class="input-group mb-3 w-100">
                   <span class="input-group-text"
                     ><div class="img-360">
@@ -52,13 +54,18 @@
                       /></div
                   ></span>
                   <input
+                    formControlName="username"
                     type="text"
                     class="form-control"
                     placeholder="Username"
                     aria-label="Username"
                     aria-describedby="basic-addon1"
+                    required
+                    id="Username"
+                    [(ngModel)]="validEmail"
                   />
                 </div>
+                <div id="EmailValidCheck" class="text-danger"></div>
                 <div class="input-group mb-3 w-100">
                   <span class="input-group-text"
                     ><div class="image-styling">
@@ -68,13 +75,19 @@
                       /></div
                   ></span>
                   <input
+                    formControlName="password"
                     type="text"
                     class="form-control"
                     placeholder="Password"
                     aria-label="Password"
                     aria-describedby="basic-addon1"
+                    required
+                    minlength="8"
+                    id="Password"
+                    [(ngModel)]="validpassword"
                   />
                 </div>
+                <div id="passwordValidCheck" class="text-danger"></div>
 
                 <div class="input-group mb-3 w-100">
                   <span class="input-group-text"
@@ -88,10 +101,13 @@
                   <select
                     class="form-select form-control w-100 me-2 shadow-sm"
                     aria-label="Select Industry"
+                    #selectedValue
                   >
-                    <option selected>Select Industry</option>
+                    <option selected class="text-secomdary">
+                      Select Industry
+                    </option>
                     <option value="corporate">Corporate</option>
-                    <option value="small-business">Small Business</option>
+                    <option value="smallbusiness">Small Business</option>
                     <option value="healthcare">Health Care</option>
                     <option value="food-beverages">Food & Beverages</option>
                     <option value="retail">Retail</option>
@@ -102,11 +118,12 @@
                     <option value="automotive">Automotive</option>
                   </select>
                 </div>
+                <div id="usernameValidCheck" class="text-danger"></div>
                 <div class="input-group mb-3 w-100">
                   <button
                     type="submit"
-                    (click)="changeCustomer('healthcare')"
-                    class="btn btn-bg btn-sm w-100 mt-4"
+                    (click)="submit(selectedValue.value)"
+                    class="btn btn-bg btn-sm w-100 mt-4 text-white"
                   >
                     Login
                   </button>

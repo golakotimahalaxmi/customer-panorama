@@ -35,6 +35,7 @@ import { ConversionsComponent } from './conversions/conversions.component';
 import { ReportsComponent } from './reports/reports.component';
 import { NgxPowerBiModule } from 'ngx-powerbi';
 import { FeedbackComponent } from './feedback/feedback.component';
+import { InsightsComponent } from './insights/insights.component';
 
 
 
@@ -62,6 +63,8 @@ import { FeedbackComponent } from './feedback/feedback.component';
     ConversionsComponent,
     ReportsComponent,
     FeedbackComponent,
+    InsightsComponent,
+    
   ],
   imports: [
     CommonModule,

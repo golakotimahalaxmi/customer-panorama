@@ -1,0 +1,213 @@
+[{
+    "CustomerCode": 2021078,
+    "CustomerShortDescription": "Ford",
+    "BrandDescription": "MAVERICK",
+    "Gross_Sales": 720356.17,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021078,
+    "CustomerShortDescription": "Ford",
+    "BrandDescription": "TRUCKS & VANS",
+    "Gross_Sales": 828004.15,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021078,
+    "CustomerShortDescription": "Ford",
+    "BrandDescription": "ELECTRIFIED",
+    "Gross_Sales": 692871.09,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021079,
+    "CustomerShortDescription": "General Motors",
+    "BrandDescription": "CHEVROLET",
+    "Gross_Sales": 520356.07,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021079,
+    "CustomerShortDescription": "General Motors",
+    "BrandDescription": "BUICK",
+    "Gross_Sales": 628004.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021079,
+    "CustomerShortDescription": "General Motors",
+    "BrandDescription": "CADILLAC",
+    "Gross_Sales": 492871.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021080,
+    "CustomerShortDescription": "Tesla",
+    "BrandDescription": "Model S",
+    "Gross_Sales": 820356.17,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021080,
+    "CustomerShortDescription": "Tesla",
+    "BrandDescription": "Model Y",
+    "Gross_Sales": 728004.15,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021080,
+    "CustomerShortDescription": "Tesla",
+    "BrandDescription": "Solar Roof",
+    "Gross_Sales": 622871.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021081,
+    "CustomerShortDescription": "Paccar",
+    "BrandDescription": "PACCAR Parts",
+    "Gross_Sales": 620356.05,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021081,
+    "CustomerShortDescription": "Paccar",
+    "BrandDescription": "PACCAR Global Sales",
+    "Gross_Sales": 528004.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021081,
+    "CustomerShortDescription": "Paccar",
+    "BrandDescription": "PacLease",
+    "Gross_Sales": 492071.04,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021082,
+    "CustomerShortDescription": "Cummins",
+    "BrandDescription": "GENERATORS AND POWER SYSTEMS",
+    "Gross_Sales": 720356.17,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021082,
+    "CustomerShortDescription": "Cummins",
+    "BrandDescription": "COMPONENTS",
+    "Gross_Sales": 628004.15,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021082,
+    "CustomerShortDescription": "Cummins",
+    "BrandDescription": "NEW POWER",
+    "Gross_Sales": 522871.19,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021083,
+    "CustomerShortDescription": "Navistar",
+    "BrandDescription": " FLEETRITE",
+    "Gross_Sales": 620356.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021083,
+    "CustomerShortDescription": "Navistar",
+    "BrandDescription": "MWM",
+    "Gross_Sales": 528004.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021083,
+    "CustomerShortDescription": "Navistar",
+    "BrandDescription": "DIAMOND ADVANTAGE",
+    "Gross_Sales": 422801.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021084,
+    "CustomerShortDescription": "Volkswagen Group",
+    "BrandDescription": "CUPRA",
+    "Gross_Sales": 820356.04,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021084,
+    "CustomerShortDescription": "Volkswagen Group",
+    "BrandDescription": "Bentley",
+    "Gross_Sales": 728004.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021084,
+    "CustomerShortDescription": "Volkswagen Group",
+    "BrandDescription": "Porsche",
+    "Gross_Sales": 692071.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021085,
+    "CustomerShortDescription": "Toyota",
+    "BrandDescription": " TRUCKS",
+    "Gross_Sales": 720356.13,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021085,
+    "CustomerShortDescription": "Toyota",
+    "BrandDescription": "CROSSOVERS&SUVS",
+    "Gross_Sales": 628004.04,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021085,
+    "CustomerShortDescription": "Toyota",
+    "BrandDescription": "ELECTRIFIED",
+    "Gross_Sales": 522801.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021086,
+    "CustomerShortDescription": "Nissan",
+    "BrandDescription": "Datsun",
+    "Gross_Sales": 720356.04,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021086,
+    "CustomerShortDescription": "Nissan",
+    "BrandDescription": "Motorsports",
+    "Gross_Sales": 628004.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021086,
+    "CustomerShortDescription": "Nissan",
+    "BrandDescription": "INFINITI",
+    "Gross_Sales": 592071.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021087,
+    "CustomerShortDescription": "BMW",
+    "BrandDescription": " BMW 2 Series",
+    "Gross_Sales": 720356.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021087,
+    "CustomerShortDescription": "BMW",
+    "BrandDescription": "BMW 5 Series",
+    "Gross_Sales": 628004.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021087,
+    "CustomerShortDescription": "BMW",
+    "BrandDescription": "BMW 6 Series",
+    "Gross_Sales": 522801.02,
+    "logo_name": ""
+  }
+
+
+]

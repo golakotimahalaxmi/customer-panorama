@@ -1,0 +1,833 @@
+[{
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 179981,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 160234,
+      "sales": 10143
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 199384,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 250034,
+      "sales": 18026
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 190037,
+      "sales": 14075
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 190607,
+      "sales": 14086
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 220004,
+      "sales": 18026
+    },
+    {
+      "CustomerCode": 2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 273333,
+      "sales": 17571
+    },
+    {
+      "CustomerCode":2021069,
+      "CustomerDescription": "United Parcel Service (2021069)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 220034,
+      "sales": 16321
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 110981,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 129234,
+      "sales": 16140
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 100084,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 230034,
+      "sales": 12006
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 100437,
+      "sales": 15075
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 150607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 250034,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021068,
+      "CustomerDescription": "FedEx(2021068)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 243033,
+      "sales": 19571
+    },
+    {
+      "CustomerCode":2021068,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 280030,
+      "sales": 18321
+    },
+ 
+ {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 189984,
+      "sales": 29122
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 180234,
+      "sales": 14143
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 149384,
+      "sales": 18168
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 250034,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 190037,
+      "sales": 15075
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 126650,
+      "sales": 12886
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 280034,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 273333,
+      "sales": 19571
+    },
+    {
+      "CustomerCode":2021070,
+      "CustomerDescription": "Penske(2021070)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 240034,
+      "sales": 19321
+    },
+ {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 190984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 117234,
+      "sales": 19143
+    },
+    
+ {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 199984,
+      "sales": 22122
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 117234,
+      "sales": 18143
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 159384,
+      "sales": 19168
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 250004,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 190437,
+      "sales": 15075
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 125650,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 205034,
+      "sales": 15626
+    },
+    {
+      "CustomerCode": 2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 293333,
+      "sales": 14571
+    },
+    {
+      "CustomerCode":2021071,
+      "CustomerDescription": "Ryder(2021071)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 250030,
+      "sales": 18321
+    },
+ {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 199984,
+      "sales": 21122
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 118234,
+      "sales": 19143
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 189384,
+      "sales": 14168
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 250034,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 156437,
+      "sales": 19075
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120907,
+      "sales": 12586
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 208034,
+      "sales": 19026
+    },
+    {
+      "CustomerCode": 2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 293330,
+      "sales": 16571
+    },
+    {
+      "CustomerCode":2021072,
+      "CustomerDescription": "J.B. Hunt(2021072)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 270934,
+      "sales": 14321
+    },
+ {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 137984,
+      "sales": 29122
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 110234,
+      "sales": 12143
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 179384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 207004,
+      "sales": 15626
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 124607,
+      "sales": 12486
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 206034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210303,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021073,
+      "CustomerDescription": "Expeditors International(2021073)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210634,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139983,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110230,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 209034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 159437,
+      "sales": 11775
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 129057,
+      "sales": 12386
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 207034,
+      "sales": 15426
+    },
+    {
+      "CustomerCode": 2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253033,
+      "sales": 10571
+    },
+    {
+      "CustomerCode":2021074,
+      "CustomerDescription": "Union Pacific (2021074)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 14321
+    },
+ {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 112234,
+      "sales": 12943
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 102384,
+      "sales": 12968
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 207034,
+      "sales": 15020
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 159437,
+      "sales": 11375
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 129657,
+      "sales": 12586
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200834,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210333,
+      "sales": 15571
+    },
+    {
+      "CustomerCode":2021075,
+      "CustomerDescription": "Knight-Swift(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210730,
+      "sales": 15021
+    },
+ {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 130984,
+      "sales": 25122
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 115234,
+      "sales": 19143
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 109350,
+      "sales": 12968
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 260034,
+      "sales": 15926
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 170437,
+      "sales": 11975
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 120057,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 207030,
+      "sales": 15626
+    },
+    {
+      "CustomerCode": 2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 293333,
+      "sales": 19571
+    },
+    {
+      "CustomerCode":2021076,
+      "CustomerDescription": "XPO(2021075)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210094,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 133984,
+      "sales": 29122
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109384,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 206030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 159437,
+      "sales": 11575
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 129657,
+      "sales": 12586
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 270034,
+      "sales": 18026
+    },
+    {
+      "CustomerCode": 2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 263333,
+      "sales": 19571
+    },
+    {
+      "CustomerCode":2021077,
+      "CustomerDescription": "C.H. Robinson (2021077)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 280034,
+      "sales": 19321
+    }
+
+]
+

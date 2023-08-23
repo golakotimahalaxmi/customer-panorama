@@ -1,0 +1,210 @@
+[{
+    "CustomerCode": 2021068,
+    "CustomerShortDescription": "FedEx",
+    "BrandDescription": "Ground shipping",
+    "Gross_Sales": 827356.17,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021068,
+    "CustomerShortDescription": "FedEx",
+    "BrandDescription": "International shipping",
+    "Gross_Sales": 728014.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021068,
+    "CustomerShortDescription": "FedEx",
+    "BrandDescription": "Freight shipping",
+    "Gross_Sales": 692871.13,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021069,
+    "CustomerShortDescription": "United Parcel Service",
+    "BrandDescription": "International Trade Solutions",
+    "Gross_Sales": 115160.44,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021069,
+    "CustomerShortDescription": "United Parcel Service",
+    "BrandDescription": "EDI Services",
+    "Gross_Sales": 123524.44,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021069,
+    "CustomerShortDescription": "United Parcel Service",
+    "BrandDescription": "Sustainable Shipping Services",
+    "Gross_Sales": 133511.41,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021070,
+    "CustomerShortDescription": "Penske",
+    "BrandDescription": "PENSKE TRUCK RENTAL",
+    "Gross_Sales": 527306.16,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021070,
+    "CustomerShortDescription": "Penske",
+    "BrandDescription": "PENSKE TRUCK LEASING",
+    "Gross_Sales": 428014.11,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021070,
+    "CustomerShortDescription": "Penske",
+    "BrandDescription": "PENSKE LOGISTICS",
+    "Gross_Sales": 392871.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021071,
+    "CustomerShortDescription": "Ryder",
+    "BrandDescription": "Ryder Supply Chain Solutions",
+    "Gross_Sales": 115160.45,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021071,
+    "CustomerShortDescription": "Ryder",
+    "BrandDescription": "Supply Chain Solutions",
+    "Gross_Sales": 123524.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021071,
+    "CustomerShortDescription": "Ryder",
+    "BrandDescription": "Ryder ChoiceLease Truck Leasing",
+    "Gross_Sales": 123511.11,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021072,
+    "CustomerShortDescription": "J.B. Hunt",
+    "BrandDescription": "Intermodal Rail Services",
+    "Gross_Sales": 727056.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021072,
+    "CustomerShortDescription": "J.B. Hunt",
+    "BrandDescription": "Truckload Services ",
+    "Gross_Sales": 621056.50,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021072,
+    "CustomerShortDescription": "J.B. Hunt",
+    "BrandDescription": "TRANSPORTATION ",
+    "Gross_Sales": 521006.10,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021073,
+    "CustomerShortDescription": "Expeditors International",
+    "BrandDescription": "SUPPLY CHAIN SERVICES",
+    "Gross_Sales": 105060.15,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021073,
+    "CustomerShortDescription": "Expeditors International",
+    "BrandDescription": "TRANSPORTATION",
+    "Gross_Sales": 113504.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021073,
+    "CustomerShortDescription": "Expeditors International",
+    "BrandDescription": "CUSTOMS & COMPLIANCE",
+    "Gross_Sales": 113510.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021074,
+    "CustomerShortDescription": "Union Pacific",
+    "BrandDescription": "Logistics Services",
+    "Gross_Sales": 112160.15,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021074,
+    "CustomerShortDescription": "Union Pacific ",
+    "BrandDescription": "Intermodal Services",
+    "Gross_Sales": 123424.13,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021074,
+    "CustomerShortDescription": "Union Pacific",
+    "BrandDescription": " Transportation Services ",
+    "Gross_Sales": 123012.10,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021075,
+    "CustomerShortDescription": "Knight-Swift",
+    "BrandDescription": "Truck Services,",
+    "Gross_Sales": 627356.10,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021075,
+    "CustomerShortDescription": "Knight-Swift",
+    "BrandDescription": "Transportation service ",
+    "Gross_Sales": 527355.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021075,
+    "CustomerShortDescription": "Knight-Swift",
+    "BrandDescription": "Logistics Services ",
+    "Gross_Sales": 427350.13,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021076,
+    "CustomerShortDescription": "XPO",
+    "BrandDescription": "Truck Brokerage",
+    "Gross_Sales": 132160.05,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021076,
+    "CustomerShortDescription": "XPO",
+    "BrandDescription": "Customs Broker Services",
+    "Gross_Sales": 123404.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021076,
+    "CustomerShortDescription": "XPO",
+    "BrandDescription": " MT Specialized Services ",
+    "Gross_Sales": 113012.12,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021077,
+    "CustomerShortDescription": "C.H. Robinson",
+    "BrandDescription": "Freight Services",
+    "Gross_Sales": 517306.06,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021077,
+    "CustomerShortDescription": "C.H. Robinson",
+    "BrandDescription": "Supply Chain & Logistics Services",
+    "Gross_Sales": 424014.12,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021077,
+    "CustomerShortDescription": "C.H. Robinson",
+    "BrandDescription": "Logistics Services",
+    "Gross_Sales": 382801.12,
+    "logo_name": ""
+  }]

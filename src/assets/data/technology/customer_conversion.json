@@ -1,0 +1,65 @@
+[
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Intel Galileo , Intel Paragon,Silicon Photonics",
+        "sc_total":11000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":35,
+        "product_group":"New Latitude 13 5320 Laptop , PowerEdge R340 Rack Server,Vostro 3681 Small Desktop",
+        "sc_total":19000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC , HP Z27n G2 8.58 CM (27) Monitor",
+        "sc_total":18000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"XEROX® BALTORO™ HF INKJET PRESS , XEROX NUVERA 120/144/157 PRESSES",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"IBM Robotic Process Automation , IBM FlashSystem 5100",
+        "sc_total":20000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"ADOBE ACROBAT , Photoshop,Adobe After Effects",
+        "sc_total":15000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"TV shows , Movies",
+        "sc_total":12000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":20,
+        "product_group":"Slack , Tableau Analytics",
+        "sc_total":20000
+    },
+
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"CW-XN181AM , CW-XN121AM,TH-55JX850",
+        "sc_total":20000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Z9J | BRAVIA XR | MASTER Series , FX3 Full-frame Cinema Line camera",
+        "sc_total":20000
+    }]
+
+
+    

@@ -1,0 +1,100 @@
+[{
+    "CustomerCode": 2021068,
+    "CustomerName": "FedEx",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Blue Dart Express",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Ekart",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Royal Mail"
+  },
+{
+    "CustomerCode": 2021069,
+    "CustomerName": "United Parcel Service",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "BCUBE",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Aramex",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Agility Logistics"
+  },
+{
+    "CustomerCode": 2021070,
+    "CustomerName": "Penske",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "EVERGREEN MARINE",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "ZHONGGU LOGISTICS CORPORATION",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "ANTONG HOLDINGS"
+  },
+{
+    "CustomerCode": 2021071,
+    "CustomerName": "Ryder",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "PLS Logistics",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Veritiv",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "U.S. Xpress"
+  },
+{
+    "CustomerCode": 2021072,
+    "CustomerName": "J.B. Hunt",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Veritiv",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Werner Enterprises",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "U.S. Xpress"
+  },
+{
+    "CustomerCode": 2021073,
+    "CustomerName": "Expeditors International",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Bansard International",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Gondrand",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Kerry Logistics"
+  },
+{
+    "CustomerCode": 2021074,
+    "CustomerName": "Union Pacific ",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Rail Baron",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Exposition Flyer",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Caboose"
+  },
+{
+    "CustomerCode": 2021075,
+    "CustomerName": "Knight-Swift",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Phoenix Symphony",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Schneider National",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Mesa Airlines"
+  },
+{
+    "CustomerCode": 2021076,
+    "CustomerName": "XPO",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Agility Logistics",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Veritiv",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Rail Baron"
+  },
+{
+    "CustomerCode": 2021077,
+    "CustomerName": "C.H. Robinson",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Veritiv",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "PLS Logistics",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Access America Transport"
+  }]
