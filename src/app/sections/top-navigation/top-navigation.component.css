@@ -69,9 +69,9 @@
 .cdk-overlay-container {
   position: fixed;
   top: 40px !important;
-  right: 0;
+  right: 64px !important;
   bottom: 0;
-  left: 53.2rem !important;
+  left: 67.4rem !important;
   z-index: 2000;
   background: #ffffff !important;
   height: 41.5vh;
@@ -108,14 +108,14 @@
 @media only screen and (max-width: 1400px) {
   .cdk-overlay-container {
     position: fixed;
-    top: 40px !important;
-    right: 0;
-    bottom: 0;
-    left: 53.2rem !important;
-    z-index: 2000;
-    background: #ffffff !important;
-    height: 41.5vh;
-    width: 25rem;
+  top: 40px !important;
+  right: 64px !important;
+  bottom: 0;
+  left: 67.4rem !important;
+  z-index: 2000;
+  background: #ffffff !important;
+  height: 41.5vh;
+  width: 25rem;
   }
 }
 
