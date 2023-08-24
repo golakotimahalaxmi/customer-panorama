@@ -21,18 +21,18 @@
   <!-- display data   -->
   <div>
     <div *ngFor="let data of updatedData" class="one-edge-shadow p-3">
-      <div class="head-style pb-2">{{data.customer_name}}</div>
-      <div class="date-style pb-2">{{data.date}}</div>
-      <div  class="pb-2">{{data.title}}</div>
-      <div class="para-style">{{data.description}}</div>
+      <p class="head-style">{{data.customer_name}}</p>
+      <p class="date-style">{{data.date}}</p>
+      <p>{{data.title}}</p>
+      <p class="para-style">{{data.description}}</p>
     </div>
   </div>
   </div>
 </div>
 
-<jw-modal id={{modalName}}>
+<jw-modal id={{modalName}} class=""  >
   <!--<div class="card-container">-->
-  <div class="card-navbar">
+  <div class="card-navbar ">
       <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.insights}}</span></h5>
       <form class="form-inline mr-auto">
       <div class="input-group">
@@ -55,12 +55,12 @@
   <div>
     <div style="overflow-y: scroll; height:92vh;">
       <div *ngFor="let data of updatedData" class="one-edge-shadow p-3">
-        <div class="head-style pb-2">{{data.customer_name}}</div>
-        <div class="date-style pb-2">{{data.date}}</div>
-        <div  class="pb-2">{{data.title}}</div>
-        <div class="para-style">{{data.description}}</div>
+        <p class="head-style ">{{data.customer_name}}</p>
+        <p class="date-style ">{{data.date}}</p>
+        <p >{{data.title}}</p>
+        <p class="para-style">{{data.description}}</p>
       </div>
     </div>
   </div>
-  </jw-modal>
+</jw-modal>
 
