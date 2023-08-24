@@ -67,18 +67,21 @@
   }
   .btn-bg{
     background-color: #1DAD8F;
+    height: 48px;
+    font-size: 14px;
   }
+
   .login-font{
     font-size: 36px;
   }
+
   .container-relative{
     position: relative;
     padding: 20px;
   }
+
   .container-absolute{
     position: absolute;
-
-
   }
   
   .login-font{
@@ -90,11 +93,12 @@
     font-size: 24px;
     font-weight: 700;
   }
+
   .customer360{
     font-size: 24px;
     font-weight: 275;
-
   }
+
   .img-360{
     width: 25px;
     height: 25px;

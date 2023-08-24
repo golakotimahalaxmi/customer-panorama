@@ -4,6 +4,7 @@ import { Firmographics } from "src/app/classesList/customer";
 import { CustomerService } from "src/app/services/customerService";
 import { DashboardService } from "src/app/services/dashboardService";
 import { ModalService } from "../_modal";
+import { formatDate } from "@angular/common";
 
 @Component({
   selector: "app-insights",
@@ -11,6 +12,8 @@ import { ModalService } from "../_modal";
   styleUrls: ["./insights.component.css"],
 })
 export class InsightsComponent implements OnInit {
+  sortedInsightsData: any;
+  updatedData: any[];
   @Input() isFull: boolean;
   @Input() widget2: boolean;
   modalName: string;
@@ -68,9 +71,26 @@ export class InsightsComponent implements OnInit {
   getfirmographicsData() {
     let insightsData = [];
     this.service.getInsights().subscribe((insightsResponse) => {
-      insightsResponse.forEach((insightsData) => {
-        console.log(insightsData);
-      });
+      // insightsResponse.forEach((insightsData) => {
+      //   console.log(insightsData);
+      // });
+      insightsData = insightsResponse;
+
+      this.sortedInsightsData = insightsData.sort((a, b) =>
+        a.customer_name < b.customer_name ? -1 : 1
+      );
+      this.sortingInsightsData();
+    });
+  }
+  
+  sortingInsightsData() {
+    const mydate = new Date();
+    this.updatedData = this.sortedInsightsData.map((item) => {
+      const currentDate = new Date();
+      const daysToAdd = item.posted_on;
+      currentDate.setDate(currentDate.getDate() + daysToAdd);
+      const formattedDate = formatDate(currentDate, "dd/MM/yy h:mm a", "en");
+      return { ...item, date: formattedDate };
     });
   }
 }
