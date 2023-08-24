@@ -9,6 +9,6 @@ export class LoginServiceService {
   constructor(private http:HttpClient) { }
   getUserValidDetails():Observable<any>
   {
-    return this.http.get<any>("assets/data/login-users.json")
+    return this.http.get<any>("assets/data/login-users.json");
   }
 }
