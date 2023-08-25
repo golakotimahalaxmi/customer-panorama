@@ -55,9 +55,7 @@
   .w-70{
     width: 70%;
   }
-  .holistic_container{
-    background-color: #0D081A;
-  }
+ 
   .img-styling{
     width: 20px;
     height: 20px;
@@ -69,23 +67,23 @@
   }
   .btn-bg{
     background-color: #1DAD8F;
+    height: 48px;
+    font-size: 14px;
   }
+
   .login-font{
     font-size: 36px;
   }
+
   .container-relative{
     position: relative;
     padding: 20px;
   }
+
   .container-absolute{
     position: absolute;
-
-
   }
-  .footer{
-   
-   
-  }
+  
   .login-font{
     font-size: 36px;
     font-weight: 600;
@@ -95,11 +93,12 @@
     font-size: 24px;
     font-weight: 700;
   }
+
   .customer360{
     font-size: 24px;
     font-weight: 275;
-
   }
+
   .img-360{
     width: 25px;
     height: 25px;
@@ -117,3 +116,15 @@
     align-items: center;
     margin-left: 60px;
   }
+  
+  .holistic_container{
+    width: -webkit-fill-available;
+    height: 100vh;
+   
+  }
+  .img-360styling
+  {
+    width: 250px;
+    height: 50px;
+  }
+  

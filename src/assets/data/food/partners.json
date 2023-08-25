@@ -1,0 +1,207 @@
+[
+  {
+    "CustomerCode": 2021014,
+    "CustomerShortDescription": "Nestlé",
+    "BrandDescription": "Abuelita",
+    "Gross_Sales": 5311328.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021014,
+    "CustomerShortDescription": "Nestlé",
+    "BrandDescription": "milo",
+    "Gross_Sales": 2170959.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021014,
+    "CustomerShortDescription": "Nestlé",
+    "BrandDescription": "Nido",
+    "Gross_Sales": 1175389.23,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021015,
+    "CustomerShortDescription": "PepsiCo.,Inc.",
+    "BrandDescription": "Marbo",
+    "Gross_Sales": 5011328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021015,
+    "CustomerShortDescription": "PepsiCo.,Inc.",
+    "BrandDescription": "milo",
+    "Gross_Sales": 2070959.41,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021015,
+    "CustomerShortDescription": "PepsiCo.,Inc.",
+    "BrandDescription": "Nido",
+    "Gross_Sales": 1075389.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021016,
+    "CustomerShortDescription": "Cargill",
+    "BrandDescription": "Diamond V",
+    "Gross_Sales": 28011328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021016,
+    "CustomerShortDescription": "Cargill",
+    "BrandDescription": "milo",
+    "Gross_Sales": 2070959.46,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021016,
+    "CustomerShortDescription": "Cargill",
+    "BrandDescription": "Nido",
+    "Gross_Sales": 2064389.07,
+    "logo_name": ""
+  },
+{"CustomerCode": 2021017,
+    "CustomerShortDescription": "McDonald's",
+    "BrandDescription": "McCafé",
+    "Gross_Sales": 1035389.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021017,
+    "CustomerShortDescription": "McDonald's",
+    "BrandDescription": "Coca-Cola",
+    "Gross_Sales": 1035089.02,
+    "logo_name": ""
+  },
+
+{"CustomerCode":2021018,
+    "CustomerShortDescription": "Kellogg's ",
+    "BrandDescription": "Kellogg's® Corn Flakes",
+    "Gross_Sales": 1035389.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021018,
+    "CustomerShortDescription": "Kellogg's ",
+    "BrandDescription": "Kellogg's® Crunchy Granola",
+    "Gross_Sales": 1035089.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021018,
+    "CustomerShortDescription": "Kellogg's ",
+    "BrandDescription": "Kellogg's® Chocos",
+    "Gross_Sales": 1035089.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021019,
+    "CustomerShortDescription": "Tyson Foods",
+    "BrandDescription": "Bosco's",
+    "Gross_Sales": 28011328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021019,
+    "CustomerShortDescription": "Tyson Foods",
+    "BrandDescription": "Russer",
+    "Gross_Sales": 2070959.46,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021019,
+    "CustomerShortDescription": "Tyson Foods",
+    "BrandDescription": "Bryan",
+    "Gross_Sales": 2064389.07,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021034,
+    "CustomerShortDescription": "Coca-Cola",
+    "BrandDescription": "AdeS",
+    "Gross_Sales": 5011320.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021034,
+    "CustomerShortDescription": "Coca-Cola",
+    "BrandDescription": "DASANI",
+    "Gross_Sales": 2070909.41,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021034,
+    "CustomerShortDescription": "Coca-Cola",
+    "BrandDescription": "Simply",
+    "Gross_Sales": 1075089.03,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021035,
+    "CustomerShortDescription": "JBS",
+    "BrandDescription": "Pilgrim’s",
+    "Gross_Sales": 5001328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021035,
+    "CustomerShortDescription": "JBS",
+    "BrandDescription": "Moy Park",
+    "Gross_Sales": 2000959.41,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021035,
+    "CustomerShortDescription": "JBS",
+    "BrandDescription": "good nature",
+    "Gross_Sales": 1005389.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode":  2021036,
+    "CustomerShortDescription": "Mars",
+    "BrandDescription": "BEN’S ORIGINAL",
+    "Gross_Sales": 27011328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021036,
+    "CustomerShortDescription": "Mars",
+    "BrandDescription": "M&M'S",
+    "Gross_Sales": 2050959.46,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":  2021036,
+    "CustomerShortDescription": "Mars",
+    "BrandDescription": "SKITTLES",
+    "Gross_Sales": 2044389.07,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021037,
+    "CustomerShortDescription": "Hershey",
+    "BrandDescription": "Skinny Pop",
+    "Gross_Sales": 5001328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021037,
+    "CustomerShortDescription": "Hershey",
+    "BrandDescription": "Lilys",
+    "Gross_Sales": 2000959.41,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021037,
+    "CustomerShortDescription": "Hershey",
+    "BrandDescription": "PAQUI",
+    "Gross_Sales": 1005389.03,
+    "logo_name": ""
+  }
+ ]

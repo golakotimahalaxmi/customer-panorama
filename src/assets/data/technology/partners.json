@@ -1,0 +1,207 @@
+[
+  {
+    "CustomerCode": 2021048,
+    "CustomerShortDescription": "Intel",
+    "BrandDescription": "Google Cloud",
+    "Gross_Sales": 8311328.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021048,
+    "CustomerShortDescription": "Intel",
+    "BrandDescription": "Cisco",
+    "Gross_Sales": 8170959.06,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021048,
+    "CustomerShortDescription": "Intel",
+    "BrandDescription": "SAP",
+    "Gross_Sales": 8670959.06,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021049,
+    "CustomerShortDescription": "Dell Technologies",
+    "BrandDescription": "Virtustream",
+    "Gross_Sales": 9345389.16,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021049,
+    "CustomerShortDescription": "Dell Technologies",
+    "BrandDescription": "VMware",
+    "Gross_Sales": 9311328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021049,
+    "CustomerShortDescription": "Dell Technologies",
+    "BrandDescription": "RSA",
+    "Gross_Sales": 9170959.06,
+    "logo_name": ""
+  },
+
+   { "CustomerCode": 2021050,
+    "CustomerShortDescription": "Hewlett-Packard",
+    "BrandDescription": "HP Spectre",
+    "Gross_Sales": 7311328.23,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021050,
+    "CustomerShortDescription": "Hewlett-Packard",
+    "BrandDescription": "HP Elite",
+    "Gross_Sales": 7170959.03,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021050,
+    "CustomerShortDescription": "Hewlett-Packard",
+    "BrandDescription": "Pavilion",
+    "Gross_Sales": 7670959.06,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021051,
+    "CustomerShortDescription": "Xerox",
+    "BrandDescription": "Kyocera",
+    "Gross_Sales": 9345389.11,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021051,
+    "CustomerShortDescription": "Xerox",
+    "BrandDescription": "Lexmark",
+    "Gross_Sales": 9321328.01,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021051,
+    "CustomerShortDescription": "Xerox",
+    "BrandDescription": "Panasonic",
+    "Gross_Sales": 9120959.06,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021052,
+    "CustomerShortDescription": "IBM",
+    "BrandDescription": "Aspera",
+    "Gross_Sales": 8311328.19,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021052,
+    "CustomerShortDescription": "IBM",
+    "BrandDescription": "Cognos",
+    "Gross_Sales": 8170959.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021052,
+    "CustomerShortDescription": "IBM",
+    "BrandDescription": "IBM Cloud",
+    "Gross_Sales": 8670951.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021053,
+    "CustomerShortDescription": "Adobe",
+    "BrandDescription": "ADOBE  ANALYTICS",
+    "Gross_Sales": 8310328.22,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021053,
+    "CustomerShortDescription": "Adobe",
+    "BrandDescription": "Adobe Real-time CDP",
+    "Gross_Sales": 7170959.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021053,
+    "CustomerShortDescription": "Adobe",
+    "BrandDescription": "Adobe Audience Manager",
+    "Gross_Sales": 7670939.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021054,
+    "CustomerShortDescription": "Netflix",
+    "BrandDescription": "Movies",
+    "Gross_Sales": 8310328.09,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021054,
+    "CustomerShortDescription": "Netflix",
+    "BrandDescription": "TV shows",
+    "Gross_Sales": 8100959.01,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021055,
+    "CustomerShortDescription": "Salesforce",
+    "BrandDescription": "Slack",
+    "Gross_Sales": 8311328.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021055,
+    "CustomerShortDescription": "Salesforce",
+    "BrandDescription": "Tableau Analytics",
+    "Gross_Sales": 8170959.06,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021055,
+    "CustomerShortDescription": "Salesforce",
+    "BrandDescription": "SALESFORCE PLATFORM",
+    "Gross_Sales": 8670959.06,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021056,
+    "CustomerShortDescription": "Panasonic",
+    "BrandDescription": "air conditioners",
+    "Gross_Sales": 7311328.14,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021056,
+    "CustomerShortDescription": "Panasonic",
+    "BrandDescription": "Televisions",
+    "Gross_Sales": 7177959.02,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021056,
+    "CustomerShortDescription": "Panasonic",
+    "BrandDescription": "Washing Machines",
+    "Gross_Sales": 7672959.05,
+    "logo_name": ""
+  },
+{ "CustomerCode": 2021057,
+    "CustomerShortDescription": "Sony Electronics",
+    "BrandDescription": "HP Spectre",
+    "Gross_Sales": 7311328.03,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode": 2021057,
+    "CustomerShortDescription": "SONY INTERACTIVE ENTERTAINMENT ",
+    "BrandDescription": "HP Elite",
+    "Gross_Sales": 7170959.01,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021057,
+    "CustomerShortDescription": "SONY PICTURES",
+    "BrandDescription": "Pavilion",
+    "Gross_Sales": 7600959.03,
+    "logo_name": ""
+  }
+]
+  

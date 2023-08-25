@@ -1,0 +1,99 @@
+[
+  {
+    "CustomerCode": 2021014,
+    "CustomerName": "Nestlé ",
+    "SimilarCompany1_Code": 2021015,
+    "SimilarCompany1_Name": "PepsiCo",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Starbucks",
+    "SimilarCompany3_Code": 2021019,
+    "SimilarCompany3_Name": "Tyson Foods"
+  },
+
+{
+    "CustomerCode": 2021015,
+    "CustomerName": "PepsiCo.,Inc.",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "J & J Snack Foods Corp",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Monster Beverage Corporation",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Mondelez International, Inc."
+  },
+{
+    "CustomerCode": 2021016,
+    "CustomerName": "Cargill",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Etco",
+    "SimilarCompany2_Code": 2021019,
+    "SimilarCompany2_Name": "Tyson Foods",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "UnitedHealth Group"
+  },
+{
+    "CustomerCode":2021017,
+    "CustomerName": "McDonald's",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "KFC",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Starbucks",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Domino’s "
+  },
+{
+    "CustomerCode":2021018,
+    "CustomerName": "Kellogg's",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Kraft Foods Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " ADM",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "General Mills "
+  },
+
+   { "CustomerCode":2021019,
+    "CustomerName": "Tyson Foods",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Conagra Brands",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " General Mills",
+    "SimilarCompany3_Code": 2021016,
+    "SimilarCompany3_Name": "Cargill "
+  },
+{ "CustomerCode":2021034,
+    "CustomerName": "Coca-Cola",
+    "SimilarCompany1_Code": 2021015,
+    "SimilarCompany1_Name": "PepsiCo.,Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " General Mills",
+    "SimilarCompany3_Code":2021016,
+    "SimilarCompany3_Name": "Cargill "
+  },
+{ "CustomerCode":2021035,
+    "CustomerName": "JBS",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Marfrig",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " Smithfield Foods",
+    "SimilarCompany3_Code":"",
+    "SimilarCompany3_Name": "Dean Foods "
+  },
+{ "CustomerCode":2021036,
+    "CustomerName": "Mars",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Conagra Brands",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " General Mills",
+    "SimilarCompany3_Code": 2021016,
+    "SimilarCompany3_Name": "Cargill "
+  },
+{ "CustomerCode":2021037,
+    "CustomerName": "Hershey",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Bunge Limited",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " The Kraft Heinz Company",
+    "SimilarCompany3_Code": 2021015,
+    "SimilarCompany3_Name": "PepsiCo.,Inc. "
+  }
+]

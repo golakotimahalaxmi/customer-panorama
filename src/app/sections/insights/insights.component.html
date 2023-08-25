@@ -1,0 +1,66 @@
+<div class="card" [ngClass]="{ 'half-card': !isFull, '': isFull }">
+  <!-- (dblclick)="openModal()" -->
+  <div class="card-row" (dblclick)="openModal()">
+    <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+      <div class="card-header" tooltip placement="bottom">
+        {{ allHeadings.insights }}
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+      <app-widget-menu [modalName]="modalName"></app-widget-menu>
+    </div>
+  </div>
+  <div
+    class="card-body p-0"
+    [ngClass]="{
+      'widger-scoller': isFull,
+      'widger-scoller-half-data': !isFull
+    }"
+    style="overflow-y: auto !important"
+  >
+  <!-- display data   -->
+  <div>
+    <div *ngFor="let data of updatedData" class="one-edge-shadow p-3">
+      <p class="head-style">{{data.customer_name}}</p>
+      <p class="date-style">{{data.date}}</p>
+      <p>{{data.title}}</p>
+      <p class="para-style">{{data.description}}</p>
+    </div>
+  </div>
+  </div>
+</div>
+
+<jw-modal id={{modalName}} class=""  >
+  <!--<div class="card-container">-->
+  <div class="card-navbar ">
+      <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.insights}}</span></h5>
+      <form class="form-inline mr-auto">
+      <div class="input-group">
+          
+          <!--<div class="input-group-append">
+              <button class="btn btn-search" type="button">
+              Search
+              </button>
+          </div>-->
+      </div>
+      </form>
+  
+      <div class="navbar-menu-wrapper m-0 p-0 link-point">
+      <div class="m-0 p-0 dropdown d-flex float-right">
+          <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+      </div>
+      </div>
+  <!-- content goes here-->
+  </div>
+  <div>
+    <div style="overflow-y: scroll; height:92vh;">
+      <div *ngFor="let data of updatedData" class="one-edge-shadow p-3">
+        <p class="head-style ">{{data.customer_name}}</p>
+        <p class="date-style ">{{data.date}}</p>
+        <p >{{data.title}}</p>
+        <p class="para-style">{{data.description}}</p>
+      </div>
+    </div>
+  </div>
+</jw-modal>
+

@@ -1,0 +1,816 @@
+[
+    
+ {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 36143
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 52168
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150437,
+      "sales": 61075
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120607,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 58571
+    },
+    {
+      "CustomerCode":2021014,
+      "CustomerDescription": "Nestlé (2021014)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 85321
+    },
+ {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 36143
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 109384,
+      "sales": 82168
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200004,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 51075
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 120607,
+      "sales": 52086
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200034,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210333,
+      "sales": 38571
+    },
+    {
+      "CustomerCode":2021015,
+      "CustomerDescription": "PepsiCo.,Inc.",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 55321
+    },
+ {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110234,
+      "sales": 46143
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 100384,
+      "sales": 52168
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 150437,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 120057,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253333,
+      "sales": 48571
+    },
+    {
+      "CustomerCode":2021016,
+      "CustomerDescription": "Cargill (2021016)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 260034,
+      "sales": 55321
+    },
+ {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 119234,
+      "sales": 32143
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 109384,
+      "sales": 42168
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 200034,
+      "sales": 55020
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 150437,
+      "sales": 61075
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 120657,
+      "sales": 72086
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213333,
+      "sales": 68571
+    },
+    {
+      "CustomerCode":2021017,
+      "CustomerDescription": "McDonald's (2021017)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210030,
+      "sales": 45321
+    },
+ {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 139984,
+      "sales": 63122
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 119234,
+      "sales": 56143
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 109380,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 200034,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 150437,
+      "sales": 61075
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 120657,
+      "sales": 62086
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 200030,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 213333,
+      "sales": 98571
+    },
+    {
+      "CustomerCode":2021018,
+      "CustomerDescription": "Kellogg's (2021018)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210034,
+      "sales": 45321
+    },
+ {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 119234,
+      "sales": 36143
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 200030,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 150437,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 120657,
+      "sales": 82086
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213333,
+      "sales": 48571
+    },
+    {
+      "CustomerCode":2021019,
+      "CustomerDescription": "Tyson Foods (2021019)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 35321
+    },
+{
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 139980,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 119234,
+      "sales": 76143
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 109384,
+      "sales": 82168
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 200034,
+      "sales": 45026
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 150437,
+      "sales": 81075
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 120657,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 35026
+    },
+    {
+      "CustomerCode": 2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213330,
+      "sales": 48571
+    },
+    {
+      "CustomerCode":2021034,
+      "CustomerDescription": "Coca-Cola (2021034)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 25321
+    },
+ {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 119234,
+      "sales": 66143
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 150437,
+      "sales": 91075
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 120657,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 213333,
+      "sales": 88571
+    },
+    {
+      "CustomerCode":2021035,
+      "CustomerDescription": "JBS (2021035)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 75321
+    },
+ {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 119230,
+      "sales": 46143
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 109384,
+      "sales": 72168
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 200034,
+      "sales": 85026
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 91075
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 120657,
+      "sales": 42086
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 200034,
+      "sales": 55026
+    },
+    {
+      "CustomerCode": 2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 213333,
+      "sales": 28571
+    },
+    {
+      "CustomerCode":2021036,
+      "CustomerDescription": "Mars (2021036)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 210030,
+      "sales": 35321
+    },
+ {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 56143
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 42168
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 200034,
+      "sales": 65026
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150430,
+      "sales": 91075
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120657,
+      "sales": 92086
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 75026
+    },
+    {
+      "CustomerCode": 2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 88571
+    },
+    {
+      "CustomerCode":2021037,
+      "CustomerDescription": "Hershey (2021037)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 210034,
+      "sales": 65321
+    }
+ 
+
+]
+

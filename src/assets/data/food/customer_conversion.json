@@ -1,0 +1,61 @@
+[
+    {
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Hot Cocoa Mix,Fortificada Dry Whole Milk Beverage,Vanilla Milk Beverage,Mexican Hot Chocolate Drink Mix Tablets",
+        "sc_total":11000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"NAKED,KEVITA,BRISK",
+        "sc_total":8000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":50,
+        "product_group":"Natural Chocolate Liquor,Natural Cocoa Nibs,Wilbur® Buds",
+        "sc_total":9000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":60,
+        "product_group":"The Spicy Veggie One,Apple & Grape Fruit Bag,Tropicana® Orange Juice",
+        "sc_total":7000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":50,
+        "product_group":"Kellogg’s® Special K® Multigrain Oats & Honey,Kellogg's® Special K® Original",
+        "sc_total":8000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"Premium Cornish Hen,Individually Frozen Chicken Thighs,Instant Pot® Hatch Green Chile Chicken & Rice Casserole",
+        "sc_total":7000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"Minute Maid,Diet Coke ",
+        "sc_total":9000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":40,
+        "product_group":"TURKEY BREAST,Pork belly",
+        "sc_total":8000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":50,
+        "product_group":"Oatmeal Caramel Bars,Peanut Butter Cookie Sandwich,BEN’S ORIGINAL™ Whole Grain Brown Rice",
+        "sc_total":9000
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":30,
+        "product_group":"Skinny Pop® Popcorn,Paqui Spicy Tortilla Chips Variety Pack",
+        "sc_total":7000
+    }]

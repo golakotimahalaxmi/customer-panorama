@@ -1,0 +1,61 @@
+[{
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"EcoSport ,TRANSIT CC-CA ,BRONCO™ SPORT",
+        "sc_total":15000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"ALTERNATORS,STARTERS",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"Model S Roof Rack - Glass Roof,2012-2020 | Model S Illuminated Door Sills",
+        "sc_total":18000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":3,
+        "product_group":"W900L,C500,W990",
+        "sc_total":14000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":6,
+        "product_group":"Diesel Generators,MEDIUM-DUTY TRUCK ENGINES",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":8,
+        "product_group":"IC BUS ELECTRIC CE,IC BUS ELECTRIC CE",
+        "sc_total":16000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":6,
+        "product_group":"ŠKODA,CUPRA,BENTLEY",
+        "sc_total":16000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":6,
+        "product_group":"Tacoma,Corolla Hybrid,Corolla",
+        "sc_total":17000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":8,
+        "product_group":"MOTUL AUTECH GT-R,Rogue Sport",
+        "sc_total":19000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":7,
+        "product_group":"Gran Limousine,C500,W990",
+        "sc_total":18000
+    }
+]

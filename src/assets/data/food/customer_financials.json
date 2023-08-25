@@ -1,0 +1,276 @@
+[
+  {
+    "CustomerCode": 2021014,
+    "CustomerDescription": "Nestlé (2021014)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "FAMOUS FUDGE CLASSIC (Baking kits)",
+    "BrandDescription": "CARNATION",
+    "GrossSales": 1392849.81,
+    "CoworkerCode": "BS49"
+  },
+  {
+    "CustomerCode": 2021014,
+    "CustomerDescription": "Nestlé(2021014)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "FAMOUS FUDGE CLASSIC(Baking kits)",
+    "BrandDescription": "CARNATION",
+    "GrossSales": 1251880.01,
+    "CoworkerCode": "BS49"
+  },
+  {
+    "CustomerCode": 2021014,
+    "CustomerDescription": "Nestlé (2021014)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "FAMOUS FUDGE CLASSIC (Baking kits)",
+    "BrandDescription": "CARNATION",
+    "GrossSales": 1180706.5,
+    "CoworkerCode": "BS49"
+  },
+
+{
+    "CustomerCode": 2021015,
+    "CustomerDescription": "PepsiCo.,Inc. (2021015)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "TROPICANA (juice)",
+    "BrandDescription": "TROPICANA",
+    "GrossSales": 1692847.61,
+    "CoworkerCode": "Bv49"
+  },
+{
+    "CustomerCode": 2021015,
+    "CustomerDescription": "PepsiCo.,Inc. (2021015)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "TROPICANA (juice)",
+    "BrandDescription": "TROPICANA",
+    "GrossSales": 1592149.68,
+    "CoworkerCode": "Bv49"
+  },
+{
+    "CustomerCode": 2021015,
+    "CustomerDescription": "PepsiCo.,Inc. (2021015)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "TROPICANA (juice)",
+    "BrandDescription": "TROPICANA",
+    "GrossSales": 1292849.51,
+    "CoworkerCode": "Bv49"
+  },
+{
+    "CustomerCode": 2021016,
+    "CustomerDescription": "Cargill (2021016)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "AVICARE ( Poultry)",
+    "BrandDescription": "Diamond V",
+    "GrossSales": 1192809.61,
+    "CoworkerCode": "BM49"
+  },
+{
+    "CustomerCode": 2021016,
+    "CustomerDescription": "Cargill (2021016)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "AVICARE ( Poultry)",
+    "BrandDescription": "Diamond V",
+    "GrossSales": 1592649.61,
+    "CoworkerCode": "BM49"
+  },{
+    "CustomerCode": 2021016,
+    "CustomerDescription": "Cargill (2021016)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "AVICARE ( Poultry)",
+    "BrandDescription": "Diamond V",
+    "GrossSales": 1492849.71,
+    "CoworkerCode": "BM49"
+  },
+{
+    "CustomerCode": 2021017,
+    "CustomerDescription": "McDonald's (2021017)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "French Fries( Snacks & Sides)",
+    "BrandDescription": "McDonald's",
+    "GrossSales": 1392802.51,
+    "CoworkerCode": "BL49"
+  },
+{
+    "CustomerCode": 2021017,
+    "CustomerDescription": "McDonald's (2021017)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "French Fries( Snacks & Sides)",
+    "BrandDescription": "McDonald's",
+    "GrossSales": 1332849.41,
+    "CoworkerCode": "BL49"
+  },
+{
+    "CustomerCode": 2021017,
+    "CustomerDescription": "McDonald's (2021017)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "French Fries( Snacks & Sides)",
+    "BrandDescription": "McDonald's",
+    "GrossSales": 1232809.91,
+    "CoworkerCode": "BL49"
+  },
+{
+    "CustomerCode": 2021018,
+    "CustomerDescription": "Kellogg's (2021018)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Kellogg's® Corn Flakes Original( Corn Flakes)",
+    "BrandDescription": "Kellogg's",
+    "GrossSales": 1192840.31,
+    "CoworkerCode": "BM39"
+  },
+{
+    "CustomerCode": 2021018,
+    "CustomerDescription": "Kellogg's (2021018)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Kellogg's® Corn Flakes Original( Corn Flakes)",
+    "BrandDescription": "Kellogg's",
+    "GrossSales": 1772849.31,
+    "CoworkerCode": "BM39"
+  },
+{
+    "CustomerCode": 2021018,
+    "CustomerDescription": "Kellogg's (2021018)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Kellogg's® Corn Flakes Original( Corn Flakes)",
+    "BrandDescription": "Kellogg's",
+    "GrossSales": 1692849.21,
+    "CoworkerCode": "BM39"
+  },
+{
+    "CustomerCode": 2021019,
+    "CustomerDescription": "Tyson Foods (2021019)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Air Fried Chicken Nuggets( Breaded Chicken)",
+    "BrandDescription": "Tyson Foods",
+    "GrossSales": 1292849.12,
+    "CoworkerCode": "LM39"
+  },
+{
+    "CustomerCode": 2021019,
+    "CustomerDescription": "Tyson Foods (2021019)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Air Fried Chicken Nuggets( Breaded Chicken)",
+    "BrandDescription": "Tyson Foods",
+    "GrossSales": 1532849.02,
+    "CoworkerCode": "LM39"
+  },
+{
+    "CustomerCode": 2021019,
+    "CustomerDescription": "Tyson Foods (2021019)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Air Fried Chicken Nuggets( Breaded Chicken)",
+    "BrandDescription": "Tyson Foods",
+    "GrossSales": 1422841.04,
+    "CoworkerCode": "LM39"
+  },
+{
+    "CustomerCode": 2021034,
+    "CustomerDescription": "Coca-Cola (2021034)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Coca-Cola® with Coffee (coffee)",
+    "BrandDescription": "Coca-Cola",
+    "GrossSales": 1782049.81,
+    "CoworkerCode": "Bv49"
+  },
+
+{
+    "CustomerCode": 2021034,
+    "CustomerDescription": "Coca-Cola (2021034)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Coca-Cola® with Coffee (coffee)",
+    "BrandDescription": "Coca-Cola",
+    "GrossSales": 1902849.81,
+    "CoworkerCode": "Bv49"
+  },
+{
+    "CustomerCode": 2021034,
+    "CustomerDescription": "Coca-Cola (2021034)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Coca-Cola® with Coffee (coffee)",
+    "BrandDescription": "Coca-Cola",
+    "GrossSales": 1702049.81,
+    "CoworkerCode": "Bv49"
+  },
+{
+    "CustomerCode": 2021035,
+    "CustomerDescription": "JBS (2021035)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Pilgrim’s® Popcorn Chicken( Chicken)",
+    "BrandDescription": "Pilgrim's",
+    "GrossSales": 1492849.31,
+    "CoworkerCode": "Bl39"
+  },
+{
+    "CustomerCode": 2021035,
+    "CustomerDescription": "JBS (2021035)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Pilgrim’s® Popcorn Chicken( Chicken)",
+    "BrandDescription": "Pilgrim's",
+    "GrossSales": 1272849.31,
+    "CoworkerCode": "Bl39"
+  },
+{
+    "CustomerCode": 2021035,
+    "CustomerDescription": "JBS (2021035)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Pilgrim’s® Popcorn Chicken( Chicken)",
+    "BrandDescription": "Pilgrim's",
+    "GrossSales": 1392809.21,
+    "CoworkerCode": "Bl39"
+  },
+{
+    "CustomerCode": 2021036,
+    "CustomerDescription": "Mars (2021036)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Whole Grain Brown Rice(Rice)",
+    "BrandDescription": "BEN’S ORIGINAL",
+    "GrossSales": 1442849.51,
+    "CoworkerCode": "BK49"
+  },
+{
+    "CustomerCode": 2021036,
+    "CustomerDescription": "Mars (2021036)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Whole Grain Brown Rice(Rice)",
+    "BrandDescription": "BEN’S ORIGINAL",
+    "GrossSales": 1312804.51,
+    "CoworkerCode": "BK49"
+  },
+
+{
+    "CustomerCode": 2021036,
+    "CustomerDescription": "Mars (2021036)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Whole Grain Brown Rice(Rice)",
+    "BrandDescription": "BEN’S ORIGINAL",
+    "GrossSales": 1512849.51,
+    "CoworkerCode": "BK49"
+  },
+{
+    "CustomerCode": 2021037,
+    "CustomerDescription": "Hershey (2021037)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Skinny Pop® Popcorn( Popcorn)",
+    "BrandDescription": "Skinny Pop",
+    "GrossSales": 1592801.01,
+    "CoworkerCode": "BM39"
+  },
+{
+    "CustomerCode": 2021037,
+    "CustomerDescription": "Hershey (2021037)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Skinny Pop® Popcorn( Popcorn)",
+    "BrandDescription": "Skinny Pop",
+    "GrossSales": 1032829.31,
+    "CoworkerCode": "BM39"
+  },
+{
+    "CustomerCode": 2021037,
+    "CustomerDescription": "Hershey (2021037)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Skinny Pop® Popcorn( Popcorn)",
+    "BrandDescription": "Skinny Pop",
+    "GrossSales": 1022849.21,
+    "CoworkerCode": "BM39"
+  }
+
+
+]

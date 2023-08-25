@@ -1,0 +1,61 @@
+[{
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"Ground shipping,International shipping,Freight shipping",
+        "sc_total":15000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":5,
+        "product_group":"Sustainable Shipping Services,Shipping Services,International Shipping Services",
+        "sc_total":16000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":8,
+        "product_group":"LOGISTICS SOLUTIONS,TRANSPORTATION SERVICES,Penske Automotive",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":10,
+        "product_group":"Supply Chain Solutions,Third Party Logistics,E-commerce Fulfillment",
+        "sc_total":14000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":1,
+        "product_group":"ENTERPRISE SUPPLY CHAINS,FINAL MILE SERVICES,FULFILLMENT SERVICES",
+        "sc_total":18000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":8,
+        "product_group":"PROJECT CARGO,MULTIMODAL,ocean freight services",
+        "sc_total":15000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":10,
+        "product_group":"Intermodal Services,LOGISTICS",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":12,
+        "product_group":"van service,brokerage service",
+        "sc_total":14000
+    },
+
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":11,
+        "product_group":"Truck Brokerage,Last Mile",
+        "sc_total":13000
+    },
+{
+        "conversion_probability":"Medium",
+        "shopping_carts":12,
+        "product_group":"Freight Shipping Services,Supply Chain & Logistics Services",
+        "sc_total":15000
+    }]

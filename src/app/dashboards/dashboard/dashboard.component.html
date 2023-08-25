@@ -3,8 +3,8 @@
   <div class="main_content-right">
     <app-top-navigation></app-top-navigation>
     <div class="content-outlet">
-      <div class="pb-1">
-        <span class="text-white text-small">Home</span>
+      <div class="pb-1 mt-3">
+        <span class="text-small">Home</span>
       </div>
       <div
         class="row card-container"
@@ -12,18 +12,6 @@
         cdkDropListOrientation="horizontal"
         (cdkDropListDropped)="onDrop($event)"
       >
-        <!--<div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
-                    <template app-news-alerts></template>
-                    <app-news-alerts [fundJsonfile]="fundJsonfile"></app-news-alerts>
-                    <app-fundings *ngIf="fundJsonfile === true"></app-fundings>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
-                    <app-my-customers></app-my-customers>
-                    <app-conversions></app-conversions>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-12" cdkDragBoundary=".row" cdkDrag>
-                    <app-customer-events></app-customer-events>
-                </div>-->
         <div
           *ngFor="let widget of widgetPositions"
           [ngClass]="{
@@ -41,12 +29,12 @@
             ></app-news-alerts>
             <span *ngIf="!widget.isFull">
               <div class="margin-bottom-class"></div>
-              <!-- <span *ngIf="widget.widget2 === 'insights'">
-                <app-customer-insights
+              <span *ngIf="widget.widget2 === 'insights'">
+                <app-insights
                   [isFull]="widget.isFull"
                   [widget2]="widget.name"
-                ></app-customer-insights>
-              </span> -->
+                ></app-insights>
+              </span>
               <span *ngIf="widget.widget2 === 'customerMenu'">
                 <app-my-customers
                   [isFull]="widget.isFull"
@@ -101,6 +89,13 @@
             ></app-customer-events>
             <span *ngIf="!widget.isFull">
               <div class="margin-bottom-class"></div>
+              <span *ngIf="widget.widget2 === 'insights'">
+                <app-insights
+                  [isFull]="widget.isFull"
+                  [widget2]="widget.name"
+                ></app-insights>
+              </span>
+              <div class="margin-bottom-class"></div>
               <span *ngIf="widget.widget2 === 'newsalerts'">
                 <app-news-alerts
                   [isFull]="widget.isFull"
@@ -149,7 +144,6 @@
             </span>
           </span>
         </div>
-        <!--<app-fundings *ngIf="stackHolderName === 'ryan'"></app-fundings>-->
       </div>
       <div>
         <app-footer></app-footer>

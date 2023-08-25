@@ -1,0 +1,270 @@
+[{
+    "CustomerCode": 2021078,
+    "CustomerDescription": "Ford(2021078)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Ford Explorer (SUVS & CROSSOVERS)",
+    "BrandDescription": "Ford",
+    "GrossSales": 1592539.01,
+    "CoworkerCode": "LQ19"
+  },
+  {
+    "CustomerCode": 2021078,
+    "CustomerDescription": "Ford(2021078)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Ford Explorer (SUVS & CROSSOVERS)",
+    "BrandDescription": "Ford",
+    "GrossSales": 1492500.01,
+    "CoworkerCode": "LQ19"
+  },
+  {
+    "CustomerCode": 2021078,
+    "CustomerDescription": "Ford(2021078)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Ford Explorer (SUVS & CROSSOVERS)",
+    "BrandDescription": "Ford",
+    "GrossSales": 1392100.08,
+    "CoworkerCode": "LQ19"
+  },
+{
+    "CustomerCode": 2021079,
+    "CustomerDescription": "General Motors(2021079)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " TRAX (Vehicles)",
+    "BrandDescription": "Chevrolet",
+    "GrossSales": 1392530.06,
+    "CoworkerCode": "ST12"
+  },
+  {
+    "CustomerCode": 2021079,
+    "CustomerDescription": "General Motors(2021079)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "TRAX (Vehicles)",
+    "BrandDescription": "Chevrolet",
+    "GrossSales": 1292500.52,
+    "CoworkerCode": "ST12"
+  },
+  {
+    "CustomerCode": 2021079,
+    "CustomerDescription": "General Motors(2021079)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "TRAX (Vehicles)",
+    "BrandDescription": "Chevrolet",
+    "GrossSales": 1192100.39,
+    "CoworkerCode": "ST12"
+  },
+{
+    "CustomerCode": 2021080,
+    "CustomerDescription": "Tesla(2021080)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1792530.08,
+    "CoworkerCode": "MT12"
+  },
+  {
+    "CustomerCode": 2021080,
+    "CustomerDescription": "Tesla(2021080)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1692500.05,
+    "CoworkerCode": "MT12"
+  },
+  {
+    "CustomerCode": 2021080,
+    "CustomerDescription": "Tesla(2021080)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1592100.01,
+    "CoworkerCode": "MT12"
+  },
+{
+    "CustomerCode": 2021081,
+    "CustomerDescription": "Paccar(2021081)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Peterbilt(PACCAR Products)",
+    "BrandDescription": "Paccar",
+    "GrossSales": 1292530.02,
+    "CoworkerCode": "MT10"
+  },
+  {
+    "CustomerCode": 2021081,
+    "CustomerDescription": "Paccar(2021081)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Peterbilt (PACCAR Products)",
+    "BrandDescription": "Paccar",
+    "GrossSales": 1192500.12,
+    "CoworkerCode": "MT10"
+  },
+  {
+    "CustomerCode": 2021081,
+    "CustomerDescription": "Paccar(2021081)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Peterbilt (PACCAR Products)",
+    "BrandDescription": "Paccar",
+    "GrossSales": 1092100.19,
+    "CoworkerCode": "MT10"
+  },
+{
+    "CustomerCode": 2021082,
+    "CustomerDescription": "Cummins(2021082)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1692530.03,
+    "CoworkerCode": "SK10"
+  },
+  {
+    "CustomerCode": 2021082,
+    "CustomerDescription": "Cummins(2021082)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1592500.04,
+    "CoworkerCode": "SK10"
+  },
+  {
+    "CustomerCode": 2021082,
+    "CustomerDescription": "Cummins(2021082)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Model S (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1492100.02,
+    "CoworkerCode": "SK10"
+  },
+{
+    "CustomerCode": 2021083,
+    "CustomerDescription": "Navistar(2021083)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " IC Bus (Bus)",
+    "BrandDescription": "Navistar",
+    "GrossSales": 1392500.00,
+    "CoworkerCode": "SL12"
+  },
+  {
+    "CustomerCode": 2021083,
+    "CustomerDescription": "Navistar(2021083)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "IC Bus (Bus)",
+    "BrandDescription": "Navistar",
+    "GrossSales": 1292200.02,
+    "CoworkerCode": "SL12"
+  },
+  {
+    "CustomerCode": 2021083,
+    "CustomerDescription": "Navistar(2021083)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "IC Bus (Bus)",
+    "BrandDescription": "Navistar",
+    "GrossSales": 1102100.10,
+    "CoworkerCode": "SL12"
+  },
+{
+    "CustomerCode": 2021084,
+    "CustomerDescription": "Volkswagen Group(2021084)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " SKODA (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1792530.07,
+    "CoworkerCode": "SL20"
+  },
+  {
+    "CustomerCode": 2021084,
+    "CustomerDescription": "Volkswagen Group(2021084)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "SKODA (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1692500.05,
+    "CoworkerCode": "SL20"
+  },
+  {
+    "CustomerCode": 2021084,
+    "CustomerDescription": "Volkswagen Group(2021084)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "SKODA (car's)",
+    "BrandDescription": "Tesla",
+    "GrossSales": 1592100.00,
+    "CoworkerCode": "SL20"
+  },
+{
+    "CustomerCode": 2021085,
+    "CustomerDescription": "Toyota(2021085)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Prius Prime (CARS & MINIVAN)",
+    "BrandDescription": "Toyota",
+    "GrossSales": 1692039.05,
+    "CoworkerCode": "TS13"
+  },
+  {
+    "CustomerCode": 2021085,
+    "CustomerDescription": "Toyota(2021085)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Prius Prime (CARS & MINIVAN)",
+    "BrandDescription": "Toyota",
+    "GrossSales": 1592900.06,
+    "CoworkerCode": "TS13"
+  },
+  {
+    "CustomerCode": 2021085,
+    "CustomerDescription": "Toyota(2021085)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Prius Prime (CARS & MINIVAN)",
+    "BrandDescription": "Toyota",
+    "GrossSales": 1492200.09,
+    "CoworkerCode": "TS13"
+  },
+{
+    "CustomerCode": 2021086,
+    "CustomerDescription": "Nissan(2021086)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Rogue Sport (Crossovers & SUVs)",
+    "BrandDescription": "Nissan",
+    "GrossSales": 1892530.01,
+    "CoworkerCode": "MS10"
+  },
+  {
+    "CustomerCode": 2021086,
+    "CustomerDescription": "Nissan(2021086)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Rogue Sport (Crossovers & SUVs)",
+    "BrandDescription": "Nissan",
+    "GrossSales": 1792100.04,
+    "CoworkerCode": "MS10"
+  },
+  {
+    "CustomerCode": 2021086,
+    "CustomerDescription": "Nissan(2021086)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Rogue Sport (Crossovers & SUVs)",
+    "BrandDescription": "Nissan",
+    "GrossSales": 1602100.02,
+    "CoworkerCode": "MS10"
+  },
+{
+    "CustomerCode": 2021087,
+    "CustomerDescription": "BMW(2021087)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " BMW 2 Series Gran Coupé (CAR'S)",
+    "BrandDescription": "BMW",
+    "GrossSales": 1792509.01,
+    "CoworkerCode": "AS10"
+  },
+  {
+    "CustomerCode": 2021087,
+    "CustomerDescription": "BMW(2021087)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "BMW 2 Series Gran Coupé (CAR'S)",
+    "BrandDescription": "BMW",
+    "GrossSales": 1692540.01,
+    "CoworkerCode": "AS10"
+  },
+  {
+    "CustomerCode": 2021087,
+    "CustomerDescription": "BMW(2021087)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "BMW 2 Series Gran Coupé (CAR'S)",
+    "BrandDescription": "BMW",
+    "GrossSales": 1592100.02,
+    "CoworkerCode": "AS10"
+  }]

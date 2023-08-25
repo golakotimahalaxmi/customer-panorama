@@ -1,0 +1,87 @@
+[
+  {
+    "Customercode": 2021048,
+    "CustomerDescription": "Intel(2021048)",
+    "CoworkerCode": "FA42",
+    "C12TM": 192983.55,
+    "P12Tm": 193892.16,
+    "PP12TM": 194080.82
+  },
+{
+    "Customercode": 2021049,
+    "CustomerDescription": "Dell Technologies(2021049)",
+    "CoworkerCode": "FA42",
+    "C12TM": 172983.45,
+    "P12Tm": 173892.17,
+    "PP12TM": 174080.81
+  },
+{
+    "Customercode": 2021050,
+    "CustomerDescription": "Hewlett-Packard(2021050)",
+    "CoworkerCode": "FA42",
+    "C12TM": 152983.15,
+    "P12Tm": 143892.13,
+    "PP12TM": 154080.12
+  },
+
+{
+    "Customercode": 2021051,
+    "CustomerDescription": "Xerox(2021051)",
+    "CoworkerCode": "FL12",
+    "C12TM": 152903.14,
+    "P12Tm": 143892.18,
+    "PP12TM": 134080.16
+  },
+{
+    "Customercode": 2021052,
+    "CustomerDescription": "IBM(2021052)",
+    "CoworkerCode": "AC42",
+    "C12TM": 194983.45,
+    "P12Tm": 193892.36,
+    "PP12TM": 191080.72
+  },
+{
+    "Customercode": 2021053,
+    "CustomerDescription": "Adobe(2021053)",
+    "CoworkerCode": "AS41",
+    "C12TM": 132983.15,
+    "P12Tm": 133892.26,
+    "PP12TM": 134080.12
+  },
+
+{
+    "Customercode": 2021054,
+    "CustomerDescription": "Netflix(2021054)",
+    "CoworkerCode": "FL42",
+    "C12TM": 122983.50,
+    "P12Tm": 123892.17,
+    "PP12TM": 124080.12
+  },
+{
+    "Customercode": 2021055,
+    "CustomerDescription": "Salesforce(2021055)",
+    "CoworkerCode": "FM32",
+    "C12TM": 122983.11,
+    "P12Tm": 123892.15,
+    "PP12TM": 124080.13
+  },
+{
+    "Customercode": 2021056,
+    "CustomerDescription": "Panasonic(2021056)",
+    "CoworkerCode": "AM42",
+    "C12TM": 144983.15,
+    "P12Tm": 143892.36,
+    "PP12TM": 141080.73
+  },
+
+{
+    "Customercode": 2021057,
+    "CustomerDescription": "Sony (2021057)",
+    "CoworkerCode": "AK21",
+    "C12TM": 132913.05,
+    "P12Tm": 131892.22,
+    "PP12TM": 134180.13
+  }]
+
+  
+ 

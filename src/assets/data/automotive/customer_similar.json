@@ -1,0 +1,101 @@
+[{
+    "CustomerCode": 2021078,
+    "CustomerName": "Ford",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Daimler",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Volkswagen",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Renault"
+  },
+{
+    "CustomerCode": 2021079,
+    "CustomerName": "General Motors",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Daimler",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Via Motors",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "OnStar"
+  },
+{
+    "CustomerCode": 2021080,
+    "CustomerName": "Tesla",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Audi",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Jaguar",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Porsche"
+  },
+{
+    "CustomerCode": 2021081,
+    "CustomerName": "Paccar",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Peterbilt",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Foden Trucks",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Hino Motors"
+  },
+{
+    "CustomerCode": 2021082,
+    "CustomerName": "Cummins",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Komatsu",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "John Deere",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Yanmar"
+  },
+{
+    "CustomerCode": 2021083,
+    "CustomerName": "Navistar",
+    "SimilarCompany1_Code": 2021079,
+    "SimilarCompany1_Name": "General Motors",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Hino Motors",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Peterbilt"
+  },
+{
+    "CustomerCode": 2021084,
+    "CustomerName": "Volkswagen Group",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Gottfried Schultz",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "SAIC Motor",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Nissan"
+  },
+{
+    "CustomerCode": 2021085,
+    "CustomerName": "Toyota",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Hino Motors",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Suzuki",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Lexus"
+  },
+{
+    "CustomerCode": 2021086,
+    "CustomerName": "Nissan",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "SAIC Motor",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Yamaha Motor Corporation",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "PSA Group"
+  },
+{
+    "CustomerCode": 2021087,
+    "CustomerName": "BMW",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Jaguar",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Volvo",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Lexus"
+  }
+]

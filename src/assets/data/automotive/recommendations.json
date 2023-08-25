@@ -1,0 +1,888 @@
+[
+    {
+        "CustomerCode": 2021078,
+        "CustomerDescription": "Ford(2021078)",
+        "probability": 80,
+        "total_value": 74000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Laptops",
+        "product_name": "HP Laptop 17-cp0010nr",
+        "product_value": "5089",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(18)",
+            "product special offer views(12)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Jim Farley",
+                "designation": "CEO"
+            }]
+    },{
+        "CustomerCode": 2021078,
+        "CustomerDescription": "Ford(2021078)",
+        "probability": 85,
+        "total_value": 10000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Desktops",
+        "product_name": "New OptiPlex 3090 Micro Desktop",
+        "product_value": "798",
+        "product_image": "optiplex.png",
+        "reasons":[
+            "of product emails opened(16)"
+        ],
+        "contacts":[
+            {
+                "name": "Jennie Ford",
+                "designation": "Director Of Communications"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021078,
+        "CustomerDescription": "Ford(2021078)",
+        "probability": 84,
+        "total_value": 140000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Virtualization",
+        "pgm":"Application Virtualization",
+        "product_name": "NVIDIA RTX Virtual Workstation - subscription license",
+        "product_value": "7000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Wesley Flanagan",
+                "designation": "Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021078,
+        "CustomerDescription": "Ford(2021078)",
+        "probability": 88,
+        "total_value": 130000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Operating Systems",
+        "pgm":"Linux",
+        "product_name": "Red Hat Enterprise Linux Academic Site Subscription",
+        "product_value": "8000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(13)",
+            "product special offer views(13)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Andrew Frick",
+                "designation": "Director of U.S. Marketing "
+            }]},
+{
+        "CustomerCode": 2021079,
+        "CustomerDescription": "General Motors(2021079)",
+        "probability": 90,
+        "total_value": 119000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computer Monitors & Displays",
+        "pgm":"Large Format Displays",
+        "product_name": "Planar MGP Complete 108 108.4 LED-backlit LCD display",
+        "product_value": "1549",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Mary Barra",
+                "designation": "Chief Executive Officer"
+            }]
+    },{
+        "CustomerCode": 2021079,
+        "CustomerDescription": "General Motors(2021079)",
+        "probability": 83,
+        "total_value": 12000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computer Monitors & Displays",
+        "pgm":"Monitors",
+        "product_name": " Proline display privacy filter - 27",
+        "product_value": "80",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "David McAlpine",
+                "designation": "Director, Broadcast Media Relations"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021079,
+        "CustomerDescription": "General Motors(2021079)",
+        "probability": 80,
+        "total_value": 37000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Business Applications",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": "Qlik Sense Enterprise - subscription license",
+        "product_value": "438",
+        "product_image": "qliksense.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Scott Lunn",
+                "designation": "National Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021079,
+        "CustomerDescription": "General Motors(2021079)",
+        "probability": 86,
+        "total_value": 411441,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Programming & Web Development ",
+        "pgm":"DevOps",
+        "product_name": "VMware Tanzu Advanced Bundle - Term License",
+        "product_value": "137147",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(16)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Santiago Chamorro",
+                "designation": "President and Managing Director"
+            }]},
+
+{
+        "CustomerCode": 2021080,
+        "CustomerDescription": "Tesla(2021080)",
+        "probability": 90,
+        "total_value": 46000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Tablet PCs",
+        "product_name": "Samsung Galaxy Tab S7 FE",
+        "product_value": "673",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(17)",
+            "product special offer views(13)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Milan Kovac",
+                "designation": "Director of Engineering"
+            }]
+    },{
+        "CustomerCode": 2021080,
+        "CustomerDescription": "Tesla(2021080)",
+        "probability": 80,
+        "total_value": 20000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Laser Printers",
+        "product_name": "Brother HL-L5200DWT",
+        "product_value": "300",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(15)"
+        ],
+        "contacts":[
+            {
+                "name": "Andrej Karpathy",
+                "designation": "Director of Artificial Intelligence"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021080,
+        "CustomerDescription": "Tesla(2021080)",
+        "probability": 80,
+        "total_value": 22400,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Business Applications",
+        "pgm":"Document Management",
+        "product_name": "McAfee Active Virusscan Media Kit",
+        "product_value": "18",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(12)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Tony Macke",
+                "designation": "Sr Manager - Supply Chain Management"
+            }]},
+{
+        "CustomerCode": 2021080,
+        "CustomerDescription": "Tesla(2021080)",
+        "probability": 88,
+        "total_value": 26000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Programming & Web Development",
+        "pgm":"Web Development",
+        "product_name": "Adobe ColdFusion Standard",
+        "product_value": "615",
+        "product_image": "cdn.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Milan Kovac",
+                "designation": "Director of Engineering"
+            }]},
+{
+        "CustomerCode": 2021081,
+        "CustomerDescription": "Paccar(2021081)",
+        "probability": 80,
+        "total_value": 28000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Monitors",
+        "product_name": "Acer KG281K bmiipx 28 4K UHD (3840 x 2160) TN Monitor",
+        "product_value": "346",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(12)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "John Rich",
+                "designation": "Chief Technology Officer"
+            }]
+    },{
+        "CustomerCode": 2021081,
+        "CustomerDescription": "Paccar(2021081)",
+        "probability": 87,
+        "total_value": 17000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computer Components",
+        "pgm":"Motherboards",
+        "product_name": "SATA 6Gb/s ATX Intel Motherboard",
+        "product_value": "412",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Dallas Thornton",
+                "designation": "Data and Technology Leader"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021081,
+        "CustomerDescription": "Paccar(2021081)",
+        "probability": 80,
+        "total_value": 29000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": " Business Applications ",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": "Qlik Sense Enterprise ",
+        "product_value": "438",
+        "product_image": "print.png",
+        "reasons":[
+            "of product views(15)",
+            "product special offer views(14)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Greg Anderson",
+                "designation": "Regional Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021081,
+        "CustomerDescription": "Paccar(2021081)",
+        "probability": 86,
+        "total_value": 59000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "  Utilities",
+        "pgm":"Cloning",
+        "product_name": "Symantec Ghost Solution Suite",
+        "product_value": "3000",
+        "product_image": "rackspacecloud.png",
+        "reasons":[
+            "of product views(14)",
+            "product special offer views(18)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Zulfiquar Ali Sanwari",
+                "designation": "Sr. Finance Director"
+            }]},
+{
+        "CustomerCode": 2021082,
+        "CustomerDescription": "Cummins(2021082)",
+        "probability": 90,
+        "total_value": 79000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Blade Servers",
+        "product_name": "Cisco UCS SmartPlay Select B200 M5 Advanced 2",
+        "product_value": "7919",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(12)",
+            "product special offer views(16)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Chris O'Neal",
+                "designation": "Manager, On-Highway Sales"
+            }]
+    },{
+        "CustomerCode": 2021082,
+        "CustomerDescription": "Cummins(2021082)",
+        "probability": 80,
+        "total_value": 18000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Plotter Printers",
+        "product_name": "Canon imagePROGRAF TM-200",
+        "product_value": "2315",
+        "product_image": "prograf.png",
+        "reasons":[
+            "of product emails opened(12)"
+        ],
+        "contacts":[
+            {
+                "name": "Chimezirim Ibe-Ekeocha",
+                "designation": "Senior Marketing Specialist"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021082,
+        "CustomerDescription": "Cummins(2021082)",
+        "probability": 80,
+        "total_value": 57000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Business Applications",
+        "pgm":"Application Suites",
+        "product_name": " APPLE IPADPRO 11 WIFI 128 SG 3RD BUN",
+        "product_value": "897",
+        "product_image": "ipadpro.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Richard I. Porter",
+                "designation": "Product Manager"
+            }]},
+{
+        "CustomerCode": 2021082,
+        "CustomerDescription": "Cummins(2021082)",
+        "probability": 90,
+        "total_value": 87000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Programming & Web Development",
+        "pgm":" Databases",
+        "product_name": "ALTAIR UNITS MLT PHYSICS MECH ENGR",
+        "product_value": "7000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Paul Bautista",
+                "designation": "Executive director,IT Operations"
+            }]},
+{
+        "CustomerCode": 2021083,
+        "CustomerDescription": "Navistar(2021083)",
+        "probability": 90,
+        "total_value": 32000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Rack Servers",
+        "product_name": "IBM X220 7/1260 256MB HS SRVR-DUP",
+        "product_value": "4000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Ted Wright",
+                "designation": "Chief Executive Officer"
+            }]
+    },{
+        "CustomerCode": 2021083,
+        "CustomerDescription": "Navistar(2021083)",
+        "probability": 80,
+        "total_value": 60000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Laptops",
+        "product_name": "Acer TravelMate Spin P4 TMP414RN-51-76AV - 14",
+        "product_value": "1159",
+        "product_image": "travelMate.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Wayne Rygel",
+                "designation": "Purchasing Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021083,
+        "CustomerDescription": "Navistar(2021083)",
+        "probability": 80,
+        "total_value": 3000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": " Business Applications ",
+        "pgm":"Document Management",
+        "product_name": "BLACKBERRY CAPTOR F/BB DYN LIC",
+        "product_value": "16",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(18)",
+            "product special offer views(16)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Justin Schlater",
+                "designation": "IT Director Associate"
+            }]},
+{
+        "CustomerCode": 2021083,
+        "CustomerDescription": "Navistar(2021083)",
+        "probability": 83,
+        "total_value": 6000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Virtualization",
+        "pgm":"Client Virtualization",
+        "product_name": "Citrix XenDesktop Enterprise Edition - On-Premise",
+        "product_value": "65",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "brian jacquay",
+                "designation": "Director Of Engineering"
+            }]},
+{
+        "CustomerCode": 2021084,
+        "CustomerDescription": "Volkswagen Group(2021084)",
+        "probability": 90,
+        "total_value": 45000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":" Desktops",
+        "product_name": "Tangent M24T All-in-One 24 Core i5-7300U 16GB RAM 256GB",
+        "product_value": "2346",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Scott Keogh",
+                "designation": "President & CEO"
+            }]
+    },{
+        "CustomerCode": 2021084,
+        "CustomerDescription": "Volkswagen Group(2021084)",
+        "probability": 90,
+        "total_value": 70000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Plotter Printers",
+        "product_name": "Epson SureColor SC-P8000 Standard",
+        "product_value": "4630",
+        "product_image": "epsonsureColor.png",
+        "reasons":[
+            "of product emails opened(18)"
+        ],
+        "contacts":[
+            {
+                "name": "Lynne Piette",
+                "designation": "Head of Marketing"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021084,
+        "CustomerDescription": "Volkswagen Group(2021084)",
+        "probability": 80,
+        "total_value": 14000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Operating Systems ",
+        "pgm":"Windows",
+        "product_name": " Windows 10 IoT Enterprise 2019 LTSC High End",
+        "product_value": "182",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Mike Camp",
+                "designation": "Senior Manager"
+            }]},
+{
+        "CustomerCode": 2021084,
+        "CustomerDescription": "Volkswagen Group(2021084)",
+        "probability": 89,
+        "total_value": 104946,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Programming & Web Development ",
+        "pgm":"Databases",
+        "product_name": "CLOUDERA FLOW MGMT 16C SUB+SUP 2Y",
+        "product_value": "52473",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "David Bruce ",
+                "designation": "Vice President, Human Resources"
+            }]},
+{
+        "CustomerCode": 2021085,
+        "CustomerDescription": "Toyota(2021085)",
+        "probability": 90,
+        "total_value": 40000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Scanners",
+        "pgm":"Document Scanners",
+        "product_name": "Panasonic KV-S2087",
+        "product_value": "2158",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Agustín Martín",
+                "designation": "President & Managing Director"
+            }]
+    },{
+        "CustomerCode": 2021085,
+        "CustomerDescription": "Toyota(2021085)",
+        "probability": 80,
+        "total_value": 20000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Rack Servers",
+        "product_name": "Dell EMC PowerEdge R240",
+        "product_value": "1368",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(18)"
+        ],
+        "contacts":[
+            {
+                "name": "Gregg Overfield",
+                "designation": "Director"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021085,
+        "CustomerDescription": "Toyota(2021085)",
+        "probability": 80,
+        "total_value": 80000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": "Business Applications",
+        "pgm":"Reporting & Data Analytics",
+        "product_name": "Bretford Connect Admin",
+        "product_value": "6230",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Zack Hicks",
+                "designation": "CEO"
+            }]},
+{
+        "CustomerCode": 2021085,
+        "CustomerDescription": "Toyota(2021085)",
+        "probability": 90,
+        "total_value": 70000,
+        "sale_type": "cross",
+        "item_type": " Software",
+        "item_class": "Business Applications",
+        "pgm":"Application Suites",
+        "product_name": " APPLE IPADPRO 11 WIFI 128 SL 3RD BND",
+        "product_value": "897",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Douglas Beebe",
+                "designation": "Vice President  "
+            }]},
+{
+        "CustomerCode": 2021086,
+        "CustomerDescription": "Nissan(2021086)",
+        "probability": 90,
+        "total_value": 32000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Printers",
+        "pgm":"Laser Printers",
+        "product_name": "HP LaserJet Pro M404dw",
+        "product_value": "420",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Allyson Witherspoon",
+                "designation": "US Chief Marketing Officer"
+            }]
+    },{
+        "CustomerCode": 2021086,
+        "CustomerDescription": "Nissan(2021086)",
+        "probability": 85,
+        "total_value": 162000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Scanners",
+        "pgm":"Document Scanners",
+        "product_name": "Kodak Scan Station 730EX Plus",
+        "product_value": "27000",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product emails opened(17)"
+        ],
+        "contacts":[
+            {
+                "name": "Anne Corrao",
+                "designation": "Director, Chief Marketing Manager "
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021086,
+        "CustomerDescription": "Nissan(2021086)",
+        "probability": 80,
+        "total_value": 40000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": "Business Applications ",
+        "pgm":"CRM",
+        "product_name": "Microsoft Dynamics 365",
+        "product_value": "2450",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Tiago Castro",
+                "designation": "Senior Director, Sales, Marketing & Services"
+            }]},
+{
+        "CustomerCode": 2021086,
+        "CustomerDescription": "Nissan(2021086)",
+        "probability": 80,
+        "total_value": 80000,
+        "sale_type": "cross",
+        "item_type": "software",
+        "item_class": "Networking & Servers",
+        "pgm":"Data Archiving",
+        "product_name": "Nutanix AOS Starter - subscription license",
+        "product_value": "3500",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(11)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Anne Corrao",
+                "designation": "Director, Chief Marketing Manager"
+            }]},
+{
+        "CustomerCode": 2021087,
+        "CustomerDescription": "BMW(2021087)",
+        "probability": 88,
+        "total_value": 130000,
+        "sale_type": "up",
+        "item_type": "Hardware",
+        "item_class": "Computers",
+        "pgm":"Laptops",
+        "product_name": "LG gram 16T90P-K.APB7U1",
+        "product_value": "1600",
+        "product_image": "pdu.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(15)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Harald Gottsche",
+                "designation": "President & CEO"
+            }]
+    },{
+        "CustomerCode": 2021087,
+        "CustomerDescription": "BMW(2021087)",
+        "probability": 80,
+        "total_value": 14000,
+        "sale_type": "cross",
+        "item_type": "Hardware",
+        "item_class": "Servers",
+        "pgm":"Blade Servers",
+        "product_name": "Cisco UCS SmartPlay Select B200 M5",
+        "product_value": "7900",
+        "product_image": "ciscoucs.png",
+        "reasons":[
+            "of product emails opened(16)"
+        ],
+        "contacts":[
+            {
+                "name": "Bernhard Kuhnt",
+                "designation": "CEO & President"
+            }
+        ]
+    },
+    {
+        "CustomerCode": 2021087,
+        "CustomerDescription": "BMW(2021087)",
+        "probability": 84,
+        "total_value": 5000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Security",
+        "pgm":"Authentication",
+        "product_name": "Microsoft Azure Information Protection Premium P1",
+        "product_value": "27",
+        "product_image": "azure.png",
+        "reasons":[
+            "of product views(10)",
+            "product special offer views(9)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Adrian A. Turek",
+                "designation": "General Sales Manager"
+            }]},
+{
+        "CustomerCode": 2021087,
+        "CustomerDescription": "BMW(2021087)",
+        "probability": 90,
+        "total_value": 33000,
+        "sale_type": "cross",
+        "item_type": "Software",
+        "item_class": " Programming & Web Development",
+        "pgm":"Databases",
+        "product_name": "Microsoft SQL Server Standard Edition",
+        "product_value": "890",
+        "product_image": "sql.png",
+        "reasons":[
+            "of product views(16)",
+            "product special offer views(17)",
+            "preferred partner"
+        ],
+        "contacts":[
+            {
+                "name": "Trudy Hardy",
+                "designation": "Vice President of Marketing"
+            }]}
+
+
+    
+]
+            
+        

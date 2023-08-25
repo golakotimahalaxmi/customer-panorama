@@ -1,0 +1,270 @@
+[{
+    "CustomerCode": 2021068,
+    "CustomerDescription": "FedEx(2021068)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Air & ocean cargo networks (Logistics)",
+    "BrandDescription": "FedEx",
+    "GrossSales": 1592539.51,
+    "CoworkerCode": "MQ19"
+  },
+  {
+    "CustomerCode": 2021068,
+    "CustomerDescription": "FedEx(2021068)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Air & ocean cargo networks (Logistics)",
+    "BrandDescription": "FedEx",
+    "GrossSales": 1392509.01,
+    "CoworkerCode": "MQ19"
+  },
+  {
+    "CustomerCode": 2021068,
+    "CustomerDescription": "FedEx (2021068)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Air & ocean cargo networks (Logistics)",
+    "BrandDescription": "FedEx",
+    "GrossSales": 1292104.08,
+    "CoworkerCode": "MQ19"
+  },
+{
+    "CustomerCode": 2021069,
+    "CustomerDescription": "United Parcel Service (2021069)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Shipping Solutions(Shipping)",
+    "BrandDescription": "United Parcel Service",
+    "GrossSales": 1792849.11,
+    "CoworkerCode": "SL49"
+  },
+  {
+    "CustomerCode": 2021069,
+    "CustomerDescription": "United Parcel Service (2021069)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Shipping Solutions (Shipping)",
+    "BrandDescription": "United Parcel Service",
+    "GrossSales": 1651840.01,
+    "CoworkerCode": "SL49"
+  },
+  {
+    "CustomerCode": 2021069,
+    "CustomerDescription": "United Parcel Service (2021069)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Shipping Solutions (Shipping)",
+    "BrandDescription": "United Parcel Service",
+    "GrossSales": 1580704.5,
+    "CoworkerCode": "SL49"
+  },
+{
+    "CustomerCode": 2021070,
+    "CustomerDescription": "Penske (2021070)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "PENSKE LOGISTICS (Logistics)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1392509.11,
+    "CoworkerCode": "TQ09"
+  },
+  {
+    "CustomerCode": 2021070,
+    "CustomerDescription": "Penske (2021070)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "PENSKE LOGISTICS (Logistics)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1292008.01,
+    "CoworkerCode": "TQ09"
+  },
+  {
+    "CustomerCode": 2021070,
+    "CustomerDescription": "Penske (2021070)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "PENSKE LOGISTICS (Logistics)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1102104.08,
+    "CoworkerCode": "TQ09"
+  },
+{
+    "CustomerCode": 2021071,
+    "CustomerDescription": "Ryder(2021071)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Supply Chain Solutions (Supply Chain)",
+    "BrandDescription": "Ryder",
+    "GrossSales": 1692049.01,
+    "CoworkerCode": "KL19"
+  },
+  {
+    "CustomerCode": 2021071,
+    "CustomerDescription": "Ryder(2021071)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Supply Chain Solutions (Supply Chain)",
+    "BrandDescription": "Ryder",
+    "GrossSales": 1551840.01,
+    "CoworkerCode": "KL19"
+  },
+  {
+    "CustomerCode": 2021071,
+    "CustomerDescription": "Ryder(2021071)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Supply Chain Solutions (Supply Chain)",
+    "BrandDescription": "Ryder",
+    "GrossSales": 1480704.2,
+    "CoworkerCode": "KL19"
+  },
+{
+    "CustomerCode": 2021072,
+    "CustomerDescription": "J.B. Hunt(2021072)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Carrier Solutions (Solutions)",
+    "BrandDescription": "J.B. Hunt",
+    "GrossSales": 1492539.01,
+    "CoworkerCode": "ML10"
+  },
+  {
+    "CustomerCode": 2021072,
+    "CustomerDescription": "J.B. Hunt(2021072)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Carrier Solutions (Solutions)",
+    "BrandDescription": "J.B. Hunt",
+    "GrossSales": 1292530.05,
+    "CoworkerCode": "ML10"
+  },
+  {
+    "CustomerCode": 2021072,
+    "CustomerDescription": "J.B. Hunt(2021072)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Carrier Solutions (Solutions)",
+    "BrandDescription": "J.B. Hunt",
+    "GrossSales": 1192030.01,
+    "CoworkerCode": "ML10"
+  },
+{
+    "CustomerCode": 2021073,
+    "CustomerDescription": "Expeditors International(2021073)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "PROJECT CARGO (SERVICES)",
+    "BrandDescription": "United Parcel Service",
+    "GrossSales": 1592801.31,
+    "CoworkerCode": "KF23"
+  },
+  {
+    "CustomerCode": 2021073,
+    "CustomerDescription": "Expeditors International(2021073)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "PROJECT CARGO (SERVICES)",
+    "BrandDescription": "Expeditors International",
+    "GrossSales": 1412501.51,
+    "CoworkerCode": "KF23"
+  },
+  {
+    "CustomerCode": 2021073,
+    "CustomerDescription": "Expeditors International(2021073)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "PROJECT CARGO (SERVICES)",
+    "BrandDescription": "Expeditors International",
+    "GrossSales": 1312503.11,
+    "CoworkerCode": "KF23"
+  },
+{
+    "CustomerCode": 2021074,
+    "CustomerDescription": "Union Pacific(2021074)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Intermodal Services (Services)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1292509.01,
+    "CoworkerCode": "TS05"
+  },
+  {
+    "CustomerCode": 2021074,
+    "CustomerDescription": "Union Pacific (2021074)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Intermodal Services (Services)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1192004.02,
+    "CoworkerCode": "TS05"
+  },
+  {
+    "CustomerCode": 2021074,
+    "CustomerDescription": "Union Pacific (2021074)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Intermodal Services (Services)",
+    "BrandDescription": "Penske",
+    "GrossSales": 1002104.01,
+    "CoworkerCode": "TS05"
+  },
+{
+    "CustomerCode": 2021075,
+    "CustomerDescription": "Knight-Swift(2021075)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": " Iron Truck Services (Services)",
+    "BrandDescription": "Knight-Swift",
+    "GrossSales": 1392501.51,
+    "CoworkerCode": "PS59"
+  },
+  {
+    "CustomerCode": 2021075,
+    "CustomerDescription": "Knight-Swift(2021075)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": " Iron Truck Services (Services)",
+    "BrandDescription": "Knight-Swift",
+    "GrossSales": 1292502.01,
+    "CoworkerCode": "PS59"
+  },
+  {
+    "CustomerCode": 2021075,
+    "CustomerDescription": "Knight-Swift(2021075)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": " Iron Truck Services (Services)",
+    "BrandDescription": "Knight-Swift",
+    "GrossSales": 1192104.02,
+    "CoworkerCode": "PS59"
+  },
+{
+    "CustomerCode": 2021076,
+    "CustomerDescription": "XPO(2021075)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Truck Brokerage(Brokerage)",
+    "BrandDescription": "XPO",
+    "GrossSales": 1692802.11,
+    "CoworkerCode": "TC12"
+  },
+  {
+    "CustomerCode": 2021076,
+    "CustomerDescription": "XPO(2021075)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Truck Brokerage (Brokerage)",
+    "BrandDescription": "XPO",
+    "GrossSales": 1551840.01,
+    "CoworkerCode": "TC12"
+  },
+  {
+    "CustomerCode": 2021076,
+    "CustomerDescription": "XPO(2021075)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Truck Brokerage (Brokerage)",
+    "BrandDescription": "XPO",
+    "GrossSales": 1450704.5,
+    "CoworkerCode": "TC12"
+  },
+{
+    "CustomerCode": 2021077,
+    "CustomerDescription": "C.H. Robinson (2021077)",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Air Freight (Freight Services)",
+    "BrandDescription": "C.H. Robinson",
+    "GrossSales": 1292009.05,
+    "CoworkerCode": "MD08"
+  },
+  {
+    "CustomerCode": 2021077,
+    "CustomerDescription": "C.H. Robinson (2021077)",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Air Freight (Freight Services)",
+    "BrandDescription": "C.H. Robinson",
+    "GrossSales": 1192504.02,
+    "CoworkerCode": "MD08"
+  },
+  {
+    "CustomerCode": 2021077,
+    "CustomerDescription": "C.H. Robinson (2021077)",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Air Freight (Freight Services)",
+    "BrandDescription": "C.H. Robinson",
+    "GrossSales": 1006104.07,
+    "CoworkerCode": "MD08"
+  }]

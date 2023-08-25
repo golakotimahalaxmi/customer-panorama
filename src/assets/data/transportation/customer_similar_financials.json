@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Blue Dart Express",
+        "PeriodType": "C12TM",
+        "ItemType": "Ground shipping",
+        "GrossSales": 1501850.03
+    },
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Ekart",
+        "PeriodType": "C12TM",
+        "ItemType": "Ground shipping",
+        "GrossSales": 1402002.06
+    },
+    {   
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Royal Mail",
+        "PeriodType": "C12TM",
+        "ItemType": "Ground shipping",
+        "GrossSales": 1551980.17
+    },
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Blue Dart Express",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight shipping",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Ekart",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight shipping",
+        "GrossSales": 82049.03
+    },
+    {   
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Royal Mail",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight shipping",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Blue Dart Express",
+        "PeriodType": "C12TM",
+        "ItemType": "Overnight shipping",
+        "GrossSales": 85899.05
+    },
+    {
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Ekart",
+        "PeriodType": "C12TM",
+        "ItemType": "Overnight shipping",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021068,
+        "SimilarCustomerDescription": "Royal Mail",
+        "PeriodType": "C12TM",
+        "ItemType": "Overnight shipping",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "BCUBE",
+        "PeriodType": "C12TM",
+        "ItemType": "Small Business Shipping Solutions ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "Aramex",
+        "PeriodType": "C12TM",
+        "ItemType": "Small Business Shipping Solutions ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021069,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Small Business Shipping Solutions ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "BCUBE",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Courier Services",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "Aramex",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Courier Services",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Personal Courier Services",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "BCUBE",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "Aramex",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021069,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "LOGISTICS SOLUTIONS",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "LOGISTICS SOLUTIONS",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021070,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "LOGISTICS SOLUTIONS",
+        "GrossSales": 1051985.10
+    },
+    {
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "Automotive",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Automotive",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "Automotive",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 71855.07
+    },
+    {
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021070,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "TRUCKS",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Supply Chain Solutions",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Supply Chain Solutions",
+        "GrossSales": 1092804.01
+    },
+    {   
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "Supply Chain Solutions",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 2021071,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "SHIPMENT SOLUTIONS",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Werner Enterprises",
+        "PeriodType": "C12TM",
+        "ItemType": "SHIPMENT SOLUTIONS",
+        "GrossSales": 1492002.01
+    },
+    {   
+        "CustomerCode":2021072,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "SHIPMENT SOLUTIONS",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": " CARRIER SOLUTIONS",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Werner Enterprises",
+        "PeriodType": "C12TM",
+        "ItemType": "CARRIER SOLUTIONS",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "CARRIER SOLUTIONS",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "MANAGED LOGISTICS",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "Werner Enterprises",
+        "PeriodType": "C12TM",
+        "ItemType": "MANAGED LOGISTICS",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021072,
+        "SimilarCustomerDescription": "U.S. Xpress",
+        "PeriodType": "C12TM",
+        "ItemType": "MANAGED LOGISTICS",
+        "GrossSales": 91907.45
+    },
+{
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Bansard International",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Gondrand",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Kerry Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Bansard International",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Gondrand",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 98002.01
+    },
+    {   
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Kerry Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Bansard International",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Gondrand",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021073,
+        "SimilarCustomerDescription": "Kerry Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Petroleum Products Service",
+        "GrossSales": 1551080.01
+    },
+    {
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Exposition Flyer",
+        "PeriodType": "C12TM",
+        "ItemType": "Petroleum Products Service",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Caboose",
+        "PeriodType": "C12TM",
+        "ItemType": "Petroleum Products Service",
+        "GrossSales": 1251900.10
+    },
+    {
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Sulphur Products Services",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":2021074,
+        "SimilarCustomerDescription": "Exposition Flyer",
+        "PeriodType": "C12TM",
+        "ItemType": "Sulphur Products Services",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Caboose",
+        "PeriodType": "C12TM",
+        "ItemType": "Sulphur Products Services",
+        "GrossSales": 144080.45
+    },
+    {
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Construction Products",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Exposition Flyer",
+        "PeriodType": "C12TM",
+        "ItemType": "Construction Products",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021074,
+        "SimilarCustomerDescription": "Caboose",
+        "PeriodType": "C12TM",
+        "ItemType": "Construction Products",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Phoenix Symphony",
+        "PeriodType": "C12TM",
+        "ItemType": "Iron Truck Services",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Schneider National",
+        "PeriodType": "C12TM",
+        "ItemType": "Iron Truck Services",
+        "GrossSales": 1192002.01
+    },
+    {   
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Mesa Airlines",
+        "PeriodType": "C12TM",
+        "ItemType": "Iron Truck Services",
+        "GrossSales": 1051900.15
+    },
+    {
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Phoenix Symphony",
+        "PeriodType": "C12TM",
+        "ItemType": "van services",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Schneider National",
+        "PeriodType": "C12TM",
+        "ItemType": "van services",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Mesa Airlines",
+        "PeriodType": "C12TM",
+        "ItemType": "van services",
+        "GrossSales": 121000.45
+    },
+    {
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Phoenix Symphony",
+        "PeriodType": "C12TM",
+        "ItemType": " GENERAL FREIGHT TRUCKING",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Schneider National",
+        "PeriodType": "C12TM",
+        "ItemType": " GENERAL FREIGHT TRUCKING",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021075,
+        "SimilarCustomerDescription": "Mesa Airlines",
+        "PeriodType": "C12TM",
+        "ItemType": " GENERAL FREIGHT TRUCKING",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Brokerage",
+        "GrossSales": 1301090.01
+    },
+    {
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Brokerage",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Brokerage",
+        "GrossSales": 1201089.15
+    },
+    {
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Intermodal and Drayage",
+        "GrossSales": 51078.01
+    },
+    {
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Intermodal and Drayage",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Intermodal and Drayage",
+        "GrossSales": 150030.45
+    },
+    {
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Agility Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Less-Than-Truckload",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 2021076,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Less-Than-Truckload",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021076,
+        "SimilarCustomerDescription": "Rail Baron",
+        "PeriodType": "C12TM",
+        "ItemType": "Less-Than-Truckload",
+        "GrossSales": 91590.45
+    },
+{
+        "CustomerCode":2021077,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight Shipping Services",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight Shipping Services",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021077,
+        "SimilarCustomerDescription": "Access America Transport",
+        "PeriodType": "C12TM",
+        "ItemType": "Freight Shipping Services",
+        "GrossSales": 1051080.15
+    },
+    {
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": " Supply Chain & Logistics Services",
+        "GrossSales": 58410.08
+    },
+    {
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": " Supply Chain & Logistics Services",
+        "GrossSales": 70402.01
+    },
+    {   
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "Access America Transport",
+        "PeriodType": "C12TM",
+        "ItemType": " Supply Chain & Logistics Services",
+        "GrossSales": 101655.15
+    },
+    {
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "Veritiv",
+        "PeriodType": "C12TM",
+        "ItemType": "Rail Shipping",
+        "GrossSales": 79500.01
+    },
+    {
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "PLS Logistics",
+        "PeriodType": "C12TM",
+        "ItemType": "Rail Shipping",
+        "GrossSales": 103102.00
+    },
+    {   
+        "CustomerCode": 2021077,
+        "SimilarCustomerDescription": "Access America Transport",
+        "PeriodType": "C12TM",
+        "ItemType": "Rail Shipping",
+        "GrossSales": 90050.10
+    }
+]

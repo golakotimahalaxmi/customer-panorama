@@ -1,0 +1,632 @@
+[
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ARM Holdings",
+        "PeriodType": "C12TM",
+        "ItemType": "Computer Systems and Devices",
+        "GrossSales": 1501800.03
+    },
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ATMEL CORP",
+        "PeriodType": "C12TM",
+        "ItemType": "Computer Systems and Devices",
+        "GrossSales": 1402042.06
+    },
+    {   
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "Micron Technology",
+        "PeriodType": "C12TM",
+        "ItemType": "Computer Systems and Devices",
+        "GrossSales": 1551981.17
+    },
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ARM Holdings",
+        "PeriodType": "C12TM",
+        "ItemType": "Chipsets",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ATMEL CORP",
+        "PeriodType": "C12TM",
+        "ItemType": "Chipsets",
+        "GrossSales": 82042.03
+    },
+    {   
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "Micron Technology",
+        "PeriodType": "C12TM",
+        "ItemType": "Chipsets",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ARM Holdings",
+        "PeriodType": "C12TM",
+        "ItemType": "Ethernet Products",
+        "GrossSales": 85890.05
+    },
+    {
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "ATMEL CORP",
+        "PeriodType": "C12TM",
+        "ItemType": "Ethernet Products",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021048,
+        "SimilarCustomerDescription": "Micron Technology",
+        "PeriodType": "C12TM",
+        "ItemType": "Ethernet Products",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Electronic Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Servers ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Avaya",
+        "PeriodType": "C12TM",
+        "ItemType": "Servers ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021049,
+        "SimilarCustomerDescription": "Huawei",
+        "PeriodType": "C12TM",
+        "ItemType": "Servers ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Electronic Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Midmarket Products",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Avaya",
+        "PeriodType": "C12TM",
+        "ItemType": "Midmarket Products",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Huawei",
+        "PeriodType": "C12TM",
+        "ItemType": "Midmarket Products",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Electronic Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Networking",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Avaya",
+        "PeriodType": "C12TM",
+        "ItemType": "Networking",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021049,
+        "SimilarCustomerDescription": "Huawei",
+        "PeriodType": "C12TM",
+        "ItemType": "Networking",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Apple Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Graphic Solutions",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Graphic Solutions",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021050,
+        "SimilarCustomerDescription": "Tech Data",
+        "PeriodType": "C12TM",
+        "ItemType": "Graphic Solutions",
+        "GrossSales": 1051980.10
+    },
+    {
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Apple Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "LaserJet Printers",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "LaserJet Printers",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Tech Data",
+        "PeriodType": "C12TM",
+        "ItemType": "LaserJet Printers",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Apple Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Creative Pros",
+        "GrossSales": 71850.07
+    },
+    {
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Creative Pros",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021050,
+        "SimilarCustomerDescription": "Tech Data",
+        "PeriodType": "C12TM",
+        "ItemType": "Creative Pros",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Executive Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "IT Services",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Anacomp",
+        "PeriodType": "C12TM",
+        "ItemType": "IT Services",
+        "GrossSales": 1092802.01
+    },
+    {   
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "DocuTech",
+        "PeriodType": "C12TM",
+        "ItemType": "IT Services",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Executive Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "Office Laser Printers",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Anacomp",
+        "PeriodType": "C12TM",
+        "ItemType": "Office Laser Printers",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "DocuTech",
+        "PeriodType": "C12TM",
+        "ItemType": "Office Laser Printers",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Executive Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "3D Printing",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "Anacomp",
+        "PeriodType": "C12TM",
+        "ItemType": "3D Printing",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 2021051,
+        "SimilarCustomerDescription": "DocuTech",
+        "PeriodType": "C12TM",
+        "ItemType": "3D Printing",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "Qualcomm",
+        "PeriodType": "C12TM",
+        "ItemType": "Cloud computing",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "ThreatMetrix",
+        "PeriodType": "C12TM",
+        "ItemType": "Cloud computing",
+        "GrossSales": 1492002.01
+    },
+    {   
+        "CustomerCode":2021052,
+        "SimilarCustomerDescription": "LexisNexis",
+        "PeriodType": "C12TM",
+        "ItemType": "Cloud computing",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "Qualcomm",
+        "PeriodType": "C12TM",
+        "ItemType": " Artificial intelligence",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "ThreatMetrix",
+        "PeriodType": "C12TM",
+        "ItemType": "Artificial intelligence",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "LexisNexis",
+        "PeriodType": "C12TM",
+        "ItemType": "Artificial intelligence",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "Qualcomm",
+        "PeriodType": "C12TM",
+        "ItemType": "Blockchain",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "ThreatMetrix",
+        "PeriodType": "C12TM",
+        "ItemType": "Blockchain",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021052,
+        "SimilarCustomerDescription": "LexisNexis",
+        "PeriodType": "C12TM",
+        "ItemType": "Blockchain",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "NeXT",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "Atlassian",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "MartianCraft",
+        "PeriodType": "C12TM",
+        "ItemType": " ANALYTICS",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "NeXT",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "Atlassian",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 98042.01
+    },
+    {   
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "MartianCraft",
+        "PeriodType": "C12TM",
+        "ItemType": "Photoshop",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "NeXT",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "Atlassian",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021053,
+        "SimilarCustomerDescription": "MartianCraft",
+        "PeriodType": "C12TM",
+        "ItemType": "services",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Amazon Prime Video",
+        "PeriodType": "C12TM",
+        "ItemType": "movies",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "HBO Now",
+        "PeriodType": "C12TM",
+        "ItemType": "movies",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Hulu",
+        "PeriodType": "C12TM",
+        "ItemType": "movies",
+        "GrossSales": 1251900.10
+    },
+    {
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Amazon Prime Video",
+        "PeriodType": "C12TM",
+        "ItemType": "TV shows",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":2021054,
+        "SimilarCustomerDescription": "HBO Now",
+        "PeriodType": "C12TM",
+        "ItemType": "TV shows",
+        "GrossSales": 90042.01
+    },
+    {   
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Hulu",
+        "PeriodType": "C12TM",
+        "ItemType": "TV shows",
+        "GrossSales": 141080.45
+    },
+    {
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Amazon Prime Video",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "HBO Now",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021054,
+        "SimilarCustomerDescription": "Hulu",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Pivotal Software",
+        "PeriodType": "C12TM",
+        "ItemType": "Customer 360",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Anaplan",
+        "PeriodType": "C12TM",
+        "ItemType": "Customer 360",
+        "GrossSales": 1192042.01
+    },
+    {   
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Abacus Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Customer 360",
+        "GrossSales": 1051900.15
+    },
+    {
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Pivotal Software",
+        "PeriodType": "C12TM",
+        "ItemType": "Analytics",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Anaplan",
+        "PeriodType": "C12TM",
+        "ItemType": "Analytics",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Abacus Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Analytics",
+        "GrossSales": 121000.45
+    },
+    {
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Pivotal Software",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 51080.01
+    },
+    {
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Anaplan",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021055,
+        "SimilarCustomerDescription": "Abacus Data Systems",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Toshiba",
+        "PeriodType": "C12TM",
+        "ItemType": "Capacitors",
+        "GrossSales": 1301090.01
+    },
+    {
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": "Capacitors",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Capacitors",
+        "GrossSales": 1201089.15
+    },
+    {
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Toshiba",
+        "PeriodType": "C12TM",
+        "ItemType": "Inductors",
+        "GrossSales": 51008.01
+    },
+    {
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": "Inductors",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Inductors",
+        "GrossSales": 150030.45
+    },
+    {
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Toshiba",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronic Materials",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 2021056,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronic Materials",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":2021056,
+        "SimilarCustomerDescription": "Nissan",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronic Materials",
+        "GrossSales": 91090.45
+    },
+{
+        "CustomerCode":2021057,
+        "SimilarCustomerDescription": "Honda",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Electronics",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Electronics",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":2021057,
+        "SimilarCustomerDescription": "Toyota",
+        "PeriodType": "C12TM",
+        "ItemType": "Consumer Electronics",
+        "GrossSales": 1051080.15
+    },
+    {
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Honda",
+        "PeriodType": "C12TM",
+        "ItemType": " Smartphones",
+        "GrossSales": 58010.08
+    },
+    {
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": " Smartphones",
+        "GrossSales": 70402.01
+    },
+    {   
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Toyota",
+        "PeriodType": "C12TM",
+        "ItemType": " Smartphones",
+        "GrossSales": 101655.15
+    },
+    {
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Honda",
+        "PeriodType": "C12TM",
+        "ItemType": "Imaging & Sensing Solutions",
+        "GrossSales": 79500.01
+    },
+    {
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Hitachi",
+        "PeriodType": "C12TM",
+        "ItemType": "Imaging & Sensing Solutions",
+        "GrossSales": 105102.00
+    },
+    {   
+        "CustomerCode": 2021057,
+        "SimilarCustomerDescription": "Toyota",
+        "PeriodType": "C12TM",
+        "ItemType": "Imaging & Sensing Solutions",
+        "GrossSales": 90070.10
+    }
+]
