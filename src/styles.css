@@ -31,10 +31,13 @@ body {
   background-size: cover;
 }
 .side-navigation {
-  background: #2f4f4f;
+  background: #FFF;
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.20);
   height: 100%;
   width: 100%;
   padding: 0px;
+  position: relative;
+  z-index: 11;
 }
 .hideSidebar {
   width: 230px !important;
@@ -59,7 +62,7 @@ body {
   font-size: 22px;
 }
 .side-menu {
-  padding: 170px 0px 0px 0px;
+  padding: 60px 0px 0px 0px;
 }
 .side-menu ul {
   margin: 0;
