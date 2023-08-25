@@ -1,5 +1,7 @@
 .cdw-logo {
-  width: 50px !important;
+  width: 50px ;
+  margin-left: 3px;
+  margin-bottom: 3px;
 }
 
 .nav-side-menu {
@@ -12,7 +14,7 @@
     top: 0px;
     width: 64px;
     height: 100%;
-    color: #e1ffff;
+    background-color: white;
 }
 .nav-side-menu .brand {
   background-color: #23282e;
@@ -72,9 +74,8 @@
 .nav-side-menu li .sub-menu li {
   background-color: #181c20;
   border: none;
-  line-height: 28px;
-  border-bottom: 1px solid #23282e;
-  margin-left: 0px;
+  line-height: 16px;
+  padding-right: 9px;
 }
 .nav-side-menu ul .sub-menu li:hover,
 .nav-side-menu li .sub-menu li:hover {
@@ -91,8 +92,7 @@
 }
 .nav-side-menu li {
   padding-left: 0px;
-  border-left: 3px solid #2e353d;
-  border-bottom: 1px solid #23282e;
+ 
 }
 .nav-side-menu li a {
   text-decoration: none;
@@ -104,13 +104,9 @@
   padding-right: 20px;
 }
 .nav-side-menu li:hover {
-  border-left: 3px solid #d19b3d;
-  background-color: #4f5b69;
-  -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  -ms-transition: all 1s ease;
-  transition: all 1s ease;
+ 
+  background-color: rgba(107, 205, 107, 0.877);
+  
 }
 @media (max-width: 767px) {
   .nav-side-menu {
@@ -146,4 +142,11 @@
 body {
   margin: 0px;
   padding: 0px;
+}
+
+.side-nav-logo{
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  margin-top: 22px;
 }

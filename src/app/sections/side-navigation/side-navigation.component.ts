@@ -3,6 +3,7 @@ import { Router } from "@angular/router";
 import { DashboardService } from "src/app/services/dashboardService";
 import { Headings } from "src/app/classesList/customer";
 import { ModalService } from "../_modal";
+import { CustomerService } from "src/app/services/customerService";
 
 @Component({
   selector: "app-side-navigation",
@@ -66,6 +67,7 @@ export class SideNavigationComponent implements OnInit {
   ];
   constructor(
     private router: Router,
+    private service: CustomerService,
     private dashboard: DashboardService,
     private modelService: ModalService
   ) {
@@ -112,4 +114,27 @@ export class SideNavigationComponent implements OnInit {
       this.dashboard.openModals("customer");
     }
   }
+
+  getDetails(){
+    console.log("Details coming soon")
+  }
+  
+  displayStyle = "none";
+  
+  openPopup() {
+    this.displayStyle = "block";
+  }
+  closePopup() {
+    this.displayStyle = "none";
+  }
+
+  openDashboard(selectvalue:any) {
+    console.log(selectvalue);
+    sessionStorage.clear();
+    this.service.setCustomerType(selectvalue);
+    sessionStorage.setItem("stackHolderName", selectvalue);
+    this.router.navigate(["/dashboard"]);
+    this.displayStyle = "none";
+  }
+
 }

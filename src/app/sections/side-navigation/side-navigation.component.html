@@ -50,61 +50,88 @@
 </div> -->
 
 <div class="side-navigation showSidebar">
-    <div class="center">
-         <div class="main-logo">
-      <a href="/"
-        ><img
-          src="assets/images/logos/AD-Favicon.png"
-          tooltip="{{ cdwTooltipName }}"
-          placement="bottom"
-          class="img-fluid cdw-logo"
-          alt="logo"
-          widht="50"
-        />
+  <div class="center">
+    <div class="main-logo">
+      <a href="/"><img src="assets/images/logos/c360-logo-favicon.png" tooltip="{{ cdwTooltipName }}" placement="bottom"
+          class="img-fluid cdw-logo" alt="logo" widht="50" />
       </a>
     </div>
-        <div class="nav-side-menu mt-5">            
-            <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
-            <div class="menu-list">
-                <ul id="menu-content" class="menu-content collapse out">
-                    <li>
-                        <a> <i class="fa fa-dashboard fa-lg"></i> Dashboard </a>
-                    </li>
-                    <li data-toggle="collapse" data-target="#products" class="collapsed active">
-                        <a><i class="fa fa-gift fa-lg"></i> UI Elements
-                            <span class="arrow"></span></a>
-                    </li>
-                    <ul class="sub-menu collapse" id="products">
-                        <li ><a>CSS3 Animation</a></li>
-                        <li><a>General</a></li>
-                        <li><a>Buttons</a></li>
-                        
-                    </ul>
-                    <li data-toggle="collapse" data-target="#service" class="collapsed">
-                        <a><i class="fa fa-globe fa-lg"></i> Services
-                            <span class="arrow"></span></a>
-                    </li>
-                    <ul class="sub-menu collapse" id="service">
-                        <li>New Service 1</li>
-                        <li>New Service 2</li>
-                        <li>New Service 3</li>
-                    </ul>
-                    <li data-toggle="collapse" data-target="#new" class="collapsed">
-                        <a><i class="fa fa-car fa-lg"></i> New <span class="arrow"></span></a>
-                    </li>
-                    <ul class="sub-menu collapse" id="new">
-                        <li>New New 1</li>
-                        <li>New New 2</li>
-                        <li>New New 3</li>
-                    </ul>
-                    <li>
-                        <a> <i class="fa fa-user fa-lg"></i> Profile </a>
-                    </li>
-                    <li>
-                        <a> <i class="fa fa-users fa-lg"></i> Users </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+    <div class="nav-side-menu mt-5">
+      <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+      <div class="menu-list">
+        <ul id="menu-content" class="menu-content collapse out">
+
+          <li>
+            <a type="button" (click)="getDetails()">
+              <img class="side-nav-logo" src="assets/images/leftnav-home-idle.png">
+            </a>
+          </li>
+
+          <li data-toggle="collapse" data-target="#products" class="collapsed">
+            <a>
+              <img class="side-nav-logo" src="assets/images/leftnav-features-idle.png">
+              <i style="font-size:12px" class="fa" style="color: black;">&#xf107;</i>
+            </a>
+          </li>
+          <ul class="sub-menu collapse" id="products">
+            <li><a>News</a></li>
+            <li><a>Insights</a></li>
+            <li><a>Compare..</a></li>
+            <li><a>Events</a></li>
+          </ul>
+          <li>
+            <a type="button" (click)="getDetails()">
+              <img class="side-nav-logo" src="assets/images/leftnav-analytics-idle.png">
+            </a>
+          </li>
+          <li>
+            <a type="button" (click)="openPopup()">
+              <img class="side-nav-logo" src="assets/images/leftnav-settings-idle.png">
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
+  </div>
+</div>
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Modify business types</h4>
+        <button type="button" class="btn btn-danger" (click)="closePopup()">
+          <span>close</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Based on the selected business type view will be changed ....</p>
+      </div>
+      <div>
+        <span><strong>Select busines type</strong></span>
+        <form class="w-70 d-flex flex-column justify-content-center align-items-center"
+          (ngSubmit)="openDashboard(selectedValue.value)">
+          <select class="form-select form-control w-100 me-2 shadow-sm" aria-label="Select Industry" #selectedValue>
+            <option selected class="text-secomdary">
+              Select Industry
+            </option>
+            <option value="corporate">Corporate</option>
+            <option value="smallbusiness">Small Business</option>
+            <option value="healthcare">Health Care</option>
+            <option value="food-beverages">Food & Beverages</option>
+            <option value="retail">Retail</option>
+            <option value="insurance">Insurance</option>
+            <option value="technology">Technology</option>
+            <option value="petroleum">Petroleum</option>
+            <option value="transportation">Transportation</option>
+            <option value="automotive">Automotive</option>
+          </select>
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+        </form>
+      </div>
+      
+
+    </div>
+  </div>
 </div>
