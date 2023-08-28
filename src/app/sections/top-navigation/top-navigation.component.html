@@ -130,6 +130,7 @@
         class="nav-item btn-group main-top-dropdown"
         dropdown
         placement="bottom right"
+        ngbDropdown
       >
         <a
           class="nav-link pr-0"
@@ -137,8 +138,13 @@
           placement="bottom"
           aria-controls="dropdown-alignment"
         >
-          <img class="img-icon" src="assets/images/icons/profile.png" />
+        <img ngbDropdownToggle class="img-icon" src="assets/images/icons/profile.png" />
         </a>
+        <ul ngbDropdownMenu >
+          <li ngbDropdownItem style="padding:0px;">
+            <a type="button" (click)="gotoHome()" style="font-size: 13px;">Logout</a>
+          </li>
+        </ul>
         <ul
           id="dropdown-alignment"
           toggledropdown
@@ -181,3 +187,4 @@
     </ul>
   </nav>
 </div>
+

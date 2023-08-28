@@ -33,7 +33,7 @@
     "posted_on_trust_code": "",
     "url": "https://wnep.com/2019/12/23/chewy-com-bringing-hundreds-of-jobs-to-lackawanna-county/",
     "created_at": "10:22 am 12/23/20",
-    "Logo_Name": ""
+    "Logo_Name": "chewy-news.jpg"
   },
   {
     "customer_name": "Alaska Airlines",
@@ -57,7 +57,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.usatoday.com/story/travel/airline-news/2019/12/23/alaska-airlines-passenger-bags-left-behind-long-tarmac-delays/2732066001/",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "alaska-news.jpg"
   },
   {
     "customer_name": "Astellas Pharma",
@@ -81,7 +81,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.nasdaq.com/articles/astellas-pharma-inc.-alpmy-a-stock-flying-under-the-radar-2019-12-19",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "astellas-news.jpg"
   },
   {
     "customer_name": "Mohawk Industries",
@@ -93,7 +93,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.businesswire.com/news/home/20200108005872/en/Shareholder-Alert-Robbins-LLP-Announces-Mohawk-Industries",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "mohawk-news.jpg"
   },
   {
     "customer_name": "Mohawk Industries",
@@ -129,7 +129,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.forbes.com/sites/greatspeculations/2020/01/06/how-does-zyngas-revenue-and-other-key-metrics-compare-with-that-of-electronic-arts/#33c081222d05",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "zynga-news.jpg"
   },
   {
     "customer_name": "Under Armour",
@@ -141,7 +141,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.fool.com/investing/2020/01/06/why-under-armor-stock-sank-7-today.aspx",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "underarmour-news.jpg"
   },
   {
     "customer_name": "Under Armour",
@@ -165,8 +165,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.fool.com/investing/2020/01/03/4-reasons-under-armour-will-head-lower-in-2020.aspx",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "underarmour-news.jpg"
   },
+  
   {
     "customer_name": "Dick's Sporting Goods",
     "customer_code": 3937040,
@@ -189,7 +190,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.wfsb.com/news/dick-s-sporting-goods-in-plainville-closes-its-doors/article_9bf3a62c-3266-11ea-8844-2be2590e2ece.html",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "dicks-news.jpg"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -201,7 +202,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.bizjournals.com/dallas/news/2019/12/16/ashley-furniture-grand-prairie.html",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "ashley-news.jpg"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -213,7 +214,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.furnituretoday.com/community-news/ashley-furniture-hosts-wreath-laying-ceremony-for-veterans/",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "ashley-news.jpg"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -225,7 +226,7 @@
     "posted_on_trust_code": "",
     "url": "https://wxow.com/2019/12/11/ashley-furniture-founder-to-receive-horatio-alger-award/",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "ashley-news.jpg"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -237,7 +238,7 @@
     "posted_on_trust_code": "",
     "url": "https://reportspioneer.com/wooden-furniture-market-increasing-demand-with-industry-professionals-ikea-ashley-furniture-industries-nitori-yihua-timber/73088/",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "ashley-news.jpg"
   },
   {
     "customer_name": "Aflac",
@@ -249,7 +250,7 @@
     "posted_on_trust_code": "",
     "url": "https://www.prnewswire.com/news-releases/aflac-global-investments-announces-strategic-partnership-with-varagon-capital-partners-lp-300983142.html",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "aflac-news.jpg"
   },
   {
     "customer_name": "Aflac",
@@ -261,6 +262,6 @@
     "posted_on_trust_code": "",
     "url": "https://www.zacks.com/stock/news/710060/why-aflac-afl-is-poised-to-beat-earnings-estimates-again",
     "created_at": "",
-    "Logo_Name": ""
+    "Logo_Name": "aflac-news.jpg"
   }
 ]

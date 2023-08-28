@@ -272,6 +272,13 @@ export class TopNavigationComponent implements OnInit {
       this.service.sendGroupName(this.selectedGroup);
     }
   }
+
+  
+  
+ 
+  gotoHome(){
+    this.router.navigateByUrl('/');
+  }
 }
 
 export interface Searchcustomers {
