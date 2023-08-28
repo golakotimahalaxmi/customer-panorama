@@ -17,6 +17,9 @@ export class SideNavigationComponent implements OnInit {
 
   setting_icon: boolean = true;
   home_icon: boolean = true;
+  analytics_icon:boolean=true;
+  features_icon:boolean=true;
+
   @Output() openDirectWidget: EventEmitter<string> = new EventEmitter<string>();
 
   sideNavitems = [
@@ -121,7 +124,8 @@ export class SideNavigationComponent implements OnInit {
   getDetails() {
     this.setting_icon = true;
     this.home_icon = true;
-    console.log("Details coming soon")
+    this.analytics_icon = true;
+    this.features_icon = true;
   }
   
   displayStyle = "none";
@@ -136,8 +140,23 @@ export class SideNavigationComponent implements OnInit {
   openDashboard(selectvalue: any) {
     this.setting_icon = false;
     this.home_icon = false;
+    this.analytics_icon = true;
+    this.features_icon = true;
    this.openDirectWidget.emit(selectvalue)
    this.displayStyle = "none";
+  }
+
+  getanalytics(){
+    this.analytics_icon = false;
+    this.home_icon = false;
+    this.setting_icon= true;
+    this.features_icon =true;
+  }
+  getfeatures(){
+    this.features_icon=false;
+    this.analytics_icon = true;
+    this.home_icon = false;
+    this.setting_icon= true;
   }
 
 }

@@ -69,9 +69,9 @@
           </li>
 
           <li data-toggle="collapse" data-target="#products" class="collapsed">
-            <a>
-              <img   class="side-nav-logo" src="assets/images/leftnav-features-idle.png">
-             
+            <a type="button" (click)="getfeatures()">
+              <img  *ngIf="features_icon" class="side-nav-logo" src="assets/images/leftnav-features-idle.png">
+              <img   *ngIf="!features_icon" class="side-nav-logo" src="assets/images/leftnav-features-selected.png">
               <i style="font-size:12px" class="fa" style="color: black;">&#xf107;</i>
             </a>
           </li>
@@ -82,8 +82,9 @@
             <li><a>Events</a></li>
           </ul>
           <li>
-            <a type="button" (click)="getDetails()">
-              <img class="side-nav-logo" src="assets/images/leftnav-analytics-idle.png">
+            <a type="button" (click)="getanalytics()">
+              <img *ngIf="analytics_icon" class="side-nav-logo" src="assets/images/leftnav-analytics-idle.png">
+              <img *ngIf="!analytics_icon"  class="side-nav-logo" src="assets/images/leftnav-analytics-selected.png">
             </a>
           </li>
           <li>
@@ -97,20 +98,19 @@
     </div>
   </div>
 </div>
-<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}">
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}" style="position: absolute; top:2rem">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <h4 class="modal-title">Modify business types</h4>
-        <button type="button" class="btn btn-danger" (click)="closePopup()">
-          <span>close</span>
+        <button type="button" class="close" (click)="closePopup()">&times;
         </button>
       </div>
       <div class="modal-body">
-        <p>Based on the selected business type view will be changed ....</p>
+        <p>Based on the selected business type view will be changed and respective widgets will be updated with their relavent data</p>
       </div>
       <div>
-        <span><strong>Select busines type</strong></span>
+        <span style="padding-left: 14px;"><strong>Select busines type</strong></span>
         <form class="w-70 d-flex flex-column justify-content-center align-items-center"
           (ngSubmit)="openDashboard(selectedValue.value)">
           <select class="form-select form-control w-100 me-2 shadow-sm" aria-label="Select Industry" #selectedValue>
@@ -128,7 +128,7 @@
             <option value="transportation">Transportation</option>
             <option value="automotive">Automotive</option>
           </select>
-          <div class="modal-footer">
+          <div class="modal-footer d-flex justify-content-start" style="width: 100%;">
             <button type="submit" class="btn btn-primary">Submit</button>
           </div>
         </form>

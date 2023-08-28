@@ -21,10 +21,10 @@ export class DashboardComponent implements OnInit {
     private dashboardService: DashboardService,
     private service: CustomerService
   ) {
-   
+
   }
 
-  onDrop(event: CdkDragDrop<string[]>) {    
+  onDrop(event: CdkDragDrop<string[]>) {
     moveItemInArray(
       this.widgetPositions,
       event.previousIndex,
@@ -32,15 +32,17 @@ export class DashboardComponent implements OnInit {
     );
   }
 
-  ngOnInit() {   
+  ngOnInit() {
     this.getSelectedDashboard(this.service.customerType)
   }
 
-  getSelectedDashboard(widgetName: any) { 
-    console.log(widgetName)
-     this.service.setCustomerType(widgetName);
+  getSelectedDashboard(widgetName: any) {
+  
+    this.service.setCustomerType(widgetName);
     this.dashboardService.pageName = "dashboard";
     this.service.customerType = widgetName;
+    this.widgetPositions = [];
+    this.dashboardService.widgetPositions=[];
     if (this.service.customerType === "healthcare") {
       this.stackHolderName = "healthcare";
       this.dashboardService.widgetPositions =
@@ -56,11 +58,6 @@ export class DashboardComponent implements OnInit {
       this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "petroleum") {
-      this.stackHolderName = "petroleum";
-      this.dashboardService.widgetPositions =
-        this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
     } else if (this.service.customerType === "retail") {
       this.stackHolderName = "retail";
       this.dashboardService.widgetPositions =
@@ -71,8 +68,8 @@ export class DashboardComponent implements OnInit {
       this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "food") {
-      this.stackHolderName = "food";
+    } else if (this.service.customerType === "food-beverages") {
+      this.stackHolderName = "food-beverages";
       this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
@@ -85,14 +82,18 @@ export class DashboardComponent implements OnInit {
       this.stackHolderName = "petroleum";
       this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else {
+      this.widgetPositions = this.dashboardService.widgetPositions;}
+    else if (this.service.customerType === "technology") { 
+      this.stackHolderName = "technology";
+       this.dashboardService.widgetPositions = this.dashboardService.corporate_Widget; 
+       this.widgetPositions = this.dashboardService.widgetPositions; }
+    else {
       this.stackHolderName = "corporate";
       this.dashboardService.widgetPositions =
         this.dashboardService.small_biz_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
     }
-     this.getAllHedings();
+    this.getAllHedings();
   }
 
 

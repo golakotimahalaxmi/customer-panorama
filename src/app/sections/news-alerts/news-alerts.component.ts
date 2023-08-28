@@ -39,7 +39,6 @@ export class NewsAlertsComponent implements OnInit {
     return false;
   }
   ngOnInit() {
-    console.log('ngoninit')
      this.allHeadings = new Headings();
     this.getAllHedings();
     this.startDate.setDate(this.startDate.getDate() - 2);

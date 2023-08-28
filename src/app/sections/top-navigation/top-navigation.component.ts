@@ -277,6 +277,7 @@ export class TopNavigationComponent implements OnInit {
   
  
   gotoHome(){
+    sessionStorage.clear();
     this.router.navigateByUrl('/');
   }
 }
