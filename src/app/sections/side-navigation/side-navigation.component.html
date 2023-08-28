@@ -63,13 +63,15 @@
 
           <li>
             <a type="button" (click)="getDetails()">
-              <img class="side-nav-logo" src="assets/images/leftnav-home-idle.png">
+              <img *ngIf="!home_icon" class="side-nav-logo" src="assets/images/leftnav-home-idle.png">
+              <img *ngIf="home_icon" class="side-nav-logo" src="assets/images/leftnav-home-selected.png">
             </a>
           </li>
 
           <li data-toggle="collapse" data-target="#products" class="collapsed">
             <a>
-              <img class="side-nav-logo" src="assets/images/leftnav-features-idle.png">
+              <img   class="side-nav-logo" src="assets/images/leftnav-features-idle.png">
+             
               <i style="font-size:12px" class="fa" style="color: black;">&#xf107;</i>
             </a>
           </li>
@@ -86,7 +88,8 @@
           </li>
           <li>
             <a type="button" (click)="openPopup()">
-              <img class="side-nav-logo" src="assets/images/leftnav-settings-idle.png">
+              <img *ngIf="setting_icon" class="side-nav-logo" src="assets/images/leftnav-settings-idle.png">
+                <img *ngIf="!setting_icon" class="side-nav-logo" src="assets/images/leftnav-settings-selected.png">
             </a>
           </li>
         </ul>

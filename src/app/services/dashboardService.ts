@@ -29,7 +29,6 @@ export class DashboardService {
   constructor(private http: HttpClient) {}
 
   getAllheadings() {
-    console.log(this.widgetPositions);
     return this.http.get("assets/data/data_en.json");
   }
   subscribeAllheadings(heading: any) {

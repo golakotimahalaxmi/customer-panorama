@@ -308,11 +308,11 @@ export class CustomerService {
   }
 
   setCustomerType(business: string) {
-    if (business === "corporate") {
-      this.customerType = "dan";
-    } else {
-      this.customerType = "ryan";
-    }
+    // if (business === "corporate") {
+    //   this.customerType = "dan";
+    // } else {
+    //   this.customerType = "ryan";
+    // }
     this.customerType = business;
   }
 

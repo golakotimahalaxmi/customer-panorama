@@ -14,6 +14,9 @@ export class SideNavigationComponent implements OnInit {
   link_highlight = 0;
   headings: any = {};
   cdwTooltipName: string;
+
+  setting_icon: boolean = true;
+  home_icon: boolean = true;
   @Output() openDirectWidget: EventEmitter<string> = new EventEmitter<string>();
 
   sideNavitems = [
@@ -115,7 +118,9 @@ export class SideNavigationComponent implements OnInit {
     }
   }
 
-  getDetails(){
+  getDetails() {
+    this.setting_icon = true;
+    this.home_icon = true;
     console.log("Details coming soon")
   }
   
@@ -128,13 +133,11 @@ export class SideNavigationComponent implements OnInit {
     this.displayStyle = "none";
   }
 
-  openDashboard(selectvalue:any) {
-    console.log(selectvalue);
-    sessionStorage.clear();
-    this.service.setCustomerType(selectvalue);
-    sessionStorage.setItem("stackHolderName", selectvalue);
-    this.router.navigate(["/dashboard"]);
-    this.displayStyle = "none";
+  openDashboard(selectvalue: any) {
+    this.setting_icon = false;
+    this.home_icon = false;
+   this.openDirectWidget.emit(selectvalue)
+   this.displayStyle = "none";
   }
 
 }
