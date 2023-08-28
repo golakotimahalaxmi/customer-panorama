@@ -38,7 +38,13 @@ export class NewsAlertsComponent implements OnInit {
     }
     return false;
   }
-  ngOnInit() {}
+  ngOnInit() {
+    console.log('ngoninit')
+     this.allHeadings = new Headings();
+    this.getAllHedings();
+    this.startDate.setDate(this.startDate.getDate() - 2);
+    this.getNewsAlerts();
+  }
 
   // method for getAllHeadings
   getAllHedings() {
@@ -61,12 +67,28 @@ export class NewsAlertsComponent implements OnInit {
   }
 
   // method for getting the customer news alerts from services
-  getNewsAlerts() {
-    let alertsData = sessionStorage.getItem('newsAlerts');
-    if(alertsData != null) {
-      this.newsAlerts = JSON.parse(alertsData);
-    } else {
-      this.service.getAllCustomernewsalerts().subscribe(newsAlerts => {
+  getNewsAlerts() { 
+    this.newsAlerts = [];
+    // let alertsData = sessionStorage.getItem('newsAlerts');
+    // if(alertsData != null) {
+    //   this.newsAlerts = JSON.parse(alertsData);
+    // } else {
+    //   this.service.getAllCustomernewsalerts().subscribe(newsAlerts => {
+    //     newsAlerts.forEach(alert => {        
+    //       let publishedDateFormat =  this.datePipe.transform(this.randomDate(this.startDate,this.endDate),"hh:mm a");
+    //       let time  = publishedDateFormat.split(" ",3);
+    //       alert.posted_date = time[0]+" "+time[1];
+    //       let dte = new Date();
+    //       alert.posted_on = this.datePipe.transform(dte.setDate(dte.getDate() + alert.posted_on),"MM/dd/yy");
+    //       let source  = alert.url.split("/",3);
+    //       alert.source = source[0]+'//'+source[1]+source[2];
+    //       alert.posted_on_trust_code = publishedDateFormat+" "+alert.posted_on
+    //     })
+    //     sessionStorage.setItem('newsAlerts', JSON.stringify(newsAlerts));
+    //     this.newsAlerts = newsAlerts;
+    //   })
+    // }
+       this.service.getAllCustomernewsalerts().subscribe(newsAlerts => {
         newsAlerts.forEach(alert => {        
           let publishedDateFormat =  this.datePipe.transform(this.randomDate(this.startDate,this.endDate),"hh:mm a");
           let time  = publishedDateFormat.split(" ",3);
@@ -80,7 +102,6 @@ export class NewsAlertsComponent implements OnInit {
         sessionStorage.setItem('newsAlerts', JSON.stringify(newsAlerts));
         this.newsAlerts = newsAlerts;
       })
-    }
   }
 
   // method used for open the widget into modal popup to show entire data.

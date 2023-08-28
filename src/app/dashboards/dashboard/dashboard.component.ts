@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild } from "@angular/core";
+import { AfterContentChecked, AfterContentInit, AfterViewChecked, AfterViewInit, Component, OnChanges, OnInit, ViewChild } from "@angular/core";
 import { CustomerService } from "src/app/services/customerService";
 import { CdkDragDrop, moveItemInArray } from "@angular/cdk/drag-drop";
 import { DashboardService } from "src/app/services/dashboardService";
@@ -21,8 +21,26 @@ export class DashboardComponent implements OnInit {
     private dashboardService: DashboardService,
     private service: CustomerService
   ) {
+   
+  }
+
+  onDrop(event: CdkDragDrop<string[]>) {    
+    moveItemInArray(
+      this.widgetPositions,
+      event.previousIndex,
+      event.currentIndex
+    );
+  }
+
+  ngOnInit() {   
+    this.getSelectedDashboard(this.service.customerType)
+  }
+
+  getSelectedDashboard(widgetName: any) { 
+    console.log(widgetName)
+     this.service.setCustomerType(widgetName);
     this.dashboardService.pageName = "dashboard";
-    console.log(this.service.customerType);
+    this.service.customerType = widgetName;
     if (this.service.customerType === "healthcare") {
       this.stackHolderName = "healthcare";
       this.dashboardService.widgetPositions =
@@ -74,21 +92,9 @@ export class DashboardComponent implements OnInit {
         this.dashboardService.small_biz_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
     }
+     this.getAllHedings();
   }
 
-  onDrop(event: CdkDragDrop<string[]>) {
-    console.log(event.previousIndex);
-    console.log(event.currentIndex);
-    moveItemInArray(
-      this.widgetPositions,
-      event.previousIndex,
-      event.currentIndex
-    );
-  }
-
-  ngOnInit() {
-    this.getAllHedings();
-  }
 
   getAllHedings() {
     this.dashboardService.getAllheadings().subscribe((headings) => {
