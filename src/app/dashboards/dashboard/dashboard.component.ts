@@ -76,7 +76,7 @@ export class DashboardComponent implements OnInit {
     } else if (this.service.customerType === "transportation") {
       this.stackHolderName = "transportation";
       this.dashboardService.widgetPositions =
-        this.dashboardService.corporate_Widget;
+        this.dashboardService.transportation_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
     } else if (this.service.customerType === "petroleum") {
       this.stackHolderName = "petroleum";
@@ -90,7 +90,7 @@ export class DashboardComponent implements OnInit {
     else {
       this.stackHolderName = "corporate";
       this.dashboardService.widgetPositions =
-        this.dashboardService.small_biz_Widget;
+        this.dashboardService.corporate_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
     }
     this.getAllHedings();

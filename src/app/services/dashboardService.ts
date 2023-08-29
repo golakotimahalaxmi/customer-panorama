@@ -23,7 +23,13 @@ export class DashboardService {
   small_business_Widget: widget[] = [
     { name: "newsalerts", isFull: false, size: 1, widget2: "funding" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
-    { name: "customerEvents", isFull: false, size: 1, widget2: "insights" },
+    { name: "customerEvents", isFull: true, size: 1, widget2: "" },
+  ];
+  
+  transportation_Widget: widget[] = [
+    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
+    { name: "customerMenu", isFull: true, size: 1, widget2: "" },
+    { name: "customerEvents", isFull: true, size: 1, widget2: "" },
   ];
 
   constructor(private http: HttpClient) {}

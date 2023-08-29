@@ -203,7 +203,7 @@ export class CustomerService {
     if (stackHolder != null) {
       this.setCustomerType(stackHolder);
     } else {
-      this.setCustomerType("corporate");
+      this.setCustomerType(this.customerType);
     }
   }
 
@@ -307,12 +307,7 @@ export class CustomerService {
     this.selectedGroupofCustomer = variable;
   }
 
-  setCustomerType(business: string) {
-    // if (business === "corporate") {
-    //   this.customerType = "dan";
-    // } else {
-    //   this.customerType = "ryan";
-    // }
+  setCustomerType(business: string) {   
     this.customerType = business;
   }
 

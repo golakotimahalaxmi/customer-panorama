@@ -11,13 +11,13 @@
     color: #8C8C8C;
     font-family: Poppins-Regular;
     font-size: 11px;
-    font-style: normal;
-   
+    font-style: normal;   
     line-height: normal;
+    margin-top: 1rem;
   }
 
   .alertData p {
-    margin-bottom: 0rem !important;
+    margin-bottom: 0.5rem !important;
    }
 
    .eventTime {
@@ -55,9 +55,9 @@
     font-weight: bold;
     overflow: hidden;
     text-overflow: ellipsis; */
-    display: -webkit-box;
-    -webkit-line-clamp: 2; /* number of lines to show */
-    -webkit-box-orient: vertical;
+    /* display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show 
+    -webkit-box-orient: vertical; */
     color: #000;
     font-family: Poppins-SemiBold;
     font-size: 12px;

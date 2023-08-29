@@ -808,7 +808,7 @@ tabset tab heading {
   display: flex;
   flex-wrap: wrap;
   padding: 5px 5px 5px 12px;
-  line-height: 1;
+  line-height: 1.5;
   box-shadow: 0px 2px 3px 0px #00000033;
   vertical-align: middle !important;
 }
