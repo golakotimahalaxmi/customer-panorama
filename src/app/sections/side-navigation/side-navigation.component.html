@@ -113,7 +113,8 @@
         <span style="padding-left: 14px;"><strong>Select busines type</strong></span>
         <form class="w-70 d-flex flex-column justify-content-center align-items-center"
           (ngSubmit)="openDashboard(selectedValue.value)">
-          <select class="form-select form-control w-100 me-2 shadow-sm" aria-label="Select Industry" #selectedValue>
+          <select class="form-select form-control w-100 me-2 shadow-sm pl-2" aria-label="Select Industry" #selectedValue style="width: 95% !important;">
+            <option selected class="text-secomdary">>
             <option selected class="text-secomdary">
               Select Industry
             </option>

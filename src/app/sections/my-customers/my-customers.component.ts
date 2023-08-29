@@ -42,7 +42,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
     private modalService: ModalService,
     public service: CustomerService,
     private router: Router
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.getAllHedings();
@@ -114,6 +114,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
   // method for fecthing customersListData from services
   getCustomersData() {
     let customerData = sessionStorage.getItem("customersDetails");
+    this.getMonth()
     if (customerData != null) {
       this.viewCustomersList = JSON.parse(customerData);
       this.service.saveCustomerDetails(this.viewCustomersList);
@@ -273,4 +274,10 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
       this.unSubscribe.unsubscribe();
     }
   }
+  month: any; 
+  getMonth() { 
+  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"]; 
+  this.month = new Date(); 
+  this.month = months[this.month.getMonth()]; 
+}
 }

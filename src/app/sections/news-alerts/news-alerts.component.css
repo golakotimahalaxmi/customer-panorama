@@ -4,10 +4,16 @@
 }
 
 .companyName {
-    color: #00000077;
+    /* color: #00000077; */
     /*text-transform: capitalize;*/
-    font-size: 12px;
-    font-family: 'Prelo-Book', sans-serif;
+    /* font-size: 12px;
+    font-family: 'Prelo-Book', sans-serif; */
+    color: #8C8C8C;
+    font-family: Poppins-Regular;
+    font-size: 11px;
+    font-style: normal;
+   
+    line-height: normal;
   }
 
   .alertData p {
@@ -15,33 +21,49 @@
    }
 
    .eventTime {
-    color: black;
+    /* color: black;
     text-transform: capitalize;
     font-size: 10px!important;
     font-family: 'Prelo-Bold', sans-serif;
     font-weight: bold;
     text-transform: lowercase;
-    line-height: 1!important;
+    line-height: 1!important; */
+    color: #8C8C8C;
+    font-family: Poppins-Regular;
+    font-size: 11px;
+    font-style: normal;
+    line-height: normal;
   }
 
    .eventDate {
     text-transform: capitalize;
-    font-size: 34px!important;
+    /* font-size: 34px!important;
     color: black;
     font-family: 'ff-good-headline-web-pro-ext', sans-serif;
     font-weight: bold;
-    line-height: 1!important;
+    line-height: 1!important; */
+    color: #8C8C8C;
+    font-family: Poppins-Regular;
+    font-size: 11px;
+    font-style: normal;
+    line-height: normal;
   }
   .companyTitle {
     /*text-transform: capitalize;*/
-    font-size: 14px;
+    /* font-size: 14px;
     font-family: 'Prelo-SemiBold', sans-serif;
     font-weight: bold;
     overflow: hidden;
-    text-overflow: ellipsis;
+    text-overflow: ellipsis; */
     display: -webkit-box;
     -webkit-line-clamp: 2; /* number of lines to show */
     -webkit-box-orient: vertical;
+    color: #000;
+    font-family: Poppins-SemiBold;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
   }
 
   .font-black{

@@ -126,6 +126,7 @@ export class SideNavigationComponent implements OnInit {
     this.home_icon = true;
     this.analytics_icon = true;
     this.features_icon = true;
+    this.router.navigate(["/dashboard"]);
   }
   
   displayStyle = "none";

@@ -1,4 +1,4 @@
-<div class="card" [ngClass]="{'half-card' : !isFull,'': isFull}">
+<div class="card news" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row"><!--(dblclick)="openModal()"-->
         <div class="col-lg-6 col-md-8 col-sm-8 col-6 cursorStyle">
             <div class="card-header" tooltip="{{allHeadings.tip_home_news_widget_title}}" placement="bottom">
@@ -21,7 +21,7 @@
                 <div class="col-md-7 alertData">
                     <p class="companyName-field">{{alert.customer_name}}</p>
                     <p class="companyTitle"><a class="font-black" target="_blank" [href]="alert.url">{{alert.title}}</a></p>
-                    <p class="companyName">Source: <a class="companyName" target="_blank" [href]="alert.url">{{alert.source}}</a></p>
+                    <p class="companyName"><span class="source">Source:</span><a class="companyName" target="_blank" [href]="alert.url">{{alert.source}}</a></p>
                 </div>
                 <div class="col-md-3 eventDate">
                     <p class="eventTime mt-2 mb-0">{{alert.posted_date}}</p><p>{{alert.posted_on}}</p>

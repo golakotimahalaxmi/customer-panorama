@@ -1,4 +1,4 @@
-<div class="card" [ngClass]="{'half-card' : !isFull,'': isFull}">
+<div class="card companies" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row row-header" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
             <div class="card-header" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
@@ -18,19 +18,19 @@
                     <table>
                         <tbody>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-55" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">YTD:</td>
+                                <td class="ytd-styling tab-content-text width-55" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">CY Sales:</td>
                                 <td class="color-grey text-left numbers-text width-60 pr-3">${{customer.customerC12}}</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">YoY Change:</td>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">Growth %:</td>
                                 <td class="color-darkblue text-left numbers-text width-60 pr-3">{{customer.yoy != '' ? (customer.yoy) : 0}}%</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Margin(%):</td>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Profit %:</td>
                                 <td class="color-yellow text-left numbers-text width-60 pr-3">{{customer.margin != '' ? (customer.margin) : 0}}%</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg. Monthly Spend:</td>
+                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg.Sales:</td>
                                 <td class="color-Green text-left numbers-text width-60 pr-3">${{customer.avgspend}}</td>
                             </tr>
                         </tbody>
@@ -43,9 +43,9 @@
                     <table class="progress-top-mtd width-100">
                         <tr>
                             <td tooltip="{{allHeadings.tip_mtd}}" placement="bottom" class="text-left width-50">
-                                <span class="width-10">MTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.actuals_last)}}</span>
+                                <span class="width-10 fs-12 fw-5 font-fam" >{{month}}:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.actuals_last)}}</span>
                             </td>
-                            <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100">
+                            <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100 goal">
                                 Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customer.goals_last)}}</span>
                             </td>
                         </tr>                        
@@ -62,10 +62,10 @@
 
                     <table class="progress-top" style="width:100%">
                         <tr>
-                            <td tooltip="{{allHeadings.tip_ytd}}" placement="bottom" class="text-left width-50">
-                                <span class="width-10">YTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.sales_actuals)}}</span>
+                            <td tooltip="{{allHeadings.tip_ytd}}" placement="bottom" class="text-left width-50 goal">
+                                <span class="width-10">Sales:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customer.sales_actuals)}}</span>
                             </td>
-                            <td tooltip="{{allHeadings.tip_goal_year}}" placement="bottom" class="text-right width-100">
+                            <td tooltip="{{allHeadings.tip_goal_year}}" placement="bottom" class="text-right width-100 goal">
                                 Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customer.sales_goals)}}</span>
                             </td>
                         </tr>
@@ -324,7 +324,7 @@
                                 <td tooltip="{{allHeadings.tip_mtd}}" placement="bottom" class="text-left width-100">
                                     <span class="width-10 tab-content-text color-grey">MTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.actuals_last)}}</span>
                                 </td>
-                                <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
+                                <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100 tab-content-text color-grey goal">
                                     Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.goals_last)}}</span>
                                 </td>
                             </tr>                        
