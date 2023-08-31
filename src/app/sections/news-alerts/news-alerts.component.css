@@ -1,8 +1,11 @@
 .alertImage img {
     width: 50px;
-    margin: 5px;
+ 
+    /* margin-top: 3.5rem; */
 }
-
+.alertImage{
+  margin: auto;
+}
 .companyName {
     /* color: #00000077; */
     /*text-transform: capitalize;*/
@@ -64,6 +67,10 @@
     font-style: normal;
     font-weight: 600;
     line-height: 14px;
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
   }
 
   .font-black{
