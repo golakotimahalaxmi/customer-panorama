@@ -1,0 +1,144 @@
+[
+    {
+      "customer_name": "Aflac",
+      "customer_code": 2496148,
+      "title": "Adobe licence is going to be expired.",
+      "posted_on": -1,
+      "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Aflac",
+        "customer_code": 2496148,
+        "title": "Aflac is Interested to Purchase Rackspace Cloud for Application Hosting.",
+        "posted_on": 0,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Aflac Incorporated is running and its propensity to invest more and deepen its relationship with Rackspace Technology."
+    },
+    {
+        "customer_name": "Aflac",
+        "customer_code": 2496148,
+        "title": "Aflac is Interested to Purchase Unily Employee Experience.",
+        "posted_on": -1,
+        "description": "Aflac Incorporated is running and its propensity to invest more and deepen its relationship with Unily or identify new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."
+    },{
+      "customer_name": "Ace Hardware",
+      "customer_code": 2021002,
+      "title": "Ace Hardware is Interested to Purchase Kronos Workforce Central for Workforce Management.",
+      "posted_on": 0,
+      "description": "Ace Hardware Corporation is running and its propensity to invest more and deepen its relationship with  Kronos as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."},
+    
+    { "customer_name": "Ace Hardware",
+        "customer_code": 2021002,
+        "title": "ELB licence is going to be expired.",
+        "posted_on": 0,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."},
+    {
+        "customer_name": "Ace Hardware",
+        "customer_code": 2021002,
+        "title": "Ace Hardware is Interested to Purchase  Akamai CDN for Content Delivery Network.",
+        "posted_on": 0,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Ace Hardware Corporation is running and its propensity to invest more and deepen its relationship with Akamai. "},
+    
+    { "customer_name": "Starbucks",
+      "customer_code": 2021001,
+      "title": "Starbucks is Interested to Purchase PayPal Enterprise for Payment Processing.",
+      "posted_on": -1,
+      "description": "Starbucks Corporation is running and its propensity to invest more and deepen its relationship with PayPal ."
+    },
+    {
+        "customer_name": "Starbucks",
+        "customer_code": 2021001,
+        "title": "Starbucks is Interested to Purchase PayPal Enterprise for Fastly.",
+        "posted_on": -1,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Starbucks Corporation is running and its propensity to invest more and deepen its relationship with  Fastly."
+    },
+    {
+        "customer_name": "Starbucks",
+        "customer_code": 2021001,
+        "title": "Salesforce Sales Cloud licence is going to be expired.",
+        "posted_on": -1,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+   
+{     "customer_name": "Meijer",
+      "customer_code": 2021003,
+      "title": "Meijer is Interested to Purchase Workday Performance Management.",
+      "posted_on": -1,
+      "description": "Meijer Inc. is running and its propensity to invest more and deepen its relationship with Workday identify new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Meijer",
+        "customer_code": 2021003,
+        "title": "Salesforce Sales Cloud licence is going to be expired.",
+        "posted_on": -1,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Meijer",
+        "customer_code": 2021003,
+        "title": "Meijer is Interested to Purchase DocuSign eSignature for Digital Signing.",
+        "posted_on": 0,
+        "description": "Database provides customer insight and contextual information on which enterprise applications and software systems Meijer Inc. is running and its propensity to invest more and deepen its relationship with DocuSign."
+    },
+{
+      "customer_name": "Amazon",
+      "customer_code": 2021007,
+      "title": "Amazon is Interested to Purchase Malwarebytes 4.0 software.",
+      "posted_on": 0,
+      "description": "Amazon is running and its propensity to invest more and deepen its relationship with Malwarebytes identify new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."},
+    {
+        "customer_name": "Amazon",
+        "customer_code": 2021007,
+        "title": "McAfee licence is going to be expired.",
+        "posted_on": 0,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Amazon",
+        "customer_code": 2021007,
+        "title": "TeamViewer licence is going to be expired.",
+        "posted_on": -1,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Walmart",
+      "customer_code": 2021008,
+      "title": "Walmart is Interested to Purchase Convey Delivery Experience Management for Real-Time Transportation Visibility.",
+      "posted_on": -1,
+      "description": " Walmart Inc. is running and its propensity to invest more and deepen its relationship with Convey."
+    },
+    {
+        "customer_name": "Walmart",
+        "customer_code": 2021008,
+        "title": "  Hubspot CRM licence is going to be expired.",
+        "posted_on": 0,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Walmart",
+        "customer_code": 2021008,
+        "title": "HRsoft licence is going to be expired.",
+        "posted_on": 0,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+{
+      "customer_name": "Kroger",
+      "customer_code": 2021009,
+      "title": "Kroger is Interested to Purchase  Aproove Work Management for Business Process Management.",
+      "posted_on": 0,
+      "description": "Kroger Co is running and its propensity to invest more and deepen its relationship with Aproove new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."
+    },
+    {
+        "customer_name": "Kroger",
+        "customer_code": 2021009,
+        "title": "SAP licence is going to be expired.",
+        "posted_on": -1,
+        "description": "Licensing for this product has expired, please renew the subscription to continue the services."
+    },
+    {
+        "customer_name": "Kroger",
+        "customer_code": 2021009,
+        "title": "Kroger is Interested to Purchase Amazon EC2 for Application Hosting.",
+        "posted_on": 0,
+        "description": "The Kroger Company is running and its propensity to invest more and deepen its relationship with Amazon identify new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency."}
+
+]
