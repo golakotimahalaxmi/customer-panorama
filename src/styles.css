@@ -43,8 +43,6 @@
   src: url("src\assets\fonts\JosefinSans-Bold.ttf") format("opentype");
 }
 
-
-
 body {
   font-size: 14px;
   color: #010101;
@@ -1507,21 +1505,6 @@ label:focus,
   font-weight: bold !important;
 }
 
-.ff-poppins {
-  font-family: "Poppins", sans-serif;
-}
-
-.ff-josefin {
-  font-family: Josefin Sans;
-}
-
-.fw-5 {
-  font-weight: 500;
-}
-
-.font-fam{
-  font-family:Poppins-Medium;
-}
 .goal{
   font-family:Poppins-Medium;
   font-size: 12px;
@@ -1568,6 +1551,35 @@ line-height: normal
   font-size: 12px;
 }
 
-.bottom-edge-shadow {
-  box-shadow: 0 5px 6px -6px black;
+.companyName-field{
+  margin-bottom: 2px;
+}
+
+.fs-14{
+  font-size: 14px;
+}
+
+.ff-pm{
+  font-family: Poppins-Medium;
+}
+
+.ff-pr{
+  font-family: Poppins-Regular;
+}
+
+.ff-psb{
+  font-family: Poppins-SemiBold;
+}
+
+.ff-jsb{
+  font-family: JosefinSans-Bold;
+}
+
+.h-100{
+  height: 100vh !important;
+}
+
+.login-left-img{
+  width: 100%;
+  margin-top: 3rem !important;
 }
