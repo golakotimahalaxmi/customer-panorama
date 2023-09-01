@@ -14,13 +14,13 @@
         <!-- <img src="assets/images/funding@2x.png" style="width:100%"> -->
     <table>
         <tr  class="p-3">
-            <th class="head-style funding text-center" >Customer</th>
-            <th class="date-style funding text-center" >Total Rounds|TFA</th>
-            <th class="funding text-center"  >Latest round details</th>
+            <th class="width-30 head-style funding text-center" >Customer</th>
+            <th class="width-30 date-style funding text-center" >Total Rounds|TFA</th>
+            <th class="width-40 funding text-center"  >Latest round details</th>
         </tr>
         <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
-            <td class="funding-head pr-2 funding">{{data.customer_name }}</td>
-            <td class="date-style funding ">
+            <td class="width-30 funding-head pr-2 funding">{{data.customer_name }}</td>
+            <td class="width-30 date-style funding ">
                 <div style="display : flex;flex-direction : row;">
                     <div class="line-border mr-5" ></div>
                     <div class="text-center">
@@ -29,10 +29,13 @@
                     </div>
                 </div> 
             </td>
-            <td class="funding">
+            <td class="width-40 funding">
                 <div style="display : flex;flex-direction : row;">
                     <div class="line-border mr-5" ></div>
-                    <div class="">{{data.Money_Raised}} {{data.monthNumber}}</div>
+                    <div class="">
+                        <p class="pb-0">{{data.Money_Raised}} </p>
+                        <p>{{data.monthNumber}}</p>
+                    </div>
                 </div> 
                 </td>
         </tr>
@@ -100,7 +103,7 @@
 <!-- expanded view modal for customer recommendations-->
 <jw-modal id={{modalName}}>
 <!--<div class="card-container">-->
-<div class="card-navbar">
+<div class="card-navbar header-bg-clr">
     <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
     <form class="form-inline mr-auto">
     <div class="input-group">

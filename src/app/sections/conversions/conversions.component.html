@@ -1,5 +1,5 @@
 <div class="card half-card">
-    <div class="card-row" (dblclick)="openModal()">
+    <div class="card-row header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-10 col-md-11 col-sm-10 col-8" *ngIf="allHeadings != undefined">
             <div class="card-header">
                 {{allHeadings.conservationName}}
@@ -43,7 +43,7 @@
 <!-- expanded view modal for customer recommendations-->
 <jw-modal id={{modalName}} *ngIf="allHeadings != undefined">
 <!--<div class="card-container">-->
-<div class="card-navbar">
+<div class="card-navbar header-bg-clr">
     <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.conservationName}}</span></h5>
     <form class="form-inline mr-auto">
     <div class="input-group">

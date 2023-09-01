@@ -1,5 +1,5 @@
 <div class="card half-card mb-2">
-    <div class="card-row" (dblclick)="openModal()">
+    <div class="card-row header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
             <div class="card-header" tooltip="{{getAllheadings.tip_cp_conatacts_widget_title}}" placement="bottom">
                 {{getAllheadings.customerContacts}}
@@ -57,7 +57,7 @@
 <!-- expanded view modal for customer contacts-->
 <jw-modal id={{modalName}}>
     <!--<div class="card-container">-->
-    <div class="card-navbar" style="vertical-align: middle!important;">
+    <div class="card-navbar header-bg-clr" style="vertical-align: middle!important;">
         <h5 class="col-sm-4 col-md-4 card-title widget-navbar-heading mt-1"><span class="header-probold">{{getAllheadings.customerContacts}}</span></h5>
         <form class="form-inline mr-auto">
                 <div class="input-group">

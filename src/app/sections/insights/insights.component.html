@@ -1,6 +1,6 @@
 <div class="card insight" [ngClass]="{ 'half-card': !isFull, '': isFull }">
   <!-- (dblclick)="openModal()" -->
-  <div class="card-row" (dblclick)="openModal()">
+  <div class="card-row header-bg-clr" (dblclick)="openModal()">
     <div class="col-lg-6 col-md-8 col-sm-8 col-6">
       <div class="card-header" tooltip placement="bottom">
         {{ allHeadings.insights }}
@@ -32,7 +32,7 @@
 
 <jw-modal id={{modalName}} class=""  >
   <!--<div class="card-container">-->
-  <div class="card-navbar ">
+  <div class="card-navbar header-bg-clr">
       <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.insights}}</span></h5>
       <form class="form-inline mr-auto">
       <div class="input-group">

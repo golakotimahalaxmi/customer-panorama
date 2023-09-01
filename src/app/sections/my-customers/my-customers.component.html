@@ -1,5 +1,5 @@
 <div class="card companies" [ngClass]="{'half-card' : !isFull,'': isFull}">
-    <div class="card-row row-header" (dblclick)="openModal()">
+    <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
             <div class="card-header" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
                 {{allHeadings.myAccount}}
@@ -87,7 +87,7 @@
 <!-- Expanded View of my customers -->
 <jw-modal id={{modalName}}>
 
-    <div class="card-navbar" (dblclick)="openModal()">
+    <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
 
         <h5 class="col-sm-4 col-md-4 card-title-accounts"><span class="header-probold"><!--{{allHeadings.myAccount}}--> My Accounts</span></h5>
         <form class="form-inline mr-auto">
