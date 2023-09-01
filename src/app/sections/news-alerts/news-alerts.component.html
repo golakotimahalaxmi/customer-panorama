@@ -1,64 +1,151 @@
-<div class="card news" [ngClass]="{'half-card' : !isFull,'': isFull}">
-    <div class="card-row"><!--(dblclick)="openModal()"-->
-        <div class="col-lg-6 col-md-8 col-sm-8 col-6 cursorStyle">
-            <div class="card-header" tooltip="{{allHeadings.tip_home_news_widget_title}}" placement="bottom">
-                {{allHeadings.newsAlerts}}
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
-            <app-widget-menu [modalName]="modalName"></app-widget-menu>
-        </div>
+<div class="card news" [ngClass]="{ 'half-card': !isFull, '': isFull }">
+  <div class="card-row">
+    <!--(dblclick)="openModal()"-->
+    <div class="col-lg-6 col-md-8 col-sm-8 col-6 cursorStyle">
+      <div
+        class="card-header"
+        tooltip="{{ allHeadings.tip_home_news_widget_title }}"
+        placement="bottom"
+      >
+        {{ allHeadings.newsAlerts }}
+      </div>
     </div>
-    
-    <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,
-    'widger-scoller-half-data': !isFull}">
-        <div class="card-main" *ngFor="let alert of sortNewsOnDate()">
-            <div class="row">
-                <div class="col-md-3 alertImage">
-                    <img *ngIf="alert.Logo_Name === ''" src="assets/images/icons/news.png" alt="source-images">
-                    <img *ngIf="alert.Logo_Name != ''" src="assets/images/logos/{{alert.Logo_Name}}" alt="{{alert.Logo_Name}}">
-                </div>
-                <div class="col-md-9 alertData">
-                    <p class="companyName-field">{{alert.customer_name}}</p>
-                    <p class="eventDate">
-                        <span class="eventTime  mb-0">
-                            <p class="date-time">Date:</p>
-                             {{alert.posted_on}} | </span>
-                        <span>
-                        <p class="date-time">Time:</p>
-                         {{alert.posted_date}}
-                        </span>
-                    </p>
-                    <p class="companyTitle"><a class="font-black" target="_blank" [href]="alert.url">{{alert.title}}</a></p>
-                    <p class="companyName"><span class="source">Source:</span><a class="companyName" target="_blank" [href]="alert.url">{{alert.source}}</a></p>
-                </div>
-                
-            </div>
-        </div>
+    <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+      <app-widget-menu [modalName]="modalName"></app-widget-menu>
     </div>
+  </div>
+
+  <div
+    class="card-body p-0"
+    [ngClass]="{
+      'widger-scoller': isFull,
+      'widger-scoller-half-data': !isFull
+    }"
+  >
+    <div class="card-main" *ngFor="let alert of sortNewsOnDate()">
+      <div class="row">
+        <div class="col-md-3 alertImage">
+          <img
+            *ngIf="alert.Logo_Name === ''"
+            src="assets/images/icons/news.png"
+            alt="source-images"
+          />
+          <img
+            *ngIf="alert.Logo_Name != ''"
+            src="assets/images/logos/{{ alert.Logo_Name }}"
+            alt="{{ alert.Logo_Name }}"
+          />
+        </div>
+        <div class="col-md-9 alertData">
+          <p class="companyName-field">{{ alert.customer_name }}</p>
+          <p class="eventDate">
+            <span class="eventTime mb-0">
+              <p class="date-time">Date:</p>
+              {{ alert.posted_on }} |
+            </span>
+            <span>
+              <p class="date-time">Time:</p>
+              {{ alert.posted_date }}
+            </span>
+          </p>
+          <p class="companyTitle">
+            <a class="font-black" target="_blank" [href]="alert.url">{{
+              alert.title
+            }}</a>
+          </p>
+          <p class="companyName">
+            <span class="source">Source:</span
+            ><a class="companyName" target="_blank" [href]="alert.url">{{
+              alert.source
+            }}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-    <jw-modal id="newsalerts">
-        <!--<div class="card-container">-->
-        <div class="card-navbar">
-            <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.newsAlerts}}</span></h5>
-            <form class="form-inline mr-auto">
-                <div class="input-group">
-                    <!--[placeholder]="allHeadings.placeholderInsideModal"-->
-                    <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal">
-                    <!--<div class="input-group-append">
+
+
+<!-- <jw-modal id="newsalerts">
+
+  <div class="card-container">
+
+  <div class="card-navbar">
+    <h5 class="col-sm-4 col-md-4 card-title">
+      <span class="header-probold">{{ allHeadings.newsAlerts }}</span>
+    </h5>
+    <form class="form-inline mr-auto">
+      <div class="input-group">\
+
+        [placeholder]="allHeadings.placeholderInsideModal"
+
+        <input
+          type="text"
+          class="form-control search-main bg-light border-0 small"
+          [placeholder]="allHeadings.placeholderInsideModal"
+        />
+
+        <div class="input-group-append">
                             <button class="btn btn-search" type="button">
                                 Search
                             </button>
-                        </div>-->
-                </div>
-            </form>
-    
-            <div class="navbar-menu-wrapper m-0 p-0  link-point">
-                <div class="m-0 p-0 dropdown d-flex float-right">
-                    <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
-                </div>
-            </div>
-    
+                        </div>
+
+      </div>
+    </form>
+
+    <div class="navbar-menu-wrapper m-0 p-0 link-point">
+      <div class="m-0 p-0 dropdown d-flex float-right">
+        <a
+          class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close"
+          (click)="closeModal()"
+          ><i class="fa fa-times"></i
+        ></a>
+      </div>
+    </div>
+  </div>
+</jw-modal> -->
+<jw-modal id={{newAlertId}}>
+    <!--<div class="card-container">-->
+    <div class="card-navbar">
+        <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
+        <form class="form-inline mr-auto">
+        <div class="input-group">
+            <input type="text" class="form-control search-main bg-light border-0 small"
+            [placeholder]="allHeadings.placeholderInsideModal">
+            <!--<div class="input-group-append">
+                <button class="btn btn-search" type="button">
+                Search
+                </button>
+            </div>-->
         </div>
+        </form>
+    
+        <div class="navbar-menu-wrapper m-0 p-0 link-point">
+        <div class="m-0 p-0 dropdown d-flex float-right">
+            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+        </div>
+        </div>
+    <!-- content goes here-->
+    </div>
+    <div class="h-100" style="overflow-y: auto!important;">
+    <table class="sizing w-100  text-center" >
+        <tr  class="p-4">
+            <th class="head-style expanded-funding">Customer</th>
+            <th class="date-style  expanded-funding" colspan="2" style="text-align: center;">Total Rounds|TFA</th>
+            <th class="expanded-funding" colspan="2" style="text-align: center;">Latest round details</th>
+        </tr>
+        <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
+    
+              <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
+                <td class="funding-head  expanded-funding">{{data.customer_name}}</td>
+                <td class="date-style expanded-funding">{{data.Funding_Rounds}}</td>
+                <td class="expanded-funding">{{data.Total_Funding_Amount}}</td>
+                <td class="expanded-funding">{{data.Money_Raised}}</td>
+                <td class="para-style expanded-funding" >{{data.monthNumber}}</td>
+              </tr>
+    
+        </table>
+    </div>
     </jw-modal>

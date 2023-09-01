@@ -127,7 +127,8 @@ width-table{
 }
 
 td{
-    vertical-align: middle!important;
+    vertical-align: top!important;
+    
 }
 
 .width-7{

@@ -11,8 +11,33 @@
         </div>
     </div>
     <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,'widger-scoller-half-data': !isFull}" style="overflow-y: auto!important;">
-        <img src="assets/images/funding@2x.png" style="width:100%">
-        <!--<img *ngIf="isfull" src="assets/images/funding-half@2x.png">-->
+        <!-- <img src="assets/images/funding@2x.png" style="width:100%"> -->
+    <table>
+        <tr  class="p-3">
+            <th class="head-style funding text-center" >Customer</th>
+            <th class="date-style funding text-center" >Total Rounds|TFA</th>
+            <th class="funding text-center"  >Latest round details</th>
+        </tr>
+        <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
+            <td class="funding-head pr-2 funding">{{data.customer_name }}</td>
+            <td class="date-style funding ">
+                <div style="display : flex;flex-direction : row;">
+                    <div class="line-border mr-5" ></div>
+                    <div class="text-center">
+                        <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
+                        <span *ngIf="data.Funding_Rounds===''">N/A</span>
+                    </div>
+                </div> 
+            </td>
+            <td class="funding">
+                <div style="display : flex;flex-direction : row;">
+                    <div class="line-border mr-5" ></div>
+                    <div class="">{{data.Money_Raised}} {{data.monthNumber}}</div>
+                </div> 
+                </td>
+        </tr>
+    </table>
+        <!-- <img *ngIf="isfull" src="assets/images/funding-half@2x.png"> -->
  
           <!--<table class="card-main table custom-table-styles">
               <thead class="table-header-class overflow-stylings-thead">
@@ -96,7 +121,34 @@
     </div>
 <!-- content goes here-->
 </div>
-<div>
-    <img src="assets/images/funding-expand@2x.png" style="width:100%">
+<div class="h-100" style="overflow-y: auto!important;">
+<table class="sizing w-100  text-center" >
+    <tr  class="p-4">
+        <th class="head-style expanded-funding">Customer</th>
+        <th class="date-style  expanded-funding">Total Rounds|TFA</th>
+        <th class="expanded-funding">Latest round details</th>
+    </tr>
+    <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
+
+          <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
+            <td class="funding-head  expanded-funding">{{data.customer_name}}</td>
+            <td class="date-style expanded-funding">
+                <div style="display : flex;flex-direction : row;">
+                    <div class="line-border mr-5" ></div>
+                    <div  class="margin-middle" >
+                        <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
+                        <span *ngIf="data.Funding_Rounds===''">N/A</span>
+                    </div>
+                </div> 
+            </td>
+            <td class=" text-center expanded-funding ">
+                <div style="display : flex;flex-direction : row;">
+                    <div class="line-border mr-5" ></div>
+                    <div class="margin-left "><ul ><li>{{data.Money_Raised}}</li><li>{{data.monthNumber}}</li></ul></div>
+                </div> 
+            </td>
+          </tr>
+
+    </table>
 </div>
 </jw-modal>

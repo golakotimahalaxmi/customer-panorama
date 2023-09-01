@@ -16,8 +16,10 @@ export class FundingsComponent implements OnInit {
   modalName: string;
   cardTitle: string;
   allHeadings: any;
+  funding_dataList:any;
   funding_tooltip: string = "Fundings related to your book of business";
-
+  monthNames = [  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',  'Jul', 'Aug', 
+      'Sep', 'Oct', 'Nov', 'Dec'];
   customersFundedData: Firmographics[] = [];
 
   constructor(
@@ -26,11 +28,13 @@ export class FundingsComponent implements OnInit {
     private service: CustomerService,
     private datePipe: DatePipe
   ) {
+    
+  }
+
+  ngOnInit() {
     this.getAllHedings();
     this.getfirmographicsData();
   }
-
-  ngOnInit() {}
 
   // method for getAllHeadings
   getAllHedings() {
@@ -84,6 +88,24 @@ export class FundingsComponent implements OnInit {
           this.customersFundedData.push(fund);
         }
       });
+      
+      this.funding_dataList=fundingData;
+      this.funding_dataList.forEach((fundingData_item)=>{ 
+      if (fundingData_item.Funding_Announced_On!=""){
+        fundingData_item['monthNumber']=(this.monthNames.findIndex(monthAbbr => monthAbbr === fundingData_item.Funding_Announced_On.slice(0,3)) + 1+"/"+fundingData_item.Funding_Announced_On.slice(3).replace(", ", "/")).replace(" ","");
+    }
+    else{
+      fundingData_item['monthNumber']='N/A';
+    }
+    console.log(fundingData);
+  })
+    
+      
     });
   }
+
 }
+function newDate($: any, arg1: { fundingData_item: any; "": any; }): any {
+  throw new Error("Function not implemented.");
+}
+

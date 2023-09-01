@@ -1567,3 +1567,7 @@ line-height: normal
 .fs-12 {
   font-size: 12px;
 }
+
+.bottom-edge-shadow {
+  box-shadow: 0 5px 6px -6px black;
+}
