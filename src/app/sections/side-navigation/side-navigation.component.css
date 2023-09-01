@@ -1,7 +1,8 @@
 .cdw-logo {
-  width: 50px ;
-  margin-left: 3px;
-  margin-bottom: 3px;
+  width: 44px ;
+  height: 44px;
+  margin: 06px;
+  /* padding-bottom: 3px; */
 }
 
 .nav-side-menu {
@@ -55,7 +56,7 @@
   padding-left: 10px;
   padding-right: 10px;
   vertical-align: middle;
-  float: right;
+  /* float: right; */
 }
 .nav-side-menu ul .active,
 .nav-side-menu li .active {
@@ -103,10 +104,8 @@
   width: 20px;
   padding-right: 20px;
 }
-.nav-side-menu li:hover {
- 
-  background-color: rgba(107, 205, 107, 0.877);
-  
+li:hover{
+  background-color:#E9F7F4;
 }
 @media (max-width: 767px) {
   .nav-side-menu {
@@ -144,17 +143,32 @@ body {
   padding: 0px;
 }
 
-.side-nav-logo{
-  width: 40px;
-  height: 40px;
-  padding: 8px;
-  margin-top: 22px;
+.side-nav-logoone{
+  width: 18px;
+  height: 20px;
+  
 }
-
+.side-nav-logotwo{
+  width: 20px;
+  height: 20px;
+}
+.side-nav-logothree{
+  width: 12px;
+  height: 16px;
+  
+}
+.side-nav-logofour{
+  width: 22px;
+  height: 18px;
+}
 .modal body,p{
   font-family: "Poppins",sans-serif;
   font-size: 1.1em;
   font-weight: 300;
   line-height: 1.7em;
   color: #999;
+}
+
+.nav-side-menu{
+  padding-top: 12px;
 }

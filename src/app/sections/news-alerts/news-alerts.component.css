@@ -1,8 +1,14 @@
 .alertImage img {
     width: 50px;
-    margin: 5px;
+ 
+    /* margin-top: 3.5rem; */
 }
+.alertImage{
+  margin: auto;
+  display: flex;
+  justify-content: center;
 
+}
 .companyName {
     /* color: #00000077; */
     /*text-transform: capitalize;*/
@@ -17,7 +23,7 @@
   }
 
   .alertData p {
-    margin-bottom: 0.5rem !important;
+    /* margin-bottom: 0.5rem !important; */
    }
 
    .eventTime {
@@ -35,8 +41,9 @@
     line-height: normal;
   }
 
-   .eventDate {
+   .eventDate{
     text-transform: capitalize;
+    height:17px;
     /* font-size: 34px!important;
     color: black;
     font-family: 'ff-good-headline-web-pro-ext', sans-serif;
@@ -45,8 +52,7 @@
     color: #8C8C8C;
     font-family: Poppins-Regular;
     font-size: 11px;
-    font-style: normal;
-    line-height: normal;
+    margin-bottom: 2px;
   }
   .companyTitle {
     /*text-transform: capitalize;*/
@@ -64,8 +70,25 @@
     font-style: normal;
     font-weight: 600;
     line-height: 14px;
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
   }
 
   .font-black{
     color:black!important;
   }
+
+  .newsalertData{
+    padding-left: 0px;
+  }
+
+.news-source{
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+.news-title{
+  margin-bottom:2px;
+}

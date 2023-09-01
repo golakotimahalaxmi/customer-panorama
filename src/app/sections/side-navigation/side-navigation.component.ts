@@ -14,11 +14,12 @@ export class SideNavigationComponent implements OnInit {
   link_highlight = 0;
   headings: any = {};
   cdwTooltipName: string;
-
+  displayStyle = "none";
   setting_icon: boolean = true;
   home_icon: boolean = true;
   analytics_icon:boolean=true;
   features_icon:boolean=true;
+  public isValid :boolean =false;
 
   @Output() openDirectWidget: EventEmitter<string> = new EventEmitter<string>();
 
@@ -122,18 +123,18 @@ export class SideNavigationComponent implements OnInit {
   }
 
   getDetails() {
+    this.isValid=false;
     this.setting_icon = true;
     this.home_icon = true;
     this.analytics_icon = true;
     this.features_icon = true;
     this.router.navigate(["/dashboard"]);
   }
-  
-  displayStyle = "none";
-  
   openPopup() {
     this.displayStyle = "block";
+    this.isValid=false;
   }
+
   closePopup() {
     this.displayStyle = "none";
   }
@@ -148,12 +149,15 @@ export class SideNavigationComponent implements OnInit {
   }
 
   getanalytics(){
+    this.isValid = false;
     this.analytics_icon = false;
     this.home_icon = false;
     this.setting_icon= true;
     this.features_icon =true;
   }
+ 
   getfeatures(){
+    this.isValid = true;
     this.features_icon=false;
     this.analytics_icon = true;
     this.home_icon = false;

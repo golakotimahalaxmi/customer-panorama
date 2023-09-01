@@ -444,10 +444,18 @@ body .ui-widget {
   margin-left: -10px;
   padding: 0.5rem 0.5rem !important;
   color: #000;
-  font-family: Poppins;
+  font-family: Poppins-SemiBold;
   font-size: 14px;
   font-style: normal;
-  font-weight: 600;
+  line-height: normal;
+}
+
+.date-time{
+  display: inline-block;
+  color: #8C8C8C;
+  font-family: Poppins-SemiBold;
+  font-size: 11px;
+  font-style: normal;
   line-height: normal;
 }
 
@@ -1078,6 +1086,7 @@ label:focus,
   font-size: 14px;
   color: #1DAD8F;
   font-family: "Poppins-SemiBold";
+  padding: 0;
 }
 
 .color-grey {
@@ -1526,6 +1535,7 @@ font-size: 11px;
 font-style: normal;
 line-height: normal
 }
+
 .companies{
   box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
 }
@@ -1556,4 +1566,8 @@ line-height: normal
 
 .fs-12 {
   font-size: 12px;
+}
+
+.companyName-field{
+  margin-bottom: 2px;
 }
