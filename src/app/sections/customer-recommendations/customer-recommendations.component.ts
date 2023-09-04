@@ -42,6 +42,7 @@ export class CustomerRecommendationsComponent implements OnInit {
       })
       this.recommandations = recommandation;
     });
+    console.log(this.recommandations);
   }
 
     // method for getAllHeadings
