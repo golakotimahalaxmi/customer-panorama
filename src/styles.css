@@ -525,7 +525,7 @@ body .ui-widget {
   width: 100%;
   border-radius: 0px 0px 0px 0px;
   display: flex;
-  height: 6%;
+  height: 8%;
   vertical-align: middle !important;
 }
 
@@ -1607,7 +1607,7 @@ fs-11{
 }
 
 .pt-7{
-  padding-top: 0.7rem !important;
+  padding-top: 0.6rem !important;
 }
 
 .input-bg{
@@ -1687,6 +1687,12 @@ fs-11{
 color: #76B900 !important;
 }
 
+.btn-bg{
+  background-color: #1DAD8F;
+  height: 48px;
+  font-size: 14px;
+}
+
 /* companies thed color*/
 
 .bg-solidgreen-light{
@@ -1706,3 +1712,4 @@ color: #76B900 !important;
 .h-547{
   height: 547px;
 }
+

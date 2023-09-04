@@ -12,7 +12,7 @@
 {
     "CustomerCode":2021005,
     "CustomerName": "Walgreens Boots Alliance",
-    "SimilarCompany1_Code": ,
+    "SimilarCompany1_Code": 0,
     "SimilarCompany1_Name": "Alliance Boots",
     "SimilarCompany2_Code": 0,
     "SimilarCompany2_Name": "Baxter International",

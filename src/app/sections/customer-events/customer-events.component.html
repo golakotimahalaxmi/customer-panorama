@@ -36,18 +36,19 @@
     
         <jw-modal id={{modalName}} *ngIf="allHeadings != undefined">
             <!--<div class="card-container">-->
-            <div class="card-navbar header-bg-clr">
+            <!-- <div class="card-navbar header-bg-clr">
                 <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.customerEvents}}</span></h5>
                 <form class="form-inline mr-auto">
-                    <div class="input-group">
+                    <div class="input-group"> -->
                         <!--[placeholder]="allHeadings.placeholderInsideModal"-->
-                        <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal">
+                        <!-- <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal">
+                         -->
                         <!--<div class="input-group-append">
                             <button class="btn btn-search" type="button">
                                 Search
                             </button>
                         </div>-->
-                    </div>
+                    <!-- </div>
                 </form>
     
                 <div class="navbar-menu-wrapper m-0 p-0 link-point">
@@ -56,5 +57,41 @@
                     </div>
                 </div>
     
+            </div> -->
+            <div class="card-navbar header-bg-clr" style="vertical-align: middle!important;">
+            <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->Events</span></h5>
+        <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+            <div class="input-group" >
+
+                <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
             </div>
+        </form>
+
+        <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+            <div class="m-0 p-0 dropdown d-flex text-right ">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget " src="assets/images/icons/widget-close.png"></a>
+            </div>
+        </div>
+        </div>
+        <div class="card-main" style="overflow-y: scroll; height:85vh;">
+            <div class="row" *ngFor="let event of sortOnDate(); let index = i">
+            <div class="col-md-4 event-company pl-3">
+                <p *ngIf="event.event_dataType === 'CDW Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
+                <p *ngIf="event.event_dataType === 'Customer Event'" class="companyName customerEvent" tooltip="{{allHeadings.tip_home_events_widget_customerevent}}" placement="bottom">External Events</p>
+                <p *ngIf="event.event_dataType === 'My Event'" class="companyName myEvent" tooltip="{{allHeadings.tip_home_events_widget_myevent}}" placement="bottom">{{event.customerMeetings}}</p>
+                <p class="eventDate">{{event.event_date}}</p>
+                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'CDW Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
+                </div>
+                <div class="col-md-6 event-company pt-3">
+                    <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field">{{event.customer_name}}</a></p>
+                    <p class="companyTitle" tooltip="{{event.description}}" placement="bottom">{{event.title}}</p>
+                </div>
+                <div class="col-md-2 event-logo">
+                <a href="/" *ngIf="event.event_dataType === 'Customer Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/events_shortcut.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'My Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_yellow.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'CDW Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                </div>
+            </div>
+        </div>
+
         </jw-modal>

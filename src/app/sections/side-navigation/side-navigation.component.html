@@ -53,7 +53,7 @@
   <div class="center">
     <div class="main-logo pb-1">
       <a href="/">
-        <img src="assets/images/logos/c360-logo-favicon.png" tooltip="{{ cdwTooltipName }}" placement="bottom"
+        <img src="assets/images/client-logos/c360-logo-favicon.png" tooltip="{{ cdwTooltipName }}" placement="bottom"
           class="img-fluid cdw-logo" alt="logo" widht="50" />
       </a>
     </div>
@@ -63,14 +63,14 @@
         <ul id="menu-content" class="menu-content collapse out">
           <li>
             <a type="button" (click)="getDetails()">
-              <img *ngIf="!home_icon" class="side-nav-logoone" src="assets/images/leftnav-home-idle.png">
-              <img *ngIf="home_icon" class="side-nav-logoone" src="assets/images/leftnav-home-selected.png">
+              <img *ngIf="!home_icon" class="side-nav-logoone" src="assets/images/client-logos/leftnav-home-idle.png">
+              <img *ngIf="home_icon" class="side-nav-logoone" src="assets/images/client-logos/leftnav-home-selected.png">
             </a>
           </li>
           <li >
             <a type="button" (click)="getfeatures()" class="nav-item" data-toggle="collapse" data-target="#products" class="collapsed">
-              <img  *ngIf="features_icon" class="side-nav-logotwo" src="assets/images/leftnav-features-idle.png">
-              <img   *ngIf="!features_icon" class="side-nav-logotwo" src="assets/images/leftnav-features-selected.png">
+              <img  *ngIf="features_icon" class="side-nav-logotwo" src="assets/images/client-logos/leftnav-features-idle.png">
+              <img   *ngIf="!features_icon" class="side-nav-logotwo" src="assets/images/client-logos/leftnav-features-selected.png">
             </a>
           </li>
           <ul class="sub-menu collapse" id="products" *ngIf="isValid">
@@ -81,20 +81,20 @@
           </ul>
           <li>
             <a type="button" (click)="getanalytics()">
-              <img *ngIf="analytics_icon" class="side-nav-logothree" src="assets/images/leftnav-analytics-idle.png">
-              <img *ngIf="!analytics_icon"  class="side-nav-logothree" src="assets/images/leftnav-analytics-selected.png">
+              <img *ngIf="analytics_icon" class="side-nav-logothree" src="assets/images/client-logos/leftnav-analytics-idle.png">
+              <img *ngIf="!analytics_icon"  class="side-nav-logothree" src="assets/images/client-logos/leftnav-analytics-selected.png">
             </a>
           </li>
           <li>
             <a type="button" (click)="openPopup()">
-              <img *ngIf="setting_icon" class="side-nav-logofour" src="assets/images/leftnav-settings-idle.png">
-                <img *ngIf="!setting_icon" class="side-nav-logofour" src="assets/images/leftnav-settings-selected.png">
+              <img *ngIf="setting_icon" class="side-nav-logofour" src="assets/images/client-logos/leftnav-settings-idle.png">
+                <img *ngIf="!setting_icon" class="side-nav-logofour" src="assets/images/client-logos/leftnav-settings-selected.png">
             </a>
           </li>
         </ul>
       </div>
       <div class="d-flex align-items-end h-547">
-        <img class="side-nav-logo-bottom"  src="assets/images/ad-logo-favicon.png">
+        <img class="side-nav-logo-bottom"  src="assets/images/client-logos/ad-logo-favicon.png">
       </div>
     </div>
   </div>

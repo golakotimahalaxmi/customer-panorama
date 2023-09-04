@@ -32,26 +32,43 @@
 
 <jw-modal id={{modalName}} class=""  >
   <!--<div class="card-container">-->
-  <div class="card-navbar header-bg-clr">
+  <!-- <div class="card-navbar header-bg-clr">
       <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.insights}}</span></h5>
       <form class="form-inline mr-auto">
-      <div class="input-group">
+      <div class="input-group"> -->
           
           <!--<div class="input-group-append">
               <button class="btn btn-search" type="button">
               Search
               </button>
           </div>-->
-      </div>
+      <!-- </div>
       </form>
   
       <div class="navbar-menu-wrapper m-0 p-0 link-point">
       <div class="m-0 p-0 dropdown d-flex float-right">
           <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
       </div>
-      </div>
+      </div> -->
   <!-- content goes here-->
-  </div>
+  <!-- </div> -->
+  <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
+
+    <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->Insights</span></h5>
+    <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+        <div class="input-group" >
+
+            <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
+        </div>
+    </form>
+
+    <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+        <div class="m-0 p-0 dropdown d-flex text-right">
+            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/widget-close.png"></a>
+        </div>
+    </div>
+
+</div>
   <div>
     <div style="overflow-y: scroll; height:85vh;" >
       <div *ngFor="let data of updatedData" class="bottom-edge-shadow p-3">

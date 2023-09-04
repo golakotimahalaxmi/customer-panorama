@@ -81,44 +81,83 @@
 </jw-modal> -->
 <jw-modal id={{modalName}}>
     <!--<div class="card-container">-->
-    <div class="card-navbar header-bg-clr">
+    <!-- <div class="card-navbar header-bg-clr">
         <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
         <form class="form-inline mr-auto">
         <div class="input-group">
             <input type="text" class="form-control search-main bg-light border-0 small"
-            [placeholder]="allHeadings.placeholderInsideModal">
+            [placeholder]="allHeadings.placeholderInsideModal"> -->
             <!--<div class="input-group-append">
                 <button class="btn btn-search" type="button">
                 Search
                 </button>
             </div>-->
-        </div>
+        <!-- </div>
         </form>
     
         <div class="navbar-menu-wrapper m-0 p-0 link-point">
         <div class="m-0 p-0 dropdown d-flex float-right">
             <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
         </div>
-        </div>
+        </div> -->
     <!-- content goes here-->
+    <!-- </div> -->
+    <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
+
+        <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->News Alerts</span></h5>
+        <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+            <div class="input-group" >
+    
+                <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
+            </div>
+        </form>
+    
+        <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+            <div class="m-0 p-0 dropdown d-flex text-right">
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/widget-close.png"></a>
+            </div>
+        </div>
+    
     </div>
     <div class="h-100" style="overflow-y: auto!important;">
-    <table class="sizing w-100  text-center" >
+    <!-- <table class="sizing w-100  text-center" >
         <tr  class="p-4">
             <th class="head-style expanded-funding">Customer</th>
             <th class="date-style  expanded-funding" colspan="2" style="text-align: center;">Total Rounds|TFA</th>
             <th class="expanded-funding" colspan="2" style="text-align: center;">Latest round details</th>
-        </tr>
+        </tr> -->
         <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
     
-              <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
+              <!-- <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
                 <td class="funding-head  expanded-funding">{{data.customer_name}}</td>
                 <td class="date-style expanded-funding">{{data.Funding_Rounds}}</td>
                 <td class="expanded-funding">{{data.Total_Funding_Amount}}</td>
                 <td class="expanded-funding">{{data.Money_Raised}}</td>
                 <td class="para-style expanded-funding" >{{data.monthNumber}}</td>
-              </tr>
+              </tr> -->
     
-        </table>
+        <!-- </table> -->
+        <div class="card-main" *ngFor="let alert of sortNewsOnDate()">
+            <div class="row">
+                <div class="col-md-2 alertImage">
+                    <img *ngIf="alert.Logo_Name === ''" src="assets/images/icons/news.png" alt="source-images">
+                    <img *ngIf="alert.Logo_Name != ''" src="assets/images/logos/{{alert.Logo_Name}}" alt="{{alert.Logo_Name}}">
+                </div>
+                <div class="col-md-10 alertData newsalertData">
+                    <p class="companyName-field fc-green fs-14 ff-psb">{{alert.customer_name}}</p>
+                    <p class="eventDate">
+                        <span class="eventTime  mb-0 fs-11 fc-grey ff-pr">
+                            <p class="date-time fs-11 fc-grey ff-psb">Date:</p>
+                             {{alert.posted_on}} | </span>
+                        <span>
+                        <p class="date-time fs-11 fc-grey ff-psb">Time:</p>
+                         {{alert.posted_date}}
+                        </span>
+                    </p>
+                    <p class="companyTitle news-title fs-12 ff-psb"><a class="fc-black" target="_blank" [href]="alert.url">{{alert.title}}</a></p>
+                    <p class="companyName news-source"><span class="source fs-11 ff-psb fc-grey">Source:</span><a class="companyName fs-11 fc-grey ff-pr" target="_blank" [href]="alert.url">{{alert.source}}</a></p>
+                </div>
+            </div>
+        </div>
     </div>
     </jw-modal>
