@@ -145,6 +145,7 @@ font-size: 14px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
+text-align: center;
 }
 
 .one-edge-shadow{
@@ -174,14 +175,15 @@ ul,li{
   list-style: none;
 }
 
-.margin-left{
-  margin-left: 190px;
-  margin-right: 0px;
+.center {
+  margin: auto;
+  left: 50%;
+  top: 50%;
 }
 
-.margin-middle{
-  margin-left: 30px;
-}
+
+
+
 
 
 

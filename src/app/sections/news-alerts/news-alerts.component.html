@@ -1,5 +1,5 @@
 <div class="card news" [ngClass]="{'half-card' : !isFull,'': isFull}">
-    <div class="card-row header-bg-clr"><!--(dblclick)="openModal()"-->
+    <div class="card-row header-bg-clr" (dblclick)="openModal()"><!--(dblclick)="openModal()"-->
         <div class="col-lg-6 col-md-8 col-sm-8 col-6 cursorStyle">
             <div class="card-header" tooltip="{{allHeadings.tip_home_news_widget_title}}" placement="bottom">
                 {{allHeadings.newsAlerts}}
@@ -79,7 +79,7 @@
     </div>
   </div>
 </jw-modal> -->
-<jw-modal id={{newAlertId}}>
+<jw-modal id={{modalName}}>
     <!--<div class="card-container">-->
     <div class="card-navbar header-bg-clr">
         <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>

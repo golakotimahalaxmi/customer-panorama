@@ -12,7 +12,7 @@
     </div>
     <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,'widger-scoller-half-data': !isFull}" style="overflow-y: auto!important;">
         <!-- <img src="assets/images/funding@2x.png" style="width:100%"> -->
-    <table>
+    <table class="w-100">
         <tr  class="p-3">
             <th class="width-30 head-style funding text-center" >Customer</th>
             <th class="width-30 date-style funding text-center" >Total Rounds|TFA</th>
@@ -125,29 +125,29 @@
 <!-- content goes here-->
 </div>
 <div class="h-100" style="overflow-y: auto!important;">
-<table class="sizing w-100  text-center" >
-    <tr  class="p-4">
-        <th class="head-style expanded-funding">Customer</th>
+<table class="sizing w-100 text:center " >
+    <tr class="text-center">
+        <th class="expanded-funding">Customer</th>
         <th class="date-style  expanded-funding">Total Rounds|TFA</th>
         <th class="expanded-funding">Latest round details</th>
     </tr>
     <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
 
-          <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
-            <td class="funding-head  expanded-funding">{{data.customer_name}}</td>
-            <td class="date-style expanded-funding">
+          <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow  shadow ">
+            <td class="funding-head  expanded-funding w-35">{{data.customer_name}}</td>
+            <td class="date-style expanded-funding w-35">
                 <div style="display : flex;flex-direction : row;">
-                    <div class="line-border mr-5" ></div>
-                    <div  class="margin-middle" >
+                    <div class="line-border float-left" ></div>
+                    <div style="justify-content: center; margin: left 50px;"  class="center">
                         <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
                         <span *ngIf="data.Funding_Rounds===''">N/A</span>
                     </div>
                 </div> 
             </td>
-            <td class=" text-center expanded-funding ">
-                <div style="display : flex;flex-direction : row;">
-                    <div class="line-border mr-5" ></div>
-                    <div class="margin-left "><ul ><li>{{data.Money_Raised}}</li><li>{{data.monthNumber}}</li></ul></div>
+            <td class=" expanded-funding w-30">
+                <div style="display : flex;flex-direction : row; " >
+                    <div class="line-border float-left " ></div>
+                    <div class="center " ><ul ><li>{{data.Money_Raised}}</li><li>{{data.monthNumber}}</li></ul></div>
                 </div> 
             </td>
           </tr>
