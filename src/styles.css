@@ -550,7 +550,7 @@ body .ui-widget {
 
 .table thead th {
   font-family: "Prelo-Bold", sans-serif !important;
-  background-color: #99c7d6;
+  /* background-color: #99c7d6; */
 }
 
 .nav-pills li span {
@@ -662,12 +662,14 @@ body .ui-widget {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #76777b;
+  border-radius: 20px;
+background: #D9D9D9;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #76777b;
+  border-radius: 20px;
+background: #D9D9D9;
 }
 
 ::-webkit-input-placeholder {
@@ -1540,55 +1542,49 @@ line-height: normal
 
 /* font size, color and family */
 .fs-14{
-  font-size: 14px;
+  font-size: 14px !important;
 }
 
 .fs-12 {
-  font-size: 12px;
+  font-size: 12px !important;
 }
 
+fs-11{
+  font-size: 11px !important;
+}
+
+/* font color */
 .clr-purple {
   color: #BC5090
 }
 
 .clr-green {
-  color: #1DAD8F
+  color: #1DAD8F !important;
 }
 
+.clr-black{
+  color: #000 !important;
+}
+
+/* Font family */
 .ff-pm{
-  font-family: Poppins-Medium;
+  font-family: Poppins-Medium !important;
 }
 
 .ff-pr{
-  font-family: Poppins-Regular;
+  font-family: Poppins-Regular !important;
 }
 
 .ff-psb{
-  font-family: Poppins-SemiBold;
+  font-family: Poppins-SemiBold !important;
 }
 
 .ff-jsb{
-  font-family: JosefinSans-Bold;
+  font-family: JosefinSans-Bold !important;
 }
 
 /* Home page Box-shadow*/
-.news{
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
-}
-
-.companies{
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
-}
-
-.insight{
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
-}
-
-.event{
-  box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
-}
-
-.fund{
+.box-shadows{
   box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.20);
 }
 
@@ -1601,3 +1597,112 @@ line-height: normal
   background-color: #D0D0D0 !important;
 }
 
+/* Companies expandeed view */
+.w-1000{
+  width: 1000px;
+}
+
+.br-4{
+  border-radius: 4px !important;
+}
+
+.pt-7{
+  padding-top: 0.7rem !important;
+}
+
+.input-bg{
+  background-color: #fff !important;
+}
+
+.fw-400{
+  font-weight: 400 !important;
+}
+
+/* companies expanded view th color */
+.table-header-bg{
+  background-color: rgba(29, 173, 143, 0.20) !important;
+}
+
+.table-fit{
+  width: 100% ;
+  padding-top: 0px;
+  margin: 0px;
+}
+
+/* scroll bar color */
+.scrl-bar{
+  background-color: #D9D9D9 !important;
+}
+
+/* widget*/
+.bg-grey{
+  background-color: #D0D0D0 !important;
+}
+
+/*news -alerts customer name font colour */
+
+.fc-green{
+  color: #1DAD8F !important;
+}
+
+/* date & time */
+.fs-11{
+  font-size: 11px !important;
+}
+
+.fc-grey{
+  color: #8C8C8C !important;
+}
+
+/* description font colour */
+.fc-black{
+  color:#000 !important;
+}
+
+/* backgroud progress bar companies */
+.bc-softblue{
+  background-color: #72A1F4 !important;
+}
+
+/* font color events */
+.fc-softblue{
+  color: #72A1F4 !important;
+}
+
+.fc-pink{
+  color:  #BC5090 !important;
+}
+
+/* ----- */
+
+/* splash login background */
+
+.bg-stronggreen{
+  background-color: #76B900 !important;
+}
+
+/* updated  font color */
+
+.fc-solidgreen{
+color: #76B900 !important;
+}
+
+/* companies thed color*/
+
+.bg-solidgreen-light{
+  background: rgba(118, 185, 0, 0.10) !important;
+}
+
+
+/* side-nav-logo-bottom */
+.side-nav-logo-bottom{
+  width: 30.769px;
+  height: 19.229px;
+  flex-shrink: 0;
+  margin-left: 1rem;
+  margin-bottom: 8px;
+}
+
+.h-547{
+  height: 547px;
+}

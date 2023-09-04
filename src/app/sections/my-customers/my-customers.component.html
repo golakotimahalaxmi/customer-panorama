@@ -1,7 +1,7 @@
-<div class="card companies" [ngClass]="{'half-card' : !isFull,'': isFull}">
+<div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
-            <div class="card-header" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
+            <div class="card-header fs-14 ff-psb fc-black" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
                 {{allHeadings.myAccount}}
             </div>
         </div>
@@ -14,24 +14,24 @@
         <div class="card-main-customer activeCustomer" *ngFor="let customer of viewCustomersList;" (click)="selectedCustomer(customer)">
             <div class="customerCard-row">
                 <div class="companyDetails">
-                    <p class="companyName-field">{{customer.customer_name}}</p>
+                    <p class="companyName-field fs-14 fc-green ff-psb">{{customer.customer_name}}</p>
                     <table>
                         <tbody>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-55" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">CY Sales:</td>
-                                <td class="color-grey text-left numbers-text width-60 pr-3">${{customer.customerC12}}</td>
+                                <td class="ytd-styling tab-content-text width-55 fs-12 ff-pm fc-black" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">CY Sales:</td>
+                                <td class="color-grey text-left numbers-text width-60 pr-3 fs-12 ff-jsb fc-black">${{customer.customerC12}}</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">Growth %:</td>
-                                <td class="color-darkblue text-left numbers-text width-60 pr-3">{{customer.yoy != '' ? (customer.yoy) : 0}}%</td>
+                                <td class="ytd-styling tab-content-text width-45 fs-12 ff-pm fc-black" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">Growth %:</td>
+                                <td class="color-darkblue text-left numbers-text width-60 pr-3 fs-12 ff-jsb fc-black">{{customer.yoy != '' ? (customer.yoy) : 0}}%</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Profit %:</td>
-                                <td class="color-yellow text-left numbers-text width-60 pr-3">{{customer.margin != '' ? (customer.margin) : 0}}%</td>
+                                <td class="ytd-styling tab-content-text width-45 fs-12 ff-pm fc-black" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Profit %:</td>
+                                <td class="color-yellow text-left numbers-text width-60 pr-3 fs-12 ff-jsb fc-pink">{{customer.margin != '' ? (customer.margin) : 0}}%</td>
                             </tr>
                             <tr>
-                                <td class="ytd-styling tab-content-text width-45" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg.Sales:</td>
-                                <td class="color-Green text-left numbers-text width-60 pr-3">${{customer.avgspend}}</td>
+                                <td class="ytd-styling tab-content-text width-45 fs-12 ff-pm fc-black" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg.Sales:</td>
+                                <td class="color-Green text-left numbers-text width-60 pr-3 fs-12 ff-jsb fc-black">${{customer.avgspend}}</td>
                             </tr>
                         </tbody>
                     </table>
@@ -89,25 +89,25 @@
 
     <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
 
-        <h5 class="col-sm-4 col-md-4 card-title-accounts"><span class="header-probold"><!--{{allHeadings.myAccount}}--> My Accounts</span></h5>
-        <form class="form-inline mr-auto">
-            <div class="input-group">
+        <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->Companies</span></h5>
+        <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+            <div class="input-group" >
 
-                <input type="text" class="form-control search-main bg-light border-0 small" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
+                <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
             </div>
         </form>
 
         <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
             <div class="m-0 p-0 dropdown d-flex text-right">
-                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close.png"></a>
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/widget-close.png"></a>
             </div>
         </div>
 
     </div>
 
-    <div class="table-center">
+    <div class="table-fit">
         <table class="table customers-table">
-            <thead class="overflow-stylings-thead">
+            <thead class="overflow-stylings-thead table-header-bg">
                 <tr>
                     <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth" tooltip="{{allHeadings.tip_home_accounts_exp_col_customer}}" placement="bottom">Customer</th>
                     <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">CDW Highlights</th>
