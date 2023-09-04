@@ -98,7 +98,7 @@ export class NewsAlertsComponent implements OnInit {
           alert.source = source[0]+'//'+source[1]+source[2];
           alert.posted_on_trust_code = publishedDateFormat+" "+alert.posted_on
         })
-        sessionStorage.setItem('newsAlerts', JSON.stringify(newsAlerts));
+       // sessionStorage.setItem('newsAlerts', JSON.stringify(newsAlerts));
         this.newsAlerts = newsAlerts;
       })
   }

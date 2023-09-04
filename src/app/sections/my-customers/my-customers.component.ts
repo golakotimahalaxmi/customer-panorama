@@ -115,10 +115,10 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
   getCustomersData() {
     let customerData = sessionStorage.getItem("customersDetails");
     this.getMonth()
-    if (customerData != null) {
-      this.viewCustomersList = JSON.parse(customerData);
-      this.service.saveCustomerDetails(this.viewCustomersList);
-    } else {
+    // if (customerData != null) {
+    //   this.viewCustomersList = JSON.parse(customerData);
+    //   this.service.saveCustomerDetails(this.viewCustomersList);
+    // } else {
       this.service.getMycustomersList().subscribe((customer) => {
         customer.forEach((customerVal) => {
           let findHighestValue = [];
@@ -227,7 +227,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
         this.viewCustomersList = customer;
         this.service.saveCustomerDetails(this.viewCustomersList);
       });
-    }
+    // }
   }
 
   // method for redirecting the page for selecting the particular customer

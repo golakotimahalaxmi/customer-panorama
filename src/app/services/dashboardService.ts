@@ -43,7 +43,7 @@ export class DashboardService {
       let headings = JSON.parse(sessionStorage.getItem("headingsData"));
       this.storeAllheadings = headings;
     } else {
-      sessionStorage.setItem("headingsData", JSON.stringify(heading));
+     // sessionStorage.setItem("headingsData", JSON.stringify(heading));
       let headings = JSON.parse(sessionStorage.getItem("headingsData"));
       this.storeAllheadings = headings;
     }

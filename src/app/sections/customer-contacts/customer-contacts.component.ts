@@ -133,7 +133,7 @@ else {
     let customerContacts = [];
     let emptyT12Marray = [];
     this.service.getAllcustomercontacts().subscribe(contacts => {
-      sessionStorage.setItem('contactsData', JSON.stringify(contacts));
+     // sessionStorage.setItem('contactsData', JSON.stringify(contacts));
       customerContacts = contacts.filter(contact => contact.CustomerCode === parseInt(customerCode));
 
       customerContacts.sort((a, b) => {
@@ -209,7 +209,7 @@ sortContacts(customerContacts: any) {
         })
       } else {
         this.service.contactInfluence().subscribe(contInfluence => {
-          sessionStorage.setItem('influencesData', JSON.stringify(contInfluence));
+          //('influencesData', JSON.stringify(contInfluence));
           contInfluence.forEach(influence => {
             if(influence.customer_code === parseInt(customerCode)) {
               influence.fullName = influence.First_Name +' '+ influence.Last_Name;

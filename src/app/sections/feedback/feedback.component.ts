@@ -45,7 +45,7 @@ export class FeedbackComponent implements OnInit {
           val.show = false;
           this.commentsList.push(val);
         })
-        sessionStorage.setItem('comments', JSON.stringify(this.commentsList));
+       // sessionStorage.setItem('comments', JSON.stringify(this.commentsList));
        })
     }
   }
@@ -59,7 +59,7 @@ export class FeedbackComponent implements OnInit {
       
     })
     this.commentsList.push(this.commentingForm.value);
-    sessionStorage.setItem('comments', JSON.stringify(this.commentsList));
+    //sessionStorage.setItem('comments', JSON.stringify(this.commentsList));
     this.commentingForm.reset();
     this.getCommentsData();
   }

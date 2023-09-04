@@ -82,7 +82,7 @@ export class CustomerEventsComponent implements OnInit {
           alert.event_date = this.datePipe.transform(dte.setDate(dte.getDate() + alert.event_date),"MM/dd/yy");
           alert.event_date_time = publishedDateFormat+" "+alert.event_date;
         })
-        sessionStorage.setItem('customerEvents', JSON.stringify(Customerevents));
+        //sessionStorage.setItem('customerEvents', JSON.stringify(Customerevents));
         this.allcustomerEvents = Customerevents;
       })
     }
