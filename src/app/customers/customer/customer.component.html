@@ -4,10 +4,11 @@
         <app-top-navigation></app-top-navigation>
         <div class="content-outlet">
             <div class="pb-1">
-                <span class="text-white text-small"><a href="/" class="text-white text-small">Home </a></span><span class="text-white text-small">> </span><span class="text-white text-small">Customer Profile </span>
+                <span class="text-white text-small"><a href="/" class="text-white text-small">Home </a></span><span
+                    class="text-white text-small">> </span><span class="text-white text-small">Customer Profile </span>
             </div>
-            <div class="row card-container" >
-                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+            <div class="row card-container">
+                <!-- <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <app-customer-identity></app-customer-identity>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
@@ -17,10 +18,15 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <app-customer-graphs></app-customer-graphs>
                     <app-customer-similar></app-customer-similar>
-                </div>
-                <!--<div *ngFor="let widget of widgetPositions; let i = index;" [ngClass]="{'col-md-4 col-lg-4 col-sm-12': widget.size === 1, 'col-md-8 col-lg-8 col-sm-16': widget.size === 2, 'col-md-12 col-lg-12 col-sm-20': widget.size === 3}" cdkDragBoundary=".row" cdkDrag>
+                </div> -->
+                <div *ngFor="let widget of widgetPositions; let i = index" [ngClass]="{
+            'col-md-4 col-lg-4 col-sm-12': widget.size === 1,
+            'col-md-8 col-lg-8 col-sm-16': widget.size === 2,
+            'col-md-12 col-lg-12 col-sm-20': widget.size === 3
+          }" cdkDragBoundary=".row" cdkDrag>
                     <span *ngIf="widget.name === 'newsalerts'">
                         <app-customer-identity></app-customer-identity>
+                        <app-insights [isFull]="widget.isFull" [widget2]="widget.name"></app-insights>
                     </span>
                     <span *ngIf="widget.name === 'customerMenu'">
                         <app-customer-contacts></app-customer-contacts>
@@ -30,8 +36,7 @@
                         <app-customer-graphs></app-customer-graphs>
                         <app-customer-similar></app-customer-similar>
                     </span>
-                </div>-->
-
+                </div>
             </div>
             <div>
                 <app-footer></app-footer>

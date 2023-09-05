@@ -37,10 +37,8 @@ export class DashboardComponent implements OnInit {
   }
 
   getSelectedDashboard(widgetName: any) {
-  
     this.service.setCustomerType(widgetName);
     this.dashboardService.pageName = "dashboard";
-    this.service.customerType = widgetName;
     this.widgetPositions = [];
     this.dashboardService.widgetPositions=[];
     if (this.service.customerType === "healthcare") {

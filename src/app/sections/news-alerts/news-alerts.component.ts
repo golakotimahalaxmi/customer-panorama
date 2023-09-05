@@ -104,7 +104,7 @@ export class NewsAlertsComponent implements OnInit {
   }
 
   // method used for open the widget into modal popup to show entire data.
-  openModal() {
+  openModal() {   
       this.modalService.open(this.modalName);
   }
   closeModal() {

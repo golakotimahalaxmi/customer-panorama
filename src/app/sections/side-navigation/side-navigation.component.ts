@@ -144,7 +144,9 @@ export class SideNavigationComponent implements OnInit {
     this.home_icon = false;
     this.analytics_icon = true;
     this.features_icon = true;
-   this.openDirectWidget.emit(selectvalue)
+    this.service.customerType = selectvalue;
+    this.router.navigate(["/dashboard"]);
+    this.openDirectWidget.emit(selectvalue);   
    this.displayStyle = "none";
   }
 
@@ -161,7 +163,9 @@ export class SideNavigationComponent implements OnInit {
     this.features_icon=false;
     this.analytics_icon = true;
     this.home_icon = false;
-    this.setting_icon= true;
+    this.setting_icon = true;  
   }
-
+  getfeature(val: any) {
+    this.modelService.open(val);
+  }
 }

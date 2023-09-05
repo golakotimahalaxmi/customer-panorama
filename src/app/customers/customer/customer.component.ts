@@ -17,7 +17,11 @@ export class CustomerComponent implements OnInit {
 
   constructor(private route: ActivatedRoute, private service: CustomerService, private dashboardService: DashboardService) {
     this.dashboardService.pageName = "customer"
-    this.widgetPositions;
+    // this.widgetPositions;
+    // this.stackHolderName = "healthcare";
+    this.dashboardService.widgetPositions =
+      this.dashboardService.small_biz_Widget;
+    this.widgetPositions = this.dashboardService.widgetPositions;
   }
 
   ngOnInit() {
