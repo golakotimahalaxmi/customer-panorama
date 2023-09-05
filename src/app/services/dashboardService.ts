@@ -9,7 +9,7 @@ export class DashboardService {
   pageName: string;
   widgetPositions: widget[];
   corporate_Widget: widget[] = [
-    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
+    { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
   ];
@@ -27,7 +27,7 @@ export class DashboardService {
   ];
   
   transportation_Widget: widget[] = [
-    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
+    { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
   ];
