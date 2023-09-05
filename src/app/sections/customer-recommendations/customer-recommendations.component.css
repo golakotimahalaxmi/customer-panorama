@@ -3,7 +3,7 @@
     font-size: 12px!important;
     text-align: center!important;
     padding: 0.2rem;
-    background-color: #e3e3e3;
+    background-color:  rgba(29, 173, 143, 0.20) !important;;
 }
 .probData {
     display: flex;
@@ -31,6 +31,7 @@
     display: flex;
     flex-wrap: wrap;
     box-shadow: 0px 2px 3px 0px #00000033;
+    
 }
 
 .productname{
@@ -51,3 +52,12 @@
     overflow-y:scroll;
 }
 
+.margin-center{
+  top: 50%;
+  left: 50%; 
+  margin:auto;
+}
+
+jw-modal .jw-modal .jw-modal-body{
+    margin: 60px 5px 5px 75px !important;
+}
