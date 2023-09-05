@@ -1,157 +1,157 @@
 <div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}">
-<!-- (dblclick)="openModal()" -->
-    <div class="card-row" (dblclick)="openModal()"> 
-        <div class="col-lg-6 col-md-8 col-sm-8 col-6">
-            <div class="card-header" tooltip="{{funding_tooltip}}" placement="bottom">
-                {{allHeadings.funding}}
+    <!-- (dblclick)="openModal()" -->
+        <div class="card-row header-bg-clr" (dblclick)="openModal()"> 
+            <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+                <div class="card-header fc-white" tooltip="{{funding_tooltip}}" placement="bottom">
+                    {{allHeadings.funding}}
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+                <app-widget-menu [modalName]="modalName"></app-widget-menu>
             </div>
         </div>
-        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
-            <app-widget-menu [modalName]="modalName"></app-widget-menu>
-        </div>
-    </div>
-    <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,'widger-scoller-half-data': !isFull}" style="overflow-y: auto!important;">
-        <!-- <img src="assets/images/funding@2x.png" style="width:100%"> -->
-    <table class="w-100">
-        <tr  class="p-3">
-            <th class="width-30 head-style funding text-center" >Customer</th>
-            <th class="width-30 date-style funding text-center" >Total Rounds|TFA</th>
-            <th class="width-40 funding text-center"  >Latest round details</th>
-        </tr>
-        <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow p-3 shadow">
-            <td class="width-30 funding-head pr-2 funding">{{data.customer_name }}</td>
-            <td class="width-30 date-style funding ">
-                <div style="display : flex;flex-direction : row;">
-                    <div class="line-border mr-5" ></div>
-                    <div class="text-center">
-                        <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
-                        <span *ngIf="data.Funding_Rounds===''">N/A</span>
-                    </div>
-                </div> 
-            </td>
-            <td class="width-40 funding">
-                <div style="display : flex;flex-direction : row;">
-                    <div class="line-border mr-5" ></div>
-                    <div class="">
-                        <p class="pb-0">{{data.Money_Raised}} </p>
-                        <p>{{data.monthNumber}}</p>
-                    </div>
-                </div> 
+        <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,'widger-scoller-half-data': !isFull}" style="overflow-y: auto!important;">
+            <!-- <img src="assets/images/funding@2x.png" style="width:100%"> -->
+        <table class="w-100">
+            <tr  class="p-3 ">
+                <th class="width-30 head-style funding text-center bg-green-light" >Customer</th>
+                <th class="width-30 date-style funding text-center bg-green-light" >Total Rounds|TFA</th>
+                <th class="width-40 funding text-center bg-green-light" >Latest round details</th>
+            </tr>
+            <tr *ngFor="let data of funding_dataList" class="b-shadow p-0 shadow">
+                <td class="width-30 funding-head fc-green fs-14 ff-psb pr-2 funding p-0 pt-3">{{data.customer_name }}</td>
+                <td class="width-30 date-style  p-0 pt-3">
+                    <div style="display : flex;flex-direction : row;">
+                        <div class="line-border mr-5" ></div>
+                        <div class="text-center pt-3">
+                            <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
+                            <span *ngIf="data.Funding_Rounds===''">N/A</span>
+                        </div>
+                    </div> 
                 </td>
+                <td class="width-40 funding p-0 pt-3">
+                    <div style="display : flex;flex-direction : row;">
+                        <div class="line-border mr-5" ></div>
+                        <div class="">
+                            <p class="pb-0">{{data.Money_Raised}} </p>
+                            <p>{{data.monthNumber}}</p>
+                        </div>
+                    </div> 
+                    </td>
+            </tr>
+        </table>
+            <!-- <img *ngIf="isfull" src="assets/images/funding-half@2x.png"> -->
+     
+              <!--<table class="card-main table custom-table-styles">
+                  <thead class="table-header-class overflow-stylings-thead">
+                      <th class="tr-heading width-14 text-left">
+                          <span class="pl-1" tooltip="{{allHeadings.tip_funding_customer}}" placement="bottom">Customer</span>
+                      </th>
+                     <th class="width-2"></th>
+                     <th class="tr-heading  width-58 text-center">
+                          <span  tooltip="{{allHeadings.tip_funding_details}}" placement="bottom">Funding Details</span>
+                    </th>
+                    <th class="tr-heading width-10 text-left">
+                          <span tooltip="{{allHeadings.tip_funding_round}}" placement="bottom" class="ml-left">Round</span>
+                    </th>
+                    <th class="tr-heading width-14 text-left"><span tooltip="{{allHeadings.tip_funding_total}}" placement="bottom" class="tooltip1 ml-left">TFA</span></th>
+                  </thead>
+                  <tbody [ngClass]="{'overflow-stylings-tbody-full': isFull,'overflow-stylings-tbody': !isFull}">
+                      
+                      <tr class="row" *ngFor="let fund of sortFundingsOnDate()">
+                         <td class="text-center mr-2 pt-1 customer-logo-icon width-14">
+                            <img *ngIf="fund.Logo_Name != ''" class="fundIcon" src="assets/images/logos/{{fund.Logo_Name}}" alt="source-images">
+                            <img *ngIf="fund.Logo_Name === ''" class="fundIcon" src="assets/images/icons/company.png" alt="source-images">
+                         </td> 
+                         <td class="width-2"></td>
+                       <td class="width-58">
+                            <table class="width-100 fundingRelatedtable">   
+                               <tbody>
+                                <tr>
+                                    <td class="width-5"></td>
+                                    <td class="width-45 tab-content-text text-left">Type:</td>
+                                    <td class="width-50 text-left font-fund-data">{{fund.Type_Of_Funding}}</td>
+                                    
+                                  </tr>
+                                  <tr>
+                                    <td class="width-5"></td>
+                                   <td class="width-45 tab-content-text text-left">Money Raised:</td>
+                                   <td class="width-50 text-left numbers-text green-numbers">{{fund.Money_Raised}}</td>
+                                   
+                                 </tr>
+                                 <tr>
+                                    <td class="width-5"></td>
+                                    <td class="width-45 tab-content-text text-left">Date:</td>
+                                   <td class="width-50 text-left grey-numbers">{{fund.Funding_Announced_On}}</td>
+                                   
+                                 </tr>
+                               </tbody>
+                            </table>
+                         </td> 
+                         <td class="text-left blue-numbers width-10 numbers-text" *ngIf="fund.Funding_Rounds < 10">0{{fund.Funding_Rounds}}</td>
+                         <td class="text-left blue-numbers width-10 numbers-text" *ngIf="fund.Funding_Rounds > 10">{{fund.Funding_Rounds}}</td>
+                         <td class="text-left green-numbers width-14 numbers-text">
+                             {{fund.Total_Funding_Amount}}</td>
+                      </tr>
+                   
+                  </tbody>
+              </table>-->
+          </div>
+    
+    </div>
+    
+    <!-- expanded view modal for customer recommendations-->
+    <jw-modal id={{modalName}}>
+    <!--<div class="card-container">-->
+    <div class="card-navbar header-bg-clr">
+        <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
+        <form class="form-inline mr-auto">
+        <div class="input-group">
+            <input type="text" class="form-control search-main bg-light border-0 small"
+            [placeholder]="allHeadings.placeholderInsideModal">
+            <!--<div class="input-group-append">
+                <button class="btn btn-search" type="button">
+                Search
+                </button>
+            </div>-->
+        </div>
+        </form>
+    
+        <div class="navbar-menu-wrapper m-0 p-0 link-point">
+        <div class="m-0 p-0 dropdown d-flex float-right">
+            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+        </div>
+        </div>
+    <!-- content goes here-->
+    </div>
+    <div class="h-100" style="overflow-y: auto!important;">
+    <table class="sizing w-100 text:center " >
+        <tr class="text-center">
+            <th class="expanded-funding">Customer</th>
+            <th class="date-style  expanded-funding">Total Rounds|TFA</th>
+            <th class="expanded-funding">Latest round details</th>
         </tr>
-    </table>
-        <!-- <img *ngIf="isfull" src="assets/images/funding-half@2x.png"> -->
- 
-          <!--<table class="card-main table custom-table-styles">
-              <thead class="table-header-class overflow-stylings-thead">
-                  <th class="tr-heading width-14 text-left">
-                      <span class="pl-1" tooltip="{{allHeadings.tip_funding_customer}}" placement="bottom">Customer</span>
-                  </th>
-                 <th class="width-2"></th>
-                 <th class="tr-heading  width-58 text-center">
-                      <span  tooltip="{{allHeadings.tip_funding_details}}" placement="bottom">Funding Details</span>
-                </th>
-                <th class="tr-heading width-10 text-left">
-                      <span tooltip="{{allHeadings.tip_funding_round}}" placement="bottom" class="ml-left">Round</span>
-                </th>
-                <th class="tr-heading width-14 text-left"><span tooltip="{{allHeadings.tip_funding_total}}" placement="bottom" class="tooltip1 ml-left">TFA</span></th>
-              </thead>
-              <tbody [ngClass]="{'overflow-stylings-tbody-full': isFull,'overflow-stylings-tbody': !isFull}">
-                  
-                  <tr class="row" *ngFor="let fund of sortFundingsOnDate()">
-                     <td class="text-center mr-2 pt-1 customer-logo-icon width-14">
-                        <img *ngIf="fund.Logo_Name != ''" class="fundIcon" src="assets/images/logos/{{fund.Logo_Name}}" alt="source-images">
-                        <img *ngIf="fund.Logo_Name === ''" class="fundIcon" src="assets/images/icons/company.png" alt="source-images">
-                     </td> 
-                     <td class="width-2"></td>
-                   <td class="width-58">
-                        <table class="width-100 fundingRelatedtable">   
-                           <tbody>
-                            <tr>
-                                <td class="width-5"></td>
-                                <td class="width-45 tab-content-text text-left">Type:</td>
-                                <td class="width-50 text-left font-fund-data">{{fund.Type_Of_Funding}}</td>
-                                
-                              </tr>
-                              <tr>
-                                <td class="width-5"></td>
-                               <td class="width-45 tab-content-text text-left">Money Raised:</td>
-                               <td class="width-50 text-left numbers-text green-numbers">{{fund.Money_Raised}}</td>
-                               
-                             </tr>
-                             <tr>
-                                <td class="width-5"></td>
-                                <td class="width-45 tab-content-text text-left">Date:</td>
-                               <td class="width-50 text-left grey-numbers">{{fund.Funding_Announced_On}}</td>
-                               
-                             </tr>
-                           </tbody>
-                        </table>
-                     </td> 
-                     <td class="text-left blue-numbers width-10 numbers-text" *ngIf="fund.Funding_Rounds < 10">0{{fund.Funding_Rounds}}</td>
-                     <td class="text-left blue-numbers width-10 numbers-text" *ngIf="fund.Funding_Rounds > 10">{{fund.Funding_Rounds}}</td>
-                     <td class="text-left green-numbers width-14 numbers-text">
-                         {{fund.Total_Funding_Amount}}</td>
-                  </tr>
-               
-              </tbody>
-          </table>-->
-      </div>
-
-</div>
-
-<!-- expanded view modal for customer recommendations-->
-<jw-modal id={{modalName}}>
-<!--<div class="card-container">-->
-<div class="card-navbar header-bg-clr">
-    <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
-    <form class="form-inline mr-auto">
-    <div class="input-group">
-        <input type="text" class="form-control search-main bg-light border-0 small"
-        [placeholder]="allHeadings.placeholderInsideModal">
-        <!--<div class="input-group-append">
-            <button class="btn btn-search" type="button">
-            Search
-            </button>
-        </div>-->
+        <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
+    
+              <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow  shadow ">
+                <td class="funding-head  fc-green fs-14 ff-psb expanded-funding w-35">{{data.customer_name}}</td>
+                <td class="date-style expanded-funding w-35">
+                    <div style="display : flex;flex-direction : row;">
+                        <div class="line-border float-left" ></div>
+                        <div style="justify-content: center; margin: left 50px;"  class="center">
+                            <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
+                            <span *ngIf="data.Funding_Rounds===''">N/A</span>
+                        </div>
+                    </div> 
+                </td>
+                <td class=" expanded-funding w-30">
+                    <div style="display : flex;flex-direction : row; " >
+                        <div class="line-border float-left " ></div>
+                        <div class="center " ><ul ><li>{{data.Money_Raised}}</li><li>{{data.monthNumber}}</li></ul></div>
+                    </div> 
+                </td>
+              </tr>
+    
+        </table>
     </div>
-    </form>
-
-    <div class="navbar-menu-wrapper m-0 p-0 link-point">
-    <div class="m-0 p-0 dropdown d-flex float-right">
-        <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
-    </div>
-    </div>
-<!-- content goes here-->
-</div>
-<div class="h-100" style="overflow-y: auto!important;">
-<table class="sizing w-100 text:center " >
-    <tr class="text-center">
-        <th class="expanded-funding">Customer</th>
-        <th class="date-style  expanded-funding">Total Rounds|TFA</th>
-        <th class="expanded-funding">Latest round details</th>
-    </tr>
-    <!-- <img src="assets/images/funding-expand@2x.png" style="width:100%"> -->
-
-          <tr *ngFor="let data of funding_dataList" class="bottom-edge-shadow  shadow ">
-            <td class="funding-head  expanded-funding w-35">{{data.customer_name}}</td>
-            <td class="date-style expanded-funding w-35">
-                <div style="display : flex;flex-direction : row;">
-                    <div class="line-border float-left" ></div>
-                    <div style="justify-content: center; margin: left 50px;"  class="center">
-                        <span *ngIf="data.Funding_Rounds!='' || data.Total_Funding_Amount!='' ">{{data.Funding_Rounds}} {{data.Total_Funding_Amount}}</span>
-                        <span *ngIf="data.Funding_Rounds===''">N/A</span>
-                    </div>
-                </div> 
-            </td>
-            <td class=" expanded-funding w-30">
-                <div style="display : flex;flex-direction : row; " >
-                    <div class="line-border float-left " ></div>
-                    <div class="center " ><ul ><li>{{data.Money_Raised}}</li><li>{{data.monthNumber}}</li></ul></div>
-                </div> 
-            </td>
-          </tr>
-
-    </table>
-</div>
-</jw-modal>
+    </jw-modal>

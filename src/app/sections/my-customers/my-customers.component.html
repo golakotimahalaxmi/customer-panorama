@@ -1,7 +1,7 @@
 <div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
-            <div class="card-header fs-14 ff-psb fc-black" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
+            <div class="card-header fs-14 ff-psb fc-white" tooltip="{{allHeadings.tip_home_accounts_exp_title}}" placement="bottom">
                 {{allHeadings.myAccount}}
             </div>
         </div>
@@ -107,7 +107,7 @@
 
     <div class="table-fit">
         <table class="table customers-table">
-            <thead class="overflow-stylings-thead table-header-bg">
+            <thead class="overflow-stylings-thead  bg-green-light">
                 <tr>
                     <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth" tooltip="{{allHeadings.tip_home_accounts_exp_col_customer}}" placement="bottom">Customer</th>
                     <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">CDW Highlights</th>

@@ -1,7 +1,7 @@
 <div class="card event" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row header-bg-clr" (dblclick)="openModal()"><!--(dblclick)="openModal()"-->
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
-            <div class="card-header" *ngIf="allHeadings != undefined" tooltip="{{allHeadings.tip_home_events_widget_title}}" placement="bottom">
+            <div class="card-header fc-white" *ngIf="allHeadings != undefined" tooltip="{{allHeadings.tip_home_events_widget_title}}" placement="bottom">
                 {{allHeadings.customerEvents}}
             </div>
         </div>
@@ -21,7 +21,7 @@
                 <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'CDW Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
                 </div>
                 <div class="col-md-6 event-company pt-3">
-                    <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field">{{event.customer_name}}</a></p>
+                    <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field fc-green">{{event.customer_name}}</a></p>
                     <p class="companyTitle" tooltip="{{event.description}}" placement="bottom">{{event.title}}</p>
                 </div>
                 <div class="col-md-2 event-logo">

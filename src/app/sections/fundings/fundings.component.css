@@ -1,184 +1,179 @@
 .color-style-span {
-    display: inline-block;
-    color: grey;
-    font-size: 10px;
-  }
+  display: inline-block;
+  color: grey;
+  font-size: 10px;
+}
 .round-funding-variable-styling {
-  margin-left: -5rem;
+margin-left: -5rem;
 }
 .tfa-styling {
-  margin-left: 10%;
+margin-left: 10%;
 }
 .width-100 {
-  width: 100%!important;
+width: 100%!important;
 }
 
 .funding-details {
-  padding-top: 4px;
-  margin-left: 3%;
-  width: 28%!important;
+padding-top: 4px;
+margin-left: 3%;
+width: 28%!important;
 }
 
 .funding-details p {
-  margin-bottom: 0rem !important;
-  font-size: 10px;
-  font-family: 'Prelo-SemiBold', sans-serif !important;
-  margin-left: 18%;
+margin-bottom: 0rem !important;
+font-size: 10px;
+font-family: 'Prelo-SemiBold', sans-serif !important;
+margin-left: 18%;
 }
 
 .funding-round {
-  color: #007199;
-  font-size: 18px!important;
-  font-family: 'PreloCompressed-Bold', sans-serif !important;
-  font-weight: bold;
+color: #007199;
+font-size: 18px!important;
+font-family: 'PreloCompressed-Bold', sans-serif !important;
+font-weight: bold;
 }
 
 .funding-Moneyraised {
-  color: #F5B428;
-  font-size: 18px!important;
-  font-family: 'PreloCompressed-Bold', sans-serif !important;
-  font-weight: bold;
+color: #F5B428;
+font-size: 18px!important;
+font-family: 'PreloCompressed-Bold', sans-serif !important;
+font-weight: bold;
 }
 
 
 
 .table-header-class {
-  width: 100%;
+width: 100%;
 }
 
 .table-header-class .tr-heading {
-  font-family: 'Prelo-SemiBold', sans-serif !important;
-  font-size: 12px!important;
-  font-weight: bold;
-  }
+font-family: 'Prelo-SemiBold', sans-serif !important;
+font-size: 12px!important;
+font-weight: bold;
+}
 
 .text-align {
-  text-align: center!important;
+text-align: center!important;
 }
 
 .custom-table-styles td, .custom-table-styles th, .custom-table-styles tr {
-  padding: 0 0 0 0%!important;
-  border: 0px solid #dee2e6!important;
+padding: 0 0 0 0%!important;
+border: 0px solid #dee2e6!important;
 }
 
 .overflow-stylings-thead {
-  table-layout:fixed;
-  width: 100%;
-  line-height: 2rem;
+table-layout:fixed;
+width: 100%;
+line-height: 2rem;
 }
 
 .overflow-stylings-tbody {
-  max-height: 30vh;
-  height:30vh;
-  overflow-y:scroll;
-  display: block;
+max-height: 30vh;
+height:30vh;
+overflow-y:scroll;
+display: block;
 }
 
 .overflow-stylings-tbody-full {
-  max-height: 69vh;
-  height:69vh;
-  overflow-y:scroll;
-  display: block;
+max-height: 69vh;
+height:69vh;
+overflow-y:scroll;
+display: block;
 }
 
 .overflow-stylings-tbody-full td {
-  width: 25%;
+width: 25%;
 }
 
 .overflow-stylings-tbody-full tr {
-  margin: 10px 0px;
+margin: 10px 0px;
 }
 
 /* .width-td-funding {
-  width: 30%;
+width: 30%;
 } */
 
 
 .customers-table tr, .customers-table td {
-  border: 1px solid #c3dddd;
+border: 1px solid #c3dddd;
 }
 
 .overflow-stylings-tbody td {
-  width: 25%;
+width: 25%;
 }
 
 .overflow-stylings-tbody tr {
-  margin: 10px 0px;
+margin: 10px 0px;
 }
 
 .fundIcon {
-  width: 45px!important;
+width: 45px!important;
 }
 
 
 .font-fund-data {
-    font-size: 14px;
-    font-family: 'Prelo-SemiBold', sans-serif;
-    font-weight: bold;
+  font-size: 14px;
+  font-family: 'Prelo-SemiBold', sans-serif;
+  font-weight: bold;
 }
 .font-fund-date {
-  font-size: 10px!important;
-  font-family: 'Prelo-Bold', sans-serif;
-  font-weight: bold;
+font-size: 10px!important;
+font-family: 'Prelo-Bold', sans-serif;
+font-weight: bold;
 }
 
 .fundingRelatedtable tbody tr {
-  margin: 0!important;
+margin: 0!important;
 }
 .ml-left {
-  margin-left: -0.3rem;
+margin-left: -0.3rem;
 }
 .widger-scoller-half-data {
-  overflow: hidden!important;
+overflow: hidden!important;
 }
 .vertical {
-  border-left: 2px solid rgb(111, 111, 115);
-  height: 30px;
-  position: absolute;
-  margin-left: -3px;
+border-left: 2px solid rgb(111, 111, 115);
+height: 30px;
+position: absolute;
+margin-left: -3px;
 }
 
 .funding-head{
-  color: #1DAD8F;
-font-family: Poppins-SemiBold;
-font-size: 14px;
-font-style: normal;
-font-weight: 600;
 line-height: normal;
 text-align: center;
 }
 
 .one-edge-shadow{
-  box-shadow: 0 5px 6px -6px black;
+box-shadow: 0 5px 6px -6px black;
 }
 
 .funding{
-  padding:15px;
+padding:15px;
 }
 
 .expanded-funding{
-  padding:20px;
+padding:20px;
 }
 
 .line-border{
-  width: 2px !important;
-  height: 40px !important;
-  border-left: 1px solid #d3d3d3 !important;
+width: 2px !important;
+height: 40px !important;
+border-left: 1px solid #d3d3d3 !important;
 }
 
 th{
-  background-color: #1DAD8F33;
-  ;
+background-color: #1DAD8F33;
+;
 }
 
 ul,li{
-  list-style: none;
+list-style: none;
 }
 
 .center {
-  margin: auto;
-  left: 50%;
-  top: 50%;
+margin: auto;
+left: 50%;
+top: 50%;
 }
 
 
