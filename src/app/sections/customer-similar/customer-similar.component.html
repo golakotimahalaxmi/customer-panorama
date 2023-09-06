@@ -1,22 +1,55 @@
 <div class="card half-card">
-    <div class="card-row header-bg-clr" (dblclick)="openModal()">
+    <div class="card-row header-bg-clr  " (dblclick)="openModal()">
         <div class="col-lg-11 col-md-13 col-sm-13 col-11">
             <div class="card-header fc-white" tooltip="{{getAllheadings.tip_cp_partnerproducts_widget_title}}" placement="bottom">
                 {{getAllheadings.preferredPartnerProducts}}
             </div>
         </div>
-        <div class="col-lg-1 col-md-1 col-sm-1 col-1 text-right">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-1 text-right fc-white">
             <app-widget-menu [modalName]="modalName"></app-widget-menu>
         </div>        
     </div>
-    <div class="card-body p-0  widger-scoller-half pt-2">
+    <div class="card-body p-0  widger-scoller-half  ">
         <!--<div class="card-main">-->
-            <span class="pr-1"></span>
-            <img src="assets/images/ppp@2x.png" alt="Recommendations" style="height:85%">
-            <span class="pr-2"></span>
-            <img class="ml-2" src="assets/images/ppp-value@2x.png" style="width:44%">
+            <!-- <span class="pr-1"></span> -->
+            <!-- <img src="assets/images/ppp@2x.png" alt="Recommendations" style="height:85%"> -->
+            <!-- <span class="pr-2"></span> -->
+            <!-- <img class="ml-2" src="assets/images/ppp-value@2x.png" style="width:44%"> -->
                 <!--<app-bar-chart *ngIf="chartData" [data]="chartData"></app-bar-chart>-->
         <!--</div>-->
+        <table class="table ">
+            <thead class="table-header-bg">
+              <tr class="table-border">
+                <th scope="col" class="table-border">Metrics</th>
+                <th scope="col" class="table-border">Machinery Spend</th>
+                <th scope="col" class="table-border">Software Spend</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="table-boxshadow">
+                <td class="table-border">Product Category</td>
+                <td class="table-border">Cables
+                    $120K |83% |22%</td>
+                <td class="table-border">Data Center
+                    $29K |100% |4%</td>
+              </tr>
+              <tr class="table-boxshadow">
+                <td class="table-border">Product Group</td>
+                <td class="table-border">Thornton</td>
+                <td class="table-border">@fat</td>
+              </tr>
+              <tr class="table-boxshadow">
+                <td class="table-border">Brand</td>
+                <td class="table-border">the Bird</td>
+                <td class="table-border">@twitter</td>
+              </tr>
+              <tr class="table-boxshadow">
+                <td class="table-border">Product Division</td>
+                <td class="table-border">the Bird</td>
+                <td class="table-border">@twitter</td>
+              </tr>
+            </tbody>
+          </table>
     </div>
 </div>
 

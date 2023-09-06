@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {ActivatedRoute} from '@angular/router'
+import { ActivatedRoute } from '@angular/router'
 import { CustomerService } from 'src/app/services/customerService';
 import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 import { widget } from 'src/app/classesList/customer';
@@ -13,18 +13,30 @@ import { DashboardService } from 'src/app/services/dashboardService';
 export class CustomerComponent implements OnInit {
 
   refreshCustomerData: boolean;
-  widgetPositions:widget[];  
+  widgetPositions: widget[];
 
   constructor(private route: ActivatedRoute, private service: CustomerService, private dashboardService: DashboardService) {
     this.dashboardService.pageName = "customer"
     // this.widgetPositions;
-    // this.stackHolderName = "healthcare";
-    this.dashboardService.widgetPositions =
-      this.dashboardService.small_biz_Widget;
-    this.widgetPositions = this.dashboardService.widgetPositions;
+    // this.stackHolderName = "healthcare";   
   }
 
   ngOnInit() {
+    console.log(this.service.customerType)
+    if (this.service.customerType === "smallbusiness") {
+      this.dashboardService.widgetPositions =
+        this.dashboardService.corporate_Widget;
+      this.widgetPositions = this.dashboardService.widgetPositions;
+    } else if (this.service.customerType === "transportation") {
+      this.dashboardService.widgetPositions =
+        this.dashboardService.small_biz_Widget;
+      this.widgetPositions = this.dashboardService.widgetPositions;
+    } else {
+      this.dashboardService.widgetPositions =
+        this.dashboardService.small_business_Widget;
+      this.widgetPositions = this.dashboardService.widgetPositions;
+    }
+    console.log(this.service.getCustomerType())
   }
 
   onDrop(event: CdkDragDrop<string[]>) {

@@ -330,8 +330,8 @@ body .ui-widget {
 
 .widger-scoller-body {
   overflow-y: auto;
-  min-height: 65vh;
-  max-height: 65vh;
+  min-height: 67vh;
+  max-height: 67vh;
   overflow-x: hidden;
   margin-bottom: 10px;
 }

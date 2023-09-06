@@ -23,6 +23,7 @@ import {
   AccountManager_locations,
   Savefeedback,
   Viewcomments,
+  preferredPartnerProducts,
 } from "../classesList/customer";
 import { SortDirection } from "../directives/sortable.directive";
 
@@ -270,6 +271,9 @@ export class CustomerService {
     );
   }
 
+  //method for getting preffered_partners data
+
+
   storeCustomerCode(customerCode: string) {
     this.existedCustomerCode = customerCode;
   }
@@ -307,7 +311,7 @@ export class CustomerService {
     this.selectedGroupofCustomer = variable;
   }
 
-  setCustomerType(business: string) {   
+  setCustomerType(business: string) {
     this.customerType = business;
   }
 
@@ -326,6 +330,13 @@ export class CustomerService {
   getAccountManager_locations(): Observable<AccountManager_locations[]> {
     return this.http.get<AccountManager_locations[]>(
       "assets/data/" + this.customerType + "/international_managers.json"
+    );
+  }
+
+  //method for getting prefferd partners data
+  getpreferredPartnerProducts(): Observable<preferredPartnerProducts[]> {
+    return this.http.get<preferredPartnerProducts[]>(
+      "assets/data/" + this.customerType + "/preffered_partners.json"
     );
   }
 

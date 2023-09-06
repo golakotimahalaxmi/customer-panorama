@@ -165,5 +165,6 @@
 	"tip_accounts_trends_core": "Increase / Decrease in percentage of this year's company Spend on Core products compared to previous year",
     "tip_accounts_trends_its": "Increase / Decrease in percentage of this year's company Spend on Integrated Technology Solutions (VV2) products compared to previous year",
     "tip_contact_trends": "Contact's trends for calls and emails from company (compared to last year)",
-    "tip_contact_total_calls_emails":"Details of contact's current month calls and emails with company"
+    "tip_contact_total_calls_emails":"Details of contact's current month calls and emails with company",
+    "insightsId": "insights"
 }

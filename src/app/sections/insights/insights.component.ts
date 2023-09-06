@@ -33,24 +33,23 @@ export class InsightsComponent implements OnInit {
     this.getfirmographicsData();
   }
 
-  ngOnInit() {}
+  ngOnInit() { }
 
   // method for getAllHeadings
   getAllHedings() {
     if (this.dashboardService.storeAllheadings === undefined) {
       this.dashboardService.getAllheadings().subscribe((headings) => {
         this.allHeadings = headings;
-        this.modalName = this.allHeadings.fundingId;
+        this.modalName = this.allHeadings.insightsId;
       });
     } else {
       this.allHeadings = this.dashboardService.storeAllheadings;
-      this.modalName = this.allHeadings.fundingId;
+      this.modalName = this.allHeadings.insightsId;
     }
   }
 
   // method used for open the widget into modal popup to show entire data.
   openModal() {
-    console.log(this.modalName)
     this.modalService.open(this.modalName);
   }
 
@@ -70,6 +69,7 @@ export class InsightsComponent implements OnInit {
 
   // method for all calling the funds data for all customer
   getfirmographicsData() {
+    console.log(this.modalName)
     let insightsData = [];
     this.service.getInsights().subscribe((insightsResponse) => {
       // insightsResponse.forEach((insightsData) => {
@@ -83,7 +83,7 @@ export class InsightsComponent implements OnInit {
       this.sortingInsightsData();
     });
   }
-  
+
   sortingInsightsData() {
     const mydate = new Date();
     this.updatedData = this.sortedInsightsData.map((item) => {

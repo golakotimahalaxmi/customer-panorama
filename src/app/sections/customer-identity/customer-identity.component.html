@@ -1,5 +1,4 @@
-<!-- <div class="card card half-card mb-2"> -->
-    <div class="card mb-2">
+<div class="card card half-card mb-2" [ngClass]="{ 'half-card': !isFull, '': isFull }">
     <div class="card-row header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6" tooltip="{{getAllheadings.tip_cp_identity_widget_title}}" placement="bottom">
             <div class="card-header fc-white">
@@ -9,7 +8,7 @@
         <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
             <!--<app-widget-menu [modalName]="modalName"></app-widget-menu>-->
             <div class="btn-group card-dropdown" dropdown placement="bottom right">
-                <a dropdownToggle class="lines-dropdown fc-white" aria-controls="dropdown-alignment">
+                <a dropdownToggle class="lines-dropdown" aria-controls="dropdown-alignment">
                     <i class="fa fa-ellipsis-v"></i>
                 </a>
                 <ul *dropdownMenu class="dropdown-menu dropdown-menu-right custom-dropdown-styles" role="menu" aria-labelledby="button-alignment">
@@ -25,7 +24,7 @@
             </div>
         </div>
     </div>
-    <div class="card-body p-0  widger-scoller-half">
+    <div class="card-body p-0 " [ngClass]="{ 'widger-scoller-half': !isFull, '': isFull }">
         <div class="card-main">
             <div class="chats product-chart-wrapper ps p-0">
                 <div class="card-circle-progress">
