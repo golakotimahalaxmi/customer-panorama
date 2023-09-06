@@ -372,8 +372,8 @@
     "CustomerCode": 4274741,
     "CustomerDescription": "Bentek",
     "PeriodType": "P12TM",
-    "ItemTypeDescription": "Services (CDW Delivered) (J)",
-    "BrandDescription": "CDW SERVICES",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
     "GrossSales": 0,
     "CoworkerCode": "GV72"
   },
@@ -381,8 +381,8 @@
     "CustomerCode": 4274741,
     "CustomerDescription": "Bentek",
     "PeriodType": "PP12TM",
-    "ItemTypeDescription": "Services (CDW Delivered) (J)",
-    "BrandDescription": "CDW SERVICES",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
     "GrossSales": 0,
     "CoworkerCode": "GV72"
   },
@@ -2145,8 +2145,8 @@
     "CustomerCode": 11428733,
     "CustomerDescription": "Calithera Biosciences",
     "PeriodType": "PP12TM",
-    "ItemTypeDescription": "Services (CDW Delivered) (J)",
-    "BrandDescription": "CDW SERVICES",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
     "GrossSales": 0,
     "CoworkerCode": "GV72"
   },
@@ -2154,8 +2154,8 @@
     "CustomerCode": 11428733,
     "CustomerDescription": "Calithera Biosciences",
     "PeriodType": "P12TM",
-    "ItemTypeDescription": "Services (CDW Delivered) (J)",
-    "BrandDescription": "CDW SERVICES",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
     "GrossSales": 0,
     "CoworkerCode": "GV72"
   },

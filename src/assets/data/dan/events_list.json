@@ -49,7 +49,7 @@
     "title": "NRF Vision 2020. Retail's Big Show",
     "url": "https://nrfbigshow.nrf.com/",
     "source_uri": "",
-    "event_dataType": "CDW Event",
+    "event_dataType": "Company Event",
     "event_date": 8,
     "event_location": "New York City",
     "description": "NRF 2020: Retail’s Big Show is the centerpiece of NRF Retail Week, where the entire industry unites to get a whole new perspective."
@@ -60,10 +60,10 @@
     "title": "Exploring the PossibilITies of technology",
     "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812462",
     "source_uri": "",
-    "event_dataType": "CDW Event",
+    "event_dataType": "Company Event",
     "event_date": 12,
     "event_location": "Phoenix, AZ",
-    "description": "The world is changing fast, and CDW is here to help. Our Executive SummIT Series focuses on the technology trends and solutions that today's businesses are using to get ahead."
+    "description": "The world is changing fast, and Company is here to help. Our Executive SummIT Series focuses on the technology trends and solutions that today's businesses are using to get ahead."
   },
   {
     "customer_name": "Executive Dinner Series",
@@ -71,7 +71,7 @@
     "title": "Connecting you with people who Get IT",
     "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812463",
     "source_uri": "",
-    "event_dataType": "CDW Event",
+    "event_dataType": "Company Event",
     "event_date": 15,
     "event_location": "Costa Mesa, CA",
     "description": "Engage with leaders who can give you advice you can’t find anywhere else."
