@@ -69,7 +69,6 @@ export class InsightsComponent implements OnInit {
 
   // method for all calling the funds data for all customer
   getfirmographicsData() {
-    console.log(this.modalName)
     let insightsData = [];
     this.service.getInsights().subscribe((insightsResponse) => {
       // insightsResponse.forEach((insightsData) => {

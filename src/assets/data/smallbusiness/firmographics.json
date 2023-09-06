@@ -48,7 +48,9 @@
     "Region": "CA",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "San Jose, CA"
+    "headquarters": "San Jose, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "BitTorrent, Inc.",
@@ -99,7 +101,9 @@
     "Region": "CA",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"https://finance.yahoo.com/quote/BTT1-USD?p=BTT1-USD&.tsrc=fin-srch",
+    "stock_price" :"0.003183"
   },
   {
     "customer_name": "Blurb Inc",
@@ -150,7 +154,9 @@
     "Region": "CA",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Brit & Co",
@@ -201,7 +207,9 @@
     "Region": "",
     "country": "",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Calithera Biosciences",
@@ -252,7 +260,9 @@
     "Region": "",
     "country": "",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"https://finance.yahoo.com/quote/CALA?p=CALA&.tsrc=fin-srch",
+    "stock_price" :"0.8276"
   },
   {
     "customer_name": "Code Advisors",
@@ -303,7 +313,9 @@
     "Region": "",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Genapsys",
@@ -354,7 +366,9 @@
     "Region": "",
     "country": "",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Infostretch",
@@ -405,7 +419,9 @@
     "Region": "Silicon Valley, West Coast",
     "country": "",
     "country_logo": "",
-    "headquarters": "Santa Clara, CA"
+    "headquarters": "Santa Clara, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Panzura, Inc.",
@@ -456,7 +472,9 @@
     "Region": "",
     "country": "",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Veracyte",
@@ -507,7 +525,9 @@
     "Region": "",
     "country": "",
     "country_logo": "",
-    "headquarters": "San Fransisco, CA"
+    "headquarters": "San Fransisco, CA",
+    "stocks_link ":"https://finance.yahoo.com/quote/VCYT?p=VCYT&.tsrc=fin-srch",
+    "stock_price" :"41.48"
   },
   {
     "customer_name": "Bear Flag Robotics",
@@ -558,7 +578,9 @@
     "Region": "Silicon Valley, West Coast",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "Sunnyvale, California"
+    "headquarters": "Sunnyvale, California",
+    "stocks_link ":"",
+    "stock_price" :""
   },
   {
     "customer_name": "Guidebook",
@@ -609,6 +631,8 @@
     "Region": "West Coast",
     "country": "USA",
     "country_logo": "",
-    "headquarters": "San Francisco, CA"
+    "headquarters": "San Francisco, CA",
+    "stocks_link ":"",
+    "stock_price" :""
   }
 ]

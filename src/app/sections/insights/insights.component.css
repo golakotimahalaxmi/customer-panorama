@@ -19,3 +19,12 @@
     font-weight:600 ;
     color: #000000; 
 }
+
+ .eventDate{
+    text-transform: capitalize;
+    height:17px;   
+    color: #8C8C8C;
+    font-family: Poppins-Regular;
+    font-size: 11px;
+    margin-bottom: 2px;
+  }

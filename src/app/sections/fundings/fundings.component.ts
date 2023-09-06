@@ -97,7 +97,6 @@ export class FundingsComponent implements OnInit {
     else{
       fundingData_item['monthNumber']='N/A';
     }
-    console.log(fundingData);
   })
     
       

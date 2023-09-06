@@ -40,57 +40,79 @@ export class DashboardComponent implements OnInit {
     this.service.setCustomerType(widgetName);
     this.dashboardService.pageName = "dashboard";
     this.widgetPositions = [];
-    this.dashboardService.widgetPositions=[];
-    if (this.service.customerType === "healthcare") {
-      this.stackHolderName = "healthcare";
-      this.dashboardService.widgetPositions =
-        this.dashboardService.small_biz_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "smallbusiness") {
-      this.stackHolderName = "smallbusiness";
-      this.dashboardService.widgetPositions =
+    this.dashboardService.widgetPositions = [];
+    switch (this.service.customerType) { 
+      case "corporate": {
+        this.stackHolderName = "corporate";
+        this.dashboardService.widgetPositions =
+        this.dashboardService.corporate_Widget;
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;      
+      }
+      case "healthcare": {
+        this.stackHolderName = "healthcare";
+        this.dashboardService.widgetPositions =
+        this.dashboardService.corporate_Widget;
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "smallbusiness": {
+        this.stackHolderName = "smallbusiness";
+        this.dashboardService.widgetPositions =
         this.dashboardService.small_business_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "insurace") {
-      this.stackHolderName = "insurance";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "food-beverages": {
+        this.stackHolderName = "food-beverages";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "retail") {
-      this.stackHolderName = "retail";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "retail": {
+        this.stackHolderName = "retail";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "automotive") {
-      this.stackHolderName = "automotive";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "insurance": {
+        this.stackHolderName = "insurance";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "food-beverages") {
-      this.stackHolderName = "food-beverages";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "technology": {
+        this.stackHolderName = "technology";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "transportation") {
-      this.stackHolderName = "transportation";
-      this.dashboardService.widgetPositions =
-        this.dashboardService.transportation_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    } else if (this.service.customerType === "petroleum") {
-      this.stackHolderName = "petroleum";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "petroleum": {
+        this.stackHolderName = "petroleum";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;}
-    else if (this.service.customerType === "technology") { 
-      this.stackHolderName = "technology";
-       this.dashboardService.widgetPositions = this.dashboardService.corporate_Widget; 
-       this.widgetPositions = this.dashboardService.widgetPositions; }
-    else {
-      this.stackHolderName = "corporate";
-      this.dashboardService.widgetPositions =
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      } 
+      case "transportation": {
+        this.stackHolderName = "transportation";
+        this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
-      this.widgetPositions = this.dashboardService.widgetPositions;
-    }
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }
+      case "automotive": {
+        this.stackHolderName = "automotive";
+        this.dashboardService.widgetPositions =
+        this.dashboardService.corporate_Widget;
+        this.widgetPositions = this.dashboardService.widgetPositions;
+        break;
+      }  
+    }    
     this.getAllHedings();
   }
 

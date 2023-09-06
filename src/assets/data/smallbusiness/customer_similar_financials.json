@@ -1,0 +1,758 @@
+[
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": "Media & Entertainment",
+        "GrossSales": 1301850.03
+    },
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "5am Ventures",
+        "PeriodType": "C12TM",
+        "ItemType": "Media & Entertainment",
+        "GrossSales": 1102002.06
+    },
+    {   
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Holzmueller Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Media & Entertainment",
+        "GrossSales": 1551980.17
+    },
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "5am Ventures",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 82049.03
+    },
+    {   
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Holzmueller Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Financial Services",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": "Healthcare & Life Sciences",
+        "GrossSales": 81899.05
+    },
+    {
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "5am Ventures",
+        "PeriodType": "C12TM",
+        "ItemType": "Healthcare & Life Sciences",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 10903960,
+        "SimilarCustomerDescription": "Holzmueller Corporation",
+        "PeriodType": "C12TM",
+        "ItemType": "Healthcare & Life Sciences",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "associations ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "associations ",
+        "GrossSales": 1092012.04
+    },
+    {   
+        "CustomerCode":12103691,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "associations ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "Events",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "Events",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Events",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "venues",
+        "GrossSales": 94880.01
+    },
+    {
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "venues",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 12103691,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "venues",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Large Order Services",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "Large Order Services",
+        "GrossSales": 1302042.01
+    },
+    {   
+        "CustomerCode":9879048,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "Large Order Services",
+        "GrossSales": 1051985.10
+    },
+    {
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "API PRINTING SERVICES",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "API PRINTING SERVICES",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "API PRINTING SERVICES",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "PHOTO BOOKS",
+        "GrossSales": 71855.07
+    },
+    {
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "PHOTO BOOKS",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 9879048,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "PHOTO BOOKS",
+        "GrossSales": 90980.45
+    },
+{
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Ethypharm",
+        "PeriodType": "C12TM",
+        "ItemType": "Ethypharm",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "Supply Chain Solutions",
+        "GrossSales": 1092804.01
+    },
+    {   
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "Supply Chain Solutions",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Ethypharm",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "Transportation Logistics",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Ethypharm",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Info Image",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 11428733,
+        "SimilarCustomerDescription": "Codar Ocean Sensors",
+        "PeriodType": "C12TM",
+        "ItemType": "Truck Leasing",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": "BIOPHARMA SERVICES",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "BIOPHARMA SERVICES",
+        "GrossSales": 1492002.01
+    },
+    {   
+        "CustomerCode":11147852,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "BIOPHARMA SERVICES",
+        "GrossSales": 1051980.15
+    },
+    {
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": " IVD SERVICES",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "IVD SERVICES",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "IVD SERVICES",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": "Immunoscore",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "Immunoscore",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 11147852,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "Immunoscore",
+        "GrossSales": 91907.45
+    },
+{
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": " kitchen products",
+        "GrossSales": 130100.01
+    },
+    {
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": " kitchen products",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Genapsys",
+        "PeriodType": "C12TM",
+        "ItemType": " kitchen products",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": "automotive",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "automotive",
+        "GrossSales": 98002.01
+    },
+    {   
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Genapsys",
+        "PeriodType": "C12TM",
+        "ItemType": "automotive",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": "Arts & Crafts",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "Arts & Crafts",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 12113454,
+        "SimilarCustomerDescription": "Genapsys",
+        "PeriodType": "C12TM",
+        "ItemType": "Arts & Crafts",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "Actiontec Electronics",
+        "GrossSales": 1551080.01
+    },
+    {
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "Actiontec Electronics",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": "Actiontec Electronics",
+        "GrossSales": 1251900.10
+    },
+    {
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":11470598,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 900482.01
+    },
+    {   
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 144080.45
+    },
+    {
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "softwares",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "softwares",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 11470598,
+        "SimilarCustomerDescription": "Berliner Cohen",
+        "PeriodType": "C12TM",
+        "ItemType": "softwares",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": "SEMICONDUCTOR SEQUENCING CHIPS",
+        "GrossSales": 1201880.01
+    },
+    {
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "SEMICONDUCTOR SEQUENCING CHIPS",
+        "GrossSales": 1192002.01
+    },
+    {   
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "SEMICONDUCTOR SEQUENCING CHIPS",
+        "GrossSales": 1051900.15
+    },
+    {
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": "DETECTION TECHNOLOGY",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": "DETECTION TECHNOLOGY",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": "DETECTION TECHNOLOGY",
+        "GrossSales": 121000.45
+    },
+    {
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Brit & Co",
+        "PeriodType": "C12TM",
+        "ItemType": " Services",
+        "GrossSales": 51040.01
+    },
+    {
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Tithof Tile & Marble",
+        "PeriodType": "C12TM",
+        "ItemType": " Services",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 11936896,
+        "SimilarCustomerDescription": "Thomas Foods",
+        "PeriodType": "C12TM",
+        "ItemType": " Services",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": "HEALTHCARE ",
+        "GrossSales": 1301090.01
+    },
+    {
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "HEALTHCARE ",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "HEALTHCARE ",
+        "GrossSales": 1201089.15
+    },
+    {
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": "REMOTE DEVICE MANAGEMENT PLATFORM",
+        "GrossSales": 51078.01
+    },
+    {
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "REMOTE DEVICE MANAGEMENT PLATFORM",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "REMOTE DEVICE MANAGEMENT PLATFORM",
+        "GrossSales": 150030.45
+    },
+    {
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": "DEVOPS",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 10848538,
+        "SimilarCustomerDescription": "Bentek",
+        "PeriodType": "C12TM",
+        "ItemType": "DEVOPS",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":10848538,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "DEVOPS",
+        "GrossSales": 91590.45
+    },
+{
+        "CustomerCode":9613090,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Web",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Web",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":9613090,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Web",
+        "GrossSales": 1051080.15
+    },
+    {
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": " BitTorrent Classic",
+        "GrossSales": 58410.08
+    },
+    {
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": " BitTorrent Classic",
+        "GrossSales": 70402.01
+    },
+    {   
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": " BitTorrent Classic",
+        "GrossSales": 101655.15
+    },
+    {
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Clear Labs",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Android",
+        "GrossSales": 79500.01
+    },
+    {
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Guidebook",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Android",
+        "GrossSales": 103102.00
+    },
+    {   
+        "CustomerCode": 9613090,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": "BitTorrent Android",
+        "GrossSales": 90050.10
+    },
+{
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "Tractors",
+        "GrossSales": 1501850.03
+    },
+    {
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "Tractors",
+        "GrossSales": 1402002.06
+    },
+    {   
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Tractors",
+        "GrossSales": 1551980.17
+    },
+    {
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 82049.03
+    },
+    {   
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Guittard Chocolate Co",
+        "PeriodType": "C12TM",
+        "ItemType": "Panorama Antennas",
+        "GrossSales": 85899.05
+    },
+    {
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Four Corners Property Trust",
+        "PeriodType": "C12TM",
+        "ItemType": "Panorama Antennas",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 12805792,
+        "SimilarCustomerDescription": "Forde Mazzola Assoc Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Panorama Antennas",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": "ENGINEERING NPI SERVICES ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "ENGINEERING NPI SERVICES ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":4274741,
+        "SimilarCustomerDescription": "Code Advisors",
+        "PeriodType": "C12TM",
+        "ItemType": "ENGINEERING NPI SERVICES ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": "TURNKEY PRODUCTION",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "TURNKEY PRODUCTION",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Code Advisors",
+        "PeriodType": "C12TM",
+        "ItemType": "TURNKEY PRODUCTION",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Infostretch",
+        "PeriodType": "C12TM",
+        "ItemType": "Robotics",
+        "GrossSales": 91890.01
+    },
+    {
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Internet Archive",
+        "PeriodType": "C12TM",
+        "ItemType": "Robotics",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 4274741,
+        "SimilarCustomerDescription": "Code Advisors",
+        "PeriodType": "C12TM",
+        "ItemType": "Robotics",
+        "GrossSales": 81980.15
+    }
+]

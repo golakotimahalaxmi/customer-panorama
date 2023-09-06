@@ -20,11 +20,7 @@
     font-style: normal;   
     line-height: normal;
     margin-top: 1rem;
-  }
-
-  .alertData p {
-    /* margin-bottom: 0.5rem !important; */
-   }
+  } 
 
    .eventTime {
     /* color: black;

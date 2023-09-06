@@ -79,8 +79,8 @@
         <thead class="overflow-stylings-thead text-prelo-bold-12">
             <tr>
                 <th scope="col" class="width-14" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_contactinfo}}" placement="bottom">Contact Information</th>
-                <th scope="col" class="width-14" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_highlights}}" placement="bottom">CDW Highlights</th>
-                <th scope="col" style="width:8.9%" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_t12mspend}}" placement="bottom">$T12M | CDW Spend%</th>
+                <th scope="col" class="width-14" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_highlights}}" placement="bottom">Highlights</th>
+                <th scope="col" style="width:8.9%" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_t12mspend}}" placement="bottom">$T12M | Spend%</th>
                 <th scope="col" class="width-15" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_invoiceinfo}}" placement="bottom">Invoice Details</th>
                 <th scope="col" class="width-7" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_location}}" placement="bottom">Location</th>
                 <th scope="col" class="width-15" tooltip="{{getAllheadings.tip_contact_total_calls_emails}}" placement="bottom">Total Calls & Emails</th>
@@ -128,9 +128,9 @@
                                 <span *ngIf="contactList.cdw_spend_image === 'medium'"><img  src="assets/images/icons/medium-cdw-spend.png"  tooltip="{{getAllheadings.tip_contact_icon_hl_cdwspend}}" placement="bottom"></span>
                             </td>
                             <td class="inner-table-p-0 table-bordered width-90 icon-descp contactDetails">
-                                <span *ngIf="contactList.cdw_spend_image === 'high'">High CDW Spend</span>
-                                <span *ngIf="contactList.cdw_spend_image === 'low'">Low CDW Spend</span>
-                                <span *ngIf="contactList.cdw_spend_image === 'medium'">Medium CDW Spend</span>
+                                <span *ngIf="contactList.cdw_spend_image === 'high'">High Company Spend</span>
+                                <span *ngIf="contactList.cdw_spend_image === 'low'">Low Company Spend</span>
+                                <span *ngIf="contactList.cdw_spend_image === 'medium'">Medium Company  Spend</span>
                            </td>
                         </tr>
                         <tr *ngIf="contactList.online_activity != ''" class="inner-table-p-0 table-bordered pr-1">
@@ -391,9 +391,9 @@
                                 <span *ngIf="contactList.cdw_spend === 'medium'"><img class="pr-1" src="assets/images/icons/medium-cdw-spend.png"></span>
                             </td>
                             <td class="width-80 icon-descp contactDetails" class="inner-table-p-0 table-bordered">
-                                <span *ngIf="contactList.cdw_spend === 'high'">High CDW Spend</span>
-                                <span *ngIf="contactList.cdw_spend === 'low'">Low CDW Spend</span>
-                                <span *ngIf="contactList.cdw_spend === 'medium'">Medium CDW Spend</span>
+                                <span *ngIf="contactList.cdw_spend === 'high'">High Company  Spend</span>
+                                <span *ngIf="contactList.cdw_spend === 'low'">Low Company  Spend</span>
+                                <span *ngIf="contactList.cdw_spend === 'medium'">Medium Company  Spend</span>
                            </td>
                         </tr>
                         <tr *ngIf="contactList.online_activity != ''" class="inner-table-p-0 table-bordered">

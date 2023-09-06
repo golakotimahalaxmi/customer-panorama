@@ -14,9 +14,9 @@ export class SplashComponent implements OnInit {
   allHeadings: any = {};
   userLoginDetails = [];
   splashTooltip: string =
-    "Click here to launch the Company experience for customers in CDW’s Corporate segment";
+    "Click here to launch the Company experience for customers in Company’s Corporate segment";
   small_Biz_Tooltip: string =
-    "Click here to launch the Company experience for customers in CDW’s Small Business segment";
+    "Click here to launch the Company experience for customers in Company's Small Business segment";
   loginForm: FormGroup;
 
   constructor(

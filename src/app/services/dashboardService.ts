@@ -8,14 +8,9 @@ export class DashboardService {
   storeAllheadings: any;
   pageName: string;
   widgetPositions: widget[];
+
   corporate_Widget: widget[] = [
     { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
-    { name: "customerMenu", isFull: true, size: 1, widget2: "" },
-    { name: "customerEvents", isFull: true, size: 1, widget2: "" },
-  ];
-
-  small_biz_Widget: widget[] = [
-    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
   ];
@@ -23,14 +18,14 @@ export class DashboardService {
   small_business_Widget: widget[] = [
     { name: "newsalerts", isFull: false, size: 1, widget2: "funding" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
-    { name: "customerEvents", isFull: true, size: 1, widget2: "" },
+    { name: "customerEvents", isFull: false, size: 1, widget2: "insights" },
   ];
-  
-  transportation_Widget: widget[] = [
-    { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
+
+  small_biz_Widget: widget[] = [
+    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
-  ];
+  ]; 
 
   constructor(private http: HttpClient) {}
 

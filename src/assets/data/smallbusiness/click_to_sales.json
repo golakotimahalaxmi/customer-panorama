@@ -1,0 +1,977 @@
+[
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 109981,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 100234,
+      "sales": 10143
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "PANORAMA ANTENNAS",
+      "leads": 100084,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 200044,
+      "sales": 15006
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 190437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Softwares (Softwares)",
+      "BrandDescription": "MICROSOFT",
+      "leads": 190607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 200034,
+      "sales": 12026
+    },
+    {
+      "CustomerCode": 12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 213033,
+      "sales": 14571
+    },
+    {
+      "CustomerCode":12805792,
+      "CustomerDescription": "Bear Flag Robotics (12805792)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 210030,
+      "sales": 13321
+    },
+ {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 129981,
+      "sales": 21122
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 110234,
+      "sales": 13143
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "FORTINET",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 220034,
+      "sales": 17026
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 160037,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 160607,
+      "sales": 11086
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 240004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 213333,
+      "sales": 12571
+    },
+    {
+      "CustomerCode":10903960,
+      "CustomerDescription": "PANZURA, INC. (10903960)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 240034,
+      "sales": 12321
+    },
+ {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 139984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "BLACK BOX",
+      "leads": 109384,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 150037,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "GOOGLE",
+      "leads": 120650,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 203333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":12103691,
+      "CustomerDescription": "GUIDEBOOK (12103691)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 180984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 109234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "DELL",
+      "leads": 109304,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 190437,
+      "sales": 18075
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 250034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 283333,
+      "sales": 14571
+    },
+    {
+      "CustomerCode":9879048,
+      "CustomerDescription": "BLURB INC (9879048)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 19321
+    },
+ {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 200004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 17075
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 120650,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 260034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 263333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":11428733,
+      "CustomerDescription": "CALITHERA BIOSCIENCES (11428733)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 240030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 270034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 240034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":11147852,
+      "CustomerDescription": "VERACYTE (11147852)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 139384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 124607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":12113454,
+      "CustomerDescription": "BRIT & CO (12113454)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 107384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 153437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 120057,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":11470598,
+      "CustomerDescription": "Code Advisors(11470598)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 260034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 112234,
+      "sales": 12143
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 200034,
+      "sales": 15020
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "ADOBE",
+      "leads": 127657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":11936896,
+      "CustomerDescription": "GENAPSYS (11936896)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 219030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "HP INC",
+      "leads": 109380,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 128657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 200030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":10848538,
+      "CustomerDescription": "INFOSTRETCH (10848538)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 149384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 200030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 207034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":9613090,
+      "CustomerDescription": "Bittorrent, Inc. (9613090)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 15321
+    },
+{
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 130980,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "KODAK SCANNERS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "KODAK SCANNERS",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "KODAK SCANNERS",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "WESTERN DIGITAL",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "WESTERN DIGITAL",
+      "leads": 210330,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":4274741,
+      "CustomerDescription": "BENTEK (4274741)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "WESTERN DIGITAL",
+      "leads": 218034,
+      "sales": 15321
+    }
+ 
+
+]
+

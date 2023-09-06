@@ -18,66 +18,71 @@
     }"
     style="overflow-y: auto !important"
   >
-  <!-- display data   -->
-  <div>
-    <div *ngFor="let data of updatedData" class="bottom-edge-shadow p-3">
-      <p class="head-style fc-green">{{data.customer_name}}</p>
-      <p class="date-style">{{data.date}}</p>
-      <p>{{data.title}}</p>
-      <p class="para-style">{{data.description}}</p>
+    <!-- display data   -->
+    <div>
+      <div *ngFor="let data of updatedData" class="bottom-edge-shadow p-3">
+        <p class="head-style fc-green">{{ data.customer_name }}</p>
+        <p class="eventDate p-0">
+          <span class="eventTime mb-0 fs-11 fc-grey ff-pr">
+            <p class="date-time fs-11 fc-grey ff-psb">Date:</p>
+            {{ data.date.split(" ")[0] }} |
+          </span>
+          <span class="eventTime mb-0 fs-11 fc-grey ff-pr">
+            <p class="date-time fs-11 fc-grey ff-psb">Time:</p>
+            {{ data.date.split(" ")[1] }}{{ data.date.split(" ")[2] }}
+          </span>
+        </p>      
+        <p>{{ data.title }}</p>
+        <p class="para-style">{{ data.description }}</p>
+      </div>
     </div>
-  </div>
   </div>
 </div>
 
-<jw-modal id={{modalName}} class=""  >
-  <!--<div class="card-container">-->
-  <!-- <div class="card-navbar header-bg-clr">
-      <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.insights}}</span></h5>
-      <form class="form-inline mr-auto">
-      <div class="input-group"> -->
-          
-          <!--<div class="input-group-append">
-              <button class="btn btn-search" type="button">
-              Search
-              </button>
-          </div>-->
-      <!-- </div>
-      </form>
-  
-      <div class="navbar-menu-wrapper m-0 p-0 link-point">
-      <div class="m-0 p-0 dropdown d-flex float-right">
-          <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
-      </div>
-      </div> -->
-  <!-- content goes here-->
-  <!-- </div> -->
+<jw-modal id="{{ modalName }}" class="">
   <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
-
-    <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3" ><span class="fs-14 fc-white ff-psb"><!--{{allHeadings.myAccount}}-->Insights</span></h5>
-    <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
-        <div class="input-group" >
-
-            <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
-        </div>
+    <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3">
+      <span class="fs-14 fc-white ff-psb">Insights</span>
+    </h5>
+    <form class="form-inline mr-auto w-1000 justify-content-end br-4">
+      <div class="input-group">
+        <input
+          type="text"
+          class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400"
+          [placeholder]="allHeadings.placeholderInsideModal"
+          name="searchTerm"
+          [(ngModel)]="service.searchTerm"
+        />
+      </div>
     </form>
 
     <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
-        <div class="m-0 p-0 dropdown d-flex text-right">
-            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0  pt-0-45" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close@2x.png"></a>
-        </div>
+      <div class="m-0 p-0 dropdown d-flex text-right">
+        <a
+          class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-0-45"
+          (click)="closeModal()"
+          ><img class="img-close-widget" src="assets/images/icons/close@2x.png"
+        /></a>
+      </div>
     </div>
-
-</div>
+  </div>
   <div>
-    <div style="overflow-y: scroll; height:85vh;" >
+    <div style="overflow-y: scroll; height: 85vh">
       <div *ngFor="let data of updatedData" class="bottom-edge-shadow p-3">
-        <p class="head-style ">{{data.customer_name}}</p>
-        <p class="date-style ">{{data.date}}</p>
-        <p >{{data.title}}</p>
-        <p class="para-style">{{data.description}}</p>
+        <p class="head-style">{{ data.customer_name }}</p>
+      <p class="eventDate">
+          <span class="eventTime mb-0 fs-11 fc-grey ff-pr">
+            <p class="date-time fs-11 fc-grey ff-psb">Date:</p>
+            {{ data.date.split(" ")[0] }} |
+          </span>
+          <span class="eventTime mb-0 fs-11 fc-grey ff-pr">
+            <p class="date-time fs-11 fc-grey ff-psb">Time:</p>
+            {{ data.date.split(" ")[1] }}{{ data.date.split(" ")[2] }}
+          </span>
+        </p>
+        <p>{{ data.title }}</p>
+        <p class="para-style">{{ data.description }}</p>
       </div>
     </div>
   </div>
 </jw-modal>
-

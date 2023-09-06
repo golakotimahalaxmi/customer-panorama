@@ -22,7 +22,6 @@ export class CustomerComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log(this.service.customerType)
     if (this.service.customerType === "smallbusiness") {
       this.dashboardService.widgetPositions =
         this.dashboardService.corporate_Widget;
@@ -35,8 +34,7 @@ export class CustomerComponent implements OnInit {
       this.dashboardService.widgetPositions =
         this.dashboardService.small_business_Widget;
       this.widgetPositions = this.dashboardService.widgetPositions;
-    }
-    console.log(this.service.getCustomerType())
+    }   
   }
 
   onDrop(event: CdkDragDrop<string[]>) {

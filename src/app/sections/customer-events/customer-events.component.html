@@ -14,11 +14,11 @@
         <div class="card-main">
             <div class="row" *ngFor="let event of sortOnDate(); let index = i">
             <div class="col-md-4 event-company pl-3">
-                <p *ngIf="event.event_dataType === 'CDW Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
+                <p *ngIf="event.event_dataType === 'Company Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
                 <p *ngIf="event.event_dataType === 'Customer Event'" class="companyName customerEvent" tooltip="{{allHeadings.tip_home_events_widget_customerevent}}" placement="bottom">External Events</p>
                 <p *ngIf="event.event_dataType === 'My Event'" class="companyName myEvent" tooltip="{{allHeadings.tip_home_events_widget_myevent}}" placement="bottom">{{event.customerMeetings}}</p>
                 <p class="eventDate">{{event.event_date}}</p>
-                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'CDW Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
+                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'Company Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
                 </div>
                 <div class="col-md-6 event-company pt-3">
                     <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field fc-green">{{event.customer_name}}</a></p>
@@ -27,7 +27,7 @@
                 <div class="col-md-2 event-logo">
                 <a href="/" *ngIf="event.event_dataType === 'Customer Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/events_shortcut.png" class="img-fluid cdw-logo" alt="logo"> </a>
                 <a href="/" *ngIf="event.event_dataType === 'My Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_yellow.png" class="img-fluid cdw-logo" alt="logo"> </a>
-                <a href="/" *ngIf="event.event_dataType === 'CDW Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'Company Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
                 </div>
             </div>
         </div>
@@ -76,11 +76,11 @@
         <div class="card-main" style="overflow-y: scroll; height:85vh;">
             <div class="row" *ngFor="let event of sortOnDate(); let index = i">
             <div class="col-md-4 event-company pl-3">
-                <p *ngIf="event.event_dataType === 'CDW Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
+                <p *ngIf="event.event_dataType === 'Company Event'" class="companyName cdwColor" tooltip="{{allHeadings.tip_home_events_widget_cdwevent}}" placement="bottom">{{event.event_dataType}}</p>
                 <p *ngIf="event.event_dataType === 'Customer Event'" class="companyName customerEvent" tooltip="{{allHeadings.tip_home_events_widget_customerevent}}" placement="bottom">External Events</p>
                 <p *ngIf="event.event_dataType === 'My Event'" class="companyName myEvent" tooltip="{{allHeadings.tip_home_events_widget_myevent}}" placement="bottom">{{event.customerMeetings}}</p>
                 <p class="eventDate">{{event.event_date}}</p>
-                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'CDW Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
+                <p class="companyName font-size" [ngClass]="{cdwColor: event.event_dataType === 'Company Event', customerEvent: event.event_dataType === 'Customer Event', myEvent: event.event_dataType === 'My Event'}">{{event.event_location}}</p>
                 </div>
                 <div class="col-md-6 event-company pt-3">
                     <p class="companyName-field"><a target="_blank" href="{{event.url}}" class="companyName-field">{{event.customer_name}}</a></p>
@@ -89,7 +89,7 @@
                 <div class="col-md-2 event-logo">
                 <a href="/" *ngIf="event.event_dataType === 'Customer Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/events_shortcut.png" class="img-fluid cdw-logo" alt="logo"> </a>
                 <a href="/" *ngIf="event.event_dataType === 'My Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_yellow.png" class="img-fluid cdw-logo" alt="logo"> </a>
-                <a href="/" *ngIf="event.event_dataType === 'CDW Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
+                <a href="/" *ngIf="event.event_dataType === 'Company Event'" tooltip="{{allHeadings.tip_add2Calender}}" placement="bottom"><img src="assets/images/shortcut_grey.png" class="img-fluid cdw-logo" alt="logo"> </a>
                 </div>
             </div>
         </div>

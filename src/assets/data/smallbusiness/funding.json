@@ -1,254 +1,256 @@
-[
-    {
-        "customer_name": "Apple",
-        "dateTimePub": "2019-11-14T13:16:00Z",
-        "title": "Streaming services are contributing to the ever-growing amount of loneliness. It's time technology innovated to address the problem.",
-        "url": "https://www.businessinsider.com/streaming-services-contribute-to-loneliness-can-tech-fix-problem-2019-11",
-        "source_uri": "businessinsider.com",
-        "source_dataType": "news",
-        "source_title": "Business Insider"
+[   {
+        "CustomerCode": 11936896,
+        "CustomerName": "Genapsys",
+        "total_rounds": 7,
+        "tfa": 174000000,
+        "lastest_round_info":{
+            "investers": ["Anthem venture partners","Canaan partners"],
+            "status":"SAFE",
+            "type": "Early stage VC",
+            "sub_type": "Series C",
+            "amount": 90000000,
+            "date":"20/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"operations",
+                "description":"Expand Operations"
+            },
+            {
+                "name":"Marketing",
+                "description":"Expand business reach though digital marketing"
+            }
+        ],
+        "previous_investers": ["Anthem Venture Partners","Canaan Partners"]
     },
     {
-        "customer_name": "Microsoft",
-        "dateTimePub": "2019-11-14T13:16:00Z",
-        "title": "Give Hong Kong Democracy, China-Friendly Taiwan Candidate Says",
-        "url": "https://finance.yahoo.com/news/hong-kong-democracy-china-friendly-122947394.html",
-        "source_uri": "finance.yahoo.com",
-        "source_dataType": "news",
-        "source_title": "Yahoo Finance"
+        "CustomerCode": 9879048,
+        "CustomerName": "Blurb Inc",
+        "total_rounds": 6,
+        "tfa": 24100000,
+        "lastest_round_info":{
+            "investers": ["Foresite capital"],
+            "status":"Completed",
+            "type": "Debt Financing",
+            "amount": 2500000,
+            "date":"21/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Debt Financing",
+                "description":"To enhance Return on Assets(ROA)"
+            }
+        ],
+        "previous_investers": ["Foresite Capital","IPV Capital", "Decheng Capital"]
     },
-    {
-        "customer_name": "AMNET",
-        "dateTimePub": "2019-11-14T13:11:00Z",
-        "title": "Global Economy on Thin Ice With Frail Trio From China to Germany By Bl",
-        "url": "https://in.investing.com/news/economy/global-economy-on-thin-ice-with-frail-trio-from-china-to-germany-2039726",
-        "source_uri": "in.investing.com",
-        "source_dataType": "news",
-        "source_title": "Investing.com India"
+{
+        "CustomerCode": 9613090,
+        "CustomerName": "Bittorrent, Inc.",
+        "total_rounds": 4,
+        "tfa": 42900000,
+        "lastest_round_info":{
+            "investers": ["NON-fungible Chan","Accel"],
+            "status":"Completed",
+            "type": "Initial Coin Offering",
+            "amount": 42000000,
+            "date":"21/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Initial Coin Offering",
+                "description":"cryptocurrency industry's equivalent to an initial public offering (IPO)"
+            }
+        ],
+        "previous_investers": ["NON-fungible Chan","Accel"]
     },
-    {
-        "customer_name": "Capgemini",
-        "dateTimePub": "2019-11-14T13:07:00Z",
-        "title": "Intel's AI brains will give future laptops a new speed boost",
-        "url": "https://www.cnet.com/news/intel-will-build-ai-brains-into-your-laptop-for-tomorrows-speed-boost/",
-        "source_uri": "cnet.com",
-        "source_dataType": "news",
-        "source_title": "CNET"
+{
+        "CustomerCode": 12805792,
+        "CustomerName": "Bear Flag Robotics",
+        "total_rounds": 4,
+        "tfa": 11400000,
+        "lastest_round_info":{
+            "investers": [" AgFunder"," Graphene Ventures"],
+            "status":"Completed",
+            "type": " Seed round",
+            "amount": 11000000,
+            "date":"21/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Seed round",
+                "description":"Series of related investments"
+            }
+        ],
+        "previous_investers": ["AgFunder","Graphene Ventures","D20 Capital","Green Cow Venture Capital"]
     },
-    {
-        "customer_name": "Cognizant",
-        "dateTimePub": "2019-11-14T13:07:00Z",
-        "title": "Don't ask Larry Ellison about women's pay at Oracle",
-        "url": "https://www.latimes.com/business/story/2019-11-14/dont-ask-larry-ellison-about-womens-pay-at-oracle",
-        "source_uri": "latimes.com",
-        "source_dataType": "news",
-        "source_title": "Los Angeles Times"
+{
+        "CustomerCode": 10903960,
+        "CustomerName": "Panzura, Inc.",
+        "total_rounds": 5,
+        "tfa": 90000000,
+        "lastest_round_info":{
+            "investers": ["  Chevron","  Western Digital Capital"],
+            "status":"Completed",
+            "type": " Series E round",
+            "amount": 90000000,
+            "date":"24/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Series E round",
+                "description":"Series E is a fundraising round that acts very similarly to that of D"
+            }
+        ],
+        "previous_investers": ["Opus Capital","Khosla Ventures"]
     },
-    {
-        "customer_name": "JDA",
-        "dateTimePub": "2019-11-14T13:07:00Z",
-        "title": "How the first Razr made Motorola cool again",
-        "url": "https://www.cnet.com/news/how-the-first-razr-made-motorola-cool-again/",
-        "source_uri": "cnet.com",
-        "source_dataType": "news",
-        "source_title": "CNET"
+{
+        "CustomerCode": 12103691,
+        "CustomerName": "Guidebook",
+        "total_rounds": 5,
+        "tfa": 10000000,
+        "lastest_round_info":{
+            "investers": ["zipdragon ventures","Vast Ventures"],
+            "status":"Completed",
+            "type": " Series A round",
+            "amount": 95000000,
+            "date":"28/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Series A round",
+                "description":"Company's first significant round of venture capital financing"
+            }
+        ],
+        "previous_investers": ["Mosaic","MHS Capital",]
     },
-    {
-        "customer_name": "CWC",
-        "dateTimePub": "2019-11-14T13:06:00Z",
-        "title": "This App Will Tell You if Your iPhone Gets Hacked",
-        "url": "https://www.vice.com/en_us/article/bjw474/this-app-will-tell-you-if-your-iphone-gets-hacked-iverify",
-        "source_uri": "vice.com",
-        "source_dataType": "news",
-        "source_title": "VICE"
+{
+        "CustomerCode": 11428733,
+        "CustomerName": "Calithera Biosciences",
+        "total_rounds": 9,
+        "tfa": 200900000,
+        "lastest_round_info":{
+            "investers": ["Cystic Fibrosis Foundation"," Morgenthaler Ventures"],
+            "status":"Completed",
+            "type": " Grant round",
+            "amount": 200000000,
+            "date":"28/12/21"
+        },
+        "usage_plans":[
+            {
+                "name":"Expansion",
+                "description":"Expand operations"
+            }
+        ],
+        "previous_investers": ["U.S. Venture Partners","Morgenthaler Ventures"]
     },
-    {
-        "customer_name": "Apple",
-        "dateTimePub": "2019-11-14T12:53:00Z",
-        "title": "Pope tells tech companies they are responsible for child safety",
-        "url": "https://www.reuters.com/article/us-technology-pope-children-idUSKBN1XO1TJ",
-        "source_uri": "reuters.com",
-        "source_dataType": "news",
-        "source_title": "Reuters"
+{
+        "CustomerCode": 11147852,
+        "CustomerName": "Veracyte",
+        "total_rounds": 7,
+        "tfa": 681300000,
+        "lastest_round_info":{
+            "investers": ["Visium Healthcare Partners"," Armentum Partners"],
+            "status":"Completed",
+            "type": " Grant round",
+            "amount": 681000000,
+            "date":"01/01/22"
+        },
+        "usage_plans":[
+            {
+                "name":"operations",
+                "description":"Expand Operations"
+            },
+            {
+                "name":"Marketing",
+                "description":"Expand business reach though digital marketing"
+            }
+        ],
+        "previous_investers": ["Versant Ventures","TPG Biotech"]
     },
-    {
-        "customer_name": "Apple",
-        "dateTimePub": "2019-11-14T12:56:00Z",
-        "title": "Viacom profit beats estimates on higher ad revenue By Reuters",
-        "url": "https://uk.investing.com/news/stock-market-news/viacom-beats-quarterly-revenue-estimates-1998088",
-        "source_uri": "uk.investing.com",
-        "source_dataType": "news",
-        "source_title": "Investing.com UK"
+
+{
+        "CustomerCode": 11470598,
+        "CustomerName": "Code Advisors",
+        "total_rounds": 5,
+        "tfa": 25000000,
+        "lastest_round_info":{
+            "investers": ["The Climate Corporation"," Clipboard"],
+            "status":"Completed",
+            "type": " Series A round",
+            "amount": 25000000,
+            "date":"01/01/22"
+        },
+        "usage_plans":[
+            {
+                "name":"Series A round",
+                "description":"Company's first significant round of venture capital financing"
+            }
+            
+        ],
+        "previous_investers": ["The Climate Corporation","Clipboard"]
     },
-    {
-        "customer_name": "Apple",
-        "dateTimePub": "2019-11-14T12:55:00Z",
-        "title": "Pope demands tech companies prevent kids from viewing porn",
-        "url": "https://www.washingtonpost.com/national/religion/pope-demands-tech-companies-prevent-kids-from-viewing-porn/2019/11/14/49d7a106-06d1-11ea-9118-25d6bd37dfb1_story.html",
-        "source_uri": "washingtonpost.com",
-        "source_dataType": "news",
-        "source_title": "Washington Post"
+{
+        "CustomerCode": 10848538,
+        "CustomerName": "Infostretch",
+        "total_rounds": 1,
+        "tfa": 40000000,
+        "lastest_round_info":{
+            "investers": ["Goldman Sachs"," Everstone"],
+            "status":"Completed",
+            "type": "  Private Equity round",
+            "amount": 35000000,
+            "date":"02/01/22"
+        },
+        "usage_plans":[
+            {
+                "name":"Private Equity round",
+                "description":"Private equity round is led by a private equity firm or a hedge fund"
+            }
+            
+        ],
+        "previous_investers": ["Goldman Sachs"," Everstone"]
     },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T13:07:00Z",
-        "title": "Intel's AI brains will give future laptops a new speed boost",
-        "url": "https://www.cnet.com/news/intel-will-build-ai-brains-into-your-laptop-for-tomorrows-speed-boost/",
-        "source_uri": "cnet.com",
-        "source_dataType": "news",
-        "source_title": "CNET"
+{
+        "CustomerCode": 4274741,
+        "CustomerName": "Bentek",
+        "total_rounds": 6,
+        "tfa": 20000000,
+        "lastest_round_info":{
+            "investers": [" Hermitage Equity Partners"," Greyrock Capital Group"],
+            "status":"Completed",
+            "type": "  debt refinancing",
+            "amount": 18000000,
+            "date":"02/01/22"
+        },
+        "usage_plans":[
+            {
+                "name":"debt refinancing",
+                "description":"Debt restructuring is a process that allows a private or public company or a sovereign entity facing cash flow problems "
+            }
+            
+        ],
+        "previous_investers": [" Hermitage Equity Partners"," Greyrock Capital Group"]
     },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T12:55:00Z",
-        "title": "Epic Games Launches Battle Breakers, a Cross-Platform RPG for Mobile and PC",
-        "url": "https://gadgets.ndtv.com/games/news/battle-breakers-epic-games-hero-collecting-rpg-launch-android-ios-pc-2132573",
-        "source_uri": "gadgets.ndtv.com",
-        "source_dataType": "news",
-        "source_title": "NDTV Gadgets360.com"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T12:39:00Z",
-        "title": "Why Motorola thinks you'll pay $1,500 for a foldable Razr",
-        "url": "https://www.cnet.com/features/motorolas-foldable-razr-inside-the-remaking-of-a-flip-phone-icon/",
-        "source_uri": "cnet.com",
-        "source_dataType": "news",
-        "source_title": "CNET"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T12:05:00Z",
-        "title": "James P. Moore Jr On How African Countries Can Profit From Sports Commercialization",
-        "url": "https://www.forbes.com/sites/mfonobongnsehe/2019/11/14/james-p-moore-jr-on-how-african-countries-can-profit-from-sports-commercialization/",
-        "source_uri": "forbes.com",
-        "source_dataType": "news",
-        "source_title": "Forbes"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T12:00:00Z",
-        "title": "The Motorola Razr avoids Samsung's worst folding phone mistakes",
-        "url": "https://www.theverge.com/2019/11/14/20964205/motorola-razr-folding-phone-hinge-screen-samsung-galaxy-fold-mistakes",
-        "source_uri": "theverge.com",
-        "source_dataType": "news",
-        "source_title": "The Verge"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T11:57:00Z",
-        "title": "Huawei phones are still red hot in China. But the Google app ban is hurting sales overseas",
-        "url": "https://www.cnn.com/2019/11/14/tech/huawei-sales-mate-30/index.html",
-        "source_uri": "cnn.com",
-        "source_dataType": "news",
-        "source_title": "CNN"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T11:43:00Z",
-        "title": "Get 45GB data for just £15 a month with Smarty's HUGE Black Friday offer",
-        "url": "https://www.thesun.co.uk/tech/10343809/black-friday-sim-only-deal-smarty/",
-        "source_uri": "thesun.co.uk",
-        "source_dataType": "news",
-        "source_title": "The Sun"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T11:00:00Z",
-        "title": "Samsung, LG, Motorola Phones Hacked Using New Qualcomm 'Hole': Here's What You Do Now",
-        "url": "https://www.forbes.com/sites/zakdoffman/2019/11/14/samsung-lg-motorola-phones-hacked-using-new-qualcomm-hole-heres-what-you-do-now/",
-        "source_uri": "forbes.com",
-        "source_dataType": "news",
-        "source_title": "Forbes"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T11:07:00Z",
-        "title": "Samsung Galaxy A01 spotted on US FCC website",
-        "url": "https://www.moneycontrol.com/news/trends/samsung-galaxy-a01-spotted-on-us-fcc-website-4638421.html",
-        "source_uri": "moneycontrol.com",
-        "source_dataType": "news",
-        "source_title": "MoneyControl"
-    },
-    {
-        "customer_name": "Samsung",
-        "dateTimePub": "2019-11-14T10:58:00Z",
-        "title": "Stunning finalists for the Architectural Photography Awards revealed",
-        "url": "https://www.dailymail.co.uk/travel/travel_news/article-7677067/A-Norway-museum-spiralling-New-York-landmark-Entries-Architectural-Photography-Awards.html",
-        "source_uri": "dailymail.co.uk",
-        "source_dataType": "news",
-        "source_title": "Daily Mail Online"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-14T04:14:00Z",
-        "title": "Motorola's $1,500 foldable Razr is a Verizon lifetime exclusive",
-        "url": "https://www.cnet.com/news/motorolas-razr-is-a-verizon-lifetime-exclusive/",
-        "source_uri": "cnet.com",
-        "source_dataType": "news",
-        "source_title": "CNET"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T15:29:00Z",
-        "title": "There are 8 key reasons you should buy the $600 OnePlus 7T over Google's more expensive Pixel 4",
-        "url": "https://www.businessinsider.com/google-pixel-4-vs-oneplus-7t-why-buy-oneplus-instead-2019-11",
-        "source_uri": "businessinsider.com",
-        "source_dataType": "news",
-        "source_title": "Business Insider"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T14:55:00Z",
-        "title": "Flagship Smartphone Smackdown: How Does Google's Pixel 4 Stack Up?",
-        "url": "https://lifehacker.com/flagship-smartphone-smackdown-how-does-googles-pixel-4-1839235187",
-        "source_uri": "lifehacker.com",
-        "source_dataType": "news",
-        "source_title": "Lifehacker"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T14:55:00Z",
-        "title": "Nokia TV closer to launch, will have 55\" 4K Ultra HD panel",
-        "url": "https://www.gsmarena.com/nokia_tv_closer_to_launch_will_have_55_4k_ultra_hd_panel-news-40082.php",
-        "source_uri": "gsmarena.com",
-        "source_dataType": "news",
-        "source_title": "GSMArena.com"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T14:03:00Z",
-        "title": "Sony Xperia 3 images leak online; may sport Snapdragon 865 SoC, CinemaWide OLED panel",
-        "url": "https://www.moneycontrol.com/news/trends/sony-xperia-3-images-leak-online-may-sport-snapdragon-865-soc-cinemawide-oled-panel-4635341.html",
-        "source_uri": "moneycontrol.com",
-        "source_dataType": "news",
-        "source_title": "MoneyControl"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T13:57:00Z",
-        "title": "OnePlus 7 Pro 5G Will Only Get Its Android 10 Update in Q1 2020",
-        "url": "https://gadgets.ndtv.com/mobiles/news/oneplus-7-pro-5g-android-10-update-2020-pete-lau-2132027",
-        "source_uri": "gadgets.ndtv.com",
-        "source_dataType": "news",
-        "source_title": "NDTV Gadgets360.com"
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T06:09:00Z",
-        "title": "Pix: What's Katy Perry doing in Mumbai?",
-        "url": "https://www.rediff.com/getahead/report/pix-whats-katy-perry-doing-in-mumbai/20191113.htm",
-        "source_uri": "rediff.com",
-        "source_dataType": "news",
-        "source_title": "Rediff.com India Ltd."
-    },
-    {
-        "customer_name": "OnePlus",
-        "dateTimePub": "2019-11-13T04:52:00Z",
-        "title": "OnePlus 7 Pro 5G will only receive Android 10 update in 2020",
-        "url": "https://www.gsmarena.com/oneplus_7_pro_5g_will_only_receive_android_10_update_in_2020-news-40069.php",
-        "source_uri": "gsmarena.com",
-        "source_dataType": "news",
-        "source_title": "GSMArena.com"
+{
+        "CustomerCode": 12113454,
+        "CustomerName": "Brit & Co",
+        "total_rounds": 6,
+        "tfa": 50000000,
+        "lastest_round_info":{
+            "investers": [" Verizon Ventures"," Index Ventures"],
+            "status":"Completed",
+            "type": "  Seed round",
+            "amount": 17200000,
+            "date":"02/01/22"
+        },
+        "usage_plans":[
+            {
+                "name":"Seed round",
+                "description":"Series of related investments "
+            }
+            
+        ],
+        "previous_investers": [" Cowboy Ventures"," Liberty Media"]
     }
+
 ]
