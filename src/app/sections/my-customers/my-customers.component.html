@@ -89,7 +89,7 @@
 
     <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
 
-        <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->Companies</span></h5>
+        <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3" ><span class="fs-14 fc-white ff-psb "><!--{{allHeadings.myAccount}}-->Companies</span></h5>
         <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
             <div class="input-group" >
 
@@ -99,7 +99,7 @@
 
         <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
             <div class="m-0 p-0 dropdown d-flex text-right">
-                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/widget-close.png"></a>
+                <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-0-45" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close@2x.png"></a>
             </div>
         </div>
 
@@ -110,8 +110,8 @@
             <thead class="overflow-stylings-thead  bg-green-light">
                 <tr>
                     <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth" tooltip="{{allHeadings.tip_home_accounts_exp_col_customer}}" placement="bottom">Customer</th>
-                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">CDW Highlights</th>
-                    <th scope="col" sortable="customer_industry" (sort)="onSort($event)" class="width-35" tooltip="{{allHeadings.tip_home_accounts_exp_col_cdwspend}}" placement="bottom">CDW Spend</th>
+                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">Highlights</th>
+                    <th scope="col" sortable="customer_industry" (sort)="onSort($event)" class="width-35" tooltip="{{allHeadings.tip_home_accounts_exp_col_cdwspend}}" placement="bottom">Spend</th>
                     <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-10" tooltip="{{allHeadings.tip_home_accounts_exp_col_trends}}" placement="bottom">Trends</th>
                     <th scope="col" sortable="invoiceDate" (sort)="onSort($event)" class="width-20" tooltip="{{allHeadings.tip_home_accounts_exp_col_salesgoals}}" placement="bottom">Sales Goals</th>
                     <th scope="col" sortable="expenditurePotential" (sort)="onSort($event)" class="width-7" tooltip="{{allHeadings.tip_home_accounts_exp_col_itpsow}}" placement="bottom">ITP / SOW</th>
@@ -155,7 +155,7 @@
                             </span>
                     </td>
                     <td class="width-8">
-                        <img class='riskImage' src="assets/images/icons/cdw-tenure@2x.png" tooltip="{{allHeadings.tip_icon_customer_tenure}}" placement="bottom"/>
+                        <img class='riskImage' src="assets/images/client-logos/ad-logo-favicon.png" tooltip="{{allHeadings.tip_icon_customer_tenure}}" placement="bottom"/>
                         <span class="customerSubHead">{{customers.tenure}} Years</span>
                         <br/>
                         

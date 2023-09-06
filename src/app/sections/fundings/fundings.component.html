@@ -104,22 +104,23 @@
     <jw-modal id={{modalName}}>
     <!--<div class="card-container">-->
     <div class="card-navbar header-bg-clr">
-        <h5 class="col-sm-4 col-md-4 card-title"><span class="header-probold">{{allHeadings.funding}}</span></h5>
-        <form class="form-inline mr-auto">
+        <h5 class="col-sm-4 col-md-4 card-title pt-1re"><span class="header-probold">{{allHeadings.funding}}</span></h5>
+        <form class="form-inline mr-auto  w-1000 justify-content-end br-4">
         <div class="input-group">
-            <input type="text" class="form-control search-main bg-light border-0 small"
-            [placeholder]="allHeadings.placeholderInsideModal">
+            <!-- <input type="text" class="form-control search-main bg-light border-0 small"
+            [placeholder]="allHeadings.placeholderInsideModal"> -->
             <!--<div class="input-group-append">
                 <button class="btn btn-search" type="button">
                 Search
                 </button>
             </div>-->
+            <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" >
         </div>
         </form>
     
         <div class="navbar-menu-wrapper m-0 p-0 link-point">
         <div class="m-0 p-0 dropdown d-flex float-right">
-            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2 color-close" (click)="closeModal()"><i class="fa fa-times"></i></a>
+            <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-0-45" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close@2x.png"></a>
         </div>
         </div>
     <!-- content goes here-->

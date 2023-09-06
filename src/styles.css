@@ -1618,6 +1618,8 @@ fs-11{
   padding-top: 0.6rem !important;
 }
 
+
+
 .input-bg{
   background-color: #fff !important;
 }
@@ -1754,4 +1756,16 @@ background-color: #99c7d6 !important;
 /* funding box shadows */
 .b-shadow{
     box-shadow: 0px 2px 3px 0px #00000033 !important;
+}
+
+.pt-1re{
+  padding-top:1rem !important ;
+}
+
+.pt-3{
+  padding-top: 3px !important;
+}
+
+.pt-0-45{
+  padding-top: 0.45rem !important;
 }

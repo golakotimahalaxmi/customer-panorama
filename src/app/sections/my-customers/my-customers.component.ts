@@ -117,7 +117,6 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
 
   // method for fecthing customersListData from services
   getCustomersData() {
-    alert()
     let customerData = sessionStorage.getItem("customersDetails");
     this.getMonth()
     // if (customerData != null) {

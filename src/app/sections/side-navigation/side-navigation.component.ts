@@ -135,6 +135,8 @@ export class SideNavigationComponent implements OnInit {
     this.isValid=false;
   }
 
+ 
+
   closePopup() {
     this.displayStyle = "none";
   }
