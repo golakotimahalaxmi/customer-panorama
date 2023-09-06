@@ -50,6 +50,7 @@ export class InsightsComponent implements OnInit {
 
   // method used for open the widget into modal popup to show entire data.
   openModal() {
+    console.log(this.modalName)
     this.modalService.open(this.modalName);
   }
 

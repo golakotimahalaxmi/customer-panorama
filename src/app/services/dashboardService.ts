@@ -15,7 +15,7 @@ export class DashboardService {
   ];
 
   small_biz_Widget: widget[] = [
-    { name: "newsalerts", isFull: false, size: 1, widget2: "insights" },
+    { name: "newsalerts", isFull: true, size: 1, widget2: "" },
     { name: "customerMenu", isFull: true, size: 1, widget2: "" },
     { name: "customerEvents", isFull: true, size: 1, widget2: "" },
   ];

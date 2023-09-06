@@ -165,6 +165,7 @@ export class SideNavigationComponent implements OnInit {
     this.home_icon = false;
     this.setting_icon = true;  
   }
+
   getfeature(val: any) {
     this.modelService.open(val);
   }

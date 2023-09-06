@@ -88,6 +88,10 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
 
   // method used for open the widget into modal popup to show entire data.
   openModal() {
+    
+    this.getAllHedings();
+    this.getCustomersData();
+    this.openModalfromsidenav();
     this.customersList$ = this.service.customers$;
     this.total$ = this.service.total$;
     this.onSort({ column: "customer_name", direction: "asc" });
@@ -113,6 +117,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
 
   // method for fecthing customersListData from services
   getCustomersData() {
+    alert()
     let customerData = sessionStorage.getItem("customersDetails");
     this.getMonth()
     // if (customerData != null) {
