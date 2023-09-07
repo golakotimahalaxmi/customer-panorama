@@ -118,5 +118,74 @@
     "SimilarCompany2_Name": "Covantage Credit Union",
     "SimilarCompany3_Code": 0,
     "SimilarCompany3_Name": "Pemco Mutual Insurance"
+  },
+{ "CustomerCode":2021002,
+    "CustomerName": "Ace Hardware",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Costway",
+    "SimilarCompany2_Code": 2021010,
+    "SimilarCompany2_Name": " Home Depot",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "True Value "
+  },
+{
+    "CustomerCode":2021001,
+    "CustomerName": "Starbucks",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Caribou Coffee",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": " SPoT Coffee",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Hudsons Coffee "
+  },
+{
+    "CustomerCode":2021003,
+    "CustomerName": "Meijer",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Kohls",
+    "SimilarCompany2_Code": 2021008,
+    "SimilarCompany2_Name": " Walmart",
+    "SimilarCompany3_Code": 2021020,
+    "SimilarCompany3_Name": "Target "
+  },
+{
+    "CustomerCode":2021007,
+    "CustomerName": "Amazon",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Zappos",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Aliexpress",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Etsy"
+  },
+{
+    "CustomerCode":2021008,
+    "CustomerName": "Walmart",
+    "SimilarCompany1_Code": 2021007,
+    "SimilarCompany1_Name": "Amazon",
+    "SimilarCompany2_Code": 2021020,
+    "SimilarCompany2_Name": "Target",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "kmart"
+  },
+{
+    "CustomerCode":2021009,
+    "CustomerName": "Kroger",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Sprouts Farmers Market, Inc.",
+    "SimilarCompany2_Code": 2021008,
+    "SimilarCompany2_Name": "Walmart Inc.",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Weis Markets, Inc."
+  },
+{
+    "CustomerCode":2021010,
+    "CustomerName": "Home Depot",
+    "SimilarCompany1_Code": 0,
+    "SimilarCompany1_Name": "Rona, Inc.",
+    "SimilarCompany2_Code": 0,
+    "SimilarCompany2_Name": "Menards",
+    "SimilarCompany3_Code": 0,
+    "SimilarCompany3_Name": "Huttig Building Products, Inc."
   }
  ]

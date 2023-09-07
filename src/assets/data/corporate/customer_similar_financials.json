@@ -1,0 +1,1136 @@
+[
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Mgm Yonkers, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "vacation rentals",
+        "GrossSales": 1001850.03
+    },
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "vacation rentals",
+        "GrossSales": 1102002.06
+    },
+    {   
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Beau Rivage Resorts Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "vacation rentals",
+        "GrossSales": 1051980.17
+    },
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Mgm Yonkers, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Shipping containers",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Shipping containers",
+        "GrossSales": 82049.03
+    },
+    {   
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Beau Rivage Resorts Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Shipping containers",
+        "GrossSales": 101080.45
+    },
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Mgm Yonkers, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Farms",
+        "GrossSales": 81899.05
+    },
+    {
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Farms",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 11460589,
+        "SimilarCustomerDescription": "Beau Rivage Resorts Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Farms",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Mason Companies, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Fish Tanks & Aquariums ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Agilysys, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Fish Tanks & Aquariums ",
+        "GrossSales": 1092012.04
+    },
+    {   
+        "CustomerCode":11986217,
+        "SimilarCustomerDescription": "Core-mark",
+        "PeriodType": "C12TM",
+        "ItemType": "Fish Tanks & Aquariums ",
+        "GrossSales": 1051080.06
+    },
+    {
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Mason Companies, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Pet Medications",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Agilysys, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Pet Medications",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Core-mark",
+        "PeriodType": "C12TM",
+        "ItemType": "Pet Medications",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Mason Companies, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices & Supplies",
+        "GrossSales": 90880.01
+    },
+    {
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Agilysys, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices & Supplies",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 11986217,
+        "SimilarCustomerDescription": "Core-mark",
+        "PeriodType": "C12TM",
+        "ItemType": "Medical Devices & Supplies",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Infor Us Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Alaska Lounge",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Manheim New England",
+        "PeriodType": "C12TM",
+        "ItemType": "Alaska Lounge",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode":3649060,
+        "SimilarCustomerDescription": "Swm International / Conwed",
+        "PeriodType": "C12TM",
+        "ItemType": "Alaska Lounge",
+        "GrossSales": 1051985.10
+    },
+    {
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Infor Us Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "SERVICES",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Manheim New England",
+        "PeriodType": "C12TM",
+        "ItemType": "SERVICES",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Swm International / Conwed",
+        "PeriodType": "C12TM",
+        "ItemType": "SERVICES",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Infor Us Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "corporate travel programs",
+        "GrossSales": 71055.07
+    },
+    {
+        "CustomerCode":3649060,
+        "SimilarCustomerDescription": "Manheim New England",
+        "PeriodType": "C12TM",
+        "ItemType": "corporate travel programs",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 3649060,
+        "SimilarCustomerDescription": "Swm International / Conwed",
+        "PeriodType": "C12TM",
+        "ItemType": "corporate travel programs",
+        "GrossSales": 90980.45
+    },
+{
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Zebra Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "XTANDI",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Moss Adams Llp",
+        "PeriodType": "C12TM",
+        "ItemType": "XTANDI",
+        "GrossSales": 1092804.01
+    },
+    {   
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Belmark",
+        "PeriodType": "C12TM",
+        "ItemType": "XTANDI",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Zebra Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "Vesicare",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Moss Adams Llp",
+        "PeriodType": "C12TM",
+        "ItemType": "Vesicare",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Belmark",
+        "PeriodType": "C12TM",
+        "ItemType": "Vesicare",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Zebra Technologies",
+        "PeriodType": "C12TM",
+        "ItemType": "ECG testing service",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Moss Adams Llp",
+        "PeriodType": "C12TM",
+        "ItemType": "ECG testing service",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 382001,
+        "SimilarCustomerDescription": "Belmark",
+        "PeriodType": "C12TM",
+        "ItemType": "ECG testing service",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Zynga Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile Games",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Renaissance Learning Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile Games",
+        "GrossSales": 1402002.01
+    },
+    {   
+        "CustomerCode":9437517,
+        "SimilarCustomerDescription": "F5 Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile Games",
+        "GrossSales": 1051980.15
+    },
+    {
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Zynga Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": " PC/Mac Games",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Renaissance Learning Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "PC/Mac Games",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "F5 Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "PC/Mac Games",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Zynga Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackpot Magic Slots",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "Renaissance Learning Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackpot Magic Slots",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 9437517,
+        "SimilarCustomerDescription": "F5 Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackpot Magic Slots",
+        "GrossSales": 91907.45
+    },
+{
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Mccormick And Company Inc",
+        "PeriodType": "C12TM",
+        "ItemType": " Ceramic Tiles",
+        "GrossSales": 130100.01
+    },
+    {
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kennametal Inc",
+        "PeriodType": "C12TM",
+        "ItemType": " Ceramic Tiles",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kwik Trip Inc",
+        "PeriodType": "C12TM",
+        "ItemType": " Ceramic Tiles",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Mccormick And Company Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Luxury Vinyl Tiles",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kennametal Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Luxury Vinyl Tiles",
+        "GrossSales": 98002.01
+    },
+    {   
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kwik Trip Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Luxury Vinyl Tiles",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Mccormick And Company Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Countertops",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kennametal Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Countertops",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 1106180,
+        "SimilarCustomerDescription": "Kwik Trip Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Countertops",
+        "GrossSales": 91080.45
+    },
+{
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Big Fish Games",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile games",
+        "GrossSales": 1551080.01
+    },
+    {
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Juniper Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile games",
+        "GrossSales": 1002042.01
+    },
+    {   
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Citrix Systems Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Mobile games",
+        "GrossSales": 1251900.10
+    },
+    {
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Big Fish Games",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode":10559774,
+        "SimilarCustomerDescription": "Juniper Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 900402.01
+    },
+    {   
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Citrix Systems Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Services",
+        "GrossSales": 144080.45
+    },
+    {
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Big Fish Games",
+        "PeriodType": "C12TM",
+        "ItemType": "Online games",
+        "GrossSales": 81000.01
+    },
+    {
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Juniper Networks",
+        "PeriodType": "C12TM",
+        "ItemType": "Online games",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 10559774,
+        "SimilarCustomerDescription": "Citrix Systems Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Online games",
+        "GrossSales": 81080.45
+    },
+{
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dicks Sporting Goods",
+        "PeriodType": "C12TM",
+        "ItemType": "Shoes",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Shoes",
+        "GrossSales": 1192002.01
+    },
+    {   
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Menard Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Shoes",
+        "GrossSales": 1051900.15
+    },
+    {
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dicks Sporting Goods",
+        "PeriodType": "C12TM",
+        "ItemType": "Bottoms",
+        "GrossSales": 61800.01
+    },
+    {
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Bottoms",
+        "GrossSales": 77042.01
+    },
+    {   
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Menard Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Bottoms",
+        "GrossSales": 121000.45
+    },
+    {
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dicks Sporting Goods",
+        "PeriodType": "C12TM",
+        "ItemType": " Outerwears",
+        "GrossSales": 51040.01
+    },
+    {
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": " Outerwears",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 4255742,
+        "SimilarCustomerDescription": "Menard Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": " Outerwears",
+        "GrossSales": 91900.45
+    },
+{
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Under Armour Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Accessories ",
+        "GrossSales": 1301090.01
+    },
+    {
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Kehe Distributors Llc",
+        "PeriodType": "C12TM",
+        "ItemType": "Accessories ",
+        "GrossSales": 1200042.01
+    },
+    {   
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Advance Auto Parts",
+        "PeriodType": "C12TM",
+        "ItemType": "Accessories ",
+        "GrossSales": 1201089.15
+    },
+    {
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Under Armour Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackets & Vests",
+        "GrossSales": 51070.01
+    },
+    {
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Kehe Distributors Llc",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackets & Vests",
+        "GrossSales": 92040.01
+    },
+    {   
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Advance Auto Parts",
+        "PeriodType": "C12TM",
+        "ItemType": "Jackets & Vests",
+        "GrossSales": 150030.45
+    },
+    {
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Under Armour Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Footwear",
+        "GrossSales": 81700.01
+    },
+    {
+        "CustomerCode": 3937040,
+        "SimilarCustomerDescription": "Kehe Distributors Llc",
+        "PeriodType": "C12TM",
+        "ItemType": "Footwear",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode":3937040,
+        "SimilarCustomerDescription": "Advance Auto Parts",
+        "PeriodType": "C12TM",
+        "ItemType": "Footwear",
+        "GrossSales": 91590.45
+    },
+{
+        "CustomerCode":222301,
+        "SimilarCustomerDescription": "Funko",
+        "PeriodType": "C12TM",
+        "ItemType": "Mattresses",
+        "GrossSales": 1201080.01
+    },
+    {
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Hyve Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Mattresses",
+        "GrossSales": 1192000.01
+    },
+    {   
+        "CustomerCode":222301,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Mattresses",
+        "GrossSales": 1001080.15
+    },
+    {
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Funko",
+        "PeriodType": "C12TM",
+        "ItemType": " Accent Furniture",
+        "GrossSales": 58410.08
+    },
+    {
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Hyve Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": " Accent Furniture",
+        "GrossSales": 70402.01
+    },
+    {   
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": " Accent Furniture",
+        "GrossSales": 101655.15
+    },
+    {
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Funko",
+        "PeriodType": "C12TM",
+        "ItemType": "Sectional Sofas",
+        "GrossSales": 79500.01
+    },
+    {
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Hyve Solutions",
+        "PeriodType": "C12TM",
+        "ItemType": "Sectional Sofas",
+        "GrossSales": 103102.00
+    },
+    {   
+        "CustomerCode": 222301,
+        "SimilarCustomerDescription": "Dufresne Spencer Group",
+        "PeriodType": "C12TM",
+        "ItemType": "Sectional Sofas",
+        "GrossSales": 90050.10
+    },
+{
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Logistics Health Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Accident Insurance",
+        "GrossSales": 1501850.03
+    },
+    {
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Covantage Credit Uniont",
+        "PeriodType": "C12TM",
+        "ItemType": "Accident Insurance",
+        "GrossSales": 1402002.06
+    },
+    {   
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Pemco Mutual Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Accident Insurance",
+        "GrossSales": 1551980.17
+    },
+    {
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Logistics Health Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Dental Insurance",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Covantage Credit Union",
+        "PeriodType": "C12TM",
+        "ItemType": "Dental Insurance",
+        "GrossSales": 82009.03
+    },
+    {   
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Pemco Mutual Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Dental Insurance",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Logistics Health Inc",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 85899.05
+    },
+    {
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Covantage Credit Union",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2496148,
+        "SimilarCustomerDescription": "Pemco Mutual Insurance",
+        "PeriodType": "C12TM",
+        "ItemType": "Life Insurance",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Costway",
+        "PeriodType": "C12TM",
+        "ItemType": "Grills and Smokers ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Grills and Smokers ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021002,
+        "SimilarCustomerDescription": "True Value",
+        "PeriodType": "C12TM",
+        "ItemType": "Grills and Smokers ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Costway",
+        "PeriodType": "C12TM",
+        "ItemType": "Wood And Pellet Stoves",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Wood And Pellet Stoves",
+        "GrossSales": 70002.01
+    },
+    {   
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "True Value",
+        "PeriodType": "C12TM",
+        "ItemType": "Wood And Pellet Stoves",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Costway",
+        "PeriodType": "C12TM",
+        "ItemType": "Shelving Units",
+        "GrossSales": 91890.01
+    },
+    {
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "Home Depot",
+        "PeriodType": "C12TM",
+        "ItemType": "Shelving Units",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021002,
+        "SimilarCustomerDescription": "True Value",
+        "PeriodType": "C12TM",
+        "ItemType": "Shelving Units",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Caribou Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Salads & Muesli",
+        "GrossSales": 1501850.03
+    },
+    {
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "SPoT Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Salads & Muesli",
+        "GrossSales": 1402002.06
+    },
+    {   
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Hudsons Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Salads & Muesli",
+        "GrossSales": 1551980.17
+    },
+    {
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Caribou Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Sandwiches & Wraps",
+        "GrossSales": 51880.01
+    },
+    {
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "SPoT Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Sandwiches & Wraps",
+        "GrossSales": 82049.03
+    },
+    {   
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Hudsons Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Sandwiches & Wraps",
+        "GrossSales": 131080.45
+    },
+    {
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Caribou Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Featured Beverages",
+        "GrossSales": 85899.05
+    },
+    {
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "SPoT Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Featured Beverages",
+        "GrossSales": 100042.08
+    },
+    {   
+        "CustomerCode": 2021001,
+        "SimilarCustomerDescription": "Hudsons Coffee",
+        "PeriodType": "C12TM",
+        "ItemType": "Featured Beverages",
+        "GrossSales": 81980.35
+    },
+{
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Kohls",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics ",
+        "GrossSales": 1651800.09
+    },
+    {
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics ",
+        "GrossSales": 1292012.04
+    },
+    {   
+        "CustomerCode":2021003,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics ",
+        "GrossSales": 1251080.06
+    },
+    {
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Kohls",
+        "PeriodType": "C12TM",
+        "ItemType": "household essentials",
+        "GrossSales": 61080.01
+    },
+    {
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "household essentials",
+        "GrossSales": 70092.01
+    },
+    {   
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "household essentials",
+        "GrossSales": 191980.15
+    },
+    {
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Kohls",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchen Appliances",
+        "GrossSales": 91880.01
+    },
+    {
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Walmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchen Appliances",
+        "GrossSales": 103042.01
+    },
+    {   
+        "CustomerCode": 2021003,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchen Appliances",
+        "GrossSales": 81980.15
+    },
+{
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics & accessories",
+        "GrossSales": 1101880.01
+    },
+    {
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics & accessories",
+        "GrossSales": 1502042.01
+    },
+    {   
+        "CustomerCode":2021007,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "Electronics & accessories",
+        "GrossSales": 1051985.10
+    },
+    {
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "Printers",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Printers",
+        "GrossSales": 90082.01
+    },
+    {   
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "Printers",
+        "GrossSales": 151080.45
+    },
+    {
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "EVERGREEN MARINE",
+        "PeriodType": "C12TM",
+        "ItemType": "Hard Drive Accessories",
+        "GrossSales": 71855.07
+    },
+    {
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "Opsware",
+        "PeriodType": "C12TM",
+        "ItemType": "Hard Drive Accessories",
+        "GrossSales": 102002.01
+    },
+    {   
+        "CustomerCode": 2021007,
+        "SimilarCustomerDescription": "ANTONG HOLDINGS",
+        "PeriodType": "C12TM",
+        "ItemType": "Hard Drive Accessories",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Amazon",
+        "PeriodType": "C12TM",
+        "ItemType": "Cold & flu essentials",
+        "GrossSales": 1351880.01
+    },
+    {
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "Cold & flu essentials",
+        "GrossSales": 1092804.01
+    },
+    {   
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "kmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Cold & flu essentials",
+        "GrossSales": 115100.15
+    },
+    {
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Amazon",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & Outdoors",
+        "GrossSales": 61880.01
+    },
+    {
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & Outdoors",
+        "GrossSales": 82042.01
+    },
+    {   
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "kmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Sports & Outdoors",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Amazon",
+        "PeriodType": "C12TM",
+        "ItemType": "Household Essentials",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "Target",
+        "PeriodType": "C12TM",
+        "ItemType": "Household Essentials",
+        "GrossSales": 102800.01
+    },
+    {   
+        "CustomerCode": 2021008,
+        "SimilarCustomerDescription": "kmart",
+        "PeriodType": "C12TM",
+        "ItemType": "Household Essentials",
+        "GrossSales": 91980.45
+    },
+{
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Sprouts Farmers Market, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Vitamins & Supplements",
+        "GrossSales": 1551880.01
+    },
+    {
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Walmart Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Vitamins & Supplements",
+        "GrossSales": 1492002.01
+    },
+    {   
+        "CustomerCode":2021009,
+        "SimilarCustomerDescription": "Weis Markets, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Vitamins & Supplements",
+        "GrossSales": 1251980.15
+    },
+    {
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Sprouts Farmers Market, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": " Beverages",
+        "GrossSales": 51884.01
+    },
+    {
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Walmart Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Beverages",
+        "GrossSales": 92009.01
+    },
+    {   
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Weis Markets, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Beverages",
+        "GrossSales": 151980.45
+    },
+    {
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Sprouts Farmers Market, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Health and Wellness",
+        "GrossSales": 81800.01
+    },
+    {
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Walmart Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Health and Wellness",
+        "GrossSales": 102042.01
+    },
+    {   
+        "CustomerCode": 2021009,
+        "SimilarCustomerDescription": "Weis Markets, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Health and Wellness",
+        "GrossSales": 91907.45
+    },
+{
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Rona, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": " Small Kitchen Appliances",
+        "GrossSales": 1301880.01
+    },
+    {
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": " Small Kitchen Appliances",
+        "GrossSales": 1202042.01
+    },
+    {   
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Huttig Building Products, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": " Small Kitchen Appliances",
+        "GrossSales": 1251080.15
+    },
+    {
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Rona, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchenware & Tableware",
+        "GrossSales": 51000.01
+    },
+    {
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchenware & Tableware",
+        "GrossSales": 98000.01
+    },
+    {   
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Huttig Building Products, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Kitchenware & Tableware",
+        "GrossSales": 107000.45
+    },
+    {
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Rona, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Window Treatments",
+        "GrossSales": 81880.01
+    },
+    {
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Menards",
+        "PeriodType": "C12TM",
+        "ItemType": "Window Treatments",
+        "GrossSales": 100042.01
+    },
+    {   
+        "CustomerCode": 2021010,
+        "SimilarCustomerDescription": "Huttig Building Products, Inc.",
+        "PeriodType": "C12TM",
+        "ItemType": "Window Treatments",
+        "GrossSales": 91900.45
+    }
+]

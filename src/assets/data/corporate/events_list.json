@@ -49,7 +49,7 @@
     "title": "NRF Vision 2020. Retail's Big Show",
     "url": "https://nrfbigshow.nrf.com/",
     "source_uri": "",
-    "event_dataType": "Company Event",
+    "event_dataType": "CDW Event",
     "event_date": 8,
     "event_location": "New York City",
     "description": "NRF 2020: Retail’s Big Show is the centerpiece of NRF Retail Week, where the entire industry unites to get a whole new perspective."
@@ -60,10 +60,10 @@
     "title": "Exploring the PossibilITies of technology",
     "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812462",
     "source_uri": "",
-    "event_dataType": "Company Event",
+    "event_dataType": "CDW Event",
     "event_date": 12,
     "event_location": "Phoenix, AZ",
-    "description": "The world is changing fast, and Company is here to help. Our Executive SummIT Series focuses on the technology trends and solutions that today's businesses are using to get ahead."
+    "description": "The world is changing fast, and CDW is here to help. Our Executive SummIT Series focuses on the technology trends and solutions that today's businesses are using to get ahead."
   },
   {
     "customer_name": "Executive Dinner Series",
@@ -71,7 +71,7 @@
     "title": "Connecting you with people who Get IT",
     "url": "https://cdwevents.cio.com/ehome/index.php?eventid=381898&tabid=812463",
     "source_uri": "",
-    "event_dataType": "Company Event",
+    "event_dataType": "CDW Event",
     "event_date": 15,
     "event_location": "Costa Mesa, CA",
     "description": "Engage with leaders who can give you advice you can’t find anywhere else."
@@ -97,5 +97,81 @@
     "event_date": 30,
     "event_location": "Web Conference",
     "description": ""
-  }
+  },
+{
+    "customer_name": "Ace Hardware",
+    "dateTimePub": "",
+    "title": "Westlake Ace Hardware to open new store in former grocery space in St. Louis County",
+    "url": "https://www.bizjournals.com/stlouis/news/2021/10/01/westlake-ace-hardware-to-add-store-in-twin-oaks.html?ana=synd_fc",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 1,
+    "event_location": "St. Louis County",
+    "description": "Westlake Ace Hardware, a Lenexa, Kansas-based retailer, plans to open a new store in Twin Oaks in west St. Louis County."
+  },
+{
+    "customer_name": "Starbucks",
+    "dateTimePub": "",
+    "title": "Q3 Fiscal 2021 Starbucks Earnings Conference Call",
+    "url": "https://investor.starbucks.com/events-and-presentations/current-and-past-events/event-details/2021/Q3-Fiscal-2021-Starbucks-Earnings-Conference-Call-tentative/default.aspx",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 27,
+    "event_location": "Seattle",
+    "description": "SEATTLE; July 27, 2021 – Starbucks Corporation (NASDAQ: SBUX) today reported financial results for its 13-week fiscal third quarter ended June 27, 2021.  "
+  },
+{
+    "customer_name": "Meijer",
+    "dateTimePub": "",
+    "title": "Fall Fashion Night",
+    "url": "https://www.facebook.com/events/440345566600226/",
+    "source_url": "",
+    "event_dataType": "My Event",
+    "event_date": 9,
+    "event_location": "mentor",
+    "description": "https://www.bizjournals.com/stlouis/news/2021/10/01/westlake-ace-hardware-to-add-store-in-twin-oaks.html?ana=synd_fc."},
+
+    {"customer_name": "Amazon",
+    "dateTimePub": "",
+    "title": "Public sector summit online",
+    "url": "https://aws.amazon.com/events/summits/online/public-sector/?trk=ep_card_main_event_page",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 5,
+    "event_location": "",
+    "description": "AWS Public Sector Summit Online virtually to deepen your cloud knowledge and gain new skills to design, deploy, and use the cloud for your mission."},
+{
+    "customer_name": "Walmart",
+    "dateTimePub": "",
+    "title": "Walmart Announces 2021 Return of “Black Friday Deals for Days,” This Time With Special Early Access for Walmart+ Members",
+    "url": "https://corporate.walmart.com/newsroom/2021/10/17/walmart-announces-2021-return-of-black-friday-deals-for-days-this-time-with-special-early-access-for-walmart-members",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 18,
+    "event_location": "BENTONVILLE",
+    "description": " After overwhelmingly positive customer feedback for Walmart’s reinvented Black Friday shopping experience last year, the retailer is announcing the return of its month-long savings event, “Black Friday Deals for Days."
+  },
+{
+    "customer_name": "Kroger",
+    "dateTimePub": "",
+    "title": "the Zero Hunger ",
+    "url": "https://zerohungerzerowastefoundation.org/how_we_give.html",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": "3",
+    "event_location": "",
+    "description": "Zero Waste Foundation has directed more than $30 million to organizations aligned with our mission to create communities free of hunger and waste"
+  },
+
+{
+    "customer_name": "Home Depot",
+    "dateTimePub": "",
+    "title": "THE HOME DEPOT COMPLETES ACQUISITION OF HD SUPPLY ",
+    "url": "https://ir.homedepot.com/news-releases/2020/12-24-2020-150014518",
+    "source_uri": "",
+    "event_dataType": "My Event",
+    "event_date": 24,
+    "event_location": "ATLANTA",
+    "description": "The Home Depot, the world's largest home improvement retailer, has completed the acquisition of HD Supply Holdings, Inc., for a total enterprise value (including net cash) of approximately $8 billion."  }
+
 ]

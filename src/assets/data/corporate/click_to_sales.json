@@ -1,0 +1,1462 @@
+[
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 119981,
+      "sales": 22122
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109084,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 200034,
+      "sales": 15006
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 180437,
+      "sales": 12075
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "NUTANIX",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 213033,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":11460589,
+      "CustomerDescription": "Airbnb (11460589)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "IMPACT BUSINESS GROUP",
+      "leads": 210030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 129981,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "AVAYA",
+      "leads": 109384,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 150037,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "ZEBRA TECHNOLOGIES",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 200004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 213333,
+      "sales": 14571
+    },
+    {
+      "CustomerCode":11986217,
+      "CustomerDescription": "CHEWY.COM (11986217)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 139984,
+      "sales": 28122
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "TERRAWAVE",
+      "leads": 109384,
+      "sales": 10168
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 150037,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 120650,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 203333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":3649060,
+      "CustomerDescription": "ALASKA AIRLINES (3649060)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 130984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 109304,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 150437,
+      "sales": 18075
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Cables (Cables)",
+      "BrandDescription": "RETAIL SERVICE PARTS",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 283333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":382001,
+      "CustomerDescription": "ASTELLAS PHARMA US LLC (382001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 19321
+    },
+ {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 139984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 200004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 17075
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "PROLINE",
+      "leads": 120650,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 263333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":9437517,
+      "CustomerDescription": "BIG FISH GAMES (9437517)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 210030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":1106180,
+      "CustomerDescription": "MOHAWK INDUSTRIES (1106180)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 130984,
+      "sales": 20122
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "DELL",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200004,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 120607,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":10559774,
+      "CustomerDescription": "ZYNGA INC. (10559774)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 110234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 100384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "NASUNI",
+      "leads": 120057,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 253333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":4255742,
+      "CustomerDescription": "UNDER ARMOUR INC. (4255742)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 260034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 119234,
+      "sales": 12143
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "LENOVO",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 200034,
+      "sales": 15020
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":3937040,
+      "CustomerDescription": "DICKS SPORTING GOODS (3937040)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Printing & Document Scanning (Printers)",
+      "BrandDescription": "LEXMARK",
+      "leads": 109380,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Enterprise Storage (Storage)",
+      "BrandDescription": "DELL",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 200030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":222301,
+      "CustomerDescription": "ASHLEY FURNITURE (222301)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "ACER",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "HP INC",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 200030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "RED HAT",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2496148,
+      "CustomerDescription": "AFLAC (2496148)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 15321
+    },
+{
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 139980,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "AR Blue Clean 2000(Pressure Washer)",
+      "BrandDescription": "AR Blue Clean",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Accessories (Accessories)",
+      "BrandDescription": "THERMALTAKE TECHNOLOGY",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 213330,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021002,
+      "CustomerDescription": "Ace Hardware(2021002)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Data Storage/Drives (Drives)",
+      "BrandDescription": "SANDISK",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Racks (Racks)",
+      "BrandDescription": "TRIPP LITE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Mint Majesty Sachets(Tea)",
+      "BrandDescription": "Teavana",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021001,
+      "CustomerDescription": "Starbucks(2021001)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "NetComm Products (NetComm)",
+      "BrandDescription": "STARTECH COM",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 119230,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Video & Audio (Video)",
+      "BrandDescription": "INFOCUS",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "LG 55 class-55NANO75 (TV'S)",
+      "BrandDescription": "PROLINE",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021003,
+      "CustomerDescription": "Meijer(2021003)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "F5 NETWORKS",
+      "leads": 210030,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Apple MacBook Pro 13.3(LAPTOPS)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 150430,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Servers & Server Management (Servers)",
+      "BrandDescription": "ADDER",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021007,
+      "CustomerDescription": "Amazon(2021007)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "COMMVAULT",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "BOMAKER 4K Ultra HD Laser Projector",
+      "BrandDescription": "Bomaker",
+      "leads": 139980,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "BOMAKER 4K Ultra HD Laser Projector",
+      "BrandDescription": "Bomaker",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "BOMAKER 4K Ultra HD Laser Projector",
+      "BrandDescription": "Bomaker",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VMWARE",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 200030,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 213333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021008,
+      "CustomerDescription": "Walmart(2021008)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Collaboration Hardware (Collaboration)",
+      "BrandDescription": "LOGITECH",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 119230,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Notebook/Mobile Devices (Laptops)",
+      "BrandDescription": "APPLE",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Apple MYFM2(iPadS)",
+      "BrandDescription": "Apple",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Apple MYFM2(iPadS)",
+      "BrandDescription": "Apple",
+      "leads": 150437,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Apple MYFM2(iPadS)",
+      "BrandDescription": "Apple",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 273333,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021009,
+      "CustomerDescription": "Kroger(2021009)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "CISCO",
+      "leads": 210034,
+      "sales": 15321
+    },
+ {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Honda3000-Watt Super Quiet Electric(Generators)",
+      "BrandDescription": "Honda",
+      "leads": 139984,
+      "sales": 23122
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Honda3000-Watt Super Quiet Electric(Generators)",
+      "BrandDescription": "Honda",
+      "leads": 119234,
+      "sales": 16143
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Honda3000-Watt Super Quiet Electric(Generators)",
+      "BrandDescription": "Honda",
+      "leads": 109384,
+      "sales": 12168
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 150430,
+      "sales": 11075
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Software (Software)",
+      "BrandDescription": "VERITAS",
+      "leads": 120657,
+      "sales": 12086
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "C12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 200034,
+      "sales": 15026
+    },
+    {
+      "CustomerCode": 2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "P12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 213330,
+      "sales": 18571
+    },
+    {
+      "CustomerCode":2021010,
+      "CustomerDescription": "Home Depot(2021010)",
+      "PeriodType": "PP12TM",
+      "ItemTypeDescription": "Services (Services-P)",
+      "BrandDescription": "HP INC",
+      "leads": 210034,
+      "sales": 13320
+    }
+
+]
+

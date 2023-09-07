@@ -28,5 +28,46 @@
         "shopping_carts":1,
         "product_group":"KYB,ISL,CBX,GE,VCW",
         "sc_total":2000
+    },
+
+ {"conversion_probability":"LOW",
+        "shopping_carts":"2",
+        "product_group":"AR 3000,BR 800 C-E",
+        "sc_total":"2000"},
+
+{ "conversion_probability":"MEDIUM",
+        "shopping_carts":"2",
+        "product_group":"Blended Bars,Blonde Roast Veranda Blend Ground",
+        "sc_total":"5000"},
+
+{
+        "conversion_probability":"HIGH",
+        "shopping_carts":"2",
+        "product_group":"VIZIO V-Series,LG Smart UHD TV",
+        "sc_total":"25000"},
+{
+        "conversion_probability":"High",
+        "shopping_carts":7,
+        "product_group":"ASUS Chromebook Flip,2020 Apple MacBook Air Laptop",
+        "sc_total":"10000"
+    },
+{
+        "conversion_probability":"High",
+        "shopping_carts":9,
+        "product_group":"BOMAKER 4K Ultra HD Laser Projector,SAMSUNG 70 Class 4K Crystal UHD (2160P) LED Smart TV with HDR UN70TU7000",
+        "sc_total":"15000"
+    },{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":10,
+        "product_group":"iLive Blu-Ray/DVD Player,Roku Ultra 4800R Streaming Player ",
+        "sc_total":"10000"
+    },
+{
+        "conversion_probability":"MEDIUM",
+        "shopping_carts":10,
+        "product_group":"Sunnydaze Decor60,000 BTU Forced Air Propane Space Heater with Overheat Auto-Shutoff,Concierge Fully Automatic Bean-To-Cup Stainless Steel Espresso Machine with Automatic Shut-Off",
+        "sc_total":"8000"
     }
+
+
 ]

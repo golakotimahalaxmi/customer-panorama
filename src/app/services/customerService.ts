@@ -336,7 +336,7 @@ export class CustomerService {
   //method for getting prefferd partners data
   getpreferredPartnerProducts(): Observable<preferredPartnerProducts[]> {
     return this.http.get<preferredPartnerProducts[]>(
-      "assets/data/" + this.customerType + "/preffered_partners.json"
+      "assets/data/" + this.customerType + "/preferred_partners.json"
     );
   }
 

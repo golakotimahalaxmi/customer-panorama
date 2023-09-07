@@ -383,5 +383,104 @@
     "BrandDescription": "Pure Storage",
     "Gross_Sales": 308021.4,
     "logo_name": ""
+  },
+{
+    "CustomerCode": 2021002,
+    "CustomerShortDescription": "Ace Hardware",
+    "BrandDescription": "Weber",
+    "Gross_Sales": "3311328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021002,
+    "CustomerShortDescription": "Ace Hardware",
+    "BrandDescription": "Traeger",
+    "Gross_Sales": "2311328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021001,
+    "CustomerShortDescription": "Starbucks",
+    "BrandDescription": "Teavana",
+    "Gross_Sales": "1311328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021001,
+    "CustomerShortDescription": "Starbucks",
+    "BrandDescription": "Tazo",
+    "Gross_Sales": "1311328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021003,
+    "CustomerShortDescription": "Meijer",
+    "BrandDescription": "LG",
+    "Gross_Sales": "1211328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021003,
+    "CustomerShortDescription": "Meijer",
+    "BrandDescription": "SONY",
+    "Gross_Sales": "1111328.49",
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021007,
+    "CustomerShortDescription": "Amazon",
+    "BrandDescription": "accenture",
+    "Gross_Sales":1711328.49,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":2021007,
+    "CustomerShortDescription": "Amazon",
+    "BrandDescription": "capgemini",
+    "Gross_Sales": 1811328.49,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021008,
+    "CustomerShortDescription": "Walmart",
+    "BrandDescription": "Magento",
+    "Gross_Sales": 1311328.39,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":2021008,
+    "CustomerShortDescription": "Walmart",
+    "BrandDescription": "ShipStation",
+    "Gross_Sales": 1911328.39,
+    "logo_name": ""
+  },
+{
+    "CustomerCode": 2021009,
+    "CustomerShortDescription": "Kroger",
+    "BrandDescription": "Baker’s",
+    "Gross_Sales": 1011328.29,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":2021009,
+    "CustomerShortDescription": "Kroger&co.",
+    "BrandDescription": "City Market",
+    "Gross_Sales": 1011328.31,
+    "logo_name": ""
+  },
+
+{
+    "CustomerCode": 2021010,
+    "CustomerShortDescription": "Home Depot",
+    "BrandDescription": "OMNIA Partners",
+    "Gross_Sales": 1111328.39,
+    "logo_name": ""
+  },
+  {
+    "CustomerCode":2021010,
+    "CustomerShortDescription": "Home Depot",
+    "BrandDescription": "Google Cloud",
+    "Gross_Sales": 1411328.29,
+    "logo_name": ""
   }
  ]

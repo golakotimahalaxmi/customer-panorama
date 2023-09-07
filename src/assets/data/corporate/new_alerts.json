@@ -9,8 +9,10 @@
     "posted_on_trust_code": "",
     "url": "https://www.cnbc.com/2019/12/23/airbnb-and-silicon-valley-unicorns-that-may-dare-to-ipo-in-2020.html",
     "created_at": "12:24 pm 01/08/20",
-    "Logo_Name": "airbnb-news.jpg"
-  },
+    "Logo_Name": "airbnb-news.jpg",
+    "Relavance":"High",
+     "Time_to_read" : "05:00"
+    },
   {
     "customer_name": "Chewy.com",
     "customer_code": 11986217,
@@ -21,7 +23,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.wbtv.com/2020/01/03/chewycom-distribution-facility-going-up-quickly-rowan/",
     "created_at": "12:35 pm 01/03/20",
-    "Logo_Name": "chewy-news.jpg"
+    "Logo_Name": "chewy-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Chewy.com",
@@ -33,7 +37,9 @@
     "posted_on_trust_code": "",
     "url": "https://wnep.com/2019/12/23/chewy-com-bringing-hundreds-of-jobs-to-lackawanna-county/",
     "created_at": "10:22 am 12/23/20",
-    "Logo_Name": "chewy-news.jpg"
+    "Logo_Name": "chewy-news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Alaska Airlines",
@@ -45,7 +51,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.forbes.com/sites/greatspeculations/2020/01/09/what-factors-will-drive-alaska-airlines-revenues-in-2020/#74a07c293561",
     "created_at": "",
-    "Logo_Name": "alaska-news.jpg"
+    "Logo_Name": "alaska-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Alaska Airlines",
@@ -57,7 +65,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.usatoday.com/story/travel/airline-news/2019/12/23/alaska-airlines-passenger-bags-left-behind-long-tarmac-delays/2732066001/",
     "created_at": "",
-    "Logo_Name": "alaska-news.jpg"
+    "Logo_Name": "alaska-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Astellas Pharma",
@@ -69,7 +79,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.reuters.com/article/us-astellas-pharma-m-a-xyphos/astellas-ramps-up-ma-buys-u-s-biotech-xyphos-for-as-much-as-665-million-idUSKBN1YV08H",
     "created_at": "",
-    "Logo_Name": "astellas-news.jpg"
+    "Logo_Name": "astellas-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Astellas Pharma",
@@ -81,7 +93,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.nasdaq.com/articles/astellas-pharma-inc.-alpmy-a-stock-flying-under-the-radar-2019-12-19",
     "created_at": "",
-    "Logo_Name": "astellas-news.jpg"
+    "Logo_Name": "astellas-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"
   },
   {
     "customer_name": "Mohawk Industries",
@@ -93,7 +107,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.businesswire.com/news/home/20200108005872/en/Shareholder-Alert-Robbins-LLP-Announces-Mohawk-Industries",
     "created_at": "",
-    "Logo_Name": "mohawk-news.jpg"
+    "Logo_Name": "mohawk-news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Mohawk Industries",
@@ -105,7 +121,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.nasdaq.com/articles/mohawk-industries-is-now-oversold-mhk-2020-01-09",
     "created_at": "",
-    "Logo_Name": "mohawk-news.jpg"
+    "Logo_Name": "mohawk-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Zynga",
@@ -117,7 +135,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.seattletimes.com/business/farmville-maker-zynga-is-booming-again/",
     "created_at": "",
-    "Logo_Name": "zynga-news.jpg"
+    "Logo_Name": "zynga-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"
   },
   {
     "customer_name": "Zynga",
@@ -129,7 +149,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.forbes.com/sites/greatspeculations/2020/01/06/how-does-zyngas-revenue-and-other-key-metrics-compare-with-that-of-electronic-arts/#33c081222d05",
     "created_at": "",
-    "Logo_Name": "zynga-news.jpg"
+    "Logo_Name": "zynga-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Under Armour",
@@ -141,7 +163,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.fool.com/investing/2020/01/06/why-under-armor-stock-sank-7-today.aspx",
     "created_at": "",
-    "Logo_Name": "underarmour-news.jpg"
+    "Logo_Name": "underarmour-news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "05:00"
   },
   {
     "customer_name": "Under Armour",
@@ -153,7 +177,9 @@
     "posted_on_trust_code": "",
     "url": "https://finance.yahoo.com/news/target-hatches-a-billion-dollar-plan-to-challenge-nike-and-under-armour-130003755.html",
     "created_at": "",
-    "Logo_Name": "underarmour-news.jpg"
+    "Logo_Name": "underarmour-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Under Armour",
@@ -165,9 +191,10 @@
     "posted_on_trust_code": "",
     "url": "https://www.fool.com/investing/2020/01/03/4-reasons-under-armour-will-head-lower-in-2020.aspx",
     "created_at": "",
-    "Logo_Name": "underarmour-news.jpg"
+    "Logo_Name": "underarmour-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "4:00"
   },
-  
   {
     "customer_name": "Dick's Sporting Goods",
     "customer_code": 3937040,
@@ -176,9 +203,11 @@
     "author": "",
     "posted_on": 0,
     "posted_on_trust_code": "",
-    "url": "https://www.heraldextra.com/news/local/central/orem/dick-s-sporting-goods-closes-abruptly-in-orem/article_016aab0a-ebd1-5bf2-8d8b-5c52a4a6a04f.html",
+    "url": "https://finance.yahoo.com/news/dicks-sporting-goods-fourth-quarter-130000242.html",
     "created_at": "",
-    "Logo_Name": "dicks-news.jpg"
+    "Logo_Name": "dicks-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Dick's Sporting Goods",
@@ -190,7 +219,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.wfsb.com/news/dick-s-sporting-goods-in-plainville-closes-its-doors/article_9bf3a62c-3266-11ea-8844-2be2590e2ece.html",
     "created_at": "",
-    "Logo_Name": "dicks-news.jpg"
+    "Logo_Name": "dicks-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "01:00"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -202,7 +233,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.bizjournals.com/dallas/news/2019/12/16/ashley-furniture-grand-prairie.html",
     "created_at": "",
-    "Logo_Name": "ashley-news.jpg"
+    "Logo_Name": "Ashley Furniture-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -214,7 +247,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.furnituretoday.com/community-news/ashley-furniture-hosts-wreath-laying-ceremony-for-veterans/",
     "created_at": "",
-    "Logo_Name": "ashley-news.jpg"
+    "Logo_Name": "Ashley Furniture-news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -226,7 +261,9 @@
     "posted_on_trust_code": "",
     "url": "https://wxow.com/2019/12/11/ashley-furniture-founder-to-receive-horatio-alger-award/",
     "created_at": "",
-    "Logo_Name": "ashley-news.jpg"
+    "Logo_Name": "Ashley Furniture-news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Ashley Furniture",
@@ -236,9 +273,11 @@
     "author": "",
     "posted_on": 0,
     "posted_on_trust_code": "",
-    "url": "https://reportspioneer.com/wooden-furniture-market-increasing-demand-with-industry-professionals-ikea-ashley-furniture-industries-nitori-yihua-timber/73088/",
+    "url": "https://ashley.biz/news/ashley-furniture-homestore-opens-new-store-in-piedras-negras-mexico/",
     "created_at": "",
-    "Logo_Name": "ashley-news.jpg"
+    "Logo_Name": "Ashley Furniture-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
   },
   {
     "customer_name": "Aflac",
@@ -250,7 +289,9 @@
     "posted_on_trust_code": "",
     "url": "https://www.prnewswire.com/news-releases/aflac-global-investments-announces-strategic-partnership-with-varagon-capital-partners-lp-300983142.html",
     "created_at": "",
-    "Logo_Name": "aflac-news.jpg"
+    "Logo_Name": "Aflac-news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "07:00"
   },
   {
     "customer_name": "Aflac",
@@ -262,6 +303,103 @@
     "posted_on_trust_code": "",
     "url": "https://www.zacks.com/stock/news/710060/why-aflac-afl-is-poised-to-beat-earnings-estimates-again",
     "created_at": "",
-    "Logo_Name": "aflac-news.jpg"
-  }
-]
+    "Logo_Name": "Aflac-news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"
+  },
+{
+    "customer_name": "Ace Hardware",
+    "customer_code": 2021002,
+    "customer_id": 28035821,
+    "title": "Westlake Ace Hardware to open new store in former grocery space in St. Louis County",
+    "author": "",
+    "posted_on": 4,
+    "posted_on_trust_code": "",
+    "url": "https://www.bizjournals.com/stlouis/news/2021/10/01/westlake-ace-hardware-to-add-store-in-twin-oaks.html?ana=synd_fc",
+    "created_at": "",
+    "Logo_Name": "acehardware_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
+  },
+{
+    "customer_name": "Starbucks",
+    "customer_code": "2021001",
+    "customer_id": 38045821,
+    "title": "Covid-19: Starbucks says US employees must get vaccine or test weekly",
+    "author": "",
+    "posted_on": -3,
+    "posted_on_trust_code": "",
+    "url": "https://www.business-standard.com/article/current-affairs/covid-19-starbucks-says-us-employees-must-get-vaccine-or-test-weekly-122010400104_1.html",
+    "created_at": "",
+    "Logo_Name": "starbucks_news.jpg",
+    "relavance":"Highest",
+    "Time_to_read": "1:00"
+  },
+{
+    "customer_name": "Meijer",
+    "customer_code": 2021003,
+    "customer_id": 28035841,
+    "title": "Fall Fashion Night",
+    "author": "",
+    "posted_on": -5,
+    "posted_on_trust_code": "",
+    "url": "https://www.bizjournals.com/stlouis/news/2021/10/01/westlake-ace-hardware-to-add-store-in-twin-oaks.html?ana=synd_fc",
+    "created_at": "",
+    "Logo_Name": "meijer_news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "03:00"
+  },
+{    "customer_name": "Amazon",
+     "customer_code": 2021007,
+     "customer_id": 28030841,
+    "title": "Amazon ranks No. 2 on Fortune’s World’s Most Admired Companies",
+    "author": "",
+    "posted_on": -6,
+    "posted_on_trust_code": "",
+    "url": "https://www.aboutamazon.com/news/workplace/amazon-ranks-no-2-on-fortunes-worlds-most-admired-companies",
+     "created_at": "",
+    "Logo_Name": "amazon_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"},
+
+{    "customer_name": "Walmart",
+     "customer_code": 2021008,
+     "customer_id": 20305641,
+    "title": "Walmart Announces 2021 Return of “Black Friday Deals for Days,” This Time With Special Early Access for Walmart+ Members",
+    "author": "",
+    "posted_on": -8,
+    "posted_on_trust_code": "",
+    "url": "https://corporate.walmart.com/newsroom/2021/10/17/walmart-announces-2021-return-of-black-friday-deals-for-days-this-time-with-special-early-access-for-walmart-members",
+     "created_at": "",
+    "Logo_Name": "walmart_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "05:00"},
+
+{
+    "customer_name": "Kroger",
+    "customer_code": 2021009,
+    "customer_id": 20315341,
+    "title": "Zero Waste Foundation has directed more than $30 million to organizations aligned with our mission to create communities free of hunger and waste.",
+    "author": "",
+    "posted_on": -9,
+    "posted_on_trust_code": "",
+    "url": "https://zerohungerzerowastefoundation.org/how_we_give.html",
+    "created_at": "",
+    "Logo_Name": "kroger_news.jpg",
+    "relavance":"High",
+    "Time_to_read": "03:00"
+  },
+{
+    "customer_name": "Home Depot",
+    "customer_code": 2021010,
+    "customer_id": 20315331,
+    "title": "HE HOME DEPOT COMPLETES ACQUISITION OF HD SUPPLY",
+    "author": "",
+    "posted_on": -10,
+    "posted_on_trust_code": "",
+    "url": "https://ir.homedepot.com/news-releases/2020/12-24-2020-150014518",
+    "created_at": "",
+    "Logo_Name": "homedepot_news.jpg",
+    "relavance":"Medium",
+    "Time_to_read": "07:00"}]
+    

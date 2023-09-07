@@ -486,5 +486,61 @@
     "C12TM": 81206.3,
     "P12Tm": 55762.52,
     "PP12TM": 51232
+  },
+{
+    "Customercode": 2021002,
+    "CustomerDescription": "Ace Hardware(2021002)",
+    "CoworkerCode": "bd34",
+    "C12TM": 25983.85,
+    "P12Tm": 47892.26,
+    "PP12TM": 23080.12
+  },
+{
+    "Customercode": 2021001,
+    "CustomerDescription": "Starbucks(2021001)",
+    "CoworkerCode": "CV45",
+    "C12TM": 35983.85,
+    "P12Tm": 57892.26,
+    "PP12TM": 13080.12
+  },
+{
+    "Customercode": 2021003,
+    "CustomerDescription": "Meijer(2021003)",
+    "CoworkerCode": "DV44",
+    "C12TM": "126226.7",
+    "P12Tm": "186226.6",
+    "PP12TM": "156226.4"
+  },
+{"Customercode": 2021007,
+    "CustomerDescription": "Amazon(2021007)",
+    "CoworkerCode": "LV54",
+    "C12TM": "206226.7",
+    "P12Tm": "196226.6",
+    "PP12TM": "196526.4"
+  },
+{
+    "Customercode": 2021008,
+    "CustomerDescription": "Walmart (2021008)",
+    "CoworkerCode": "GS72",
+    "C12TM": 89206.6,
+    "P12Tm": 67762.52,
+    "PP12TM": 81232
+  },
+{
+    "Customercode": 2021009,
+    "CustomerDescription": "Kroger&co (2021009)",
+    "CoworkerCode": "GM72",
+    "C12TM": 80206.6,
+    "P12Tm": 67762.52,
+    "PP12TM": 71232
+  },
+
+{
+    "Customercode": 2021010,
+    "CustomerDescription": "Home Depot(2021010)",
+    "CoworkerCode": "LM52",
+    "C12TM": 70206.5,
+    "P12Tm": 47762.42,
+    "PP12TM": 51232
   }
 ]

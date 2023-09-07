@@ -20,7 +20,7 @@ export class CustomerSimilarComponent implements OnInit {
 
   constructor(private modalService: ModalService, private dashboardService: DashboardService, private service: CustomerService) {
     this.getAllHedingsData();
-    this.getAllpreferredPartnerProduct();
+   // this.getAllpreferredPartnerProduct();
   }
 
   ngOnInit() {
@@ -29,11 +29,7 @@ export class CustomerSimilarComponent implements OnInit {
   //method for getallpreferredproducts
   getAllpreferredPartnerProduct() {
     this.service.getpreferredPartnerProducts().subscribe(preferredpartnerproducts => {
-      preferredpartnerproducts.forEach(preferredpartnerproductsVal => {
-
-      })
-
-    });
+          });
   }
 
   // method for getAllHeadings
