@@ -1783,7 +1783,7 @@ color: #76B900 !important;
 /* prefered partners table*/
 
 .h-4rem{
-  height: 5rem !important;
+  height: 10px !important;
 }
 
 .v-align-middle{
@@ -1798,4 +1798,21 @@ color: #76B900 !important;
 .footr{
   position: fixed;
   bottom: 0;
+}
+
+/* prefered partners table */
+
+.fc-red{
+  color: red !important;
+}
+
+.fc-green{
+  color:rgb(4, 59, 4)
+}
+
+.table-th-fixed{
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 8;
 }
