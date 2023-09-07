@@ -1769,3 +1769,33 @@ color: #76B900 !important;
 .router-h{
   height: calc(100vh - 15vh);
 }
+
+/* top nav logout */
+
+.p-0-20{
+  padding: 0px 20px !important;
+}
+
+.p-l-8{
+  padding-left: 8px;
+}
+
+/* prefered partners table*/
+
+.h-4rem{
+  height: 5rem !important;
+}
+
+.v-align-middle{
+  vertical-align: middle !important; 
+}
+
+.w-space{
+  white-space: pre-wrap;
+}
+
+/* side nav footer */
+.footr{
+  position: fixed;
+  bottom: 0;
+}

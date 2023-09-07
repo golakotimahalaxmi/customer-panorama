@@ -227,7 +227,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
           else if (a.customer_name > b.customer_name) return 1;
           else return 0;
         });
-        //sessionStorage.setItem("customersDetails", JSON.stringify(customer));
+        sessionStorage.setItem("customersDetails", JSON.stringify(customer));
         this.viewCustomersList = customer;
         this.service.saveCustomerDetails(this.viewCustomersList);
       });

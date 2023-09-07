@@ -48,7 +48,7 @@
         ngbDropdown
       >
         <a
-          class="nav-link pr-0"
+          class="nav-link pr-0 p-0-20"
           tooltip="{{ headingsObject.tip_home_topnav_profile }}"
           placement="bottom"
           aria-controls="dropdown-alignment"
@@ -59,10 +59,9 @@
             src="assets/images/icons/profile.png"
           />
         </a>
-        <ul ngbDropdownMenu>
+        <ul ngbDropdownMenu class="">
           <li ngbDropdownItem style="padding: 0px">
-            <a (click)="gotoHome()" style="font-size: 13px"
-              >Logout <span class="fa fa-sign-out"></span>
+            <a (click)="gotoHome()" style="font-size: 13px">Logout <span class="fa fa-sign-out p-l-8"></span>
             </a>
           </li>
         </ul>
