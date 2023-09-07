@@ -10,26 +10,15 @@
                 <span class="fs-11 ff-pm">> </span>
                 <span class="fs-11 ff-pm fc-black">Customer Profile </span>
             </div>
-            <div class="row card-container">
-                <!-- <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                    <app-customer-identity></app-customer-identity>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                    <app-customer-contacts></app-customer-contacts>
-                    <app-customer-recommendations></app-customer-recommendations>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                    <app-customer-graphs></app-customer-graphs>
-                    <app-customer-similar></app-customer-similar>
-                </div> -->
+            <div class="row card-container">              
                 <div *ngFor="let widget of widgetPositions; let i = index" [ngClass]="{
             'col-md-4 col-lg-4 col-sm-12': widget.size === 1,
             'col-md-8 col-lg-8 col-sm-16': widget.size === 2,
             'col-md-12 col-lg-12 col-sm-20': widget.size === 3
           }" cdkDragBoundary=".row" cdkDrag>
                     <span *ngIf="widget.name === 'newsalerts'">
-                        <app-customer-identity [isFull]="widget.isFull"></app-customer-identity>
-                        <app-insights *ngIf="service.getCustomerType() != 'smallbusiness' && service.getCustomerType() !='transportation'" [isFull]="widget.isFull" [widget2]="widget.name"></app-insights>
+                        <app-customer-identity [isFull]="!insightFlage"></app-customer-identity>
+                        <app-insights *ngIf='insightFlage' [isFull]="widget.isFull" [widget2]="widget.name"></app-insights>
                     </span>
                     <span *ngIf="widget.name === 'customerMenu'">
                         <app-customer-contacts></app-customer-contacts>
