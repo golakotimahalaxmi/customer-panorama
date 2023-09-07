@@ -70,17 +70,14 @@ export class InsightsComponent implements OnInit {
   // method for all calling the funds data for all customer
   getfirmographicsData() {
     let insightsData = [];
-    this.service.getInsights().subscribe((insightsResponse) => {
-      // insightsResponse.forEach((insightsData) => {
-      //   console.log(insightsData);
-      // });
+    this.service.getInsights().subscribe((insightsResponse) => {      
       insightsData = insightsResponse;
-
       this.sortedInsightsData = insightsData.sort((a, b) =>
         a.customer_name < b.customer_name ? -1 : 1
       );
       this.sortingInsightsData();
     });
+    
   }
 
   sortingInsightsData() {
@@ -91,5 +88,6 @@ export class InsightsComponent implements OnInit {
       const formattedDate = formatDate(currentDate, "dd/MM/yy h:mm a", "en");
       return { ...item, date: formattedDate };
     });
+       sessionStorage.setItem("insights", JSON.stringify(this.updatedData));
   }
 }
