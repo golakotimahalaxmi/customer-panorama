@@ -84,7 +84,6 @@ export class InsightsComponent implements OnInit {
   }
 
   sortingInsightsData() {
-    const mydate = new Date();
     this.updatedData = this.sortedInsightsData.map((item) => {
       const currentDate = new Date();
       const daysToAdd = item.posted_on;
