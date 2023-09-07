@@ -9,8 +9,7 @@
           <app-widget-menu [modalName]="modalName"></app-widget-menu>
       </div>        
   </div>
-  <div class="card-body p-0" style="overflow: auto;">
-     <div class="card-main-padding">
+  
         <!-- <img src="assets/images/reco@2x.png" width="100%"> -->
         <!--<ngx-powerbi-component type="report"
             id="e342eb39-4897-4fc8-ae3c-9685e45ae689"
@@ -20,7 +19,9 @@
         </ngx-powerbi-component>--->
         <!--<iframe width="100%" height="98%" src="https://app.powerbi.com/reportEmbed?reportId=e342eb39-4897-4fc8-ae3c-9685e45ae689&autoAuth=true&ctid=de9231de-45f4-4325-ae07-8ae72052517e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>-->
         <!--<iframe height="100%" width="100%" src="https://app.powerbi.com/reportEmbed?reportId=e342eb39-4897-4fc8-ae3c-9685e45ae689&autoAuth=true&ctid=de9231de-45f4-4325-ae07-8ae72052517e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"></iframe>-->
-
+        
+        <!-- <div class="card-body p-0" style="overflow: auto;">
+            <div class="card-main-padding">
            <div class="recommendation-row table-header-bg"> 
                <div class="col-md-4 heading">Startegy | Probability(%) </div>
                <div class="col-md-4 heading">Total value</div>
@@ -33,7 +34,7 @@
                     <div class="probData">
                         <p class="probabiltyStyle">
                            <span> Probability : <span class="blue-numbers">{{recommendation.probability}}%</span></span>
-                           <!-- <span>Total Value : <span class="green-numbers">$ {{recommendation.total_value}}</span></span>-->
+                            //<span>Total Value : <span class="green-numbers">$ {{recommendation.total_value}}</span></span>
                         </p>
                     </div> 
                 </div>
@@ -55,7 +56,35 @@
            </div>
            
        </div>
-    </div>
+    </div> -->
+    <table class="width-100">
+        <tr class="table-header-bg recommendation-row">
+            <th class="col-md-4 heading">Startegy | Probability(%) </th>
+            <th class="col-md-4 heading">Total value</th>
+            <th class="col-md-4 heading">Product</th>
+        </tr>
+        <tr class="recommendation-row" *ngFor="let recommendation of recommandations">
+            <td class="probabiltyStyle col-md-4 ">
+                <div class="d-flex">
+                 <p class="blue-numbers text-center tp"> Probability :<span>{{recommendation.probability}}%</span></p>
+                 <p class="vertical-border align-right"></p>
+                </div>
+            </td>
+            <td class="col-md-4 ">
+                <div class="d-flex">
+                <p class="green-numbers tp" >$ {{recommendation.total_value}}</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-4">
+                <div class="my-2">
+                <p><img src="assets/images/{{recommendation.product_image}}"></p>
+                <p class="productname">{{recommendation.product_name}}</p>
+                <p class="product_value blue-numbers">${{recommendation.product_value}}</p>
+                </div>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <!-- expanded view modal for customer recommendations-->
