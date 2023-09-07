@@ -617,7 +617,6 @@ export class CustomerIdentityComponent implements OnInit, OnDestroy {
       this.getSimilarcompaniesdata(id);
       this.getMangersdata(id);
       this.showGooglemapforparticlarcoustomer();
-      console.log(this.firmoGraphData)
     }
   }
 

@@ -34,15 +34,12 @@ export class CustomerRecommendationsComponent implements OnInit {
       recommandation.forEach(recommandationVal => {
         let totalValue = (recommandationVal.total_value/1000).toFixed(2);
         recommandationVal.total_value = parseInt(totalValue);
-
-        recommandationVal.product.forEach(product => {
-          let productValue = (product.product_value/1000).toFixed(2);
-          product.product_value = parseInt(productValue);
-        })
+        let productValue = (parseInt(recommandationVal.product_value)/1000).toFixed(2);
+        recommandationVal.product_value = productValue;
       })
       this.recommandations = recommandation;
+
     });
-  
   }
 
     // method for getAllHeadings

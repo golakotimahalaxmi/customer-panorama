@@ -1,4 +1,4 @@
-<div class="card half-card">
+<div class="card half-card" >
   <div class="card-row header-bg-clr" (dblclick)="openModal()">
       <div class="col-lg-6 col-md-8 col-sm-8 col-6">
           <div class="card-header fc-white" tooltip="{{getAllheadings.tip_cp_reccomendation_widget_title}}" placement="bottom">
@@ -57,16 +57,22 @@
            
        </div>
     </div> -->
-    <table class="width-100">
-        <tr class="table-header-bg recommendation-row">
+    <div class="tableFixHead" >
+    <table class="table sticky" >
+
+        <thead class="table-header-bg ">
+        <tr class=" recommendation-row table-border">
             <th class="col-md-4 heading">Startegy | Probability(%) </th>
             <th class="col-md-4 heading">Total value</th>
             <th class="col-md-4 heading">Product</th>
         </tr>
-        <tr class="recommendation-row" *ngFor="let recommendation of recommandations">
+        </thead>
+        <tbody >
+        <tr class=" table-boxshadow h-4rem " *ngFor="let recommendation of recommandations">
             <td class="probabiltyStyle col-md-4 ">
                 <div class="d-flex">
-                 <p class="blue-numbers text-center tp"> Probability :<span>{{recommendation.probability}}%</span></p>
+                 <p class="blue-numbers text-center tp"> Probability :{{recommendation.probability}}
+                </p>
                  <p class="vertical-border align-right"></p>
                 </div>
             </td>
@@ -77,14 +83,16 @@
                 </div>
             </td>
             <td class="col-md-4">
-                <div class="my-2">
-                <p><img src="assets/images/{{recommendation.product_image}}"></p>
-                <p class="productname">{{recommendation.product_name}}</p>
-                <p class="product_value blue-numbers">${{recommendation.product_value}}</p>
+                <div class="my-2 width-100">
+                <p class="p-0 m-0"><img src="assets/images/{{recommendation.product_image}}"></p>
+                <p class="productname p-0 m-0">{{recommendation.product_name}}</p>
+                <p class="product_value blue-numbers p-0 m-0">${{recommendation.product_value}}</p>
                 </div>
             </td>
         </tr>
+    </tbody>
     </table>
+    </div>
 </div>
 
 <!-- expanded view modal for customer recommendations-->
