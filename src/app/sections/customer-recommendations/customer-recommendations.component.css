@@ -28,9 +28,8 @@
     font-size: 6px;
 }
 .recommendation-row {
-    display: flex;
-    flex-wrap: wrap;
-    box-shadow: 0px 2px 3px 0px #00000033;
+   
+    height: 35px;
     
 }
 
@@ -38,7 +37,7 @@
     display: inline-block;
     font-size: 12px;
     color: #cc0000;
-    width: 40%;
+    width: 100%;
     margin-top: 2px!important;
     
 }
@@ -86,3 +85,31 @@ jw-modal .jw-modal .jw-modal-body{
     left: 50% !important;
     margin: auto;
 }
+
+.h{
+    height:auto;
+}
+
+table{
+    width: 100%;
+    margin-bottom: 1rem;
+    height: 100vh;
+
+}
+.thead{
+    height: 200px;
+    
+}
+
+.tableFixHead {
+    overflow-y: auto;
+  }
+
+  .table.sticky  th {
+    position: sticky;
+    top: 0;
+    
+  } 
+
+ 
+
