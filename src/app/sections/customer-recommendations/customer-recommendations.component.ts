@@ -38,7 +38,7 @@ export class CustomerRecommendationsComponent implements OnInit {
         recommandationVal.product_value = productValue;
       })
       this.recommandations = recommandation;
-
+      
     });
   }
 
