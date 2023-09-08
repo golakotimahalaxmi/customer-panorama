@@ -166,6 +166,7 @@ else {
          this.sortContacts(customerContacts);
         
      });
+    
    }
   
    setTimeout(x => {

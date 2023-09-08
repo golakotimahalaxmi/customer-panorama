@@ -16,7 +16,7 @@
                     <div class="d-flex">
                         <p class="mr-2 pt-1 img-width">
                             <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image === ''"/>
-                            <img src="assets/images/contacts/{{contactList.contact_image}}" *ngIf="contactList.contact_image != ''"/>
+                            <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image != ''"/>
                         </p>
                         <p class="contactName-margin-top">
                             <span class="sm-text fb companyName-field">{{contactList.contact_name}}</span>
@@ -73,11 +73,11 @@
         </div>
         <!-- content goes here-->
    </div>
-   <div class="table-center">
+   <div class="table-fit">
        
     <table class="table">
-        <thead class="overflow-stylings-thead text-prelo-bold-12">
-            <tr>
+        <thead class="overflow-stylings-thead text-prelo-bold-12 bg-green-light">
+            <tr >
                 <th scope="col" class="width-14" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_contactinfo}}" placement="bottom">Contact Information</th>
                 <th scope="col" class="width-14" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_highlights}}" placement="bottom">Highlights</th>
                 <th scope="col" style="width:8.9%" tooltip="{{getAllheadings.tip_cp_contacts_exp_col_t12mspend}}" placement="bottom">$T12M | Spend%</th>
@@ -98,7 +98,7 @@
                     <div class="d-flex pt-2" >
                         <p class="mr-2 pt-1 img-width mb-0">
                             <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image === ''"/>
-                            <img src="assets/images/contacts/{{contactList.contact_image}}" *ngIf="contactList.contact_image != ''"/>
+                            <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image != ''"/>
                         </p>
                         <p>
                             <span class="sm-text fb companyName-field">
