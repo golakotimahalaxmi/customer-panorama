@@ -34,9 +34,9 @@
                                 <div class="col-sm-8 col-md-8">
                                     <div class="d-flex">
                                         <p>
-                                            <span class="sm-text fb identity-companyName">{{customerIdentity.customer_name}}</span>
-                                            <span class="identityCity" *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].headquarters != ''">HQ:
-                                                <span>{{firmoGraphData[0].headquarters}}</span></span>
+                                            <span class="sm-text fb identity-companyName ff-psb fs-14">{{customerIdentity.customer_name}}</span>
+                                            <span class="identityCity ff-psb fs-12" *ngIf="firmoGraphData.length != 0 && firmoGraphData[0].headquarters != ''">HQ:
+                                                <span class="ff-psb fs-12">{{firmoGraphData[0].headquarters}}</span></span>
                                         </p>
                                     </div>
                                 </div>
@@ -70,13 +70,13 @@
                             <div class="identity-row">
                                 <table>
                                     <tr>
-                                        <td class="about">About</td>
+                                        <td class="about ff-psb fs-14">About</td>
                                     </tr>
                                     <tr>
                                         <td>
                                             <span class="about-bottom" *ngIf="firmoGraphData.length != 0">
                                                 <span
-                                                    class="description">{{show ? firmoGraphData[0].Description : firmoGraphData[0].Description.slice(0,200)}}...</span>
+                                                    class=" ff-psb fs-12 ">{{show ? firmoGraphData[0].Description : firmoGraphData[0].Description.slice(0,200)}}...</span>
                                             <span *ngIf="firmoGraphData.length != 0" (click)="show = !show" class="description link-point">{{ show ? '(read less)': '(read more)' }}</span>
                                             </span>
                                         </td>
@@ -87,8 +87,8 @@
                                         <td class="text-center width-3 pb-1">
                                             <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_empcount}}" placement="bottom"><img src="assets/images/icons/e-count.png"></span>
                                         </td>
-                                        <td class="text-left description" colspan="2">
-                                            Employee Count: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_employee_count}}</span>
+                                        <td class="text-left  fs-12 ff-pm" colspan="2">
+                                            Employee Count: <span class="margin-left-binded-value grey-text font-family-group fs-12 ff-jsb">{{customerIdentity.customer_employee_count}}</span>
                                         </td>
                                     </tr>
                                     <tr *ngIf="customerIdentity.customer_segment != '' && customerIdentity.customer_segment != null && customerIdentity.customer_segment != 'NULL'">
@@ -96,8 +96,8 @@
                                             <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_segment}}" placement="bottom"><img src="assets/images/icons/segment.png"></span>
                                         </td>
                                         <td class="text-left" colspan='2'>
-                                            <span class="nor-text fb side-heading-text description">
-                                                Segment: <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_segment}}</span>
+                                            <span class="nor-text fb side-heading-text  fs-12 ff-pm">
+                                                Segment: <span class="margin-left-binded-value grey-text font-family-group fs-12 ff-jsb">{{customerIdentity.customer_segment}}</span>
                                             </span>
                                         </td>
                                     </tr>
@@ -107,38 +107,38 @@
                                                     src="assets/images/icons/financial.png"></span>
                                         </td>
                                         <td class="text-left width-14">
-                                            <span class="nor-text fb side-heading-text description">Company Spend:</span>
+                                            <span class="nor-text fb side-heading-text fs-12 ff-pm">Company Spend:</span>
                                         </td>
                                         <td class="text-left">
                                             <table>
                                                 <tr>
-                                                    <td class="yearTd"><span>{{currentYear}}</span></td>
+                                                    <td class="yearTd"><span class="fs-12 ff-jsb">{{currentYear}}</span></td>
                                                     <td>
                                                         <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle">
                                                             <div class="progress-bar bg-c12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.C12TM/highestValue)*100)+'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </td>
-                                                    <td class="fontTd">
+                                                    <td class="fontTd fs-12 ff-jsb">
                                                         <span>${{convertNumber(customerIdentity.C12TM)}}</span>
                                                     </td>
 
                                                 </tr>
                                                 <tr>
                                                     <td class="yearTd">
-                                                        <span>{{PreviousYear}}</span>
+                                                        <span class="fs-12 ff-jsb">{{PreviousYear}}</span>
                                                     </td>
                                                     <td>
                                                         <div style="margin-top: 8px;" class="progress progressStyles progressCustomstyle1">
                                                             <div class="progress-bar bg-p12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.P12Tm/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </td>
-                                                    <td class="fontTd">
+                                                    <td class="fontTd fs-12 ff-jsb">
                                                         <span>${{convertNumber(customerIdentity.P12Tm)}}</span>
                                                     </td>
 
                                                 </tr>
                                                 <tr>
-                                                    <td class="yearTd">
+                                                    <td class="yearTd fs-12 ff-jsb">
                                                         <span>{{PerviousMinus2}}</span>
                                                     </td>
                                                     <td>
@@ -146,7 +146,7 @@
                                                             <div class="progress-bar bg-pp12" role="progressbar" [ngStyle]="{'width': ((customerIdentity.PP12TM/highestValue)*100) +'%'}" aria-valuenow="c12progress" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </td>
-                                                    <td class="fontTd">
+                                                    <td class="fontTd fs-12 ff-jsb">
                                                         <span>${{convertNumber(customerIdentity.PP12TM)}}</span>
                                                     </td>
 
@@ -159,8 +159,8 @@
                                             <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_industry}}" placement="bottom"><img src="assets/images/icons/industry.png"></span>
                                         </td>
                                         <td class="text-left" colspan='2'>
-                                            <span class="nor-text fb description">Industry:
-                                                <span class="margin-left-binded-value grey-text font-family-group">{{customerIdentity.customer_industry}}</span>
+                                            <span class="nor-text fb fs-12 ff-pm">Industry:
+                                                <span class="margin-left-binded-value fs-12 ff-jsb">{{customerIdentity.customer_industry}}</span>
                                             </span>
                                         </td>
                                     </tr>
@@ -169,11 +169,11 @@
                                             <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_IPO}}" placement="bottom"><img src="assets/images/icons/ipo@2x.png"></span>
                                         </td>
                                         <td class="text-left" colspan='2'>
-                                            <span class="nor-text fb description">IPO Status <span
+                                            <span class="nor-text fb  fs-12 ff-pm">IPO Status <span
                                                     *ngIf="customerIdentity.FortuneRank != 'NULL'">| Fortune 500
                                                     Rank</span>:
 
-                                                    <span class="margin-left-binded-value grey-text font-family-group"> <span
+                                                    <span class="margin-left-binded-value  font-family-group fs-12 ff-jsb"> <span
                                                         *ngIf="customerIdentity.customer_ispublic == 'Y'">Public</span>
                                                 <span *ngIf="customerIdentity.customer_ispublic == 'N'">Private</span>
                                                 <span *ngIf="customerIdentity.FortuneRank != 'NULL'"> |
@@ -189,9 +189,9 @@
                                                     src="assets/images/icons/it-potential@2x.png"></span>
                                         </td>
                                         <td class="text-left" colspan="2">
-                                            <span class="nor-text fb description">IT Potential / % Captured:
+                                            <span class="nor-text fb fs-12 ff-pm">IT Potential / % Captured:
 
-                                                <span class="margin-left-binded-value grey-text font-family-group">
+                                                <span class="margin-left-binded-value grey-text font-family-group fs-12 ff-jsb">
                                                     {{customerIdentity.expenditurePotential}} /
                                                     {{customerIdentity.capturedPercentage}}</span>
                                             </span>
@@ -219,7 +219,7 @@
                                             <span class="mr-1 customer-logo-icon" tooltip="{{getAllheadings.tip_Identity_icon_partners}}" placement="bottom"><img src="assets/images/icons/partner.png"></span>
                                         </td>
                                         <td class="text-left" colspan="2">
-                                            <span class="nor-text fb description mt-1">Partner Preferences:</span>
+                                            <span class="nor-text fb fs-12 ff-pm mt-1">Partner Preferences:</span>
                                         </td>
                                     </tr>
                                     <tr *ngIf="singleCustomerpartnersList.length != 0">
@@ -227,7 +227,7 @@
                                         <td class="width-50">
                                             <table class="width-100">
                                                 <tr *ngFor="let even of evenPartnerList; let i = index;">
-                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                    <td *ngIf="i < 2" class="fs-12 ff-jsb font-family-group">
                                                         {{even.BrandDescription}}
                                                     </td>
                                                 </tr>
@@ -236,7 +236,7 @@
                                         <td class="text-left width-50">
                                             <table  class="width-100">
                                                 <tr *ngFor="let odd of oddPartnerList; let i = index;">
-                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                    <td *ngIf="i < 2" class="fs-12 ff-jsb font-family-group">
                                                         {{odd.BrandDescription}}
                                                     </td>
                                                 </tr>
@@ -249,17 +249,17 @@
                                                     src="assets/images/icons/top-competitors@2x.png"></span>
                                         </td>
                                         <td class="text-left" colspan="2">
-                                            <span class="nor-text fb description">Top Competitors:</span>
+                                            <span class="nor-text fb fs-12 ff-pm">Top Competitors:</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td class="text-center width-3"></td>
                                         <td *ngIf="topCompetatorsArray.length != 0">
-                                            <span tooltip="{{getAllheadings.tip_top_competitors_existing}}" placement="bottom">Existing</span>
+                                            <span tooltip="{{getAllheadings.tip_top_competitors_existing}}" placement="bottom" class="fs-12 ff-jsb">Existing</span>
                                         </td>
                                         
                                         <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
-                                            <span tooltip="{{getAllheadings.tip_top_competitors_prospects}}" placement="bottom">Prospects</span>
+                                            <span tooltip="{{getAllheadings.tip_top_competitors_prospects}}" placement="bottom" class="fs-12 ff-jsb">Prospects</span>
                                         </td>
                                      </tr>
                                     <tr>
@@ -267,7 +267,7 @@
                                         <td *ngIf="topCompetatorsArray.length != 0">
                                             <table class="width-100">
                                                 <tr *ngFor="let existedCompaines of topCompetatorsArray; let i = index;">
-                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                    <td *ngIf="i < 2" class="fs-12 ff-jsb font-family-group">
                                                         {{existedCompaines}}
                                                     </td>
                                                 </tr>
@@ -276,7 +276,7 @@
                                         <td class="text-left" *ngIf="topCompetatorsprospects.length != 0">
                                             <table class="width-100">
                                                 <tr *ngFor="let topProscepts of topCompetatorsprospects; let i = index;">
-                                                    <td *ngIf="i < 2" class="grey-text font-family-group">
+                                                    <td *ngIf="i < 2" class="fs-12 ff-jsb font-family-group">
                                                         {{topProscepts}}
                                                     </td>
                                                 </tr>
@@ -289,7 +289,7 @@
                                                     src="assets/images/icons/similar@2x.png"></span>
                                         </td>
                                         <td colspan="2">
-                                            <span class="nor-text fb description">Similar
+                                            <span class="nor-text fb fs-12 ff-pm">Similar
                                                 Companies:</span>
                                         </td>
                                     </tr>
@@ -304,7 +304,7 @@
                                                             <a
                                                                 href="/customer/{{similarCompanies[0].SimilarCompany1_Code}}">{{similarCompanies[0].SimilarCompany1_Name}}</a>
                                                         </span>
-                                                        <span *ngIf="similarCompanies[0].SimilarCompany1_Code == 0">
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany1_Code == 0" class="fs-12 ff-jsb">
                                                             {{similarCompanies[0].SimilarCompany1_Name}}
                                                         </span>
                                                     </td>
@@ -315,7 +315,7 @@
                                                             <a
                                                                 href="/customer/{{similarCompanies[0].SimilarCompany2_Code}}">{{similarCompanies[0].SimilarCompany2_Name}}</a>
                                                         </span>
-                                                        <span *ngIf="similarCompanies[0].SimilarCompany2_Code == 0">
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany2_Code == 0" class="fs-12 ff-jsb">
                                                             {{similarCompanies[0].SimilarCompany2_Name}}
                                                         </span>
                                                     </td>
@@ -324,9 +324,9 @@
                                                     <td>
                                                         <span *ngIf="similarCompanies[0].SimilarCompany3_Code != 0">
                                                             <a
-                                                                href="/customer/{{similarCompanies[0].SimilarCompany3_Code}}">{{similarCompanies[0].SimilarCompany3_Name}}</a>
+                                                                href="/customer/{{similarCompanies[0].SimilarCompany3_Code}}" class="fs-12 ff-jsb">{{similarCompanies[0].SimilarCompany3_Name}}</a>
                                                         </span>
-                                                        <span *ngIf="similarCompanies[0].SimilarCompany3_Code == 0">
+                                                        <span *ngIf="similarCompanies[0].SimilarCompany3_Code == 0" class="fs-12 ff-jsb">
                                                             {{similarCompanies[0].SimilarCompany3_Name}}
                                                         </span>
                                                     </td>
