@@ -32,7 +32,7 @@
         "pgm":"Desktops",
         "product_name": "HP EliteDesk 805 G6",
         "product_value": "1000",
-        "product_image": "elitedesk.png",
+        "product_image": "pdu.png",
         "reasons":[
             "of product emails opened(16)"
             
@@ -55,7 +55,7 @@
         "pgm":"Reporting & Data Analytics",
         "product_name": "Power BI Premium  ",
         "product_value": "20000",
-        "product_image": "Powerbi.png",
+        "product_image": "pdu.png",
         "reasons":[
             "of product views(14)",
             "product special offer views(17)",
@@ -77,7 +77,7 @@
         "pgm":"Document Management",
         "product_name": "HPE OpenView GlancePlus - media",
         "product_value": "150",
-        "product_image": "openView.png",
+        "product_image": "pdu.png",
         "reasons":[
             "of product views(13)",
             "product special offer views(13)",
@@ -144,7 +144,7 @@
         "pgm":" CRM",
         "product_name": "Microsoft Dynamics 365 ",
         "product_value": "2450",
-        "product_image": "dynamics365.png",
+        "product_image": "pdu.png",
         "reasons":[
             "of product views(10)",
             "product special offer views(9)",

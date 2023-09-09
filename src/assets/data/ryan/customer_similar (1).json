@@ -1,0 +1,122 @@
+[
+  {
+    "CustomerCode": 10903960,
+    "CustomerName": "Panzura, Inc.",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Clear Labs",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "5am Ventures",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Holzmueller Corporation"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerName": "Guidebook",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Guittard Chocolate Co",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Four Corners Property Trust",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Forde Mazzola Assoc Inc"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerName": "Blurb Inc",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Thomas Foods",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Codar Ocean Sensors",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Info Image"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerName": "Calithera Biosciences",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Info Image",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Info Image",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Codar Ocean Sensors"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerName": "Veracyte",
+    "SimilarCompany1_Code": 12113454,
+    "SimilarCompany1_Name": "Brit & Co",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Tithof Tile & Marble",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Thomas Foods"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerName": "Brit & Co",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Berliner Cohen",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Tithof Tile & Marble",
+    "SimilarCompany3_Code": 11936896,
+    "SimilarCompany3_Name": "Genapsys"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerName": "Code Advisors",
+    "SimilarCompany1_Code": 4274741,
+    "SimilarCompany1_Name": "Bentek",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Internet Archive",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Berliner Cohen"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerName": "Genapsys",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Brit & Co",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Tithof Tile & Marble",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Thomas Foods"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerName": "Infostretch",
+    "SimilarCompany1_Code": 12103691,
+    "SimilarCompany1_Name": "Guidebook",
+    "SimilarCompany2_Code": 4274741,
+    "SimilarCompany2_Name": "Bentek",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Internet Archive"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerName": "Bittorrent, Inc.",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Clear Labs",
+    "SimilarCompany2_Code": 12103691,
+    "SimilarCompany2_Name": "Guidebook",
+    "SimilarCompany3_Code": 10848538,
+    "SimilarCompany3_Name": "Infostretch"
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerName": "Bear Flag Robotics",
+    "SimilarCompany1_Code": "",
+    "SimilarCompany1_Name": "Guittard Chocolate Co",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Four Corners Property Trust",
+    "SimilarCompany3_Code": "",
+    "SimilarCompany3_Name": "Forde Mazzola Assoc Inc"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerName": "Bentek",
+    "SimilarCompany1_Code": 10848538,
+    "SimilarCompany1_Name": "Infostretch",
+    "SimilarCompany2_Code": "",
+    "SimilarCompany2_Name": "Internet Archive",
+    "SimilarCompany3_Code": 11470598,
+    "SimilarCompany3_Name": "Code Advisors"
+  }
+]

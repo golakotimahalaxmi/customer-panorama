@@ -73,12 +73,15 @@
               <img   *ngIf="!features_icon" class="side-nav-logotwo" src="assets/images/client-logos/leftnav-features-selected.png">
             </a>
           </li>
+          <div >
           <ul class="sub-menu collapse" id="products" *ngIf="isValid">
             <li><a type="button" (click)="getfeature('newsalerts')">News</a></li>
             <li><a (click)="getfeature('insights')">Insights</a></li>
             <li><a (click)="getfeature('customerMenu')">Companies</a></li>
             <li><a (click)="getfeature('customerEvents')">Events</a></li>
           </ul>
+        </div>
+
           <li>
             <a type="button" (click)="getanalytics()">
               <img *ngIf="analytics_icon" class="side-nav-logothree" src="assets/images/client-logos/leftnav-analytics-idle.png">

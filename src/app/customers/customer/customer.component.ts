@@ -4,7 +4,7 @@ import { CustomerService } from 'src/app/services/customerService';
 import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 import { widget } from 'src/app/classesList/customer';
 import { DashboardService } from 'src/app/services/dashboardService';
-
+import { environment,myNewConstant } from 'src/environments/environment';
 @Component({
   selector: 'app-customer',
   templateUrl: './customer.component.html',
@@ -15,10 +15,13 @@ export class CustomerComponent implements OnInit {
   refreshCustomerData: boolean;
   widgetPositions: widget[];
   stackHolderName: string;
+
   insightFlage: boolean = false;
   constructor(private route: ActivatedRoute, private service: CustomerService, private dashboardService: DashboardService) {
-    this.dashboardService.pageName = "customer"   
+    this.dashboardService.pageName = "customer" 
+    console.log(myNewConstant.key);
   }
+
 
   ngOnInit() {
     let item = [];
@@ -31,6 +34,14 @@ export class CustomerComponent implements OnInit {
       if (k.customer_code === +paramURL[paramURL.length-1])       
         this.insightFlage = true;
        });
+      if(paramURL[3]=='customer'){
+          myNewConstant.key=true;
+       }
+      else
+      {
+      myNewConstant.key=false;
+      }
+     
     // switch (this.service.customerType) {
     //   case "corporate": {
     //     this.stackHolderName = "corporate";
@@ -103,7 +114,8 @@ export class CustomerComponent implements OnInit {
     //     break;
     //   }
     // }     
-  }
+      }
+      
 
   onDrop(event: CdkDragDrop<string[]>) {
     moveItemInArray(this.widgetPositions, event.previousIndex, event.currentIndex);

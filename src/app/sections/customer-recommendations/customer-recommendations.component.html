@@ -9,72 +9,32 @@
           <app-widget-menu [modalName]="modalName"></app-widget-menu>
       </div>        
   </div>
-  
-        <!-- <img src="assets/images/reco@2x.png" width="100%"> -->
-        <!--<ngx-powerbi-component type="report"
-            id="e342eb39-4897-4fc8-ae3c-9685e45ae689"
-            embedUrl="https://app.powerbi.com/reportEmbed?reportId=e342eb39-4897-4fc8-ae3c-9685e45ae689&autoAuth=true&ctid=de9231de-45f4-4325-ae07-8ae72052517e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"
-            tokenType="Aad"
-            accessToken="eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D">
-        </ngx-powerbi-component>--->
-        <!--<iframe width="100%" height="98%" src="https://app.powerbi.com/reportEmbed?reportId=e342eb39-4897-4fc8-ae3c-9685e45ae689&autoAuth=true&ctid=de9231de-45f4-4325-ae07-8ae72052517e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>-->
-        <!--<iframe height="100%" width="100%" src="https://app.powerbi.com/reportEmbed?reportId=e342eb39-4897-4fc8-ae3c-9685e45ae689&autoAuth=true&ctid=de9231de-45f4-4325-ae07-8ae72052517e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"></iframe>-->
-        
-        <!-- <div class="card-body p-0" style="overflow: auto;">
-            <div class="card-main-padding">
-           <div class="recommendation-row table-header-bg"> 
-               <div class="col-md-4 heading">Startegy | Probability(%) </div>
-               <div class="col-md-4 heading">Total value</div>
-               <div class="col-md-4 heading">Product</div>
-           </div>
-            
-           <div class="fixed-height-recommendations">
-            <div class="recommendation-row" *ngFor="let recommendation of recommandations">
-                <div class="width-35 overwrite-padding">
-                    <div class="probData">
-                        <p class="probabiltyStyle">
-                           <span> Probability : <span class="blue-numbers">{{recommendation.probability}}%</span></span>
-                            //<span>Total Value : <span class="green-numbers">$ {{recommendation.total_value}}</span></span>
-                        </p>
-                    </div> 
-                </div>
-                <div class="width-5">
-                    <p class="small-border"></p>
-                </div>
-                <div class="width-25 probData text-center">
-                    <div class="green-numbers " style="top: 50%;left: 50%; margin:auto">$ {{recommendation.total_value}}</div>
-                </div>
-                <div class="width-5">
-                    <p class="small-border"></p>
-                </div>
-                <div class="width-30 ">
-                    <div><img src="assets/images/{{recommendation.product_image}}"></div>
-                    <div class="productname">{{recommendation.product_name}}</div>
-                    <div class="product_value blue-numbers">${{recommendation.product_value}}</div> 
-                </div>
-               </div>
-           </div>
-           
-       </div>
-    </div> -->
     <div class="tableFixHead" >
     <table class="table sticky" >
 
         <thead class="table-header-bg ">
         <tr class=" recommendation-row table-border">
-            <th class="col-md-4 heading">Startegy | Probability(%) </th>
-            <th class="col-md-4 heading">Total value</th>
-            <th class="col-md-4 heading">Product</th>
+            <th class="col-md-4 heading fs-14 ff-psb">Startegy | Probability(%) </th>
+            <th class="col-md-4 heading fs-14 ff-psb">Total value</th>
+            <th class="col-md-4 heading fs-14 ff-psb">Product</th>
         </tr>
         </thead>
         <tbody >
         <tr class=" table-boxshadow h-4rem " *ngFor="let recommendation of recommandations">
             <td class="probabiltyStyle col-md-4 ">
-                <div class="d-flex">
-                 <p class="blue-numbers text-center tp"> Probability :{{recommendation.probability}}
+                 <div class="d-flex">
+                 <p class="blue-numbers text-center tp" *ngIf ="recommendation.probability>=90; else elseBlock" > Probability :Higher
                 </p>
+                <ng-template #elseBlock>
+                    <p class="blue-numbers text-center tp" *ngIf ="recommendation.probability>=80 ; else Block" > Probability :High
+                    </p>
+                    <ng-template  #Block >
+                    <p class="blue-numbers text-center tp"> Probability :Low
+                    </p>
+                    </ng-template>
+                </ng-template>
                  <p class="vertical-border align-right"></p>
-                </div>
+                </div> 
             </td>
             <td class="col-md-4 ">
                 <div class="d-flex">
@@ -97,42 +57,14 @@
 
 <!-- expanded view modal for customer recommendations-->
 <jw-modal id={{modalName}}>
-    <!--<div class="card-container">-->
-    <!-- <div class="card-navbar header-bg-clr">
-        <h5 class="col-sm-4 col-md-4 card-title widget-navbar-heading"><span class="header-probold">{{getAllheadings.recommendations}}</span></h5>
-        <form class="form-inline mr-auto my-2">
-        <div class="input-group"> -->
-            <!-- <input type="text" class="form-control search-main bg-light border-0 small"
-            [placeholder]="getAllheadings.placeholderInsideModal"> -->
-            <!--<div class="input-group-append">
-                <button class="btn btn-search" type="button">
-                Search
-                </button>
-            </div>-->
-        <!-- </div>
-        </form> -->
-    
-        <!-- <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
-            <div class="m-0 p-0 dropdown d-flex text-right"> -->
-                <!-- <img class="up-coming-img" src="assets/images/coming.png"> -->
-                <!-- <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-2" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close.png"></a>
-            </div>
-        </div> -->
-    <!-- content goes here-->
-    <!-- </div>
-    <div class="pt-2"> -->
-        <!-- <img src="assets/images/reco-expand@2x.png" style="width:100%"> -->
-    <!-- </div> -->
     <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
-
-        <h5 class="col-sm-4 col-md-4 card-title-accounts " ><span class="fs-14 clr-black ff-psb"><!--{{allHeadings.myAccount}}-->News Alerts</span></h5>
+        <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-white ff-psb ">Sales Opportunity</span>
+        </h5>
         <!-- <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
             <div class="input-group" >
-    
                 <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
             </div>
         </form> -->
-    
         <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
             <div class="m-0 p-0 dropdown d-flex text-right">
                 <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-7" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/widget-close.png"></a>
@@ -140,313 +72,59 @@
         </div>
     
     </div>
-    <!-- <div class="table-fit">
-        <table class="table customers-table">
-            <thead class="overflow-stylings-thead table-header-bg">
-                <tr>
-                    <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth" tooltip="{{allHeadings.tip_home_accounts_exp_col_customer}}" placement="bottom">Startegy probability</th>
-                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-8" tooltip="{{allHeadings.tip_home_accounts_exp_col_highlights}}" placement="bottom">Total value</th>
-                    <th scope="col" sortable="customer_industry" (sort)="onSort($event)" class="width-35" tooltip="{{allHeadings.tip_home_accounts_exp_col_cdwspend}}" placement="bottom">Reasoning</th>
-                    <th scope="col" sortable="createdDate" (sort)="onSort($event)" class="width-10" tooltip="{{allHeadings.tip_home_accounts_exp_col_trends}}" placement="bottom">Recommended contacts</th>
-                    <th scope="col" sortable="invoiceDate" (sort)="onSort($event)" class="width-20" tooltip="{{allHeadings.tip_home_accounts_exp_col_salesgoals}}" placement="bottom">Product</th>
-                    <th scope="col" sortable="expenditurePotential" (sort)="onSort($event)" class="width-7" tooltip="{{allHeadings.tip_home_accounts_exp_col_itpsow}}" placement="bottom">Category</th>
-                </tr>
-            </thead>
-            <tbody class="height-overflow activeCustomer overflow-stylings-tbody">
-                <tr class="row1" *ngFor="let customers of customersList$ | async" (click)="selectedCustomer(customers)">
-                    <td class="width-customers">
-                        <div class="green-numbers align-center" >$ {{recommendation.total_value}}</div>
-                    </td>
-                    <td class="width-8">
-                        <img class='riskImage' src="assets/images/icons/cdw-tenure@2x.png" tooltip="{{allHeadings.tip_icon_customer_tenure}}" placement="bottom"/>
-                        <span class="customerSubHead">{{customers.tenure}} Years</span>
-                        <br/>
-                        
-                        <img class='riskImage' src="assets/images/icons/retained.png" tooltip="{{allHeadings.tip_icon_customer_retained}}" placement="bottom">                        
-                        <span class="customerSubHead">{{customers.LifeCycle_Stage}}</span>
-                        <br/>
-                        <span>
-                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'High Risk'" src="assets/images/icons/risk-high@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
-                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'Low Risk'" src="assets/images/icons/risk-low@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
-                            <img class='riskImage' *ngIf="customers.CustomerAtRiskDescription === 'Medium Risk'" src="assets/images/icons/risk-medium@2x.png" tooltip="{{allHeadings.tip_icon_customer_atrisk}}" placement="bottom"/>
-                        </span>
-                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'High Risk'">High Risk
-                       </span>
-                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'Low Risk'">Low Risk
-                       </span>
-                        <span class="customerSubHead" *ngIf="customers.CustomerAtRiskDescription === 'Medium Risk'">Medium Risk
-                    </span>
-                        <br/>
-                            <span class='riskImage'>
-                                <img class='riskImage' *ngIf="customers.conversion_rate === 'high'" src="assets/images/icons/conversion-high.png" tooltip="{{allHeadings.tip_icon_customer_conversionrate}}" placement="bottom"/>
-                                <img class='riskImage' *ngIf="customers.conversion_rate === 'low'" src="assets/images/icons/conversion-low.png" tooltip="{{allHeadings.tip_icon_customer_conversionrate}}" placement="bottom"/>
-                            </span>
-                        <span class="customerSubHead" *ngIf="customers.conversion_rate === 'high'">High Conversion
-                        </span>
-                        <span class="customerSubHead" *ngIf="customers.conversion_rate === 'low'">Low Conversion
-                        </span>
-                        <br/>
-                        <span>
-                     <img class='riskImage' *ngIf="customers.financial_status === 'high'" src="assets/images/icons/nps-high.png"/>
-                     <img class='riskImage' *ngIf="customers.financial_status === 'low'" src="assets/images/icons/nps-low.png"/>
-                     <img class='riskImage' *ngIf="customers.financial_status === ''" src="assets/images/icons/nps-medium.png"/>
-                </span>
-                        <span class="customerSubHead" *ngIf="customers.financial_status === 'high'">NPS 8/10
-                </span>
-                        <span class="customerSubHead" *ngIf="customers.financial_status === 'low'">NPS 3/10
-                </span>
-                        <span class="customerSubHead" *ngIf="customers.financial_status === ''">NPS 5/10
-                </span>
-                    </td>
-                    <td class="width-35">
-                        <div class="flex-row">
-                            <div style="width:42%">
-                                <table class="table-bordered">
-                                    <tbody>
-                                        <tr class="pr-2">
-                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_ytd}}" placement="bottom">YTD:</td>
-                                            <td class="color-grey text-left numbers-text width-50">${{customers.customerC12}}</td>
-                                        </tr>
-                                        <tr class="pr-3">
-                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_yoy}}" placement="bottom">YoY Change:</td>
-                                            <td class="color-darkblue text-left numbers-text width-50">{{customers.yoy != '' ? (customers.yoy) : 0}}%</td>
-                                        </tr>
-                                        <tr class="pr-3">
-                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">Margin(%):</td>
-                                            <td class="color-yellow text-left numbers-text width-50">{{customers.margin != '' ? (customers.margin) : 0}}%</td>
-                                        </tr>
-                                        <tr class="pr-3">
-                                            <td class="tab-content-text width-65 color-grey" tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_avgmonthlyspend}}" placement="bottom">Avg. Monthly Spend:</td>
-                                            <td class="color-Green text-left numbers-text width-50">${{customers.avgspend}}</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <div style="width:58%">
-                                <table class="width-100 table-bordered">
-                                    <tr>
-                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_online}}" placement="bottom" class="text-left width-100">
-                                            <span class="width-10 tab-content-text color-grey">Online:</span><span class="YTD-style color-yellow number-graph text-right"> ${{convertNumber(customers.Online_c12)}}</span>
-                                        </td>
-                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_offline}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
-                                            Offline:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.C12TM - customers.Online_c12)}}</span>
-                                        </td>
-                                    </tr>                        
-                                </table>
-                                <table style="width:100%" class="table-bordered">
-                                    <tr >
-                                        <td>
-                                            <span class="progress custom-progress">
-                                                <span class="progress-bar custom-progressBar1" [ngStyle]="{'width': (customers.Online_c12*100)/customers.C12TM+'%'}"></span>
-                                            </span>
-                                        </td>
-                                    </tr>
-                                </table>
-            
-                                <table class="mt-1 table-bordered" style="width:100%">
-                                    <tr>
-                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_core}}" placement="bottom" class="text-left width-100">
-                                            <span class="width-10 tab-content-text color-grey">Core:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.Core_c12tm)}}</span>
-                                        </td>
-                                        <td tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_its}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
-                                            ITS:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.vv2_c12tm)}}</span>
-                                        </td>
-                                    </tr>
-                               </table>
-                              <table style="width:100%" class="table-bordered">
-                                <tr>
-                                    <td>
-                                        <span class="progress custom-progress">
-                                          <span class="progress-bar custom-progressBar2" [ngStyle]="{'width': (customers.Core_c12tm*100)/customers.C12TM+'%'}"></span>
-                                        </span>
-                                    </td>
-                                </tr>
-                               </table>
-            
-                            </div>
-                        </div>
-                    </td>
-
-                    <td class="width-10">
-                       <table class="custom-table-styles">
-                            <tr>
-                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_online}}" placement="bottom">Online:</td>
-                                <td class="width-55 text-left grey-numbers1">
-                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.Online_c12 > customers.Online_p12">
-                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
-                                    </span>
-                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.Online_c12 <= customers.Online_p12">
-                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
-                                    </span>
-                                    <span>{{convertNumbertoInteger(((customers.Online_c12-customers.Online_p12)*100)/customers.Online_p12)}}</span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_offline}}" placement="bottom">Offline:</td>
-                                <td class="width-55 text-left grey-numbers1">
-                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="(customers.C12TM - customers.Online_c12) > (customers.P12Tm - customers.Online_p12)">
-                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
-                                    </span>
-                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="(customers.C12TM - customers.Online_c12) <= (customers.P12Tm - customers.Online_p12)">
-                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
-                                    </span>
-                                    {{convertNumbertoInteger((((customers.C12TM - customers.Online_c12) - (customers.P12Tm - customers.Online_p12))*100)/(customers.P12Tm - customers.Online_p12))}}
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_core}}" placement="bottom">Core:</td>
-                                <td class="width-55 text-left grey-numbers1">
-                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.Core_c12tm > customers.Core_P12TM">
-                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
-                                    </span>
-                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.Core_c12tm <= customers.Core_P12TM">
-                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
-                                    </span>
-                                    {{convertNumbertoInteger(((customers.Core_c12tm-customers.Core_P12TM)*100)/customers.Core_P12TM)}}
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="width-50 tab-content-text color-grey" tooltip="{{allHeadings.tip_accounts_trends_its}}" placement="bottom">ITS:</td>
-                                <td class="width-55 text-left grey-numbers1">
-                                    <span tooltip="{{allHeadings.tip_icon_trend_up}}" placement="bottom" *ngIf="customers.vv2_c12tm > customers.VV2_P12TM">
-                                        <img class='change-percent' src="assets/images/icons/high@2x.png"/>
-                                    </span>
-                                    <span tooltip="{{allHeadings.tip_icon_trend_down}}" placement="bottom" *ngIf="customers.vv2_c12tm <= customers.VV2_P12TM">
-                                        <img class='change-percent' src="assets/images/icons/low@2x.png"/>
-                                    </span>
-                                    {{convertNumbertoInteger(((customers.vv2_c12tm-customers.VV2_P12TM)*100)/customers.VV2_P12TM)}}
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-
-                    <td class="width-20" style="vertical-align: top!important;">
-                        <div class="flex-row">
-                        <table class="width-100 table-bordered">
-                            <tr>
-                                <td tooltip="{{allHeadings.tip_mtd}}" placement="bottom" class="text-left width-100">
-                                    <span class="width-10 tab-content-text color-grey">MTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.actuals_last)}}</span>
-                                </td>
-                                <td tooltip="{{allHeadings.tip_goal_month}}" placement="bottom" class="text-right width-100 tab-content-text color-grey goal">
-                                    Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.goals_last)}}</span>
-                                </td>
-                            </tr>                        
-                        </table>
-                        <table class="table-bordered" style="width:100%">
-                            <tr >
-                                <td>
-                                    <span class="progress custom-progress">
-                                        <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customers.actuals_last*100)/customers.goals_last+'%'}"></span>
-                                    </span>
-                                </td>
-                            </tr>
-                        </table>
-    
-                        <table class="table-bordered mt-1">
-                            <tr>
-                                <td tooltip="{{allHeadings.tip_ytd}}" placement="bottom" class="text-left width-100">
-                                    <span class="width-10 tab-content-text color-grey">YTD:</span><span class="YTD-style color-darkblue number-graph text-right"> ${{convertNumber(customers.sales_actuals)}}</span>
-                                </td>
-                                <td tooltip="{{allHeadings.tip_goal_year}}" placement="bottom" class="text-right width-100 tab-content-text color-grey">
-                                    Goal:<span class="YTD-style color-grey number-graph text-right"> ${{convertNumber(customers.sales_goals)}}</span>
-                                </td>
-                            </tr>
-                        </table>
-                        <table class="table-bordered" style="width:100%">
-                        <tr>
-                            <td>
-                                <span class="progress custom-progress">
-                                    <span class="progress-bar custom-progressBar" [ngStyle]="{'width': (customers.sales_actuals*100)/customers.sales_goals+'%'}"></span>
-                                </span>
-                            </td>
-                        </tr>
-                        </table>
+ <div class="">
+    <table class="table sticky" style="width: 100%;">
+        <thead class="table-header-bg table-border table-h-height overflow-stylings-thead">
+            <tr>
+                <th class="col-md-2 heading">Startegy | Probability(%)</th>
+                <th class="col-md-1 heading">Total Value</th>
+                <th class="col-md-3 heading">Reasoning</th>
+                <th class="col-md-2 heading">Recommended contact</th>
+                <th class="col-md-2 heading">Product</th>
+                <th class="col-md-2 heading">Category</th>
+            </tr>
+        </thead>
+        <tbody class="overflow-stylings-tbody">
+            <tr class=" table-boxshadow h-4rem " *ngFor="let recommendation of recommandations">
+                <td class="probabiltyStyle col-md-2 table-border v-align-middle">
+                    <p class="blue-numbers text-center tp" *ngIf ="recommendation.probability>=90; else elseBlock" > Probability :Higher
+                   </p>
+                   <ng-template #elseBlock>
+                       <p class="blue-numbers text-center tp" *ngIf ="recommendation.probability>=80 ; else Block" > Probability :High
+                       </p>
+                       <ng-template  #Block >
+                       <p class="blue-numbers text-center tp"> Probability :Low
+                       </p>
+                       </ng-template>
+                   </ng-template>
+               </td>
+               <td class="col-md-1 table-border v-align-middle">
+                <p class="green-numbers text-center" >$ {{recommendation.total_value}}</p>
+               </td>
+               <td class="col-md-3 table-border m-1 v-align-middle">
+                    <div *ngFor ="let item of recommendation.reasons">
+                        <p class="p-0 m-0 tp tab-content-text">#{{item}}</p>
+                    </div>              
+               </td>
+               <td class="col-md-2 table-border v-align-middle">
+                    <div  *ngFor="let product of recommendation.contacts" >
+                        <p  class="blue-numbers"> {{product.name}}</p>
+                        <p  > {{product.designation}}</p>
                     </div>
-                    </td>
-                    <td class="color-grey text-center numbers-text width-7">
-                        <span class="text-center">${{customers.expenditurePotential}} /<br>{{customers.capturedPercentage}}%</span>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <!--<div class="d-flex justify-content-between p-1">
-            <ngb-pagination [collectionSize]="total$ | async" [(page)]="service.page" [pageSize]="service.pageSize">
-            </ngb-pagination>
-
-            <select class="custom-select" style="width: auto" name="pageSize" [(ngModel)]="service.pageSize">
-                <option [ngValue]="20">20 items per page</option>
-                <option [ngValue]="25">25 items per page</option>
-                <option [ngValue]="30">30 items per page</option>
-            </select>
-        </div>
-    </div> -->
-   
-   <div class="recommendation-row table-header-bg " > 
-        <div class="col-md-2 heading">Startegy | Probability(%) </div>
-        <div class="col-md-1 heading">Total Value </div>
-        <div class="col-md-3 heading">Reasoning</div>
-        <div class="col-md-2 heading">Recommended contact</div>
-        <div class="col-md-1 heading">Product</div>
-        <div class="col-md-2 heading">Category</div>
+               </td>
+               <td class="col-md-2 table-border v-align-middle">
+                <div><img src="assets/images/{{recommendation.product_image}}"></div>
+                <p class="productname ">{{recommendation.product_name}}</p>
+                <p class="product_value blue-numbers p-0">${{recommendation.product_value}}</p>  
+               </td>
+               <td class="col-md-2 table-border v-align-middle">
+                <p class="tab-content-text"> Item type: {{recommendation.item_type}}</p>
+                <p class="tab-content-text"> Item class: {{recommendation.item_class}}</p>
+                <p class="tab-content-text">PGM:  {{recommendation.pgm}}</p>
+               </td>
+            </tr>
+        </tbody>
+    </table>
     </div>
-    <div style="overflow-y: scroll; height:85vh;" >
-    <div class="recommendation-row" *ngFor="let recommendation of recommandations">
-        <div class="col-md-2 p-5 overwrite-padding ">
-            <div>
-                <p>
-                   <span> Probability : <span class="blue-numbers">{{recommendation.probability}}%</span></span>
-                   <!-- <span>Total Value : <span class="green-numbers">$ {{recommendation.total_value}}</span></span>-->
-                </p>
-            </div>  
-        </div>
-        <div>
-            <p class="small-border"></p>
-        </div>
-        
-        <div class="col-md-1 ">
-            <div class="green-numbers align-center" >$ {{recommendation.total_value}}</div>
-        </div>
-        <div >
-            <p class="small-border"></p>
-        </div>
-        
-        <div class="col-md-3 p-5">
-        <div  *ngFor ="let item of recommendation.reasons">
-             <p>#{{item}}</p>    
-        </div> 
-        </div>
-        <div>
-            <p class="small-border"></p>
-        </div>
-        
-        <div class="col-md-2 p-5">
-        <div  *ngFor="let product of recommendation.contacts" >
-            <div  class="blue-numbers"> {{product.name}}</div>
-            <div  > {{product.designation}}</div>
-        </div>
-        </div>
-        <div>
-            <p class="small-border"></p>
-        </div>
-
-        
-        <div class="col-md-1">
-            <div><img src="assets/images/{{recommendation.product_image}}"></div>
-                <div class="productname ">{{recommendation.product_name}}</div>
-                <div class="product_value blue-numbers p-0">${{recommendation.product_value}}</div>    
-        </div>
-        <div>
-            <p class="small-border"></p>
-        </div>
-        <div   class="item-content col-md-2 p-5" >
-            <div > item type {{recommendation.item_type}}</div>
-            <div > item class {{recommendation.item_class}}</div>
-            <div>PGM  {{recommendation.pgm}}</div>
-        </div>
-
-       </div>
-    </div>
-
 </jw-modal>
 

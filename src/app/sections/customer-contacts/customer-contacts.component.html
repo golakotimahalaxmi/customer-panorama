@@ -19,9 +19,9 @@
                             <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image != ''"/>
                         </p>
                         <p class="contactName-margin-top">
-                            <span class="sm-text fb companyName-field">{{contactList.contact_name}}</span>
+                            <span class="sm-text fb companyName-field fs-14 ff-psb">{{contactList.contact_name}}</span>
                             <br>
-                            <span class="d-flex trade-icons-s color-style-span">{{contactList.ContactActualTitle}}</span>
+                            <span class="d-flex trade-icons-s color-style-span fs-12 ff-pm">{{contactList.ContactActualTitle}}</span>
                             <br>  
                             <span class="d-flex color-style-span icon-colors">
                                 <p *ngIf="contactList.cdw_spend_image === 'high' && contactList.cdw_spend_image != ''" tooltip="{{getAllheadings.tip_contact_icon_hl_cdwspend}}" placement="bottom"><img class="pr-1" src="assets/images/icons/high-cdw-spend.png"></p>
@@ -101,14 +101,14 @@
                             <img src="assets/images/icons/contact.png" *ngIf="contactList.contact_image != ''"/>
                         </p>
                         <p>
-                            <span class="sm-text fb companyName-field">
+                            <span class="sm-text fb companyName-field fs-14 ff-psb">
                             <ngb-highlight [result]="contactList.contact_name"></ngb-highlight>
 
     
                         </span>                           
                             <br />
                             <!-- <span class="d-flex trade-icons-s"><a href="#" class="p-0 mr-2"><img src="assets/images/fortune-logo-1-2x.png"/></a> <a href="#" class="p-0 mr-2"><img src="assets/images/repeat-logo-1-2x.png"/></a> <a href="#" class="p-0 mr-2"><img src="assets/images/w-logo-1-2x.png"/></a> <a href="#" class="p-0 mr-2"><img src="assets/images/doll-logo-1-2x.png"/></a></span> -->
-                            <span class="actualTitle">{{contactList.ContactActualTitle}}</span>
+                            <span class="actualTitle ff-12 ff-pm">{{contactList.ContactActualTitle}}</span>
                             <br/>
                             <span class="d-flex trade-icons-s cursors">
                                 <a *ngIf='contactList.LinkedIn != "" && contactList.LinkedIn != "NA"' href="{{contactList.LinkedIn}}" target="_blank" tooltip="{{getAllheadings.tip_contact_icon_sm_linkedin}}"   placement="bottom"><img  src="assets/images/icons/linkedin@2x.png" class="mr-1"></a>
@@ -127,10 +127,10 @@
                                 <span *ngIf="contactList.cdw_spend_image === 'low'"><img  src="assets/images/icons/low-cdw-spend.png"  tooltip="{{getAllheadings.tip_contact_icon_hl_cdwspend}}" placement="bottom"></span>
                                 <span *ngIf="contactList.cdw_spend_image === 'medium'"><img  src="assets/images/icons/medium-cdw-spend.png"  tooltip="{{getAllheadings.tip_contact_icon_hl_cdwspend}}" placement="bottom"></span>
                             </td>
-                            <td class="inner-table-p-0 table-bordered width-90 icon-descp contactDetails">
-                                <span *ngIf="contactList.cdw_spend_image === 'high'">High Company Spend</span>
-                                <span *ngIf="contactList.cdw_spend_image === 'low'">Low Company Spend</span>
-                                <span *ngIf="contactList.cdw_spend_image === 'medium'">Medium Company  Spend</span>
+                            <td class="inner-table-p-0 table-bordered width-90 icon-descp contactDetails ">
+                                <span *ngIf="contactList.cdw_spend_image === 'high'" class="fs-12 ff-pm">High Company Spend</span>
+                                <span *ngIf="contactList.cdw_spend_image === 'low'" class="fs-12 ff-pm">Low Company Spend</span>
+                                <span *ngIf="contactList.cdw_spend_image === 'medium'" class="fs-12 ff-pm">Medium Company  Spend</span>
                            </td>
                         </tr>
                         <tr *ngIf="contactList.online_activity != ''" class="inner-table-p-0 table-bordered pr-1">
@@ -140,9 +140,9 @@
                                 <span *ngIf="contactList.online_activity === 'medium'"><img  src="assets/images/icons/medium-online-activity.png" tooltip="{{getAllheadings.tip_contact_icon_hl_onlineactivity}}" placement="bottom"></span>
                             </td>
                             <td class="width-90 icon-descp contactDetails" class="inner-table-p-0 table-bordered">
-                                <span *ngIf="contactList.online_activity === 'high'">High Online Activity</span>
-                                <span *ngIf="contactList.online_activity === 'low'">Low Online Activity</span>
-                                <span *ngIf="contactList.online_activity === 'medium'">Medium Online Activity</span>
+                                <span *ngIf="contactList.online_activity === 'high'" class="fs-12 ff-pm">High Online Activity</span>
+                                <span *ngIf="contactList.online_activity === 'low'" class="fs-12 ff-pm">Low Online Activity</span>
+                                <span *ngIf="contactList.online_activity === 'medium'" class="fs-12 ff-pm">Medium Online Activity</span>
                             </td>
                         </tr>
                         <tr *ngIf="contactList.email_interaction != ''" class="inner-table-p-0 table-bordered pr-1">
@@ -152,9 +152,9 @@
                                 <span *ngIf='contactList.email_interaction === "high"'><img  src="assets/images/icons/high-email-response.png" tooltip="{{getAllheadings.tip_contact_icon_hl_emailinteraction}}" placement="bottom"></span>
                             </td>
                             <td class="width-90 icon-descp contactDetails" class="inner-table-p-0 table-bordered">
-                                <span *ngIf="contactList.email_interaction === 'medium'" class="text-padding">Medium Email Response</span>
-                                <span *ngIf="contactList.email_interaction === 'low'" class="text-padding">Low Email Response</span>
-                                <span *ngIf="contactList.email_interaction === 'high'" class="text-padding">High Email Response</span>
+                                <span *ngIf="contactList.email_interaction === 'medium'" class="text-padding fs-12 ff-pm">Medium Email Response</span>
+                                <span *ngIf="contactList.email_interaction === 'low'" class="text-padding fs-12 ff-pm">Low Email Response</span>
+                                <span *ngIf="contactList.email_interaction === 'high'" class="text-padding fs-12 ff-pm">High Email Response</span>
                             </td>
                         </tr>
                         <!--<tr *ngIf="contactList.nps != ''" class="inner-table-p-0 table-bordered">
@@ -172,12 +172,12 @@
                         </tr>
                     </table>
                   </td>
-                <td class="text-center grey-numbers width-9" *ngIf="contactList.T12M != 0">${{contactList.T12M}} | {{contactList.cdw_spend_percent}}</td>
+                <td class="text-center grey-numbers width-9 ff-jsb fs-12" *ngIf="contactList.T12M != 0">${{contactList.T12M}} | {{contactList.cdw_spend_percent}}</td>
                 <td class="text-center grey-numbers width-9" *ngIf="contactList.T12M == 0">-</td>
                 <td class="width-15">
                     <table class="table-bordered" *ngIf="contactList.ContactLastInvoiceDateSeq != ''">
                         <tr class="inner-table-p-0 table-bordered">
-                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60">
+                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60 ff-pm fs-12">
                                 Last Invoice Date:
                             </td>
                             <td *ngIf="contactList.ContactLastInvoiceDateSeq != ''" class="blue-numbers invoiceDate inner-table-p-0 table-bordered">
@@ -188,19 +188,19 @@
                             </td>
                         </tr>
                         <tr class="inner-table-p-0 table-bordered">
-                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60">Avg. Order Value:</td>
+                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60 fs-12 ff-pm">Avg. Order Value:</td>
                             <td *ngIf="contactList.average_order_value != ''" class="green-numbers invoiceDate inner-table-p-0 table-bordered">${{contactList.average_order_value}}</td>
                             <td *ngIf="contactList.average_order_value == ''" class="green-numbers invoiceDate inner-table-p-0 table-bordered">-</td>
                         </tr>
                         <tr class="inner-table-p-0 table-bordered">
-                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60">Avg. Order Frequency:</td>
+                            <td class="invoice contactDetails inner-table-p-0 table-bordered width-60 fs-12 ff-pm">Avg. Order Frequency:</td>
                             <td class="grey-numbers invoiceDays inner-table-p-0 table-bordered">{{contactList.average_order_frequency}}<span>Days</span></td>
                         </tr>                        
                     </table>
                     <p *ngIf="contactList.ContactLastInvoiceDateSeq == ''" class="text-center">-</p>
                 </td>
-                <td class="text-center actualTitle width-7" *ngIf="contactList.contact_location != ''">{{contactList.contact_location}}</td>
-                <td class="text-center actualTitle width-7" *ngIf="contactList.contact_location === ''">-</td>
+                <td class="text-center actualTitle width-7 fs-12 ff-pm" *ngIf="contactList.contact_location != ''">{{contactList.contact_location}}</td>
+                <td class="text-center actualTitle width-7 fs-12 ff-pm" *ngIf="contactList.contact_location === ''">-</td>
                 <td class="width-15 calls-emails-block">
                     <table class="width-100">
                         <tr class="vertical-align-middle">
@@ -258,7 +258,6 @@
                                     </tr>
                                 </table>
                             </td>
-
                         </tr>
                     </table>
                  </td>

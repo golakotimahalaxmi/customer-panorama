@@ -107,9 +107,43 @@ table{
 
   .table.sticky  th {
     position: sticky;
-    top: 0;
+    top: 0px;
+    z-index: 8;
+    background-color: rgba(29, 173, 143, 0.20) !important
     
   } 
 
- 
+  .overflow-stylings-thead, .overflow-stylings-tbody tr{
+    display: table;
+    table-layout:fixed;
+    width: 100%;
+  }
+  
+  .overflow-stylings-tr1 {
+    display: table;
+    table-layout:fixed;
+    width: 100%;
+  }
 
+  .table-border {
+    border: 1px solid #c3dddd;
+
+  }
+
+  .table-h-height{
+    height: 52px;
+    
+  }
+
+.overflow-stylings-tbody {
+    max-height: 80vh;
+    height: 80vh;
+    overflow-y: scroll;
+    display: block;
+}
+
+.overflow-stylings-thead {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}

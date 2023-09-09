@@ -4,7 +4,7 @@ import { DashboardService } from "src/app/services/dashboardService";
 import { Headings } from "src/app/classesList/customer";
 import { ModalService } from "../_modal";
 import { CustomerService } from "src/app/services/customerService";
-
+import { environment,myNewConstant } from 'src/environments/environment';
 @Component({
   selector: "app-side-navigation",
   templateUrl: "./side-navigation.component.html",
@@ -20,7 +20,7 @@ export class SideNavigationComponent implements OnInit {
   analytics_icon:boolean=true;
   features_icon:boolean=true;
   public isValid :boolean =false;
-
+  customer_const=myNewConstant.key;
   @Output() openDirectWidget: EventEmitter<string> = new EventEmitter<string>();
 
   sideNavitems = [
@@ -99,6 +99,7 @@ export class SideNavigationComponent implements OnInit {
     this.dashboard.getAllheadings().subscribe((headings) => {
       this.headings = headings;
       this.cdwTooltipName = this.headings.tip_home_leftnav_cdw;
+      console.log(this.customer_const);
     });
   }
 
