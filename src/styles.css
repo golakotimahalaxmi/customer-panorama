@@ -549,7 +549,7 @@ body .ui-widget {
 }
 
 .table thead th {
-  font-family: "Prelo-Bold", sans-serif !important;
+  font-family: "Prelo-Bold", sans-serif ;
   /* background-color: #99c7d6; */
 }
 
