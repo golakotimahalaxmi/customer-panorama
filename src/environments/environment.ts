@@ -7,6 +7,9 @@ export const environment = {
   api_url: 'http://localhost:8182/',
   authMethod: ""
 };
+export const myNewConstant = {
+  key: false
+};
 
 /*
  * In development mode, to ignore zone related error stack frames such as

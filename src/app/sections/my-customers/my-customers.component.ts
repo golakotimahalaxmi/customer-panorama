@@ -230,6 +230,7 @@ export class MyCustomersComponent implements OnInit, OnDestroy {
         sessionStorage.setItem("customersDetails", JSON.stringify(customer));
         this.viewCustomersList = customer;
         this.service.saveCustomerDetails(this.viewCustomersList);
+        console.log(this.viewCustomersList);
       });
     // }
   }

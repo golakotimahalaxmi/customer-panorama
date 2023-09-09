@@ -1,0 +1,63 @@
+@import url("yrw1duq.css");
+
+@font-face {
+  font-family: 'Prelo-Hairline';
+  src: url('Prelo-Hairline.eot');
+  src: url('Prelo-Hairline.eot?#iefix') format('embedded-opentype'),
+       url('Prelo-Hairline.svg#Prelo-Hairline') format('svg'),
+       url('Prelo-Hairline.ttf') format('truetype'),
+       url('Prelo-Hairline.woff') format('woff'),
+       url('Prelo-Hairline.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Prelo-Light';
+  src: url('Prelo-Light.eot');
+  src: url('Prelo-Light.eot?#iefix') format('embedded-opentype'),
+       url('Prelo-Light.svg#Prelo-Light') format('svg'),
+       url('Prelo-Light.ttf') format('truetype'),
+       url('Prelo-Light.woff') format('woff'),
+       url('Prelo-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Prelo-Medium';
+  src: url('Prelo-Medium.eot');
+  src: url('Prelo-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Prelo-Medium.svg#Prelo-Medium') format('svg'),
+       url('Prelo-Medium.ttf') format('truetype'),
+       url('Prelo-Medium.woff') format('woff'),
+       url('Prelo-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Prelo-SemiBold';
+  src: url('Prelo-SemiBold.eot');
+  src: url('Prelo-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('Prelo-SemiBold.svg#Prelo-SemiBold') format('svg'),
+       url('Prelo-SemiBold.ttf') format('truetype'),
+       url('Prelo-SemiBold.woff') format('woff'),
+       url('Prelo-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Prelo-Bold';
+  src: url('Prelo-Bold.eot');
+  src: url('Prelo-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Prelo-Bold.svg#Prelo-Bold') format('svg'),
+       url('Prelo-Bold.ttf') format('truetype'),
+       url('Prelo-Bold.woff') format('woff'),
+       url('Prelo-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+

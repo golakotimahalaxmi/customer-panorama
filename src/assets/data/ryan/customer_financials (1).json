@@ -1,0 +1,3674 @@
+[
+  {
+    "CustomerCode": 12805792,
+    "CustomerDescription": "Bear Flag Robotics",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CRADLEPOINT",
+    "GrossSales": 7981.89,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerDescription": "Bear Flag Robotics",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CRADLEPOINT",
+    "GrossSales": 1738,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerDescription": "Bear Flag Robotics",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "PANORAMA ANTENNAS",
+    "GrossSales": 1159.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerDescription": "Bear Flag Robotics",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CRADLEPOINT",
+    "GrossSales": 936,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12805792,
+    "CustomerDescription": "Bear Flag Robotics",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "PANORAMA ANTENNAS",
+    "GrossSales": 495.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 16635.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 11542.89,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 6174.87,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "TRANSCEND",
+    "GrossSales": 6110.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 5993.11,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 3670,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 3670,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 3670,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 3109.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 2395.82,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 2280.27,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 2064.06,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 1891.49,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 1769.61,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 1600.48,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 1361.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "KENDALL HOWARD",
+    "GrossSales": 1245,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 1222.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 1076.64,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 814.76,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 619.55,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BLACK BOX",
+    "GrossSales": 570.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 481.95,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 424.83,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 368.55,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 298.66,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "VIEWSONIC",
+    "GrossSales": 287.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 244.75,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 191.95,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BLACK BOX",
+    "GrossSales": 135.05,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 132.87,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 119.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 111.51,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BLACK BOX",
+    "GrossSales": 98.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SANDISK",
+    "GrossSales": 87.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SANDISK",
+    "GrossSales": 34.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
+    "GrossSales": 0,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 4274741,
+    "CustomerDescription": "Bentek",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
+    "GrossSales": 0,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 15299.16,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 7536.24,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 7053.17,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 6307.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "ZOOM VIDEOCONFERENCING",
+    "GrossSales": 5956,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 4719.68,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 873,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9613090,
+    "CustomerDescription": "Bittorrent, Inc.",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 830,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 42803.44,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 37893.27,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 35235.26,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 26700,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 12746.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 12746.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 12746.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 3600,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Enterprise Storage (E)",
+    "BrandDescription": "SEAGATE TECHNOLOGY",
+    "GrossSales": 1962.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 961.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 9879048,
+    "CustomerDescription": "Blurb Inc",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "F5 NETWORKS",
+    "GrossSales": 212.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 52222.39,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 26961.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 16109.49,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 3973.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 2614.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 1210.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 1062.1,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 821.38,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "DELL",
+    "GrossSales": 501.54,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 431.73,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 364.85,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "YAMAHA",
+    "GrossSales": 345.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 280,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 238.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 88.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "DELL",
+    "GrossSales": 84.19,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12113454,
+    "CustomerDescription": "Brit & Co",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NULL",
+    "BrandDescription": "NULL",
+    "GrossSales": "NULL",
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 12933.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 10629.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 9858.96,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 9506.73,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 9134.04,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 6980.85,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "ERGOTRON",
+    "GrossSales": 6509.56,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 5562.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 5494.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VMWARE",
+    "GrossSales": 5355.35,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 5222.3,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "DELL",
+    "GrossSales": 5077.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 4931.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 4385.75,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "DELL",
+    "GrossSales": 3967.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 3520.43,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "VARIDESK",
+    "GrossSales": 3270.83,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 3262.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 3217.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "DELL",
+    "GrossSales": 3145.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "EPSON",
+    "GrossSales": 3104.16,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 3055.48,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 3026.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 2786.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "VARIDESK",
+    "GrossSales": 2298.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "3M",
+    "GrossSales": 2279.25,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 2259.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "YAMAHA",
+    "GrossSales": 2214.47,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 2201.22,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "POLY",
+    "GrossSales": 1928.27,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "POLY",
+    "GrossSales": 1893.36,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "3M",
+    "GrossSales": 1838.22,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 1688.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "DELL",
+    "GrossSales": 1561.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 1474.19,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "YAMAHA",
+    "GrossSales": 1453.05,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "EPSON",
+    "GrossSales": 1445.28,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "AXIS COMMUNICATIONS",
+    "GrossSales": 1443.35,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 1443.28,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 1345.38,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "VERKADA",
+    "GrossSales": 1306.89,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "APC",
+    "GrossSales": 1304.64,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "3M",
+    "GrossSales": 1292.8,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "DELL",
+    "GrossSales": 1231.57,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 1197.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 1163.96,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 1086.73,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 1056.15,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "DELL",
+    "GrossSales": 1008.66,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "NETGEAR",
+    "GrossSales": 993.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VMWARE",
+    "GrossSales": 954.66,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 942.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 937.95,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 937.34,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "WESTERN DIGITAL",
+    "GrossSales": 925.36,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 834.18,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "DELL",
+    "GrossSales": 832.25,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 831.39,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 830.31,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "ERGOTRON",
+    "GrossSales": 817.66,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "POLY",
+    "GrossSales": 710.01,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 685.22,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "ERGOTRON",
+    "GrossSales": 674.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "CONTOUR DESIGN",
+    "GrossSales": 663.46,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 659.42,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 650.83,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 645.81,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 599.44,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "VIEWSONIC",
+    "GrossSales": 581.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 561.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 498.7,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "LINKSYS",
+    "GrossSales": 484.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 479.02,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SEAGATE TECHNOLOGY",
+    "GrossSales": 468.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "DELL",
+    "GrossSales": 432.07,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 430.42,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 417,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 415.15,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 415.15,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "PELICAN",
+    "GrossSales": 381.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 369.53,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 368.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 367.63,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 360.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "BALT",
+    "GrossSales": 358.89,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 347.22,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 339.35,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 325.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 325.85,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 323.96,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ERGOTRON",
+    "GrossSales": 304.57,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 296.67,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "FELLOWES",
+    "GrossSales": 271.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "FELLOWES",
+    "GrossSales": 270.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "NUANCE COMMUNICATIONS",
+    "GrossSales": 261.89,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "SYNNEX SERVICES",
+    "GrossSales": 249.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "FELLOWES",
+    "GrossSales": 244.41,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 240.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "DELL",
+    "GrossSales": 239.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "KEY OVATION",
+    "GrossSales": 232.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "NEC",
+    "GrossSales": 228.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "NETGEAR",
+    "GrossSales": 220.14,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ERGOTRON",
+    "GrossSales": 213.39,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TOTAL MICRO TECHNOLOGIES",
+    "GrossSales": 209.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "HUMANSCALE",
+    "GrossSales": 207.57,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "CPI",
+    "GrossSales": 207.56,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 200,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 192.04,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "DELL",
+    "GrossSales": 192,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "DELL",
+    "GrossSales": 192,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "ENERGIZER",
+    "GrossSales": 190,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "VARIDESK",
+    "GrossSales": 189.15,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "PROLINE",
+    "GrossSales": 189.12,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "NETGEAR",
+    "GrossSales": 188.16,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "LEGRAND",
+    "GrossSales": 187.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 171.67,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 167.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VERKADA",
+    "GrossSales": 162.65,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "AXIS COMMUNICATIONS",
+    "GrossSales": 157.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 150.34,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 148.4,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 145.49,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 143.54,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 143.44,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 131.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "KINGSTON",
+    "GrossSales": 129.8,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 122.78,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "KANGURU",
+    "GrossSales": 114.44,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 108.62,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "WACOM TECHNOLOGY",
+    "GrossSales": 105.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "RUCKUS WIRELESS",
+    "GrossSales": 95.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 93.04,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "KINGSTON",
+    "GrossSales": 91.82,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 90.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "APC",
+    "GrossSales": 89.83,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 88.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "KINGSTON",
+    "GrossSales": 81.36,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 73.68,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "OTTERBOX",
+    "GrossSales": 69.8,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 67.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "HUMANSCALE",
+    "GrossSales": 64.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 63.04,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "LEVITON",
+    "GrossSales": 60.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 58.14,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 48.48,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BLACK BOX",
+    "GrossSales": 42.94,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 41.7,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Carts and Furniture (O)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 38.79,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "VERBATIM",
+    "GrossSales": 38.79,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 36.85,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "CLOVER IMAGING GROUP",
+    "GrossSales": 35.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "INTEL",
+    "GrossSales": 32.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "IDEAL INDUSTRIAL TOOL",
+    "GrossSales": 32.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 23.24,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "CYBER ACOUSTICS",
+    "GrossSales": 20.36,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SANDISK",
+    "GrossSales": 17.45,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "FELLOWES",
+    "GrossSales": 14.54,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "LEGRAND",
+    "GrossSales": 5.8,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 0,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
+    "GrossSales": 0,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11428733,
+    "CustomerDescription": "Calithera Biosciences",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Company Delivered) (J)",
+    "BrandDescription": "Company SERVICES",
+    "GrossSales": 0,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 20930,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 13943.92,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 12624.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 10520.96,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 9599.76,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "YEALINK",
+    "GrossSales": 8400,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VMWARE",
+    "GrossSales": 7447.96,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 6719.8,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 6210,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 5944.91,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "POLY",
+    "GrossSales": 5880,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 4497.05,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 4387.94,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 3194.86,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 3152,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 3101.77,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 2959.92,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 2485,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "ACTIONTEC ELECTRONICS",
+    "GrossSales": 1945.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Enterprise Storage (E)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 1860,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 1838.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 1750,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "LG ELECTRONICS",
+    "GrossSales": 1588.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "HEWLETT PACKARD ENTERPRISE",
+    "GrossSales": 1275,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 1215.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 1019.94,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 782.32,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 359.94,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Collaboration Hardware (T)",
+    "BrandDescription": "POLY",
+    "GrossSales": 241.41,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 189.75,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "SHURE",
+    "GrossSales": 113.41,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "LENOVO",
+    "GrossSales": 110,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 92,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 39.95,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11470598,
+    "CustomerDescription": "Code Advisors",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 35.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 57075.4,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 11378.49,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 10901.26,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 9535.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 8768.48,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "PALO ALTO",
+    "GrossSales": 8185.65,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "PROLINE",
+    "GrossSales": 5432.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "PROLINE",
+    "GrossSales": 5309.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 3919,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "NETAPP",
+    "GrossSales": 2589.76,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 2155.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Servers & Server Management (H)",
+    "BrandDescription": "VERTIV",
+    "GrossSales": 2000,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 1850,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 1799.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 1478.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 1458.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VMWARE",
+    "GrossSales": 1151.12,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 890,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 815.92,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 310.18,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "GOOGLE",
+    "GrossSales": 275,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "PROLINE",
+    "GrossSales": 198.54,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 186.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TOTAL MICRO TECHNOLOGIES",
+    "GrossSales": 137.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 131.67,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11936896,
+    "CustomerDescription": "Genapsys",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "HENGE DOCKS",
+    "GrossSales": 130.25,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 7471.4,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 6219.53,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "RED HAT",
+    "GrossSales": 4944.35,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "RED HAT",
+    "GrossSales": 4835.51,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "RED HAT",
+    "GrossSales": 4800,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 4388.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "GOOGLE",
+    "GrossSales": 3239.28,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "TENABLE",
+    "GrossSales": 3171.12,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "GOOGLE",
+    "GrossSales": 3087.47,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 3038.94,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "TENABLE",
+    "GrossSales": 2899,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "GOOGLE",
+    "GrossSales": 2808.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "TENABLE",
+    "GrossSales": 2690,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 12103691,
+    "CustomerDescription": "Guidebook",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "WEBROOT SOFTWARE",
+    "GrossSales": 1853,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 37187.51,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 7579.39,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "SONICWALL",
+    "GrossSales": 5962.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SOPHOS",
+    "GrossSales": 4273.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 3836.82,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SONICWALL",
+    "GrossSales": 2659.5,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "HP INC",
+    "GrossSales": 878.24,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 738.56,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "DELL",
+    "GrossSales": 437.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "CISCO",
+    "GrossSales": 316.82,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 306.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 286.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "KINGSTON",
+    "GrossSales": 273.75,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VEEAM",
+    "GrossSales": 199.1,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VEEAM",
+    "GrossSales": 199.1,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10848538,
+    "CustomerDescription": "Infostretch",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SOPHOS",
+    "GrossSales": 21.39,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "FORTINET",
+    "GrossSales": 10369.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "FORTINET",
+    "GrossSales": 10300.28,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 1648.03,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 1342.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "FORTINET",
+    "GrossSales": 1125.18,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "FORTINET",
+    "GrossSales": 562.59,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 520.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 449.56,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 153.37,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "VMWARE",
+    "GrossSales": 148.19,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 10903960,
+    "CustomerDescription": "Panzura, Inc.",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 78.27,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CROWDSTRIKE",
+    "GrossSales": 32333.51,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "CROWDSTRIKE",
+    "GrossSales": 19894.02,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 8049.58,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 6688.25,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 4973.64,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "FUJITSU",
+    "GrossSales": 3015.26,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 2799.29,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 2506,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 2497.42,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "TENABLE",
+    "GrossSales": 2126.09,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 2086.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 2009.06,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 2005.52,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "SAMSUNG",
+    "GrossSales": 1985.45,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "POS-X",
+    "GrossSales": 1812.51,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "DELL",
+    "GrossSales": 1775.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "LOGITECH",
+    "GrossSales": 1687.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 1514.84,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 1276.34,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "POS-X",
+    "GrossSales": 1162.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 1152.24,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "SYMANTEC",
+    "GrossSales": 1097.13,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 1062.09,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 855.72,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APC",
+    "GrossSales": 798.9,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "EPSON",
+    "GrossSales": 785.05,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "JUNIPER NETWORKS",
+    "GrossSales": 624.14,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "ZEBRA TECHNOLOGIES",
+    "GrossSales": 558.03,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "VIEWSONIC",
+    "GrossSales": 531.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "ADESSO",
+    "GrossSales": 512.88,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 489.97,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Desktop Computers (C)",
+    "BrandDescription": "MICRON",
+    "GrossSales": 446.44,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 383.67,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "LEGRAND",
+    "GrossSales": 364.2,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "RAIN DESIGN",
+    "GrossSales": 359.01,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 332.45,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 284.76,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 266.91,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 262.16,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 259.19,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "DELL",
+    "GrossSales": 247.87,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "ASUS",
+    "GrossSales": 246.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "KENSINGTON",
+    "GrossSales": 227.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Video & Audio (V)",
+    "BrandDescription": "3M",
+    "GrossSales": 216.54,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 211.08,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 197.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Notebook/Mobile Devices (L)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 189.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "KINGSTON",
+    "GrossSales": 182.34,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "ADESSO",
+    "GrossSales": 178.56,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "MICROSOFT",
+    "GrossSales": 142.48,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "NetComm Products (N)",
+    "BrandDescription": "STARTECH COM",
+    "GrossSales": 136.74,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Data Storage/Drives (D)",
+    "BrandDescription": "WESTERN DIGITAL",
+    "GrossSales": 131.1,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Point of Sale/Data Capture (F)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 125.38,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "BROTHER",
+    "GrossSales": 118.7,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 102.53,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BELKIN",
+    "GrossSales": 93.6,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Services (Partner Delivered) (Q)",
+    "BrandDescription": "JUNIPER NETWORKS",
+    "GrossSales": 78.99,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Power, Cooling & Racks (B)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 75.05,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "IOGEAR",
+    "GrossSales": 74.08,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Software (S)",
+    "BrandDescription": "ADOBE",
+    "GrossSales": 72.16,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "CHERRY AMERICAS",
+    "GrossSales": 56.98,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "APPLE",
+    "GrossSales": 53.18,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "P12TM",
+    "ItemTypeDescription": "Printing & Document Scanning (P)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 50.33,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "PP12TM",
+    "ItemTypeDescription": "Accessories (A)",
+    "BrandDescription": "KODAK SCANNERS",
+    "GrossSales": 34.19,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "BLACK BOX",
+    "GrossSales": 14.63,
+    "CoworkerCode": "GV72"
+  },
+  {
+    "CustomerCode": 11147852,
+    "CustomerDescription": "Veracyte",
+    "PeriodType": "C12TM",
+    "ItemTypeDescription": "Cables (W)",
+    "BrandDescription": "TRIPP LITE",
+    "GrossSales": 9.49,
+    "CoworkerCode": "GV72"
+  }
+]
