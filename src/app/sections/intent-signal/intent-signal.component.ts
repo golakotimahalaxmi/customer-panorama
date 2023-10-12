@@ -24,7 +24,7 @@ export class IntentSignalComponent implements OnInit {
 
   constructor(private modalService: ModalService, 
     private dashboardService: DashboardService, 
-    private service: CustomerService,
+    private service: IntentService,
     ) {
     
   }
