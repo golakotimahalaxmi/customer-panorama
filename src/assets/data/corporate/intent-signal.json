@@ -1,0 +1,28 @@
+
+[
+    {
+    "title":"IBM",
+    "Topic_browsed_number":2,
+    "percentage":-3
+},
+{
+    "title":"Value Labs",
+    "Topic_browsed_number":73,
+    "percentage":-11
+},
+{
+    "title":"KF Intech",
+    "Topic_browsed_number":84,
+    "percentage":-1
+},
+{
+    "title":"Intouch CX",
+    "Topic_browsed_number":24,
+    "percentage":-3
+},
+{
+    "title": "RMSI",
+    "Topic_browsed_number":78,
+    "percentage":-2
+}
+]

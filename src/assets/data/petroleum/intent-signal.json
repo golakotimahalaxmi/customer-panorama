@@ -1,0 +1,32 @@
+[
+    {
+    "title":"Saudi Arabian Oil Co.",
+    "Topic_browsed_number":1,
+    "percentage":-3
+},
+{
+    "title":"China Petroleum & Chemical Corp",
+    "Topic_browsed_number":77,
+    "percentage":-11
+},
+{
+    "title":"Enterprise Products",
+    "Topic_browsed_number":88,
+    "percentage":-1
+},
+{
+    "title":"Shell PLC",
+    "Topic_browsed_number":80,
+    "percentage":1
+},
+{
+    "title":"TotalEnergies SE",
+    "Topic_browsed_number":29,
+    "percentage":-3
+},
+{
+    "title": "Chevron Corp",
+    "Topic_browsed_number":90,
+    "percentage":-2
+}
+]

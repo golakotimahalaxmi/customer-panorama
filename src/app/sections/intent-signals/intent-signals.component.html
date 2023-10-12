@@ -1,0 +1,324 @@
+<div class="card box-shadows" [ngClass]="{ 'half-card': !isFull, '': isFull }">
+    <div class="card-row header-bg-clr" (dblclick)="openModal()">
+        <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+            <div class="card-header fc-white" tooltip="{{getAllheadings.tip_cp_reccomendation_widget_title}}" placement="bottom">
+                Intent Signals
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+          <app-widget-menu [modalName]="modalName"></app-widget-menu>
+        </div>        
+    </div>
+      <div  >
+      <table class="table sticky" >
+          <thead class=" bg-green-light  overflow-stylings-thead">
+          <tr class=" recommendation-row table-border">
+              <th class="col-md-6 heading-intent fs-14 ff-psb">Intent Group</th>
+              <th class="col-md-2 heading fs-14 ff-psb">#Topics</th>
+              <th class="col-md-2 heading fs-14 ff-psb">Wow</th>
+              <th class="col-md-2 heading fs-14 ff-psb">Mom</th>
+          </tr>
+          </thead>
+          <tbody class="overflow-stylings-tbody h-26vh">
+          <tr class=" table-boxshadow h-4rem " >
+              <td class="col-md-6">
+                   <div class="d-flex w-100 align-items-center">
+                   <p class="item-center">Software</p>
+                   <p class="vertical-border align-right"></p>
+                  </div> 
+              </td>
+              <td class="col-md-2 ">
+                  <div class="d-flex align-items-center">
+                  <p class=" item-center text-center fc-black ff-jsb fs-16 " >54/79</p>
+                  <p class="vertical-border align-right "></p>
+                  </div>
+              </td>
+              <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class=" item-center text-center fc-black ff-jsb fs-16" >-4%</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class=" item-center text-center fc-black ff-jsb fs-16 text-center mar-top"  >26%</p>
+                </div>
+            </td> 
+          </tr>
+          <tr class=" table-boxshadow h-4rem " >
+            <td class="col-md-6">
+                <div class="d-flex w-100 align-items-center">
+                <p class="item-center">Security</p>
+                <p class="vertical-border align-right"></p>
+               </div> 
+           </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class=" item-center text-center fc-black ff-psb fs-16" >36/39</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16" >3%</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16 mar-top" >26%</p>
+              </div>
+          </td> 
+        </tr>
+        <tr class=" table-boxshadow h-4rem " >
+            <td class="col-md-6">
+                <div class="d-flex w-100 align-items-center">
+                <p class="item-center">Datacenter</p>
+                <p class="vertical-border align-right"></p>
+               </div> 
+           </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class="item-center text-center fc-black ff-jsb fs-16" >31/35</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16" >3%</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-psb fs-16 mar-top" >28%</p>
+              </div>
+          </td> 
+        </tr>
+        <tr class=" table-boxshadow h-4rem " >
+            <td class="col-md-6">
+                <div class="d-flex w-100 align-items-center">
+                <p class="item-center">Collaboration</p>
+                <p class="vertical-border align-right"></p>
+               </div> 
+           </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class="item-center text-center fc-black ff-jsb fs-16" >14/16</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-jsb fs-16" >-1%</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-jsb fs-16 mar-top" >37%</p>
+              </div>
+          </td> 
+        </tr>
+        <tr class=" table-boxshadow h-4rem " >
+            <td class="col-md-6">
+                <div class="d-flex w-100 align-items-center">
+                <p class="item-center">Storage</p>
+                <p class="vertical-border align-right"></p>
+               </div> 
+           </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class="item-center text-center fc-black ff-jsb fs-16" >11/13</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-jsb fs-16" >1%</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16 mar-top" >23%</p>
+              </div>
+          </td> 
+        </tr>
+      </tbody>
+      </table>
+      </div>
+  </div>
+  
+  <!-- expanded view modal for customer recommendations -->
+  <jw-modal id={{modalName}}>
+      <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
+          <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-white ff-psb ">Intent Signals</span>
+          </h5>
+ 
+           <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+              <div class="input-group" >
+
+              </div>
+          </form>
+          <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+              <div class="m-0 p-0 dropdown d-flex text-right cross-right">
+ 
+                  <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-5" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close@2x.png"></a>
+              </div>
+          </div>
+      
+      </div>
+   <div class="">
+      <!-- <table class="table sticky" style="width: 100%;">
+          <thead class="table-header-bg bg-green-light table-border table-h-height overflow-stylings-thead">
+              <tr>
+                  <th class="col-md-2 heading fs-14 ff-psb">Startegy | Probability(%)</th>
+                  <th class="col-md-1 heading fs-14 ff-psb">Total Value</th>
+                  <th class="col-md-3 heading fs-14 ff-psb">Reasoning</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Recommended contact</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Product</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Category</th>
+              </tr>
+          </thead>
+          
+      </table> -->
+      <table class="table sticky" >
+        <thead class=" bg-green-light  overflow-stylings-thead">
+        <tr class=" recommendation-row table-border">
+            <th class="col-md-6 heading-intent fs-14 ff-psb">Intent Group</th>
+            <th class="col-md-2 heading fs-14 ff-psb">#Topics</th>
+            <th class="col-md-2 heading fs-14 ff-psb">Wow</th>
+            <th class="col-md-2 heading fs-14 ff-psb">Mom</th>
+        </tr>
+        </thead>
+        <tbody class="overflow-stylings-tbody ">
+        <tr class=" table-boxshadow h-4rem " >
+            <td class="col-md-6">
+                 <div class="d-flex w-100 align-items-center">
+                 <p class="item-center">Software</p>
+                 <p class="vertical-border align-right"></p>
+                </div> 
+            </td>
+            <td class="col-md-2 ">
+                <div class="d-flex align-items-center">
+                <p class=" item-center text-center fc-black ff-jsb fs-16 " >54/79</p>
+                <p class="vertical-border align-right "></p>
+                </div>
+            </td>
+            <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16" >-4%</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16 text-center mar-top"  >26%</p>
+              </div>
+          </td> 
+        </tr>
+        <tr class=" table-boxshadow h-4rem " >
+          <td class="col-md-6">
+              <div class="d-flex w-100 align-items-center">
+              <p class="item-center">Security</p>
+              <p class="vertical-border align-right"></p>
+             </div> 
+         </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class=" item-center text-center fc-black ff-jsb fs-16" >36/39</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class=" item-center text-center fc-black ff-jsb fs-16" >3%</p>
+            <p class="vertical-border align-right "></p>
+            </div>
+        </td>
+        <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class=" item-center text-center fc-black ff-jsb fs-16 mar-top" >26%</p>
+            </div>
+        </td> 
+      </tr>
+      <tr class=" table-boxshadow h-4rem " >
+          <td class="col-md-6">
+              <div class="d-flex w-100 align-items-center">
+              <p class="item-center">Datacenter</p>
+              <p class="vertical-border align-right"></p>
+             </div> 
+         </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-jsb fs-16" >31/35</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class=" item-center text-center fc-black ff-jsb fs-16" >3%</p>
+            <p class="vertical-border align-right "></p>
+            </div>
+        </td>
+        <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class="item-center text-center fc-black ff-psb fs-16 mar-top" >28%</p>
+            </div>
+        </td> 
+      </tr>
+      <tr class=" table-boxshadow h-4rem " >
+          <td class="col-md-6">
+              <div class="d-flex w-100 align-items-center">
+              <p class="item-center">Collaboration</p>
+              <p class="vertical-border align-right"></p>
+             </div> 
+         </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-psb fs-16" >14/16</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class="item-center text-center fc-black ff-psb fs-16" >-1%</p>
+            <p class="vertical-border align-right "></p>
+            </div>
+        </td>
+        <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class="item-center text-center fc-black ff-psb fs-16 mar-top" >37%</p>
+            </div>
+        </td> 
+      </tr>
+      <tr class=" table-boxshadow h-4rem " >
+          <td class="col-md-6">
+              <div class="d-flex w-100 align-items-center">
+              <p class="item-center">Storage</p>
+              <p class="vertical-border align-right"></p>
+             </div> 
+         </td>
+          <td class="col-md-2 ">
+              <div class="d-flex align-items-center">
+              <p class="item-center text-center fc-black ff-psb fs-16" >11/13</p>
+              <p class="vertical-border align-right "></p>
+              </div>
+          </td>
+          <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class="item-center text-center fc-black ff-psb fs-16" >1%</p>
+            <p class="vertical-border align-right "></p>
+            </div>
+        </td>
+        <td class="col-md-2 ">
+            <div class="d-flex align-items-center">
+            <p class=" item-center text-center fc-black ff-psb fs-16 mar-top" >23%</p>
+            </div>
+        </td> 
+      </tr>
+    </tbody>
+    </table>
+    </div>
+  </jw-modal>

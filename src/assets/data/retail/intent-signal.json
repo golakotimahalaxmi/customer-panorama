@@ -1,0 +1,33 @@
+
+[
+    {
+    "title":"Walmart",
+    "Topic_browsed_number":2,
+    "percentage":-2
+},
+{
+    "title":"Amazon.com",
+    "Topic_browsed_number":78,
+    "percentage":-12
+},
+{
+    "title":"Aldi",
+    "Topic_browsed_number":90,
+    "percentage":-3
+},
+{
+    "title":"Costco",
+    "Topic_browsed_number":82,
+    "percentage":3
+},
+{
+    "title":"Carrefour",
+    "Topic_browsed_number":29,
+    "percentage":-4
+},
+{
+    "title": "IKEA",
+    "Topic_browsed_number":92,
+    "percentage":-1
+}
+]

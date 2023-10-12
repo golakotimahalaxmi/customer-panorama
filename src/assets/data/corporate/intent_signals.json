@@ -1,0 +1,37 @@
+[
+    {
+        "intentGroup":"Software",
+        "topic":"66/79",
+        "wow":-3,
+        "mom":36
+
+    },
+    {
+        "intentGroup":"Security",
+        "topic":"46/69",
+        "wow":4,
+        "mom":46
+
+    },
+    {
+        "intentGroup":"Datacenter",
+        "topic":"41/45",
+        "wow":4,
+        "mom":29
+
+    },
+    {
+        "intentGroup":"Collaboration",
+        "topic":"24/16",
+        "wow":-3,
+        "mom":46
+
+    },
+    {
+        "intentGroup":"Storage",
+        "topic":"15/3",
+        "wow":2,
+        "mom":33
+
+    }
+]

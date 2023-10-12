@@ -1,0 +1,32 @@
+[
+    {
+    "title":"SIGA Technologies",
+    "Topic_browsed_number":2,
+    "percentage":-4
+},
+{
+    "title":"Vaalco Energy",
+    "Topic_browsed_number":78,
+    "percentage":-12
+},
+{
+    "title":"Cross Country Healthcare",
+    "Topic_browsed_number":89,
+    "percentage":-2
+},
+{
+    "title":"Clearfield",
+    "Topic_browsed_number":82,
+    "percentage":2
+},
+{
+    "title":"Hudson Technologies",
+    "Topic_browsed_number":30,
+    "percentage":-2
+},
+{
+    "title": "Arhaus",
+    "Topic_browsed_number":92,
+    "percentage":-3
+}
+]

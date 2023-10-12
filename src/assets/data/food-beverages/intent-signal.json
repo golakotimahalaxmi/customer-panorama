@@ -1,0 +1,32 @@
+[
+    {
+    "title":"Tyson Foods",
+    "Topic_browsed_number":2,
+    "percentage":-4
+},
+{
+    "title":"Coca-Cola",
+    "Topic_browsed_number":79,
+    "percentage":-12
+},
+{
+    "title":"Hershey",
+    "Topic_browsed_number":90,
+    "percentage":-3
+},
+{
+    "title":"JBS",
+    "Topic_browsed_number":83,
+    "percentage":2
+},
+{
+    "title":"Unilever",
+    "Topic_browsed_number":31,
+    "percentage":-4
+},
+{
+    "title": "Mars",
+    "Topic_browsed_number":93,
+    "percentage":-5
+}
+]

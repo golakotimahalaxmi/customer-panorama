@@ -1,0 +1,116 @@
+<div class="card box-shadows" [ngClass]="{ 'half-card': !isFull, '': isFull }" >
+    <div class="card-row header-bg-clr" (dblclick)="openModal()">
+        <div class="col-lg-6 col-md-8 col-sm-8 col-6">
+          <div class="card-header fc-white" tooltip placement="bottom">
+            Intent Signals
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-4 col-sm-4 col-6 text-right">
+          <app-widget-menu [modalName]="modalName"></app-widget-menu>
+        </div>
+      </div>
+    
+        <!-- <div class="table sticky" > -->
+          <div class="overflow-stylings-tbody h-30vh ">
+            <div class=" table-boxshadow  "  *ngFor="let item of intentData" >
+                <p class="fs-14 ff-psb mt-2 p-l-12 fc-green">{{item.title}}</p>
+                <p class="p-l-12 p-b-5">
+                    <span class="fs-12 ff-psb mt-2 p-0">Intent Topics browser:</span>
+                    <span class="ff-psb fs-16  fs-black ml-2">{{item.Topic_browsed_number}}</span>
+                    <img class="ml-2" *ngIf="item.percentage<0" src="assets/images/icons/low.png">
+                    <img class="ml-2" *ngIf="item.percentage>0" src="assets/images/icons/high.png">
+                    <span class="ff-psb fs-16 fs-black ml-1">{{item.percentage}}</span>
+                </p>
+            </div>
+    <!-- </div> -->
+</div>
+                   <!-- <div class="d-flex w-100 align-items-center">
+                   <p class="item-center">Software</p>
+                   <p class="vertical-border align-right"></p>
+                  </div>  -->
+   
+  
+  <!-- expanded view modal for customer recommendations -->
+  <jw-modal id={{modalName}}>
+      <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
+          <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-white ff-psb ">Intent Signals</span>
+          </h5>
+           <form class="form-inline mr-auto w-1000 justify-content-end br-4" >
+              <div class="input-group" >
+                  <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400" [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm" [(ngModel)]="service.searchTerm">
+              </div>
+          </form>
+          <div class="navbar-menu-wrapper m-0 p-0 link-point text-right">
+              <div class="m-0 p-0 dropdown d-flex text-right cross-right">
+                  <a class="nav-link count-indicator m-0 ml-3 mr-3 p-0 pt-5" (click)="closeModal()"><img class="img-close-widget" src="assets/images/icons/close@2x.png"></a>
+              </div>
+          </div>
+      
+      </div>
+   <!-- <div class=""> -->
+      <!-- <table class="table sticky" style="width: 100%;">
+          <thead class="table-header-bg bg-green-light table-border table-h-height overflow-stylings-thead">
+              <tr>
+                  <th class="col-md-2 heading fs-14 ff-psb">Startegy | Probability(%)</th>
+                  <th class="col-md-1 heading fs-14 ff-psb">Total Value</th>
+                  <th class="col-md-3 heading fs-14 ff-psb">Reasoning</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Recommended contact</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Product</th>
+                  <th class="col-md-2 heading fs-14 ff-psb">Category</th>
+              </tr>
+          </thead>
+          <tbody class="overflow-stylings-tbody">
+              <tr class=" table-boxshadow h-4rem " *ngFor="let recommendation of recommandations">
+                  <td class="probabiltyStyle col-md-2 table-border v-align-middle">
+                      <p class="blue-numbers text-center tp  fs-12 ff-psb" *ngIf ="recommendation.probability>=90; else elseBlock" > Probability :Higher
+                     </p>
+                     <ng-template #elseBlock>
+                         <p class="blue-numbers text-center tp fs-12 ff-psb" *ngIf ="recommendation.probability>=80 ; else Block" > Probability :Medium
+                         </p>
+                         <ng-template  #Block >
+                         <p class="blue-numbers text-center tp fs-12 ff-psb"> Probability :Low
+                         </p>
+                         </ng-template>
+                     </ng-template>
+                 </td>
+                 <td class="col-md-1 table-border v-align-middle">
+                  <p class="green-numbers text-center fs-12 ff-jsb" >$ {{recommendation.total_value}}</p>
+                 </td>
+                 <td class="col-md-3 table-border m-1 v-align-middle">
+                      <div *ngFor ="let item of recommendation.reasons">
+                          <p class="p-0 m-0 tp tab-content-text">#{{item}}</p>
+                      </div>              
+                 </td>
+                 <td class="col-md-2 table-border v-align-middle">
+                      <div  *ngFor="let product of recommendation.contacts" >
+                          <p  class="blue-numbers fs-12 ff-psb"> {{product.name}}</p>
+                          <p  class="fs-12 ff-psb"> {{product.designation}}</p>
+                      </div>
+                 </td>
+                 <td class="col-md-2 table-border v-align-middle">
+                  <div><img class="recommandations-image" src="assets/images/{{recommendation.product_image}}"></div>
+                  <p class="productname ">{{recommendation.product_name}}</p>
+                  <p class="product_value blue-numbers p-0">${{recommendation.product_value}}</p>  
+                 </td>
+                 <td class="col-md-2 table-border v-align-middle">
+                  <p class="tab-content-text"> Item type: {{recommendation.item_type}}</p>
+                  <p class="tab-content-text"> Item class: {{recommendation.item_class}}</p>
+                  <p class="tab-content-text">PGM:  {{recommendation.pgm}}</p>
+                 </td>
+              </tr>
+          </tbody>
+      </table> -->
+      <!-- </div> -->
+      <div class="overflow-stylings-tbody h-30vh ">
+        <div class=" table-boxshadow  "  *ngFor="let item of intentData" >
+            <p class="fs-14 ff-psb mt-2 p-l-12">{{item.title}}</p>
+            <p class="p-l-12 p-b-5">
+                <span class="fs-12 ff-psb mt-2 p-0">Intent Topics browser:</span>
+                <span class="ff-psb fs-16  fs-black ml-2">{{item.Topic_browsed_number}}</span>
+                <img class="ml-2" *ngIf="item.percentage<0" src="assets/images/icons/low.png">
+                <img class="ml-2" *ngIf="item.percentage>0" src="assets/images/icons/high.png">
+                <span class="ff-psb fs-16 fs-black ml-1">{{item.percentage}}</span>
+            </p>
+        </div>
+        </div>
+  </jw-modal>

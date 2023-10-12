@@ -1,0 +1,32 @@
+[
+    {
+    "title":"Stellantis NV",
+    "Topic_browsed_number":2,
+    "percentage":-4
+},
+{
+    "title":"Mercedes-Benz Group AG",
+    "Topic_browsed_number":78,
+    "percentage":-12
+},
+{
+    "title":"Bayerische Motoren Werke AG",
+    "Topic_browsed_number":89,
+    "percentage":-2
+},
+{
+    "title":"Dongfeng",
+    "Topic_browsed_number":80,
+    "percentage":1
+},
+{
+    "title":"Honda Motor Co Ltd",
+    "Topic_browsed_number":29,
+    "percentage":-3
+},
+{
+    "title": "SAIC Motor Corp Ltd",
+    "Topic_browsed_number":90,
+    "percentage":-2
+}
+]

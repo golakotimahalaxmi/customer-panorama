@@ -1,0 +1,32 @@
+[
+    {
+    "title":"Ace Hardware",
+    "Topic_browsed_number":1,
+    "percentage":-3
+},
+{
+    "title":"Alaska Airlines",
+    "Topic_browsed_number":77,
+    "percentage":-11
+},
+{
+    "title":"Aflac",
+    "Topic_browsed_number":88,
+    "percentage":-1
+},
+{
+    "title":"Airbnb",
+    "Topic_browsed_number":80,
+    "percentage":1
+},
+{
+    "title":"Amazon",
+    "Topic_browsed_number":29,
+    "percentage":-3
+},
+{
+    "title": "Ashley Furniture",
+    "Topic_browsed_number":90,
+    "percentage":-2
+}
+]
