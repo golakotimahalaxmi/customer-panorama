@@ -1,3 +1,4 @@
+
 <div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}">
     <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
@@ -112,12 +113,14 @@
 
 <!-- Expanded View of my customers -->
 <jw-modal id={{modalName}}>
-    <div class="card-navbar header-bg-clr" (dblclick)="openModal()">
-        <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-white ff-psb ">Companies</span>
+    <div class="card-navbar header-white h9 brd" (dblclick)="openModal()">
+        <div>
+        <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-black ff-psb ">Companies</span>
         </h5>
-        <form class="form-inline mr-auto w-1000 justify-content-end br-4">
+        </div>
+        <form class="form-inline mr-auto w-1000 justify-content-end br-4  ">
             <div class="input-group">
-                <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr fs-12 fw-400"
+                <input type="text" class="form-control search-main input-bg border-0 small br-4 ff-pr bg-light fs-12 fw-400"
                     [placeholder]="allHeadings.placeholderInsideModal" name="searchTerm"
                     [(ngModel)]="service.searchTerm">
             </div>
@@ -130,7 +133,8 @@
         </div>
     </div>
     <div class="table-fit">
-        <table class="table customers-table">
+
+        <!-- <table class="table customers-table">
             <thead class="overflow-stylings-thead  bg-green-light">
                 <tr>
                     <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth"
@@ -502,6 +506,41 @@
                     </td>
                 </tr>
             </tbody>
-        </table>      
+        </table>  -->
+
+        <table class="table">
+            <thead class="overflow-stylings-thead table-head-color">
+                <tr class="">
+                    <th scope="col">Names</th>
+                    <th scope="col">Sales</th>
+                    <th scope="col">MOM trend</th>
+                    <th scope="col">Last Invoice</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="overflow-stylings-tbody">
+                <tr *ngFor="let customers of viewCustomersList" (click)="selectedCustomer(customers)">
+                    <td scope="row" class="width-16 align-middle">
+                        <div>
+                            <p class="fc-green ff-jsb fs-14">{{customers.customer_name}}</p>
+                            <p *ngIf='customers.headquarters != ""' class="customerSubHead ff-pr "><span class="fc-black ff-jsb fs-12">HQ:</span>
+                                {{customers.headquarters}}</p>
+                        </div>
+                    </td>
+                    <td class="align-middle width-16 fs-18 ff-psb"> ${{customers.avgspend}}</td>
+                    <td class="align-middle width-16">${{convertNumber(customers.Online_c12)}}</td>
+                    <td class="align-middle width-16">{{customers.customer_last_invoice_date}}</td>
+                    <td class="align-middle">
+                        <div>
+                            <span class="pr-3"><img class="img-close-widget" src="assets/images/icons/star_icon.png"></span>
+                            <span class="pr-3"><img class="img-close-widget" src="assets/images/icons/mail_icon.png"></span>
+                            <span class="pr-3"><img class="img-close-widget" src="assets/images/icons/signal_icon.png"></span>
+                            <span class="pr-3"><img class="img-close-widget " src="assets/images/icons/threeDots_icon.png"></span>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    
     </div>
 </jw-modal>

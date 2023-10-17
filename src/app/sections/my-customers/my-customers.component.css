@@ -238,3 +238,7 @@ th{
     margin: 2rem 0px!important;
     display: inline-block;
 }
+
+.table-head-color{
+    background-color: #F2F2F2;;
+   }

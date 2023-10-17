@@ -2,7 +2,7 @@ import { AfterContentChecked, AfterContentInit, AfterViewChecked, AfterViewInit,
 import { CustomerService } from "src/app/services/customerService";
 import { CdkDragDrop, moveItemInArray } from "@angular/cdk/drag-drop";
 import { DashboardService } from "src/app/services/dashboardService";
-import { widget } from "src/app/classesList/customer";
+import { MycustomersDetails, widget } from "src/app/classesList/customer";
 
 @Component({
   selector: "app-dashboard",
@@ -13,6 +13,7 @@ export class DashboardComponent implements OnInit {
   allHeadings: any = {};
   modalName: any;
   widgetPositions: widget[];
+  viewCustomersList: MycustomersDetails[] = [];
 
   componentRef: any;
   stackHolderName: string;
