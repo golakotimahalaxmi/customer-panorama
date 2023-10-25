@@ -168,149 +168,55 @@
               <p class="mt-1">LEADERBOARD YTD</p>
             </div>
             <div class="">
-              <button  style="border-radius: 15px; background-color:#76B900 ; border: none; color: white;width: 95px; height: 28px;" class="fs-psb fs-14 mr-2">YTD</button>
-              <button style="border-radius: 15px; background-color:#c2c7b8 ; border: none; color: white;width: 95px; height: 28px;" class="fs-psb fs-14 mr-2">QTD</button>
-              <button style="border-radius: 15px; background-color:#c2c7b8; border: none; color: white;width: 95px; height: 28px;" class="fs-psb fs-14 mr-4">MTD</button>
+              <button [ngStyle]="{'background-color': isactive? '#76B900 ' : '#c2c7b8'}" (click)="ytddisplay('btn1')" class=" ButtonStyle fs-psb fs-14 mr-2">YTD</button>
+              <button [ngStyle]="{'background-color': isactive1? '#76B900 ' : '#c2c7b8'}" (click)="ytddisplay('btn2')"   class="ButtonStyle fs-psb fs-14 mr-2">QTD</button>
+              <button [ngStyle]="{'background-color': isactive2? '#76B900 ' : '#c2c7b8'}"  (click)="ytddisplay('btn3')" class="ButtonStyle fs-psb fs-14 mr-4">MTD</button>
             </div>
           </div>
           <div class="d-flex justify-content-start">
-            <div class="card mr-2" style="width: 12rem; height: 13rem; ">
-              <div class="d-flex justify-content-center mt-3"><img style="width: 50px; height: 50px;"
-                  src="assets/images/icons/contact.png" /></div>
-              <div class="card-body">
-                <p class="text-center fs-12">Miranda Kutcher</p>
-                <div class="text-center">
-                  <span class="fs-20">35.1M</span>
-                  <span class="ml-2 fc-gree">+32.3%</span>
-                </div>
-              </div>
-              <hr>
-              <div class="d-flex justify-content-center ">
-                <div class="" style=" width: 50%; border-right:2px solid  #D3D3D3;">
-                  <button class="" style="border: none;">profile</button>
-                </div>
-                
-                <div class="" style=" width: 50%;">
-                  <button  style="border: none;">message</button>
-                </div>
-              </div>
-            </div>
-            <div class="card mr-2" style="width: 13rem; height: 13rem; ">
-              <div class="d-flex justify-content-center mt-3"><img style="width: 50px; height: 50px;"
-                  src="assets/images/icons/contact.png" /></div>
-              <div class="card-body">
-                <p class="text-center fs-12">Miranda Kutcher</p>
-                <div class="text-center">
-                  <span class="fs-20">35.1M</span>
-                  <span class="ml-2 fc-gree">+32.3%</span>
-                </div>
-              </div>
-              <hr>
-              <div class="d-flex">
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary">profile</p>
-                </div>
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary text-center">message</p>
-                </div>
-              </div>
-            </div>
-            <div class="card mr-2" style="width: 13rem; height: 13rem; ">
-              <div class="d-flex justify-content-center mt-3"><img style="width: 50px; height: 50px;"
-                  src="assets/images/icons/contact.png" /></div>
-              <div class="card-body">
-                <p class="text-center fs-12">Miranda Kutcher</p>
-                <div class="text-center">
-                  <span class="fs-20">35.1M</span>
-                  <span class="ml-2 fc-gree">+32.3%</span>
-                </div>
-              </div>
-              <hr>
-              <div class="d-flex">
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary">profile</p>
-                </div>
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary text-center">message</p>
-                </div>
-
-              </div>
-            </div>
-            <div class="card mr-2" style="width: 13rem; height: 13rem; ">
-              <div class="d-flex justify-content-center mt-3"><img style="width: 50px; height: 50px;"
-                  src="assets/images/icons/contact.png" /></div>
-              <div class="card-body">
-                <p class="text-center fs-12">Miranda Kutcher</p>
-                <div class="text-center">
-                  <span class="fs-20">35.1M</span>
-                  <span class="ml-2 fc-gree">+32.3%</span>
-                </div>
-              </div>
-              <hr>
-              <div class="d-flex">
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary">profile</p>
-                </div>
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary text-center">message</p>
-                </div>
-              </div>
-            </div>
-            <div class="card mr-2" style="width: 13rem; height: 13rem; ">
-              <div class="d-flex justify-content-center mt-3"><img style="width: 50px; height: 50px;"
-                  src="assets/images/icons/contact.png" /></div>
-              <div class="card-body">
-                <p class="text-center fs-12">Miranda Kutcher</p>
-                <div class="text-center">
-                  <span class="fs-20">35.1M</span>
-                  <span class="ml-2 fc-gree">+32.3%</span>
-                </div>
-              </div>
-              <hr>
-              <div class="d-flex">
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary">profile</p>
-                </div>
-                <div class=" ml-4 mr-4">
-                  <p class="text-secondary text-center">message</p>
-                </div>
-              </div>
+            <div class="card mr-2" style="width: 13rem; height: 13rem; " *ngFor="let item of (showAllFlag ? viewCustomersList : viewCustomersList.slice(0,5))" >
+              <app-profile-card *ngIf="isactive" [d1]="item.contact_name" [ytd]="item.customerC12" [img]="item.contact_image"></app-profile-card>
+              <app-profile-card *ngIf="isactive1" [d1]="item.contact_name" [ytd]="item.customerC12" [img]="item.contact_image"></app-profile-card>
+              <app-profile-card *ngIf="isactive2" [d1]="item.contact_name" [ytd]="item.actuals_last" [img]="item.contact_image"></app-profile-card>
             </div>
           </div>
-          <table class="table mt-4">
-            <thead class="overflow-stylings-thead table-head-color">
-              <p class="fs-psb fs-16">Reporting Team</p>
-            </thead>
-            <tbody class="overflow-stylings-tbody">
-              <tr class="m-0" style="height: auto;">
-                <td scope="row" class="width-25 align-middle m-0 py-0 pt-2">
+              <p class="fs-psb fs-16 pt-4">Reporting Team</p>
+            <!-- <div class="" style="overflow: scroll; height: 310px;" >
+              <div class="m-0 d-flex"  *ngFor="let customer of viewCustomersList;" (click)="selectedCustomer(customer)">
+                <div  class="width-30 align-middle m-0 py-0 pt-2">
                   <div class="d-flex">
-                    <div><img style="width: 50px; height: 50px;" src="assets/images/icons/contact.png" />
+                    <div>
+                      <img class="imgstyle-" src="assets/images/contacts/{{customer.contact_image}}"/>
                     </div>
                     <div class="pl-2">
                       <p class=" ff-jsb fs-14 m-0 fc-black">
-                        Miranda Kutcher
+                        {{customer.contact_name}}
                       </p>
                       <p class="customerSubHead ff-pr m-0 fs-12">
-                        Execcutive Account Manager
+                        {{customer.ContactActualTitle}}
                       </p>
                     </div>
                   </div>
-                </td>
-                <td class="align-middle width-25 fs-18 ff-psb m-0 py-0">
+                </div>
+                <div class="align-middle width-20 fs-18 ff-psb m-0 py-0">
                   <div class="d-flex">
                     <div>
-                      <p class="m-0">$3.16</p>
-                      <p class="m-0 text-secondary fs-12">target 3.41M</p>
+                      <p class="m-0">{{customer.customerC12}}</p>
+                      <p class="m-0 text-secondary fs-12">target ${{convertNumber(customer.sales_goals)}}M</p>
                     </div>
                     <div>
-                      <p class="mt-2 ml-2">25%</p>
+                      <p class="mt-2 ml-2">{{customer.margin}}%</p>
                     </div>
                   </div>
-                </td>
-                <td class="align-middle width-25 m-0 py-0"><img style="width: 120px; height: 50px;"
-                    src="assets/images/icons/graph.JPG" /></td>
-                <td class="align-middle width-25 m-0 py-0">
+                </div>
+                <div class="align-middle width-25 m-0 py-0 mb-0">
+                 <div class="chart-container mb-0 chartSize">
+                    <canvas  id="MyChart">{{chart}}</canvas>
+                </div> 
+                <img  style="width: 150px; height: 60px;" src="assets/images/icons/graph.JPG"/>
+                 <p class="fs-10 m-0" >last 6 months sales</p>
+                </div>
+                <div class="align-middle width-20 m-0 py-0">
                   <div>
                     <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
                         src="assets/images/icons/mail_icon.png"></span>
@@ -319,176 +225,19 @@
                     <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
                         src="assets/images/icons/threeDots_icon.png"></span>
                   </div>
-                </td>
-              </tr>
-              <tr class="m-0" style="height: auto;">
-                <td scope="row" class="width-25 align-middle m-0 py-0 pt-2">
-                  <div class="d-flex">
-                    <div><img style="width: 50px; height: 50px;" src="assets/images/icons/contact.png" />
-                    </div>
-                    <div class="pl-2">
-                      <p class="fc-black ff-jsb fs-14 m-0">
-                        Miranda Kutcher
-                      </p>
-                      <p class="customerSubHead ff-pr m-0 fs-12">
-                        Execcutive Account Manager
-                      </p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 fs-18 ff-psb m-0 py-0">
-                  <div class="d-flex">
-                    <div>
-                      <p class="m-0">$3.16</p>
-                      <p class="m-0 text-secondary fs-12">target 3.41M</p>
-                    </div>
-                    <div>
-                      <p class="mt-2 ml-2">25%</p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 m-0 py-0"><img style="width: 120px; height: 50px;"
-                    src="assets/images/icons/graph.JPG" /></td>
-                <td class="align-middle width-25 m-0 py-0">
-                  <div>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
-                        src="assets/images/icons/mail_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 30px; width: 30px;"
-                        src="assets/images/icons/signal_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
-                        src="assets/images/icons/threeDots_icon.png"></span>
-                  </div>
-                </td>
-              </tr>
-              <tr class="m-0" style="height: auto;">
-                <td scope="row" class="width-25 align-middle m-0 py-0 pt-2">
-                  <div class="d-flex">
-                    <div><img style="width: 50px; height: 50px;" src="assets/images/icons/contact.png" />
-                    </div>
-                    <div class="pl-2">
-                      <p class="fc-black ff-jsb fs-14 m-0">
-                        Miranda Kutcher
-                      </p>
-                      <p class="customerSubHead ff-pr m-0 fs-12">
-                        Execcutive Account Manager
-                      </p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 fs-18 ff-psb m-0 py-0">
-                  <div class="d-flex">
-                    <div>
-                      <p class="m-0">$3.16</p>
-                      <p class="m-0 text-secondary fs-12">target 3.41M</p>
-                    </div>
-                    <div>
-                      <p class="mt-2 ml-2">25%</p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 m-0 py-0"><img style="width: 120px; height: 50px;"
-                    src="assets/images/icons/graph.JPG" /></td>
-                <td class="align-middle width-25 m-0 py-0">
-                  <div>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
-                        src="assets/images/icons/mail_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 30px; width: 30px;"
-                        src="assets/images/icons/signal_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
-                        src="assets/images/icons/threeDots_icon.png"></span>
-                  </div>
-                </td>
-              </tr>
-              <tr class="m-0" style="height: auto;">
-                <td scope="row" class="width-25 align-middle m-0 py-0 pt-2">
-                  <div class="d-flex">
-                    <div><img style="width: 50px; height: 50px;" src="assets/images/icons/contact.png" />
-                    </div>
-                    <div class="pl-2">
-                      <p class="fc-black ff-jsb fs-14 m-0">
-                        Miranda Kutcher
-                      </p>
-                      <p class="customerSubHead ff-pr m-0 fs-12">
-                        Execcutive Account Manager
-                      </p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 fs-18 ff-psb m-0 py-0">
-                  <div class="d-flex">
-                    <div>
-                      <p class="m-0">$3.16</p>
-                      <p class="m-0 text-secondary fs-12">target 3.41M</p>
-                    </div>
-                    <div>
-                      <p class="mt-2 ml-2">25%</p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 m-0 py-0"><img style="width: 120px; height: 50px;"
-                    src="assets/images/icons/graph.JPG" /></td>
-                <td class="align-middle width-25 m-0 py-0">
-                  <div>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
-                        src="assets/images/icons/mail_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 30px; width: 30px;"
-                        src="assets/images/icons/signal_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
-                        src="assets/images/icons/threeDots_icon.png"></span>
-                  </div>
-                </td>
-              </tr>
-              <tr class="m-0" style="height: auto;">
-                <td scope="row" class="width-25 align-middle m-0 py-0 pt-2">
-                  <div class="d-flex">
-                    <div><img style="width: 50px; height: 50px;" src="assets/images/icons/contact.png" />
-                    </div>
-                    <div class="pl-2">
-                      <p class="fc-black ff-jsb fs-14 m-0">
-                        Miranda Kutcher
-                      </p>
-                      <p class="customerSubHead ff-pr m-0 fs-12">
-                        Execcutive Account Manager
-                      </p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 fs-18 ff-psb m-0 py-0">
-                  <div class="d-flex">
-                    <div>
-                      <p class="m-0">$3.16</p>
-                      <p class="m-0 text-secondary fs-12">target 3.41M</p>
-                    </div>
-                    <div>
-                      <p class="mt-2 ml-2">25%</p>
-                    </div>
-                  </div>
-                </td>
-                <td class="align-middle width-25 m-0 py-0"><img style="width: 120px; height: 50px;"
-                    src="assets/images/icons/graph.JPG" /></td>
-                <td class="align-middle width-25 m-0 py-0">
-                  <div>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
-                        src="assets/images/icons/mail_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget" style="height: 30px; width: 30px;"
-                        src="assets/images/icons/signal_icon.png"></span>
-                    <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
-                        src="assets/images/icons/threeDots_icon.png"></span>
-                  </div>
-                </td>
-              </tr>
-
-            </tbody>
-          </table>
+                </div>
+              </div>
+            </div>       -->
+            <app-my-customers></app-my-customers>
         </div>
         <div class="col-3">
           <div class="card" >
             <div class="card-body">
               <p class="card-text">YTD Sales</p>
             </div>
-            <div class="d-inline-flex">
-              <div class="cardRevenue">$3.6M</div>
-              <div class="cardPercentage" style="float:right"><span class="percentage">+ 32.3%</span></div>
+            <div class="d-inline-flex"  *ngFor="let item of (showAllFlag ? viewCustomersList : viewCustomersList.slice(0,1))" >
+              <div class="cardRevenue">{{item.customerC12}}</div>
+              <div class="cardPercentage" style="float:right"><span class="percentage">+ {{item.margin}}%</span></div>
             </div>
             </div>
           <div class="d-inline-flex">
@@ -514,20 +263,20 @@
           <div class="actionItems">
             <h3 class="Header mt-4">Action items</h3>
             <div style="border-bottom: 1px solid #D3D3D3;">
-              <span class="actionitemheader">Meeting</span>
-              <p class="actionHeaderParagraph mt-3">Meet Miranda for performance review & bonus</p>
+              <p class="actionitemheader">Meeting</p>
+              <p class="actionHeaderParagraph m-0">Meet Miranda for performance review & bonus</p>
             </div>
             <div style="border-bottom: 1px solid #D3D3D3;">
-              <span class="actionitemheader ">Meeting</span>
-              <p class="actionHeaderParagraph mt-3">Meet Miranda for performance review & bonus</p>
+              <p class="actionitemheader ">Meeting</p>
+              <p class="actionHeaderParagraph m-0">Meet Miranda for performance review & bonus</p>
             </div>
             <div style="border-bottom: 1px solid #D3D3D3;">
-              <span class="actionitemheader">Meeting</span>
-              <p class="actionHeaderParagraph mt-3">Meet Miranda for performance review & bonus</p>
+              <p class="actionitemheader">Meeting</p>
+              <p class="actionHeaderParagraph m-0">Meet Miranda for performance review & bonus</p>
             </div>
             <div >
-              <span class="actionitemheader">Meeting</span>
-              <p class="actionHeaderParagraph mt-3">Meet Miranda for performance review & bonus</p>
+              <p class="actionitemheader ">Meeting</p>
+              <p class="actionHeaderParagraph m-0">Meet Miranda for performance review & bonus</p>
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 
-<div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}">
-    <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
+<!-- <div class="card box-shadows" [ngClass]="{'half-card' : !isFull,'': isFull}"> -->
+    <!-- <div class="card-row row-header header-bg-clr" (dblclick)="openModal()">
         <div class="col-lg-6 col-md-8 col-sm-8 col-6">
             <div class="card-header fs-14 ff-psb fc-white" tooltip="{{allHeadings.tip_home_accounts_exp_title}}"
                 placement="bottom">
@@ -11,12 +11,59 @@
             <app-widget-menu [modalName]="modalName"
                 (exploreCustomersList)="exploreCustomersList($event)"></app-widget-menu>
         </div>
-    </div>
-    <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,
-    'widger-scoller-half-data': !isFull}">
-        <div class="card-main-customer activeCustomer" *ngFor="let customer of viewCustomersList;"
-            (click)="selectedCustomer(customer)">
-            <div class="customerCard-row">
+    </div> -->
+    <!-- <div class="card-body p-0" [ngClass]="{'widger-scoller': isFull,
+    'widger-scoller-half-data': !isFull}"> -->
+        <!-- <div class="card-main-customer activeCustomer" *ngFor="let customer of viewCustomersList;"
+            (click)="selectedCustomer(customer)"> -->
+            <div class="" style="overflow: scroll; height: 310px;" >
+                <div class="m-0 d-flex"  *ngFor="let customer of viewCustomersList;" (click)="selectedCustomer(customer)">
+                  <div  class="width-30 align-middle m-0 py-0 pt-2">
+                    <div class="d-flex">
+                      <div>
+                        <img class="imgstyle-" src="assets/images/contacts/{{customer.contact_image}}"/>
+                      </div>
+                      <div class="pl-2">
+                        <p class=" ff-jsb fs-14 m-0 fc-black">
+                          {{customer.contact_name}}
+                        </p>
+                        <p class="customerSubHead ff-pr m-0 fs-12">
+                          {{customer.ContactActualTitle}}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="align-middle width-20 fs-18 ff-psb m-0 py-0">
+                    <div class="d-flex">
+                      <div>
+                        <p class="m-0">{{customer.customerC12}}</p>
+                        <p class="m-0 text-secondary fs-12">target ${{convertNumber(customer.sales_goals)}}M</p>
+                      </div>
+                      <div>
+                        <p class="mt-2 ml-2">{{customer.margin}}%</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="align-middle width-25 m-0 py-0 mb-0">
+                    <!-- <div class="chart-container mb-0 chartSize">
+                      <canvas  id="MyChart">{{chart}}</canvas>
+                  </div> -->
+                  <img  style="width: 150px; height: 60px;" src="assets/images/icons/graph.JPG"/>
+                  <!-- <p class="fs-10 m-0" >last 6 months sales</p> -->
+                  </div>
+                  <div class="align-middle width-20 m-0 py-0">
+                    <div>
+                      <span class="pr-3"><img class="img-close-widget" style="height: 40px; width: 40px;"
+                          src="assets/images/icons/mail_icon.png"></span>
+                      <span class="pr-3"><img class="img-close-widget" style="height: 30px; width: 30px;"
+                          src="assets/images/icons/signal_icon.png"></span>
+                      <span class="pr-3"><img class="img-close-widget " style="height: 40px; width: 40px;"
+                          src="assets/images/icons/threeDots_icon.png"></span>
+                    </div>
+                  </div>
+                </div>
+              </div> 
+            <!-- <div class="customerCard-row">
                 <div class="companyDetails">
                     <p class="companyName-field fs-14 fc-green ff-psb">{{customer.customer_name}}</p>
                     <table>
@@ -39,7 +86,7 @@
                                 <td class="ytd-styling tab-content-text width-45 fs-12 ff-pm fc-black"
                                     tooltip="{{allHeadings.tip_accounts_exp_col_cdwspend_margin}}" placement="bottom">
                                     Profit %:</td>
-                                <td class="color-yellow text-left numbers-text width-60 pr-3 fs-12 ff-jsb fc-pink">
+                                <td class="color-yellow text -left numbers-text width-60 pr-3 fs-12 ff-jsb fc-pink">
                                     {{customer.margin != '' ? (customer.margin) : 0}}%</td>
                             </tr>
                             <tr>
@@ -106,13 +153,13 @@
                         </tr>
                     </table>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
+            </div> -->
+        <!-- </div> -->
+    <!-- </div> -->
+<!-- </div> -->
 
 <!-- Expanded View of my customers -->
-<jw-modal id={{modalName}}>
+<!-- <jw-modal id={{modalName}}>
     <div class="card-navbar header-white h9 brd" (dblclick)="openModal()">
         <div>
         <h5 class="col-sm-4 col-md-4 card-title-accounts pt-3"><span class="fs-14 fc-black ff-psb ">Companies</span>
@@ -134,7 +181,7 @@
     </div>
     <div class="table-fit">
 
-        <!-- <table class="table customers-table">
+        <table class="table customers-table">
             <thead class="overflow-stylings-thead  bg-green-light">
                 <tr>
                     <th scope="col" sortable="customer_name" (sort)="onSort($event)" class="thWidth"
@@ -506,7 +553,7 @@
                     </td>
                 </tr>
             </tbody>
-        </table>  -->
+        </table>  
 
         <table class="table">
             <thead class="overflow-stylings-thead table-head-color">
@@ -543,4 +590,4 @@
         </table>
     
     </div>
-</jw-modal>
+</jw-modal> -->

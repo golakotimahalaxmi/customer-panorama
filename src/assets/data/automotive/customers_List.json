@@ -59,7 +59,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "MI",
     "secondary_am_country": "USA",
-    "last_invoice_date":12
+    "last_invoice_date":12,
+    "contact_image": "jim_farley.jpg",
+    "ContactActualTitle": "Chief Executive Officer",
+    "contact_name": "Jim Farley"
 
   },
 {
@@ -123,7 +126,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "MI",
     "secondary_am_country": "USA",
-    "last_invoice_date": 9
+    "last_invoice_date": 9,
+    "contact_name": "Mary Barra",
+    "ContactActualTitle": "Chief Executive Officer",
+    "contact_image": "mary_barra.jpg"
 
   },
 {
@@ -187,7 +193,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "CA",
     "secondary_am_country": "USA",
-    "last_invoice_date": 14
+    "last_invoice_date": 14,
+    "contact_name": "Milan Kovac",
+    "ContactActualTitle": "Director of Engineering",
+    "contact_image": "milan_kovac.jpg"
 
   },
 {
@@ -251,7 +260,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "WA",
     "secondary_am_country": "USA",
-    "last_invoice_date":12
+    "last_invoice_date":12,
+    "contact_name": "John Rich",
+    "ContactActualTitle": "Chief Technology Officer",
+    "contact_image": "john rich.jpg"
 
   },
 {
@@ -315,7 +327,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "IN",
     "secondary_am_country": "USA",
-    "last_invoice_date": 11
+    "last_invoice_date": 11,
+    "contact_name": "Chimezirim Ibe-Ekeocha",
+    "ContactActualTitle": "Senior Marketing Specialist",
+    "contact_image": "chimezirim_ibe _ekeocha.jpg"
 
   },
 {
@@ -379,7 +394,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "IL",
     "secondary_am_country": "USA",
-    "last_invoice_date": 10
+    "last_invoice_date": 10,
+    "contact_name": "Justin Schlater",
+    "ContactActualTitle": "IT Director Associate",
+    "contact_image": "justin_schlater.jpg"
 
   },
 {
@@ -443,7 +461,10 @@
     "primary_am_country": "Germany",
     "secondary_am_state": " Wolfsburg",
     "secondary_am_country": "Germany",
-    "last_invoice_date": 14
+    "last_invoice_date": 14,
+    "contact_name": "Scott Keogh",
+    "ContactActualTitle": "President & CEO",
+    "contact_image": "scott_keogh.jpg"
 
   },
 {
@@ -507,7 +528,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "Toyota",
     "secondary_am_country": "USA",
-    "last_invoice_date":19
+    "last_invoice_date":19,
+    "contact_name": "Agustín Martín",
+    "ContactActualTitle": "President & Managing Director",
+    "contact_image": "gregg_overfield.jpg"
 
   },
 {
@@ -571,7 +595,10 @@
     "primary_am_country": "Japan",
     "secondary_am_state": " Yokohama",
     "secondary_am_country": "Japan",
-    "last_invoice_date": 24
+    "last_invoice_date": 24,
+    "contact_name": "Allyson Witherspoon",
+    "ContactActualTitle": "US Chief Marketing Officer",
+    "contact_image": "allyson_witherspoon.jpg"
 
   },
 {
@@ -635,7 +662,10 @@
     "primary_am_country": "Germany",
     "secondary_am_state": " Munich",
     "secondary_am_country": "Germany",
-    "last_invoice_date": 9
+    "last_invoice_date": 9,
+    "contact_name": "Harald Gottsche",
+    "ContactActualTitle": "President & CEO",
+    "contact_image": "harald_gottsche.jpg"
 
   }
 ]

@@ -60,7 +60,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "RI",
     "secondary_am_country": "USA",
-    "last_invoice_date": 32
+    "last_invoice_date": 32,
+    "contact_name": "Bob Schmidt",
+    "ContactActualTitle": "Regional Director",
+    "contact_image": "kristof_neirynck.jpg"
 
   },
 {
@@ -124,7 +127,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": " IL",
     "secondary_am_country": "USA",
-    "last_invoice_date": 26
+    "last_invoice_date": 26,
+    "contact_name": "Kristof Neirynck",
+    "ContactActualTitle": "Chief Marketing Officer",
+    "contact_image": "kristof_neirynck.jpg"
 
   },
 {
@@ -188,7 +194,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": " NE",
     "secondary_am_country": "USA",
-    "last_invoice_date": 25
+    "last_invoice_date": 25,
+    "contact_name": "Amina Mustafa",
+    "ContactActualTitle": "CMO",
+    "contact_image": "wes_david.jpg"
 
   },
 {
@@ -252,7 +261,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "MN",
     "secondary_am_country": "USA",
-    "last_invoice_date": 22
+    "last_invoice_date": 22,
+    "contact_name": "Kathryn Berry Wright",
+    "ContactActualTitle": "Director",
+    "contact_image": "kathryn_berry_wright.jpg"
 
   },
 {
@@ -316,7 +328,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": " CA",
     "secondary_am_country": "USA",
-    "last_invoice_date": 19
+    "last_invoice_date": 19,
+    "contact_name": "Rita Klein",
+    "ContactActualTitle": "Director",
+    "contact_image": "brian_tyler.jpg"
 
   },
 {
@@ -380,7 +395,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "PA",
     "secondary_am_country": "USA",
-    "last_invoice_date": 17
+    "last_invoice_date": 17,
+    "contact_name": "Ky'a Jackson",
+    "ContactActualTitle": "Director",
+    "contact_image": "steve_collis.jpg"
 
   },
 {
@@ -444,7 +462,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "Ohio",
     "secondary_am_country": "USA",
-    "last_invoice_date":14
+    "last_invoice_date":14,
+    "contact_name": "Matthew Brady",
+    "ContactActualTitle": "Director",
+    "contact_image": "matthew_brady.jpg"
 
   },
 {
@@ -508,7 +529,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "CT",
     "secondary_am_country": "USA",
-    "last_invoice_date": 32
+    "last_invoice_date": 32,
+    "contact_name": "Sarah Sardo",
+    "ContactActualTitle": "Director",
+    "contact_image": "sarah_sardo.jpg"
 
   },
 {
@@ -572,7 +596,10 @@
     "primary_am_country": "USA",
     "secondary_am_state": "NJ",
     "secondary_am_country": "USA",
-    "last_invoice_date": 29
+    "last_invoice_date": 29,
+    "contact_name": "Alex Gorsky",
+    "ContactActualTitle": "CEO",
+    "contact_image": "alex_gorsky.jpg"
 
   },
 {
@@ -636,6 +663,9 @@
     "primary_am_country": "USA",
     "secondary_am_state": "Indianapolis",
     "secondary_am_country": "USA",
-    "last_invoice_date": 25
+    "last_invoice_date": 25,
+    "contact_name": "Megan LeVasseur",
+    "ContactActualTitle": "Senior Claims Manager",
+    "contact_image": "megan_leVasseur.jpg"
 
   }]

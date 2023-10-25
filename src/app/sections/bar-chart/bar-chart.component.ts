@@ -7,10 +7,9 @@ import { Chart } from 'chart.js';
   styleUrls: ['./bar-chart.component.css'],
   encapsulation: ViewEncapsulation.None
 })
-export class BarChartComponent implements OnInit, OnChanges {
+export class BarChartComponent implements OnInit {
     chart = [];
 
-    ngOnChanges() {}
 
     constructor() {}
     
